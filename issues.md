@@ -1,509 +1,566 @@
-Yes. **Now that I can see your actual `toc_v2.py`, I would change my earlier assessment of `hybrid_search_hierarchical.py`.** The TOC generator gives you a much better, explicit mapping mechanism than the hybrid search is currently using.
+Yes. Looking at this `chunk_toc_mapper.py` together with your `toc_v2.py` and the changes you made to `hybrid_search_hierarchical.py`, I see **one major architectural issue and several smaller hardcodings/fragile fallbacks**.
 
-Your `toc_v2.py` establishes this important contract:
+The good news is: **the overall mapping strategy is right**. The mapper is close to what you need for arbitrary Cigna PDFs.
 
-```text
-TOC node
- ├── toc_id
- ├── block_id
- ├── heading_path
- └── children
-```
+## 1. The good part: block ID is now the correct primary join
 
-and, crucially:
-
-```text
-block_id_to_toc_id
-heading_path_to_toc_id
-```
-
-So the hybrid search **should use the TOC structure rather than trying to infer hierarchy from the `toc_id` string**.
-
-## The main issues in hybrid search
-
-### 🔴 1. `startswith(chosen + ".")` should be removed
-
-The current hybrid search apparently does something equivalent to:
+You have:
 
 ```python
-row["toc_id"] == chosen or row["toc_id"].startswith(chosen + ".")
+block_id = chunk.get("block_id") or chunk.get("source_block_id")
+
+if block_id and block_id in block_to_toc and block_to_toc[block_id]:
+    chosen_toc_id = block_to_toc[block_id]
+    match_method = "block_id_exact"
 ```
 
-Your `toc.py` already knows the actual hierarchy:
+This is exactly the relationship we want:
 
 ```text
-S6
-├── S6.1
-│   ├── S6.1.1
-│   └── S6.1.2
-└── S6.2
+Docling JSON
+    │
+    ├── block_id
+    │
+    ▼
+toc_v2.py
+    │
+    └── block_id → toc_id
+                       │
+                       ▼
+                 chunk metadata
+                       │
+                       ▼
+                    toc_id
 ```
 
-Therefore, don't derive parent/child relationships from:
-
-```text
-"S6.1.2".startswith("S6.1.")
-```
-
-Instead:
-
-```text
-Router selects S6.1
-       ↓
-TOC tree finds S6.1
-       ↓
-collect descendants
-       ↓
-[S6.1, S6.1.1, S6.1.2]
-       ↓
-retrieve those chunks
-```
-
-This is much more robust for other Cigna PDFs.
+This is much safer than matching clinical text or titles.
 
 ---
 
-# 🔴 2. The fallback to ALL chunks is wrong
+# 🔴 2. The biggest problem: `preamble_fallback` is not actually a safe mapping
 
-This is the bigger problem:
-
-```python
-if not candidate_indices:
-    candidate_indices = list(range(num_chunks))
-```
-
-Given your architecture, this should **not happen**.
-
-Imagine:
-
-```text
-Router:
-document = Cigna_X
-toc_ids = ["S7.2"]
-```
-
-Then:
-
-```text
-TOC resolver
-     ↓
-S7.2 exists
-     ↓
-metadata has no chunks for S7.2
-```
-
-The current implementation says:
-
-```text
-No candidates
-     ↓
-search entire document
-```
-
-That defeats the purpose of your TOC routing.
-
-It should instead be:
-
-```text
-No candidates
-     ↓
-No scoped content found
-     ↓
-return no results
-```
-
-Then your synthesis layer can know:
-
-> The routed section does not contain retrievable content.
-
----
-
-# 🔴 3. `search(query)` is incorrectly using the query as `policy_hint`
-
-You currently have the issue where:
+You have:
 
 ```python
-search(query)
+first_node = flat_toc[0] if flat_toc else {}
+first_toc_id = first_node.get("toc_id", "S1")
 ```
 
-eventually does:
+and then:
 
 ```python
-load_index(policy_hint=query)
+elif not sec:
+    chosen_toc_id = first_toc_id
+    match_method = "preamble_fallback"
 ```
 
-That's not compatible with your new architecture.
+This means:
 
-The policy has already been determined by Stage 2.
+> Any chunk without a `section` is automatically assigned to the first TOC section.
 
-It should be:
+That's dangerous for a universal pipeline.
+
+Suppose a document has:
 
 ```text
-User query
-    ↓
-TOC Router
-    ↓
-document_key = Cigna_ACDF
-toc_ids = [...]
-    ↓
-hybrid_search(
-    query,
-    policy_hint="Cigna_ACDF",
-    candidate_toc_ids=[...]
-)
+front matter
+instructions
+disclaimer
+table
+policy
 ```
 
-The hybrid search should **never try to figure out which policy the user means**.
+and the first actual heading is:
 
-That's the router's job.
+```text
+S1 = Instructions for Use
+```
 
----
+A chunk without a section might actually belong to document-level content, not S1.
 
-# 🔴 4. Your `toc.py` gives you a better mapping than the current metadata matching
+Worse, if another Cigna PDF has a different structure, you're arbitrarily assigning it to the first heading.
 
-This is particularly important.
+### I would change this.
 
-Your TOC produces:
+For an unmapped chunk:
+
+```text
+toc_id = null
+```
+
+rather than:
+
+```text
+toc_id = first_toc_id
+```
+
+You can still retain:
 
 ```json
-{
-  "block_id_to_toc_id": {
-    "b123": "S7",
-    "b124": "S7.1",
-    "b125": "S7.1.1"
-  }
-}
+"toc_match_method": "unmapped"
 ```
 
-and:
+for auditing.
 
-```json
-{
-  "heading_path_to_toc_id": {
-    "CMM-601 > General Guidelines": "S7.1"
-  }
-}
-```
-
-This means your pipeline has **two legitimate join strategies**:
-
-### Best
-
-```text
-chunk → source block_id → toc_id
-```
-
-### Fallback
-
-```text
-chunk → heading_path → toc_id
-```
-
-You should prefer the first.
+This is especially important because your retrieval layer now has **strict scoping**. We don't want the mapper introducing incorrect TOC associations just to achieve 100% mapping.
 
 ---
 
-# 🔴 5. Your chunk metadata needs a canonical `toc_id`
+# 🔴 3. You have a hardcoded `"S1"`
 
-The entire system becomes much simpler if your embedding metadata contains:
-
-```json
-{
-  "chunk_id": "chunk_123",
-  "toc_id": "S7.1.2",
-  "heading_path": [
-    "CMM-601",
-    "General Guidelines",
-    "Application of Guideline"
-  ],
-  "text": "..."
-}
-```
-
-Then retrieval becomes trivial:
+This:
 
 ```python
-allowed_toc_ids = {"S7.1", "S7.1.1", "S7.1.2"}
-
-candidate_indices = [
-    i for i, row in enumerate(metadata)
-    if row["toc_id"] in allowed_toc_ids
-]
+first_toc_id = first_node.get("toc_id", "S1")
 ```
 
-No guessing.
+is technically unnecessary.
 
-No ACDF-specific rules.
-
-No parsing `S7.1.2`.
-
----
-
-# 🟡 6. `toc.py` itself still generates `S1`, `S1.1`, etc.
-
-This is technically a convention:
-
-```python
-toc_id = f"S{i}" ...
-```
-
-But **I would NOT change this.**
-
-It's not PDF-specific.
-
-You're defining your own internal identifier namespace.
-
-For example:
+Your `toc.py` guarantees generated IDs:
 
 ```text
-Cigna_ACDF:
 S1
-S1.1
-S1.2
-
-Cigna_Lab:
-S1
-S1.1
-S1.2
+S2
+S3
+...
 ```
 
-That's perfectly fine because the `toc_id` is scoped by:
+but the mapper shouldn't need to know that.
 
-```text
-document_key + toc_id
+Change conceptually to:
+
+```python
+first_toc_id = first_node.get("toc_id")
 ```
 
-So:
-
-```text
-(Cigna_ACDF, S7.1)
-```
-
-and:
-
-```text
-(Cigna_Lab, S7.1)
-```
-
-are different nodes.
-
-The problem isn't the `S7.1` format.
-
-The problem would be **code assuming the format represents hierarchy**.
+But given point #2, I'd actually remove the entire first-section fallback.
 
 ---
 
-# 🟢 7. Your `toc.py` hierarchy is actually exactly what we need
+# 🔴 4. This is PDF/content-specific hardcoding
 
-This is good:
+You have:
 
 ```python
-while stack and stack[-1][0] >= level:
-    stack.pop()
+"reference" in item.get("title", "").lower()
 ```
 
 and:
 
 ```python
-parent["children"].append(node)
+"reference" in sec.lower()
 ```
 
-You have a real tree.
-
-Then:
+and:
 
 ```python
-collect_all_content(node)
+chunk.get("section_type") == "references"
 ```
 
-also gives you the complete subtree content.
-
-So your TOC JSON can act as the **authoritative routing structure**.
-
-That's the design I'd use.
-
----
-
-# One concern in `toc.py`
-
-There is one thing I want you to be aware of.
-
-You call:
+and:
 
 ```python
-prune_matching_subtrees(toc_tree, FLATTEN_SECTION_KEYWORDS)
+re.match(r"^\d+\.\s+", sec)
 ```
 
-with:
+The `"reference"` logic is specifically a **References-section heuristic**.
+
+It isn't necessarily bad, but it is not universal.
+
+More importantly, your `toc.py` already explicitly handles references:
 
 ```python
 FLATTEN_SECTION_KEYWORDS = ["reference"]
 ```
 
-So a heading such as:
+So you now have **reference-specific logic in two separate places**:
+
+```text
+toc.py
+    ↓
+reference subtree pruning
+
+chunk_toc_mapper.py
+    ↓
+reference fallback
+```
+
+That's unnecessary coupling.
+
+### I'd remove the reference fallback from the mapper.
+
+If the chunk's heading path is:
 
 ```text
 References
 ```
 
-will have:
+then the normal heading-path mapping should handle it.
 
-```json
-"children": []
-```
+If it can't, mark it unmapped.
 
-even though its children existed originally.
-
-That's intentional according to your comment.
-
-But it means your final TOC hierarchy isn't necessarily the **true document hierarchy**.
-
-If the router ever needs to distinguish sections under References, it won't be able to.
-
-For clinical retrieval this may be perfectly reasonable, but I would make this a configurable preprocessing decision rather than something the retrieval layer knows about.
+Don't guess.
 
 ---
 
-# Your ideal mapping should now be this
+# 🔴 5. This regex is especially suspicious
 
-I think this is the cleanest architecture for what you're building:
-
-```text
-                 DOCLOING JSON
-                      │
-                      ▼
-                   toc.py
-                      │
-          ┌───────────┴────────────┐
-          ▼                        ▼
-      toc_tree                lookup tables
-          │                 block_id → toc_id
-          │                 heading → toc_id
-          │
-          ▼
-     TOC JSON
-          │
-          │
-          ├─────────────────────────────┐
-          │                             │
-          ▼                             ▼
-     Router LLM                    Chunking
-          │                             │
-          │                             ▼
-          │                       chunk metadata
-          │                             │
-          │                             ▼
-          │                         toc_id
-          │                             │
-          └──────────────┬──────────────┘
-                         ▼
-                  SCOPED RETRIEVAL
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-           Dense                  BM25
-              │                     │
-              └──────────┬──────────┘
-                         ▼
-                       RRF
-                         │
-                         ▼
-                    Top chunks
-                         │
-                         ▼
-                        LLM
+```python
+re.match(r"^\d+\.\s+", sec)
 ```
 
-## And BM25's exact role is now clear
-
-BM25 does **not** participate in TOC mapping.
-
-The order is:
+This means something starting with:
 
 ```text
-1. TOC determines WHERE to search
-2. BM25 determines WHICH text matches
-3. Dense determines WHICH text is semantically similar
-4. Fusion combines them
-5. LLM interprets the retrieved policy
+1. Something
+2. Something
+3. Something
 ```
+
+gets treated as References.
+
+That's absolutely not universal.
+
+A Cigna policy could easily have:
+
+```text
+1. Indications
+2. Contraindications
+3. Documentation
+```
+
+Those are not references.
+
+This is a genuine hardcoding/incorrect heuristic.
+
+**Remove it.**
+
+---
+
+# 🟡 6. Ancestor fallback is useful, but should be audited
+
+This part:
+
+```python
+parts = [p.strip() for p in sec.split(">")]
+
+for k in range(len(parts) - 1, 0, -1):
+    ancestor = " > ".join(parts[:k])
+```
+
+is reasonable.
+
+For example:
+
+```text
+CMM-601 > ACDF > Indications > Radiculopathy
+```
+
+If the exact path isn't found:
+
+```text
+CMM-601 > ACDF > Indications
+```
+
+can still map the chunk to its parent.
+
+However, there's an important consequence:
+
+```text
+exact mapping failed
+      ↓
+ancestor mapping
+      ↓
+chunk gets parent's toc_id
+```
+
+This means your mapper can produce:
+
+```text
+toc_id = S7.1
+```
+
+for a chunk that actually belongs to:
+
+```text
+S7.1.5
+```
+
+If your retrieval system then expands descendants of `S7.1`, it may retrieve more material than necessary.
+
+That's not necessarily catastrophic, but **it reduces precision**.
+
+I'd keep ancestor fallback as a recovery mechanism, but make it clearly visible in metadata:
+
+```json
+"toc_match_method": "ancestor_fallback"
+```
+
+which you're already doing.
+
+Good.
+
+---
+
+# 🟡 7. Heading-path dictionary collision is still a potential issue
+
+You build:
+
+```python
+norm_heading_to_toc[normalize_string(k)] = v
+```
+
+Suppose the document contains the same breadcrumb twice.
+
+Then the later occurrence overwrites the earlier one.
+
+For example:
+
+```text
+Policy
+  General Guidelines
+
+Another Policy
+  General Guidelines
+```
+
+If their full paths differ, you're fine:
+
+```text
+Policy > General Guidelines
+Another Policy > General Guidelines
+```
+
+But if your chunk `section` only contains:
+
+```text
+General Guidelines
+```
+
+then it becomes ambiguous.
+
+This is another reason why:
+
+```text
+block_id → toc_id
+```
+
+should remain your preferred method.
+
+---
+
+# 🟢 8. The metadata you're producing is good
+
+This structure is useful:
+
+```json
+{
+    "chunk_id": "...",
+    "chunk_index": 12,
+    "source": "...",
+    "toc_id": "S7.1.5",
+    "toc_match_method": "block_id_exact",
+    "docling_section_id": "...",
+    "heading_path": [...],
+    "section": "...",
+    "parent_section": "...",
+    "subsection": "...",
+    "section_type": "...",
+    "chunk_type": "...",
+    "text": "..."
+}
+```
+
+This gives you everything needed downstream.
+
+I would **not remove fields** just to simplify it.
+
+For auditing, keeping:
+
+```text
+toc_id
+toc_match_method
+docling_section_id
+heading_path
+chunk_index
+```
+
+is valuable.
+
+---
+
+# 🟢 9. This mapper is not ACDF-specific in the important sense
+
+I don't see things like:
+
+```text
+CMM-601
+ACDF
+cervical
+lumbar
+radiculopathy
+myelopathy
+fusion
+```
+
+being used to determine mappings.
+
+So it isn't fundamentally hardcoded to ACDF.
+
+The actual problematic hardcodings are mostly these:
+
+```text
+❌ "reference"
+❌ section_type == "references"
+❌ /^\d+\.\s+/
+❌ default "S1"
+❌ empty section → first TOC node
+```
+
+The first three are the ones I'd remove.
+
+---
+
+# Recommended mapping logic
+
+I'd simplify your mapper to this:
+
+```text
+Chunk
+ │
+ ├── block_id?
+ │      │
+ │      └── YES → block_id_to_toc_id
+ │
+ ├── exact heading_path?
+ │      │
+ │      └── YES → heading_path_to_toc_id
+ │
+ ├── normalized heading_path?
+ │      │
+ │      └── YES → normalized lookup
+ │
+ ├── ancestor heading_path?
+ │      │
+ │      └── YES → ancestor mapping
+ │
+ └── otherwise
+        │
+        ▼
+      toc_id = null
+```
+
+No:
+
+```text
+"reference"
+"S1"
+"numbered section = references"
+"first section fallback"
+```
+
+That makes it genuinely document-agnostic.
+
+---
+
+# One other important thing
+
+There is a subtle distinction between **mapping** and **routing** that I think your current architecture should preserve.
+
+Your mapper should answer only:
+
+> **"Which TOC node does this chunk belong to?"**
+
+It should **not** answer:
+
+> "What should I retrieve?"
+
+That's the job of `hybrid_search_hierarchical.py`.
 
 So:
 
+### `chunk_toc_mapper.py`
+
 ```text
-TOC = scope
-BM25 = lexical relevance
-Dense = semantic relevance
-LLM = reasoning/synthesis
+chunk → toc_id
 ```
 
-That's the clean separation.
+### `hybrid_search_hierarchical.py`
+
+```text
+query + document + routed toc_ids
+             ↓
+        allowed toc_ids
+             ↓
+          chunks
+             ↓
+       BM25 + dense
+```
+
+### `retrieval-hierarchical.py`
+
+```text
+retrieved chunks
+       ↓
+LLM
+       ↓
+clinical JSON
+```
+
+That's a very clean separation.
 
 ---
 
-# What I would change in `hybrid_search_hierarchical.py`
+## My verdict
+
+**Your mapper is ~80–90% of the way there.**
+
+I would make these changes before calling it universal:
 
 ### Remove
 
-```text
-❌ query → policy selection
-❌ toc_id.startswith(...)
-❌ no-candidate → entire document
-❌ assumptions that IDs encode hierarchy
+```python
+first_toc_id = first_node.get("toc_id", "S1")
 ```
+
+and the entire:
+
+```python
+elif not sec:
+    ...
+```
+
+fallback.
+
+Remove:
+
+```python
+"reference" in ...
+```
+
+reference-specific fallback.
+
+Remove:
+
+```python
+re.match(r"^\d+\.\s+", sec)
+```
+
+because that's not a valid generic indication of References.
 
 ### Keep
 
 ```text
-✅ per-policy metadata
-✅ per-policy embeddings
-✅ per-policy BM25
-✅ dense search
-✅ BM25 search
-✅ hybrid scoring
-✅ sibling/context expansion, with some refinement
+block_id exact
+exact heading path
+normalized heading path
+ancestor fallback
+unmapped = null
+match_method audit
 ```
 
-### Add/use
+And **do not change your `S1/S1.1/S1.1.1` TOC ID scheme**.
 
-```text
-✅ TOC tree as authoritative hierarchy
-✅ document_key + toc_id as scope
-✅ explicit descendant resolution
-✅ block_id → toc_id mapping
-✅ strict empty-scope behavior
-```
+After those changes, the mapping layer will be much more genuinely reusable across Cigna policies.
 
----
-
-## One important thing remains
-
-I **don't want to modify the hybrid search yet**, because we need to see how your chunks were actually generated.
-
-The key question is:
-
-> **Does your metadata JSON contain the original `block_id` or only the heading/section information?**
-
-If it has `block_id`, we can make the mapping extremely reliable:
-
-```text
-Docling block
-     ↓
-toc.py
-     ↓
-block_id → toc_id
-     ↓
-chunk metadata
-     ↓
-toc_id
-```
-
-If it doesn't, we'll use your `heading_path_to_toc_id` mapping, but we'll need to check for duplicate heading paths.
-
-### Send me these next:
-
-1. **`cpt_table_lookup.py`**
-2. **`policies_manifest.json`**
-3. **A sample of your generated metadata JSON** — ideally 10–20 records including different hierarchy levels.
-
-The **metadata JSON is the most important next file**. Once I see it, I can tell you exactly how `TOC → chunks → BM25/embeddings` should be wired without making assumptions.
+The next thing I'd check is the **actual `acdf_metadata.json` and `lumbar_fusion_metadata.json` after this mapper runs**, because that will tell us whether the mapper is actually producing the correct `toc_id` distribution—not just whether the code looks correct.

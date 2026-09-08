@@ -44,14 +44,10 @@ def map_chunks_to_toc(chunks_path: str, toc_path: str, output_path: str = None):
 
     # Build TOC node lookup by toc_id for full metadata attachment
     toc_node_by_id = {}
-    ref_toc_id = None
-
     for item in flat_toc:
         t_id = item.get("toc_id")
         if t_id:
             toc_node_by_id[t_id] = item
-            if "reference" in item.get("title", "").lower() and not ref_toc_id:
-                ref_toc_id = t_id
 
     # Normalized lookup map: normalized_breadcrumb -> toc_id
     norm_heading_to_toc = {}
@@ -59,75 +55,85 @@ def map_chunks_to_toc(chunks_path: str, toc_path: str, output_path: str = None):
         if v:
             norm_heading_to_toc[normalize_string(k)] = v
 
+    # Normalized title map: normalized_title -> toc_id
+    norm_title_to_toc = {}
+    for item in flat_toc:
+        title = item.get("title")
+        t_id = item.get("toc_id")
+        if title and t_id:
+            norm_title_to_toc[normalize_string(title)] = t_id
+
     enriched_chunks = []
     stats = {
         "block_id_exact": 0,
         "exact_path": 0,
         "normalized_path": 0,
+        "title_match": 0,
         "ancestor_fallback": 0,
-        "reference_fallback": 0,
-        "preamble_fallback": 0,
         "unmapped": 0,
     }
 
-    first_node = flat_toc[0] if flat_toc else {}
-    first_toc_id = first_node.get("toc_id", "S1")
-
     for idx, chunk in enumerate(chunks):
         sec = chunk.get("section", "").strip()
+        norm_sec = normalize_string(sec) if sec else ""
         block_id = chunk.get("block_id") or chunk.get("source_block_id")
         match_method = None
         chosen_toc_id = None
 
-        # Strategy 0: Direct block_id join (authoritative when available)
+        # Strategy 1: Direct block_id join (authoritative when available)
         if block_id and block_id in block_to_toc and block_to_toc[block_id]:
             chosen_toc_id = block_to_toc[block_id]
             match_method = "block_id_exact"
             stats["block_id_exact"] += 1
 
-        # Strategy 1: Preamble / Header before first section
+        # Strategy 2: Empty section -> unmapped (do not guess or pollute first section)
         elif not sec:
-            chosen_toc_id = first_toc_id
-            match_method = "preamble_fallback"
-            stats["preamble_fallback"] += 1
+            chosen_toc_id = None
+            match_method = "unmapped"
 
-        # Strategy 2: Exact heading breadcrumb match
+        # Strategy 3: Exact heading breadcrumb match
         elif sec in heading_to_toc and heading_to_toc[sec]:
             chosen_toc_id = heading_to_toc[sec]
             match_method = "exact_path"
             stats["exact_path"] += 1
 
-        # Strategy 2: Normalized heading breadcrumb match
-        elif normalize_string(sec) in norm_heading_to_toc:
-            chosen_toc_id = norm_heading_to_toc[normalize_string(sec)]
+        # Strategy 4: Normalized heading breadcrumb match
+        elif norm_sec in norm_heading_to_toc:
+            chosen_toc_id = norm_heading_to_toc[norm_sec]
             match_method = "normalized_path"
             stats["normalized_path"] += 1
 
-        # Strategy 3: Reference section fallback
-        elif (
-            "reference" in sec.lower()
-            or chunk.get("section_type") == "references"
-            or re.match(r"^\d+\.\s+", sec)
-        ) and ref_toc_id:
-            chosen_toc_id = ref_toc_id
-            match_method = "reference_fallback"
-            stats["reference_fallback"] += 1
+        # Strategy 5: Direct or normalized title match
+        elif norm_sec in norm_title_to_toc:
+            chosen_toc_id = norm_title_to_toc[norm_sec]
+            match_method = "title_match"
+            stats["title_match"] += 1
 
-        # Strategy 4: Ancestor path match (pop leaf subsections)
+        # Strategy 6: Ancestor path match (pop leaf subsections)
         else:
             parts = [p.strip() for p in sec.split(">")]
             for k in range(len(parts) - 1, 0, -1):
                 ancestor = " > ".join(parts[:k])
+                norm_anc = normalize_string(ancestor)
                 if ancestor in heading_to_toc and heading_to_toc[ancestor]:
                     chosen_toc_id = heading_to_toc[ancestor]
                     match_method = "ancestor_fallback"
                     stats["ancestor_fallback"] += 1
                     break
-                elif normalize_string(ancestor) in norm_heading_to_toc:
-                    chosen_toc_id = norm_heading_to_toc[normalize_string(ancestor)]
+                elif norm_anc in norm_heading_to_toc:
+                    chosen_toc_id = norm_heading_to_toc[norm_anc]
                     match_method = "ancestor_fallback"
                     stats["ancestor_fallback"] += 1
                     break
+                elif norm_anc in norm_title_to_toc:
+                    chosen_toc_id = norm_title_to_toc[norm_anc]
+                    match_method = "ancestor_fallback"
+                    stats["ancestor_fallback"] += 1
+                    break
+
+            if not chosen_toc_id:
+                chosen_toc_id = None
+                match_method = "unmapped"
 
         # Attach metadata
         matched_node = toc_node_by_id.get(chosen_toc_id, {})
