@@ -1,0 +1,73 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Laboratory Management,Molecular Lab,0555U,"Reproductive medicine (preimplantation genetic assessment), analysis of 24 chromosomes using DNA genomic sequence
+analysis from embryonic trophectoderm for structural rearrangements, aneuploidy, ploidy, a mitochondrial DNA score, and
+embryo quality control, results reported as normal/balanced (euploidy/balanced), unbalanced structural rearrangement,
+monosomy, trisomy, segmental aneuploidy, triploid, haploid, or mosaic, with quality control results reported as contamination
+detected or inconsistent cohort when applicable, per embryo tested",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0560U,"Oncology (minimal residual disease [MRD]), genomic sequence analysis, cell-free DNA, whole blood and tumor tissue,
+baseline assessment for design and construction of a personalized variant panel to evaluate current MRD and for comparison
+to subsequent MRD assessments",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0561U,"Oncology (minimal residual disease [MRD]), genomic sequence analysis, cell-free DNA, whole blood, subsequent
+assessment with comparison to initial assessment to evaluate for MRD",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0562U,"Oncology (solid tumor), targeted genomic sequence analysis, 33 genes, detection of single-nucleotide variants (SNVs),
+insertions and deletions, copy-number amplifications, and translocations in human genomic circulating cell-free DNA, plasma,
+reported as presence of actionable variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0565U,"Oncology (hepatocellular carcinoma), next-generation sequencing methylation pattern assay to detect 6,626 epigenetic
+alterations, cell-free DNA, plasma, algorithm reported as cancer signal detected or not detected",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0566U,"Oncology (lung), qPCR-based analysis of 13 differentially methylated regions (CCDC181, HOXA7, LRRC8A, MARCHF11,
+MIR129-2, NCOR2, PANTR1, PRKCB, SLC9A3, TBR1_2, TRAP1, VWC2, ZNF781), pleural fluid, algorithm reported as a
+qualitative result",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0567U,"Rare diseases (constitutional/heritable disorders), whole-genome sequence analysis combination of short and long reads, for
+single-nucleotide variants, insertions/deletions and characterized intronic variants, copy-number variants,
+duplications/deletions, mobile element insertions, runs of homozygosity, aneuploidy, and inversions, mitochondrial DNA
+sequence and deletions, short tandem repeat genes, methylation status of selected regions, blood, saliva, amniocentesis,
+chorionic villus sample or tissue, identification and categorization of genetic variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0569U,"Oncology (solid tumor), next-generation sequencing analysis of tumor methylation markers (>20,000 differentially methylated
+regions) present in cell-free circulating tumor DNA (ctDNA), whole blood, algorithm reported as presence or absence of
+ctDNA with tumor fraction, if appropriate",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0571U,"Oncology (solid tumor), DNA (80 genes) and RNA (10 genes), by next-generation sequencing, plasma, including single-
+nucleotide variants, insertions/deletions, copy-number alterations, microsatellite instability, and fusions, reported as clinically
+actionable variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0572U,"Oncology (prostate), high-throughput telomere length quantification by FISH, whole blood, diagnostic algorithm reported as
+risk of prostate cancer",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0578U,"Oncology (cutaneous melanoma), RNA, gene expression profiling by real-time qPCR of 10 genes (8 content and 2
+housekeeping), utilizing formalin-fixed paraffin-embedded (FFPE) tissue, algorithm reports a binary result, either low-risk or
+high-risk for sentinel lymph node metastasis and recurrence",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0582U,"Rare diseases (constitutional disease/hereditary disorders), rapid whole genome DNA sequencing for single-nucleotide
+variants, insertions/deletions, copy number variations, blood, saliva, tissue sample, variants reported",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0583U,"Rare diseases (constitutional disease/hereditary disorders), rapid whole genome comparator DNA sequencing for single-
+nucleotide variants, insertions/deletions, copy number variations, blood, saliva, tissue sample, variants reported with proband
+results (List separately in addition to code for primary procedure)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0585U,"Targeted genomic sequence analysis panel, solid organ neoplasm, circulating cell-free DNA (cfDNA) analysis from plasma of
+521 genes, interrogation for sequence variants, gene copy number amplifications, gene rearrangements, and microsatellite
+instability, report shows identified mutations, including variants with clinical actionability",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0586U,"Oncology, mRNA, gene expression profiling of 216 genes (204 targeted and 12 housekeeping genes), RNA expression
+analysis, formalin-fixed paraffin-embedded (FFPE) tissue, quantitative, reported as log2 ratio per gene",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0592U,"Oncology (hematolymphoid neoplasms), DNA, targeted genomic sequence of 417 genes, interrogation for gene fusions,
+translocations, rearrangements, utilizing formalin-fixed paraffin-embedded (FFPE) tumor tissue, results report clinically
+significant variant(s)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0597U,"Oncology (breast), RNA expression profiling of 329 genes by targeted next-generation sequencing and 20 proteins by
+multiplex immunofluorescence, formalin-fixed paraffin-embedded (FFPE) tissue, algorithmic analyses to determine tumor-
+recurrence risk score",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0602U,"Endocrinology (diabetes), insulin (INS) gene methylation using digital droplet PCR, insulin, and C-peptide immunoassay,
+serum, Hemoglobin A1c immunoassay, whole blood, algorithm reported as diabetes-risk score",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0611U,"Oncology (liver), analysis of over 1,000 methylated regions, cell-free DNA from plasma, algorithm reported as a quantitative
+result",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0612U,"Oncology (liver), analysis of over 1,000 methylated regions, cell-free DNA from plasma, algorithm reported as a quantitative
+result",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0613U,"Oncology (urothelial carcinoma), DNA methylation and mutation analysis of 6 biomarkers (TWIST1, OTX1, ONECUT2,
+FGFR3, HRAS, TERT promoter region), methylation-specific PCR and targeted next-generation sequencing, urine, algorithm
+reported as a probability index for bladder cancer and upper tract urothelial carcinoma",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0036U,"Exome (ie, somatic mutations), paired formalin-fixed paraffin-embedded tumor tissue and normal specimen, sequence
+analyses",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0037U,"Targeted genomic sequence analysis, solid organ neoplasm, DNA analysis of 324 genes, interrogation for sequence variants,
+gene copy number amplifications, gene rearrangements, microsatellite instability and tumor mutational burden",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0244U,"Oncology (solid organ), DNA, comprehensive genomic profiling, 257 genes, interrogation for single-nucleotide variants,
+insertions/deletions, copy number alterations, gene rearrangements, tumor-mutational burden and microsatellite instability,
+utilizing formalin-fixed paraffin-embedded tumor tissue",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0250U,"Oncology (solid organ neoplasm), targeted genomic sequence DNA analysis of 505 genes, interrogation for somatic
+alterations (SNVs [single nucleotide variant], small insertions and deletions, one amplification, and four translocations),
+microsatellite instability and tumor-mutation burden",Yes,CareCore National,

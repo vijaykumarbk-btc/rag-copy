@@ -1,0 +1,69 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Cardiology,Cardiac Surgery,33340,"Percutaneous transcatheter closure of the left atrial appendage with endocardial implant, including fluoroscopy, transseptal
+puncture, catheter placement(s), left atrial angiography, left atrial appendage angiography, when performed, and radiological
+supervision and interpretation",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33993,"Repositioning of percutaneous right or left heart ventricular assist device with imaging guidance at separate and distinct
+session from insertion",Yes,CareCore National,
+Cardiology,Cardiac Catheterization,93451,"Right Heart Catheterization Including Measurement(S) Of Oxygen Saturation And Cardiac Output, When Performed",Yes,MedSolutions,
+Cardiology,Cardiac Surgery,33363,Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; open axillary artery approach,Yes,CareCore National,
+Cardiology,Cardiac Surgery,33362,Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; open femoral artery approach,Yes,CareCore National,
+Cardiology,Cardiac Surgery,33364,Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; open iliac artery approach,Yes,CareCore National,
+Cardiology,Cardiac Surgery,33361,Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; percutaneous femoral artery approach,Yes,CareCore National,
+Cardiology,Cardiac Surgery,33365,"Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; transaortic approach (eg, median sternotomy,
+mediastinotomy)",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33366,"Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; transapical exposure (eg, left thoracotomy)",Yes,CareCore National,
+Cardiology,Cardiac Surgery,0483T,"Transcatheter mitral valve implantation/replacement (TMVI) with prosthetic valve; percutaneous approach, including
+transseptal puncture, when performed",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33418,"Transcatheter mitral valve repair, percutaneous approach, including transseptal puncture when performed; initial prosthesis",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33477,"Transcatheter pulmonary valve implantation, percutaneous approach, including pre-stenting of the valve delivery site, when
+performed",Yes,CareCore National,
+Cardiology,Cardiac Surgery,0806T,"Transcatheter superior and/or inferior vena cava prosthetic valve implantation (ie, caval valve implantation [CAVI]); open
+femoral vein approach",Yes,CareCore National,
+Cardiology,Cardiac Surgery,0805T,"Transcatheter superior and/or inferior vena cava prosthetic valve implantation (ie, caval valve implantation [CAVI]);
+percutaneous femoral vein approach",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33999,"Unlisted procedure, cardiac surgery",Yes,CareCore National,
+Radiology,MRI,0648T,"Quantitative magnetic resonance for analysis of tissue composition (eg, fat, iron, water content), including multiparametric
+data acquisition, data preparation and transmission, interpretation and report, obtained without diagnostic MRI examination of
+the same anatomy (eg, organ, gland, tissue, target structure) during the same session; single organ","Experimental /
+Investigational - Yes",MedSolutions,
+Radiology,MRI,0649T,"Quantitative magnetic resonance for analysis of tissue composition (eg, fat, iron, water content), including multiparametric
+data acquisition, data preparation and transmission, interpretation and report, obtained with diagnostic MRI examination of
+the same anatomy (eg, organ, gland, tissue, target structure); single organ (List separately in addition to code for primary
+procedure)",Add‑On,MedSolutions,
+Radiology,CPET,78434,"Absolute quantitation of myocardial blood flow (AQMBF), positron emission tomography (PET), rest and pharmacologic stress
+(List separately in addition to code for primary procedure)",Add On,MedSolutions,
+Radiology,MRI,0697T,"Quantitative magnetic resonance for analysis of tissue composition (eg, fat, iron, water content), including multiparametric
+data acquisition, data preparation and transmission, interpretation and report, obtained without diagnostic MRI examination of
+the same anatomy (eg, organ, gland, tissue, target structure) during the same session; multiple organs","Experimental /
+Investigational - Yes",MedSolutions,
+Radiology,MRI,0698T,"Quantitative magnetic resonance for analysis of tissue composition (eg, fat, iron, water content), including multiparametric
+data acquisition, data preparation and transmission, interpretation and report, obtained with diagnostic MRI examination of
+the same anatomy (eg, organ, gland, tissue, target structure); multiple organs (List separately in addition to code for primary
+procedure)",Add‑On,MedSolutions,
+Radiology,MR,70336,"Magnetic resonance (eg, proton) imaging, temporomandibular joint(s)",Yes,MedSolutions,
+Radiology,CT,70471,"Computed tomographic angiography (CTA), head and neck, with contrast material(s), including noncontrast images, when
+performed, and image postprocessing",Yes,MedSolutions,
+Radiology,CT,70491,"Computed tomography, soft tissue neck; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,70490,"Computed tomography, soft tissue neck; without contrast material",Yes,MedSolutions,
+Radiology,CT,70492,"Computed tomography, soft tissue neck; without contrast material followed by contrast material(s) and further sections",Yes,MedSolutions,
+Radiology,CT,70498,"Computed tomographic angiography, neck, with contrast material(s), including noncontrast images, if performed, and image
+postprocessing",Yes,MedSolutions,
+Radiology,MR,70540,"Magnetic resonance (eg, proton) imaging, orbit, face, and/or neck; without contrast material(s)",Yes,MedSolutions,
+Radiology,MR,70542,"Magnetic resonance (eg, proton) imaging, orbit, face, and/or neck; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,70543,"Magnetic resonance (eg, proton) imaging, orbit, face, and/or neck; without contrast material(s), followed by contrast
+material(s) and further sequences",Yes,MedSolutions,
+Radiology,MRA,70547,"Magnetic resonance angiography, neck; without contrast material(s)",Yes,MedSolutions,
+Radiology,MRA,70548,"Magnetic resonance angiography, neck; with contrast material(s)",Yes,MedSolutions,
+Radiology,MRA,70549,"Magnetic resonance angiography, neck; without contrast material(s), followed by contrast material(s) and further sequences",Yes,MedSolutions,
+Radiology,CT,71250,"Computed tomography, thorax, diagnostic; without contrast material",Yes,MedSolutions,
+Radiology,CT,71260,"Computed tomography, thorax, diagnostic; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,71270,"Computed tomography, thorax, diagnostic; without contrast material, followed by contrast material(s) and further sections",Yes,MedSolutions,
+Radiology,CT,71275,"Computed tomographic angiography, chest (noncoronary), with contrast material(s), including noncontrast images, if
+performed, and image postprocessing",Yes,MedSolutions,
+Radiology,MR,71550,"Magnetic resonance (eg, proton) imaging, chest (eg, for evaluation of hilar and mediastinal lymphadenopathy); without
+contrast material(s)",Yes,MedSolutions,
+Radiology,MR,71551,"Magnetic resonance (eg, proton) imaging, chest (eg, for evaluation of hilar and mediastinal lymphadenopathy); with contrast
+material(s)",Yes,MedSolutions,

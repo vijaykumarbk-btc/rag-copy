@@ -1,0 +1,68 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Radiology,CT,0637T,"Computed tomography, breast, including 3D rendering, when performed, bilateral; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,0638T,"Computed tomography, breast, including 3D rendering, when performed, bilateral; without contrast, followed by contrast
+material(s)",Yes,MedSolutions,
+Radiology,CT,0710T,"Noninvasive arterial plaque analysis using software processing of data from non-coronary computerized tomography
+angiography; including data preparation and transmission, quantification of the structure and composition of the vessel wall
+and assessment for lipid-rich necrotic core plaque to assess atherosclerotic plaque stability, data review, interpretation and
+report",Yes,MedSolutions,
+Radiology,CT,0711T,"Noninvasive arterial plaque analysis using software processing of data from non-coronary computerized tomography
+angiography; data preparation and transmission",Yes,MedSolutions,
+Radiology,CT,0712T,"Noninvasive arterial plaque analysis using software processing of data from non-coronary computerized tomography
+angiography; quantification of the structure and composition of the vessel wall and assessment for lipid-rich necrotic core
+plaque to assess atherosclerotic plaque stability",Yes,MedSolutions,
+Radiology,CT,0713T,"Noninvasive arterial plaque analysis using software processing of data from non-coronary computerized tomography
+angiography; data review, interpretation and report",Yes,MedSolutions,
+Radiology,MRI,0865T,"Quantitative magnetic resonance image (MRI) analysis of the brain with comparison to prior magnetic resonance (MR)
+study(ies), including lesion identification, characterization, and quantification, with brain volume(s) quantification and/or
+severity score, when performed, data preparation and transmission, interpretation and report, obtained without diagnostic MRI
+examination of the brain during the same session",Yes,MedSolutions,
+Radiology,MRI,0866T,"Quantitative magnetic resonance image (MRI) analysis of the brain with comparison to prior magnetic resonance (MR)
+study(ies), including lesion detection, characterization, and quantification, with brain volume(s) quantification and/or severity
+score, when performed, data preparation and transmission, interpretation and report, obtained with diagnostic MRI
+examination of the brain (List separately in addition to code for primary procedure)",Add‑On,MedSolutions,
+Radiology,MRA,C8900,"Magnetic resonance angiography with contrast, abdomen",Yes,MedSolutions,
+Radiology,MRA,C8901,"Magnetic resonance angiography without contrast, abdomen",Yes,MedSolutions,
+Radiology,MRA,C8902,"Magnetic resonance angiography without contrast followed by with contrast, abdomen",Yes,MedSolutions,
+Radiology,MR,C8903,"Magnetic resonance imaging with contrast, breast; unilateral",Yes,MedSolutions,
+Radiology,MR,C8905,"Magnetic resonance imaging without contrast followed by with contrast, breast; unilateral",Yes,MedSolutions,
+Radiology,MR,C8906,"Magnetic resonance imaging with contrast, breast; bilateral",Yes,MedSolutions,
+Radiology,MR,C8908,"Magnetic resonance imaging without contrast followed by with contrast, breast; bilateral",Yes,MedSolutions,
+Radiology,MRA,C8909,"Magnetic resonance angiography with contrast, chest (excluding myocardium)",Yes,MedSolutions,
+Radiology,MRA,C8910,"Magnetic resonance angiography without contrast, chest (excluding myocardium)",Yes,MedSolutions,
+Radiology,MRA,C8911,"Magnetic resonance angiography without contrast followed by with contrast, chest (excluding myocardium)",Yes,MedSolutions,
+Radiology,MRA,C8912,"Magnetic resonance angiography with contrast, lower extremity",Yes,MedSolutions,
+Radiology,MRA,C8913,"Magnetic resonance angiography without contrast, lower extremity",Yes,MedSolutions,
+Radiology,MRA,C8914,"Magnetic resonance angiography without contrast followed by with contrast, lower extremity",Yes,MedSolutions,
+Radiology,MRA,C8918,"Magnetic resonance angiography with contrast, pelvis",Yes,MedSolutions,
+Radiology,MRA,C8919,"Magnetic resonance angiography without contrast, pelvis",Yes,MedSolutions,
+Radiology,MRA,C8920,"Magnetic resonance angiography without contrast followed by with contrast, pelvis",Yes,MedSolutions,
+Radiology,MRA,C8935,"Magnetic resonance angiography without contrast, upper extremity",Yes,MedSolutions,
+Radiology,MRA,C8936,"Magnetic resonance angiography without contrast followed by with contrast, upper extremity",Yes,MedSolutions,
+Radiology,BMRI,C8937,"Computer-aided detection, including computer algorithm analysis of breast mri image data for lesion
+detection/characterization, pharmacokinetic analysis, with further physician review for interpretation (list separately in addition
+to code for primary procedure)",Add On,MedSolutions,
+Radiology,PET,G0219,PET Imaging Whole Body; Melanoma For Non-Covered Indications,Yes,MedSolutions,
+Radiology,PET,G0235,"PET Imaging, Any Site, Not Otherwise Specified",Yes,MedSolutions,
+Radiology,PET,G0252,"Pet imaging, full and partial-ring pet scanners only, for initial diagnosis of breast cancer and/or surgical planning for breast
+cancer (e.g., initial staging of axillary lymph nodes)",Yes,MedSolutions,
+Radiology,MR,S8037,Magnetic resonance cholangiopancreatography (mrcp),Yes,MedSolutions,
+Radiology,CT,S8092,"Electron beam computed tomography (also known as ultrafast ct, cine ct)",Yes,MedSolutions,
+Radiology,MRA,C8931,"Magnetic resonance angiography with contrast, spinal canal and contents",Yes,MedSolutions,
+Radiology,MRA,C8932,"Magnetic resonance angiography without contrast, spinal canal and contents",Yes,MedSolutions,
+Radiology,MRA,C8933,"Magnetic resonance angiography without contrast followed by with contrast, spinal canal and contents",Yes,MedSolutions,
+Radiology,MRA,C8934,"Magnetic resonance angiography with contrast, upper extremity",Yes,MedSolutions,
+Radiology,MRI,C9791,"Magnetic resonance imaging with inhaled hyperpolarized xenon-129 contrast agent, chest, including preparation and
+administration of agent",Yes,MedSolutions,
+Musculoskeletal,Spine Surgery,62287,"Decompression, percutaneous, of nucleus pulposus of intervertebral disc, any method utilizing needle-based technique to
+remove disc material under fluoroscopic imaging or other form of indirect visualization, with discography and/or epidural
+injection(s) at the treated level(s), when performed, single or multiple levels, lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22527,"Percutaneous intradiscal electrothermal annuloplasty, unilateral or bilateral including fluoroscopic guidance; 1 or more
+additional levels (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,0201T,"Percutaneous sacral augmentation (sacroplasty), bilateral injections, including the use of a balloon or mechanical device,
+when used, 2 or more needles, includes imaging guidance and bone biopsy, when performed",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,0200T,"Percutaneous sacral augmentation (sacroplasty), unilateral injection(s), including the use of a balloon or mechanical device,
+when used, 1 or more needles, includes imaging guidance and bone biopsy, when performed",Yes,CareCore National,

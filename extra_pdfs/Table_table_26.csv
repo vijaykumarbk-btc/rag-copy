@@ -1,0 +1,85 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Musculoskeletal,Joint Surgery,27299,"Unlisted procedure, pelvis or hip joint",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23929,"Unlisted procedure, shoulder",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29999,"Unlisted procedure, arthroscopy",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27599,"Unlisted procedure, femur or knee",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27899,"Unlisted procedure, leg or ankle",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,28899,"Unlisted procedure, foot or toes",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,25999,"Unlisted procedure, forearm or wrist",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,26989,"Unlisted procedure, hands or fingers",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,24999,"Unlisted procedure, humerus or elbow",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,20999,"Unlisted procedure, musculoskeletal system, general",Yes,MedSolutions,
+"Crossover Code for:
+• Primary Program: Musculoskeletal -
+Pain Management
+• Companion Program: Other Services
+(See External Notation column for more
+details.)","Interventional Pain
+Management",C9807*,"Nerve stimulator, percutaneous, peripheral (e.g., sprint peripheral nerve stimulation system), including electrode and all
+disposable system components, non-opioid medical device (must be a qualifying medicare non-opioid medical device for
+post-surgical pain relief in accordance with section 4135 of the caa, 2023)",Yes,MedSolutions,"This is a crossover code that can be requested under
+two programs: MSK Pain Management or Other
+Services.
+• If your request is intended to be used for Other
+Services, please submit your request under the Other
+Services program through the CareCoreNational
+platform.
+• If your request is intended to be used for MSK Pain
+Management, please submit your request under the
+MSK program through the MedSolutions platform."
+"Crossover Code for:
+• Primary Program: Musculoskeletal
+(MSK) - Pain Management
+• Companion Program: Sleep
+Management
+(See External Notation column for more
+details.)","Interventional Pain
+Management",L8688*,"Implantable neurostimulator pulse generator, dual array, non-rechargeable, includes extension",Yes,MedSolutions,"This is a crossover code that can be requested
+under two programs: MSK Pain Management or
+Sleep Management.
+• If your request is intended to be used for Sleep
+Management only, please submit your request under
+the Sleep Management program through
+the CareCoreNational platform.
+•If your request is intended to be used for MSK Pain,
+please submit your request under the MSK Pain
+Management program through the MedSolutions
+platform."
+"Crossover Code for:
+• Primary Program: Musculoskeletal
+(MSK) - Pain Management
+• Companion Program: Sleep
+Management
+(See External Notation column for more
+details.)",Sleep Management,L8688*,"Implantable neurostimulator pulse generator, dual array, non-rechargeable, includes extension",Yes,CareCore National,"This is a crossover code that can be requested under
+two programs: MSK Pain Management or Sleep
+Management.
+• If your request is intended to be used for Sleep
+Management only, please submit your request under
+the Sleep Management program through
+the CareCoreNational platform.
+•If your request is intended to be used for MSK Pain,
+please submit your request under the MSK Pain
+Management program through the MedSolutions
+platform."
+"Crossover Code for:
+• Primary Program: Musculoskeletal
+(MSK) - Pain Management
+• Companion Program: Sleep
+Management
+(See External Notation column for
+more details.)","Interventional Pain
+Management",C1767*,"Generator, neurostimulator (implantable), non-rechargeable",Yes,MedSolutions,"This is a crossover code that can be requested
+under two programs: MSK Pain Management or
+Sleep Management.
+• If your request is intended to be used for Sleep
+Management only, please submit your request under
+the Sleep Management program through
+the CareCoreNational platform.
+•If your request is intended to be used for MSK Pain,
+please submit your request under the MSK Pain
+Management program through the MedSolutions
+platform."

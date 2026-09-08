@@ -1,0 +1,78 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Other Services,"Experimental /
+Investigational",Q4272,"Esano a, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4273,"Esano aaa, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4274,"Esano ac, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4275,"Esano aca, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",0813T,"Esophagogastroduodenoscopy, flexible, transoral, with volume adjustment of intragastric bariatric balloon",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",43257,"Esophagogastroduodenoscopy, flexible, transoral; with delivery of thermal energy to the muscle of lower esophageal
+sphincter and/or gastric cardia, for treatment of gastroesophageal reflux disease",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",43290,"Esophagogastroduodenoscopy, flexible, transoral; with deployment of intragastric bariatric balloon",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",43210,"Esophagogastroduodenoscopy, flexible, transoral; with esophagogastric fundoplasty, partial or complete, includes
+duodenoscopy when performed",Yes,CareCore National,
+Other Services,Potentially Cosmetic,96921,Excimer laser treatment for psoriasis; 250 sq cm to 500 sq cm,Yes,CareCore National,
+Other Services,Potentially Cosmetic,96922,Excimer laser treatment for psoriasis; over 500 sq cm,Yes,CareCore National,
+Other Services,Potentially Cosmetic,96920,Excimer laser treatment for psoriasis; total area less than 250 sq cm,Yes,CareCore National,
+Other Services,Outpatient Surgery,21025,"Excision of bone (eg, for osteomyelitis or bone abscess); mandible",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15847,"Excision, excessive skin and subcutaneous tissue (includes lipectomy), abdomen (eg, abdominoplasty) (includes umbilical
+transposition and fascial plication) (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Other Services,Potentially Cosmetic,15830,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); abdomen, infraumbilical panniculectomy",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15836,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); arm",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15835,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); buttock",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15837,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); forearm or hand",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15834,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); hip",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15833,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); leg",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15839,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); other area",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15838,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); submental fat pad",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15832,"Excision, excessive skin and subcutaneous tissue (includes lipectomy); thigh",Yes,CareCore National,
+Other Services,Outpatient Surgery,G0166,"External counterpulsation, per treatment session",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4128,"Flex hd, or allopatch hd, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",C9734,"Focused ultrasound ablation/therapeutic intervention, other than uterine leiomyomata, with magnetic resonance (mr) guidance",Yes,CareCore National,
+Other Services,Outpatient Surgery,0479T,"Fractional ablative laser fenestration of burn and traumatic scars for functional improvement; first 100 cm2 or part thereof, or
+1% of body surface area of infants and children",Yes,CareCore National,
+Other Services,Outpatient Surgery,0480T,"Fractional ablative laser fenestration of burn and traumatic scars for functional improvement; each additional 100 cm2, or
+each additional 1% of body surface area of infants and children, or part thereof (List separately in addition to code for primary
+procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,43888,"Gastric restrictive procedure, open; removal and replacement of subcutaneous port component only",Yes,CareCore National,
+Other Services,Outpatient Surgery,43886,"Gastric restrictive procedure, open; revision of subcutaneous port component only",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21120,"Genioplasty; augmentation (autograft, allograft, prosthetic material)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21122,"Genioplasty; sliding osteotomies, 2 or more osteotomies (eg, wedge excision or bone wedge reversal for asymmetrical chin)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21121,"Genioplasty; sliding osteotomy, single piece",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21123,"Genioplasty; sliding, augmentation with interpositional bone grafts (includes obtaining autografts)",Yes,CareCore National,
+Other Services,Outpatient Surgery,Q4132,"Grafix core and grafixpl core, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,Q4392,"Grafix duo, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4133,"Grafix prime, grafixpl prime, stravix and stravixpl, per square centimeter (add-on, list separately in addition to primary
+procedure)",Add On,CareCore National,
+Other Services,Potentially Cosmetic,21215,"Graft, bone; mandible (includes obtaining graft)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21210,"Graft, bone; nasal, maxillary or malar areas (includes obtaining graft)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21235,"Graft; ear cartilage, autogenous, to nose or ear (includes obtaining graft)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21230,"Graft; rib cartilage, autogenous, to face, chin, nose or ear (includes obtaining graft)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15773,"Grafting of autologous fat harvested by liposuction technique to face, eyelids, mouth, neck, ears, orbits, genitalia, hands,
+and/or feet; 25 cc or less injectate",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15774,"Grafting of autologous fat harvested by liposuction technique to face, eyelids, mouth, neck, ears, orbits, genitalia, hands,
+and/or feet; each additional 25 cc injectate, or part thereof (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Other Services,Potentially Cosmetic,15771,"Grafting of autologous fat harvested by liposuction technique to trunk, breasts, scalp, arms, and/or legs; 50 cc or less
+injectate",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15772,"Grafting of autologous fat harvested by liposuction technique to trunk, breasts, scalp, arms, and/or legs; each additional 50 cc
+injectate, or part thereof (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Other Services,Potentially Cosmetic,15769,"Grafting of autologous soft tissue, other, harvested by direct excision (eg, fat, dermis, fascia)",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4113,"Graftjacket xpress, injectable, 1 cc",Yes,CareCore National,
+Other Services,Outpatient Surgery,28291,"Hallux rigidus correction with cheilectomy, debridement and capsular release of the first metatarsophalangeal joint; with
+implant",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",15012,"Harvest of skin for skin cell suspension autograft; each additional 25 sq cm or part thereof (List separately in addition to code
+for primary procedure)",Add On,CareCore National,

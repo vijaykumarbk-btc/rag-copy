@@ -1,0 +1,64 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Musculoskeletal,Spine Surgery,0869T,"Injection(s), bone-substitute material for bone and/or soft tissue hardware fixation augmentation, including intraoperative
+imaging guidance, when performed","Experimental /
+Investigational - Yes",CareCore National,
+Musculoskeletal,Spine Surgery,20939,"Bone marrow aspiration for bone grafting, spine surgery only, through separate skin or fascial incision (List separately in
+addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22836,"Anterior thoracic vertebral body tethering, including thoracoscopy, when performed; up to 7 vertebral segments",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22837,"Anterior thoracic vertebral body tethering, including thoracoscopy, when performed; 8 or more vertebral segments",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22838,"Revision (eg, augmentation, division of tether), replacement, or removal of thoracic vertebral body tethering, including
+thoracoscopy, when performed",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22849,Reinsertion of spinal fixation device,Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63267,"Laminectomy for excision or evacuation of intraspinal lesion other than neoplasm, extradural; lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,0656T,Anterior lumbar or thoracolumbar vertebral body tethering; up to 7 vertebral segments,Yes,CareCore National,
+Musculoskeletal,Spine Surgery,C1062,"Intravertebral body fracture augmentation with implant (e.g., metal, polymer)",Yes,CareCore National,
+Musculoskeletal,Joint Surgery,J7330,"Autologous cultured chondrocytes, implant",Yes,MedSolutions,
+"Crossover Code for:
+• Primary Program: Other Services
+• Companion Program:
+Musculoskeletal - Joint / Spine Surgery
+(See External Notation column for more
+details.)",Other Services,64999*,"Unlisted procedure, nervous system",Yes,CareCore National,"This is a crossover code that can be requested under
+three programs: MSK Joint, MSK Spine Surgery or
+Other Services.
+• If your request is intended to be used for Other
+Services, please submit your request under the Other
+Services program through the CareCoreNational
+platform.
+• If your request is intended to be used for MSK
+Spine Surgery, please submit your request under the
+MSK Spine program through the CareCoreNational
+platform.
+• If your request is intended to be used for MSK Joint
+Surgery, please submit your request under the Other
+Services program through the Medsolutions
+platform."
+Musculoskeletal,Joint Surgery,27570,Manipulation of knee joint under general anesthesia (includes application of traction or other fixation devices),Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23700,"Manipulation under anesthesia, shoulder joint, including application of fixation apparatus (dislocation excluded)",Yes,MedSolutions,
+Musculoskeletal,Spine Surgery,22899,"Unlisted procedure, spine",Yes,CareCore National,
+Musculoskeletal,Joint Surgery,23130,"Acromioplasty or acromionectomy, partial, with or without coracoacromial ligament release",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27418,"Anterior tibial tubercleplasty (eg, Maquet type procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,S2117,"Arthroereisis, subtalar",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27130,"Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without autograft or
+allograft",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27703,"Arthroplasty, ankle; revision, total ankle",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27702,"Arthroplasty, ankle; with implant (total ankle)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27443,"Arthroplasty, femoral condyles or tibial plateau(s), knee; with debridement and partial synovectomy",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23470,"Arthroplasty, glenohumeral joint; hemiarthroplasty",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23472,"Arthroplasty, Glenohumeral Joint; Total Shoulder [Glenoid And Proximal Humeral Replacement (E.G., Total Shoulder)]",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee
+arthroplasty)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27446,"Arthroplasty, knee, condyle and plateau; medial OR lateral compartment",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27440,"Arthroplasty, knee, tibial plateau",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27441,"Arthroplasty, knee, tibial plateau; with debridement and partial synovectomy",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27438,"Arthroplasty, patella; with prosthesis",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29888,Arthroscopically aided anterior cruciate ligament repair/augmentation or reconstruction,Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29889,Arthroscopically aided posterior cruciate ligament repair/augmentation or reconstruction,Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29851,"Arthroscopically aided treatment of intercondylar spine(s) and/or tuberosity fracture(s) of the knee, with or without
+manipulation; with internal or external fixation (includes arthroscopy)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29850,"Arthroscopically aided treatment of intercondylar spine(s) and/or tuberosity fracture(s) of the knee, with or without
+manipulation; without internal or external fixation (includes arthroscopy)",Yes,MedSolutions,

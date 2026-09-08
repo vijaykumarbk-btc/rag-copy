@@ -1,0 +1,76 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Durable Medical Equipment,O&P Only,L2006,"Knee ankle foot device, any material, single or double upright, swing and stance phase microprocessor control with
+adjustability, includes all components (e.g., sensors, batteries, charger), any type activation, with or without ankle joint(s),
+custom fabricated","Experimental /
+Investigational - Yes",CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L2221,"Addition to lower extremity orthosis, ankle system, microprocessor-controlled feature plantarflexion and/or dorsiflexion,
+includes power source",Yes,CareCore National,
+Durable Medical Equipment,Unlisted Procedure,L5999,"Lower extremity prosthesis, not otherwise specified",Yes,CareCore National,
+Durable Medical Equipment,"ORTHOSES &
+PROSTHESES",L6700,"Upper extremity addition, external powered feature, myoelectronic control module, additional emg inputs, pattern-recognition
+decoding intent movement","Experimental /
+Investigational - Yes",CareCore National,
+Durable Medical Equipment,Unlisted Procedure,L8499,Unlisted procedure for miscellaneous prosthetic services,Yes,CareCore National,
+Home Health,Home Health,99512,Home visits for hemodialysis,Yes,CareCore National,Intake Only
+Home Health,Home Health,H0045,"Respite care services, not in the home, per diem",Yes,CareCore National,Intake Only
+Home Health,Home Health,S5150,"Unskilled respite care, not hospice, per 15 minutes",Yes,CareCore National,Intake Only
+Home Health,Home Health,S5151,"Unskilled respite care, not hospice, per diem",Yes,CareCore National,Intake Only
+Home Health,Home Health,S9122,"Home health aide or certified nurse assistant, providing care in the home, per hour",Yes,CareCore National,Intake Only
+Home Health,Home Health,T1005,"Respite care services, up to 15 minutes",Yes,CareCore National,Intake Only
+Home Health,Home Health,T2044,Hospice inpatient respite care; per diem,Yes,CareCore National,Intake Only
+Home Health,Home Health,S9123,"Nursing care, in the home; by registered nurse, per hour (use for general nursing care only, not to be used when cpt codes
+99500-99602 can be used)",Yes,CareCore National,Intake Only
+Home Health,Home Health,S9124,"Nursing care, in the home; by licensed practical nurse, per hour",Yes,CareCore National,Intake Only
+Home Health,Home Health,T1000,"Private duty / independent nursing service(s) - licensed, up to 15 minutes",Yes,CareCore National,Intake Only
+Musculoskeletal,"Interventional Pain
+Management",E0782,"Infusion pump, implantable, nonprogrammable (includes all components, e.g., pump, catheter, connectors, etc.)",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",E0783,"Infusion pump system, implantable, programmable (includes all components, e.g., pump, catheter, connectors, etc.)",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",E0785,"Implantable intraspinal (epidural/intrathecal) catheter used with implantable infusion pump, replacement",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",E0786,"Implantable programmable infusion pump, replacement (excludes implantable intraspinal catheter)",Yes,MedSolutions,
+Laboratory Management,Molecular Lab,0616U,"TruD MDS Alzheimer's & MCI (Mild Cognitive Impairment), a lab test done to assess risks for Alzheimer's disease and MCI by
+looking at how certain genes are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0617U,"TruD MDS ASCVD (Atherosclerotic Cardiovascular Disease), a lab test done to assess the risk of ASCVD by looking at how
+certain genes are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0618U,"TruD MDS Bipolar, a lab test done to assess the risk of bipolar disorder by looking at how certain genes are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0619U,"TruD MDS COPD (Chronic Obstructive Pulmonary Disease), a lab test done to assess the risk of COPD by looking at how
+certain genes are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0620U,"TruD MDS Hepatocellular Carcinoma, a lab test done to assess the risk of HCC (hepatocellular carcinoma) by looking at how
+certain genes are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0621U,"TruD MDS Lyme Disease, a lab test done to assess the risk of Lyme Disease by looking at how certain genes are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0622U,"TruD MDS Major Depressive Disorder, a lab test done to assess the risk of depression by looking at how certain genes are
+expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0623U,"TruD MDS Multiple Sclerosis, a lab test done to assess the risk of MS (multiple sclerosis) by looking at how certain genes are
+expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0624U,"TruD MDS NASH (Nonalcoholic Steatohepatitis), a lab test done to assess the risk of NASH by looking at how certain genes
+are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0625U,"TruD MDS Osteoporosis, a lab test done to assess the risk of osteoporosis by looking at how certain genes are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0626U,"TruD MDS Parkinson's, a lab test done to assess the risk of Parkinson's disease by looking at how certain genes are
+expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0627U,"TruD MDS Schizophrenia, a lab test done to assess the risk of schizophrenia by looking at how certain genes are expressed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0628U,"RenaDx, a lab test done to look for gene errors that can cause issues with the kidneys",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0629U,"CRISPR (Clustered Regularly Interspaced Short Palindromic Repeat) -TB (Tuberculosis) Blood Test, a lab test done to check
+for the presence of TB",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0630U,"BluePrint Molecular Subtyping Test, a lab test done to see how certain genes are expressed in a tumor",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0631U,"Northstar Select CH (Clonal Hematopoiesis), a lab test done to detect the presence of gene errors in the blood that are not
+caused by cancer",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0632U,"UNITY Fetal RhD (Rhesus D) NIPT (Non-Invasive Prenatal Testing), a lab test done on a sample of the mother's blood during
+pregnancy to look for differences between the blood types of the mother and the baby",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0633U,"Fetal Focus, a lab test done on a sample of the mother's blood during pregnancy to look for certain concerns with the baby's
+genes",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0634U,"GeneStrat® ESR1, lab test done to look for errors in a gene that can be seen in certain cancers and can cause problems with
+how the body processes the hormone estrogen",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0635U,"AdvanceAD-TX, a lab tests done to look for gene errors that may impact how the body responds to certain drugs",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0641U,"PredicineBEACON Baseline, an initial lab test that looks for certain gene findings that can be linked to a cancer and can be
+used with other tests done later to see if a person still has signs of cancer after treatment",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0642U,"PredicineBEACON MRD (Longitudinal), a lab test that looks for cancer cells in the blood to see if a person still has signs of
+cancer after treatment",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0643U,"PredicineCARE Urine Assay, a lab test done on urine to look for gene errors in cancer cells",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0644U,"FusionMRD™ Baseline, an initial lab test that looks for certain gene findings that can be linked to a cancer and can be used
+with other tests done later to see if a person still has signs of cancer after treatment",Yes,CareCore National,

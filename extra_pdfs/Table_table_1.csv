@@ -1,0 +1,65 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Other Services,Outpatient Surgery,43889,"Gastric restrictive procedure, transoral, endoscopic sleeve gastroplasty (ESG), including argon plasma coagulation, when
+performed",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",64567,"Percutaneous electrical nerve field stimulation, cranial nerves, without implantation",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",64654,"Initial open implantation of baroreflex activation therapy (BAT) modulation system, including lead placement onto the carotid
+sinus, lead tunnelling, connection to a pulse generator placed in a distant subcutaneous pocket (ie, total system), and
+intraoperative interrogation and programming",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",64910,"Nerve repair; with synthetic conduit or vein allograft (eg, nerve tube), each nerve",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0990T,"Transcervical instillation of biodegradable hydrogel materials, intrauterine",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0991T,"Cystourethroscopy, with low-energy lithotripsy and acoustically actuated microspheres, including imaging",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0994T,"Endovascular delivery of aortic wall stabilization drug therapy through a sheath positioned within an abdominal aortic
+aneurysm, with aortic roadmapping, balloon occlusion, imaging guidance, and radiological supervision and interpretation;
+percutaneous",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0995T,"Endovascular delivery of aortic wall stabilization drug therapy through a sheath positioned within an abdominal aortic
+aneurysm, with aortic roadmapping, balloon occlusion, imaging guidance, and radiological supervision and interpretation;
+open",Yes,CareCore National,
+Other Services,Outpatient Surgery,0999T,"Autologous muscle cell therapy, harvesting of muscle progenitor cells, including ultrasound guidance, when performed",Yes,CareCore National,
+Other Services,Outpatient Surgery,1000T,"Autologous muscle cell therapy, administration of muscle progenitor cells into the urethral sphincter, including cystoscopy and
+post-void residual ultrasound, when performed",Yes,CareCore National,
+Other Services,Outpatient Surgery,1001T,"Autologous muscle cell therapy, injection of muscle progenitor cells into the external anal sphincter, including ultrasound
+guidance, when performed",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",1003T,"Arthroplasty, first carpometacarpal joint, with distal trapezial and proximal first metacarpal prosthetic replacement (eg, first
+carpometacarpal total joint)",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",1008T,"Remote monitoring of sub-scalp implanted continuous bilateral electroencephalography monitoring system, device fitting,
+initial set-up, and patient education in wearing of system and use of equipment",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",1009T,"Remote monitoring of a sub-scalp implanted continuous bilateral electroencephalography monitoring system, physician or
+other qualified health care professional review of recorded events, analysis of spike and seizure detection, interpretation, and
+report, up to 30 days of recording without video",Yes,CareCore National,
+Other Services,Outpatient Surgery,1019T,"Lymphovenous bypass, including robotic assistance, when performed, per extremity",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",1025T,"Alternating electric fields dosimetry and delivery-simulation modeling, creation and selection of patient-specific array layouts,
+and placement verification",Yes,CareCore National,
+Other Services,Outpatient Surgery,C1607,"Neurostimulator, integrated (implantable), rechargeable with all implantable and external components including charging
+system",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4398,"Summit ac, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4399,"Summit fx, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4400,"Polygon3 membrane, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4401,"Absolv3 membrane, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4410,"Amchomatrixdl, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4411,"Amniomatrixf4x, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4413,"Cygnus solo, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4420,"Nuform, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4422,"A/c wrap, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,

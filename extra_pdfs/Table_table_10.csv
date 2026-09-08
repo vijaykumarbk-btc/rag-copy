@@ -1,0 +1,82 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Other Services,Potentially Cosmetic,15825,"Rhytidectomy; neck with platysmal tightening (platysmal flap, P-flap)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15829,Rhytidectomy; superficial musculoaponeurotic system (SMAS) flap,Yes,CareCore National,
+Other Services,Outpatient Surgery,30620,Septal or other intranasal dermatoplasty (does not include obtaining graft),Yes,CareCore National,
+Other Services,Outpatient Surgery,30520,"Septoplasty or submucous resection, with or without cartilage scoring, contouring or replacement with graft",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4130,"Strattice tm, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,Potentially Cosmetic,11950,"Subcutaneous injection of filling material (eg, collagen); 1 cc or less",Yes,CareCore National,
+Other Services,Potentially Cosmetic,11951,"Subcutaneous injection of filling material (eg, collagen); 1.1 to 5.0 cc",Yes,CareCore National,
+Other Services,Potentially Cosmetic,11952,"Subcutaneous injection of filling material (eg, collagen); 5.1 to 10.0 cc",Yes,CareCore National,
+Other Services,Potentially Cosmetic,11954,"Subcutaneous injection of filling material (eg, collagen); over 10.0 cc",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0980T,Submucosal cryolysis therapy; base of tongue and lingual tonsil only,Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0979T,Submucosal cryolysis therapy; soft palate only,Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0978T,"Submucosal cryolysis therapy; soft palate, base of tongue, and lingual tonsil",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15876,Suction assisted lipectomy; head and neck,Yes,CareCore National,
+Other Services,Potentially Cosmetic,15879,Suction assisted lipectomy; lower extremity,Yes,CareCore National,
+Other Services,Potentially Cosmetic,15877,Suction assisted lipectomy; trunk,Yes,CareCore National,
+Other Services,Potentially Cosmetic,15878,Suction assisted lipectomy; upper extremity,Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4397,"Summit aaa, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4393,"Surgraft ac, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4394,"Surgraft aca, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4268,"Surgraft ft, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4263,"Surgraft tl, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4269,"Surgraft xt, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,36514,Therapeutic apheresis; for plasma pheresis,Yes,CareCore National,
+Other Services,Outpatient Surgery,32664,"Thoracoscopy, surgical; with thoracic sympathectomy",Yes,CareCore National,
+Other Services,Outpatient Surgery,15156,"Tissue cultured skin autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits;
+additional 1 sq cm to 75 sq cm (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,15157,"Tissue cultured skin autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits;
+each additional 100 sq cm, or each additional 1% of body area of infants and children, or part thereof (List separately in
+addition to code for primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,15155,"Tissue cultured skin autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits; first
+25 sq cm or less",Yes,CareCore National,
+Other Services,Outpatient Surgery,15151,"Tissue cultured skin autograft, trunk, arms, legs; additional 1 sq cm to 75 sq cm (List separately in addition to code for
+primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,15152,"Tissue cultured skin autograft, trunk, arms, legs; each additional 100 sq cm, or each additional 1% of body area of infants and
+children, or part thereof (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,15150,"Tissue cultured skin autograft, trunk, arms, legs; first 25 sq cm or less",Yes,CareCore National,
+Other Services,Potentially Cosmetic,19357,"Tissue expander placement in breast reconstruction, including subsequent expansion(s)",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",41512,"Tongue base suspension, permanent suture technique",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0951T,"Totally implantable active middle ear hearing implant; initial placement, including mastoidectomy, placement of and
+attachment to sound processor",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0967T,"Transanal insertion of endoluminal temporary colorectal anastomosis protection device, including vacuum anchoring
+component and flexible sheath connected to external vacuum source and monitoring system",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0981T,"Transcatheter implantation of wireless inferior vena cava sensor for long-term hemodynamic monitoring, including
+deployment of the sensor, radiological supervision and interpretation, right heart catheterization, and inferior vena cava
+venography, when performed",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0933T,"Transcatheter implantation of wireless left atrial pressure sensor for long-term left atrial pressure monitoring, including sensor
+calibration and deployment, right heart catheterization, transseptal puncture, imaging guidance, and radiological supervision
+and interpretation",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",33289,"Transcatheter implantation of wireless pulmonary artery pressure sensor for long-term hemodynamic monitoring, including
+deployment and calibration of the sensor, right heart catheterization, selective pulmonary catheterization, radiological
+supervision and interpretation, and pulmonary artery angiography, when performed",Yes,CareCore National,
+Other Services,Outpatient Surgery,66175,"Transluminal dilation of aqueous outflow canal (eg, canaloplasty); with retention of device or stent",Yes,CareCore National,
+Other Services,Outpatient Surgery,66174,"Transluminal dilation of aqueous outflow canal (eg, canaloplasty); without retention of device or stent",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",93799,Unlisted cardiovascular service or procedure,Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",21299,Unlisted craniofacial and maxillofacial procedure,Yes,CareCore National,
+Other Services,Unlisted Procedure,91299,Unlisted diagnostic gastroenterology procedure,Yes,CareCore National,
+Other Services,Unlisted Procedure,59897,"Unlisted fetal invasive procedure, including ultrasound guidance, when performed",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",58579,"Unlisted hysteroscopy procedure, uterus",Yes,CareCore National,
+Other Services,Unlisted Procedure,47379,"Unlisted laparoscopic procedure, liver",Yes,CareCore National,

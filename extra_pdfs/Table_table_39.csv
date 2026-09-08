@@ -1,0 +1,91 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+"Crossover Code for:
+• Primary Program: Musculoskeletal
+(MSK) - Pain Management
+• Companion Program: Sleep
+Management
+(See External Notation column for
+more details.)",Sleep Management,L8680*,"Implantable neurostimulator electrode, each",Yes,CareCore National,"This is a crossover code that can be requested
+under two programs: MSK Pain Management or
+Sleep Management.
+• If your request is intended to be used for Sleep
+Management only, please submit your request
+under the Sleep Management program through
+the CareCoreNational platform.
+•If your request is intended to be used for MSK
+Pain, please submit your request under the MSK
+Pain Management program through the
+MedSolutions platform."
+"Crossover Code for:
+• Primary Program: Musculoskeletal
+(MSK) - Pain Management
+• Companion Program: Sleep
+Management
+(See External Notation column for more
+details.)",Sleep Management,L8681*,"Patient programmer (external) for use with implantable programmable neurostimulator pulse generator, replacement only",Yes,CareCore National,"This is a crossover code that can be requested under
+two programs: MSK Pain Management or Sleep
+Management.
+• If your request is intended to be used for Sleep
+Management only, please submit your request under
+the Sleep Management program through
+the CareCoreNational platform.
+•If your request is intended to be used for MSK Pain,
+please submit your request under the MSK Pain
+Management program through the MedSolutions
+platform."
+Sleep,Sleep Management,E0492,"Power source and control electronics unit for oral device/appliance for neuromuscular electrical stimulation of the tongue
+muscle, controlled by phone application",Yes,CareCore National,
+Sleep,Sleep Management,E0530,"Electronic positional obstructive sleep apnea treatment, with sensor, includes all components and accessories, any type",Yes,CareCore National,
+Sleep,Sleep Testing,95782,"Polysomnography; younger than 6 years, sleep staging with 4 or more additional parameters of sleep, attended by a
+technologist",Yes,CareCore National,
+Sleep,Sleep Testing,95783,"Polysomnography; younger than 6 years, sleep staging with 4 or more additional parameters of sleep, with initiation of
+continuous positive airway pressure therapy or bi-level ventilation, attended by a technologist",Yes,CareCore National,
+Sleep,Sleep Testing,95805,"Multiple sleep latency or maintenance of wakefulness testing, recording, analysis and interpretation of physiological
+measurements of sleep during multiple trials to assess sleepiness",Yes,CareCore National,
+Sleep,Sleep Testing,95807,"Sleep study, simultaneous recording of ventilation, respiratory effort, ECG or heart rate, and oxygen saturation, attended by a
+technologist",Yes,CareCore National,
+Sleep,Sleep Testing,95808,"Polysomnography; any age, sleep staging with 1-3 additional parameters of sleep, attended by a technologist",Yes,CareCore National,
+Sleep,Sleep Testing,95810,"Polysomnography; age 6 years or older, sleep staging with 4 or more additional parameters of sleep, attended by a
+technologist",Yes,CareCore National,
+Sleep,Sleep Testing,95811,"Polysomnography; age 6 years or older, sleep staging with 4 or more additional parameters of sleep, with initiation of
+continuous positive airway pressure therapy or bilevel ventilation, attended by a technologist",Yes,CareCore National,
+Sleep,"Experimental /
+Investigational",41530,"Submucosal ablation of the tongue base, radiofrequency, 1 or more sites, per session",Yes,CareCore National,
+Sleep,Sleep Management,42975,"Drug-induced sleep endoscopy, with dynamic evaluation of velum, pharynx, tongue base, and larynx for evaluation of sleep-
+disordered breathing, flexible, diagnostic",Yes,CareCore National,
+Sleep,Sleep Management,64582,"Open implantation of hypoglossal nerve neurostimulator array, pulse generator, and distal respiratory sensor electrode or
+electrode array",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L1844,"Knee orthosis, single upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-
+lateral and rotation control, with or without varus/valgus adjustment, custom fabricated",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L1846,"Knee orthosis, double upright, thigh and calf, with adjustable flexion and extension joint (unicentric or polycentric), medial-
+lateral and rotation control, with or without varus/valgus adjustment, custom fabricated",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L5781,"Addition to lower limb prosthesis, vacuum pump, residual limb volume management and moisture evacuation system",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L5828,"Addition, endoskeletal knee-shin system, single axis, fluid swing and stance phase control",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L5856,"Addition to lower extremity prosthesis, endoskeletal knee-shin system, microprocessor control feature, swing and stance
+phase, includes electronic sensor(s), any type",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L5973,"Endoskeletal ankle foot system, microprocessor controlled feature, dorsiflexion and/or plantar flexion control, includes power
+source",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L6880,"Electric hand, switch or myoelectric controlled, independently articulating digits, any grasp pattern or combination of grasp
+patterns, includes motor(s)",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L6881,"Automatic grasp feature, addition to upper limb electric prosthetic terminal device",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L6882,"Microprocessor control feature, addition to upper limb prosthetic terminal device",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L6935,"Below elbow, external power, self-suspended inner socket, removable forearm shell, otto bock or equal electrodes, cables,
+two batteries and one charger, myoelectronic control of terminal device",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L6955,"Above elbow, external power, molded inner socket, removable humeral shell, internal locking elbow, forearm, otto bock or
+equal electrodes, cables, two batteries and one charger, myoelectronic control of terminal device",Yes,CareCore National,
+Durable Medical Equipment,"Orthotics and
+Prosthetics",L7007,"Electric hand, switch or myoelectric controlled, adult",Yes,CareCore National,

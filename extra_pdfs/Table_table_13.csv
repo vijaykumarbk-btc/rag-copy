@@ -1,0 +1,72 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Cardiology,"Cardiac
+Electrophysiology",93653,"Comprehensive electrophysiologic evaluation with insertion and repositioning of multiple electrode catheters, induction or
+attempted induction of an arrhythmia with right atrial pacing and recording and catheter ablation of arrhythmogenic focus,
+including intracardiac electrophysiologic 3-dimensional mapping, right ventricular pacing and recording, left atrial pacing and
+recording from coronary sinus or left atrium, and His bundle recording, when performed; with treatment of supraventricular
+tachycardia by ablation of fast or slow atrioventricular pathway, accessory atrioventricular connection, cavo-tricuspid isthmus
+or other single atrial focus or source of atrial re-entry",Yes,CareCore National,
+Cardiology,"Cardiac
+Electrophysiology",93654,"Comprehensive electrophysiologic evaluation with insertion and repositioning of multiple electrode catheters, induction or
+attempted induction of an arrhythmia with right atrial pacing and recording and catheter ablation of arrhythmogenic focus,
+including intracardiac electrophysiologic 3-dimensional mapping, right ventricular pacing and recording, left atrial pacing and
+recording from coronary sinus or left atrium, and His bundle recording, when performed; with treatment of ventricular
+tachycardia or focus of ventricular ectopy including left ventricular pacing and recording, when performed",Yes,CareCore National,
+Cardiology,"Cardiac
+Electrophysiology",93619,"Comprehensive electrophysiologic evaluation with right atrial pacing and recording, right ventricular pacing and recording, His
+bundle recording, including insertion and repositioning of multiple electrode catheters, without induction or attempted
+induction of arrhythmia",Yes,CareCore National,
+Cardiology,"Cardiac
+Electrophysiology",93656,"Comprehensive electrophysiologic evaluation with transseptal catheterizations, insertion and repositioning of multiple
+electrode catheters, induction or attempted induction of an arrhythmia including left or right atrial pacing/recording, and
+intracardiac catheter ablation of atrial fibrillation by pulmonary vein isolation, including intracardiac electrophysiologic 3-
+dimensional mapping, intracardiac echocardiography with imaging supervision and interpretation, right ventricular
+pacing/recording, and His bundle recording, when performed",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33266,"Endoscopy, surgical; operative tissue ablation and reconstruction of atria, extensive (eg, maze procedure), without
+cardiopulmonary bypass",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33265,"Endoscopy, surgical; operative tissue ablation and reconstruction of atria, limited (eg, modified maze procedure), without
+cardiopulmonary bypass",Yes,CareCore National,
+Cardiology,CID,C1764,"Event recorder, cardiac (implantable)",Yes,MedSolutions,
+Cardiology,Cardiac Surgery,33267,"Exclusion of left atrial appendage, open, any method (eg, excision, isolation via stapling, oversewing, ligation, plication, clip)",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33269,"Exclusion of left atrial appendage, thoracoscopic, any method (eg, excision, isolation via stapling, oversewing, ligation,
+plication, clip)",Yes,CareCore National,
+Cardiology,CID,33225,"Insertion of pacing electrode, cardiac venous system, for left ventricular pacing, at time of insertion of implantable defibrillator
+or pacemaker pulse generator (eg, for upgrade to dual chamber system) (List separately in addition to code for primary
+procedure)",Add On,MedSolutions,
+Cardiology,CID,33224,"Insertion of pacing electrode, cardiac venous system, for left ventricular pacing, with attachment to previously placed
+pacemaker or implantable defibrillator pulse generator (including revision of pocket, removal, insertion, and/or replacement of
+existing generator)",Yes,MedSolutions,
+Cardiology,Cardiac Surgery,33990,"Insertion of ventricular assist device, percutaneous, including radiological supervision and interpretation; left heart, arterial
+access only",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33991,"Insertion of ventricular assist device, percutaneous, including radiological supervision and interpretation; left heart, both
+arterial and venous access, with transseptal puncture",Yes,CareCore National,
+Cardiology,CID,33249,"Insertion or replacement of permanent implantable defibrillator system, with transvenous lead(s), single or dual chamber",Yes,MedSolutions,
+Cardiology,CID,33270,"Insertion or replacement of permanent subcutaneous implantable defibrillator system, with subcutaneous electrode, including
+defibrillation threshold evaluation, induction of arrhythmia, evaluation of sensing for arrhythmia termination, and programming
+or reprogramming of sensing or therapeutic parameters, when performed",Yes,MedSolutions,
+Cardiology,CID,33285,"Insertion, subcutaneous cardiac rhythm monitor, including programming",Yes,MedSolutions,
+Cardiology,"Cardiac
+Electrophysiology",93655,"Intracardiac catheter ablation of a discrete mechanism of arrhythmia which is distinct from the primary ablated mechanism,
+including repeat diagnostic maneuvers, to treat a spontaneous or induced arrhythmia (List separately in addition to code for
+primary procedure)",Add On,CareCore National,
+Cardiology,Cardiac Catheterization,93452,"Left heart catheterization including intraprocedural injection(s) for left ventriculography, imaging supervision and
+interpretation, when performed",Yes,MedSolutions,
+Cardiology,Nuclear Cardiology,0331T,"Myocardial sympathetic innervation imaging, planar qualitative and quantitative assessment;",Yes,MedSolutions,
+Cardiology,Nuclear Cardiology,0332T,"Myocardial sympathetic innervation imaging, planar qualitative and quantitative assessment; with tomographic SPECT",Yes,MedSolutions,
+Cardiology,MRI CARDIAC,0899T,"Noninvasive determination of absolute quantitation of myocardial blood flow (AQMBF), derived from augmentative algorithmic
+analysis of the dataset acquired via contrast cardiac magnetic resonance (CMR), pharmacologic stress, with interpretation
+and report by a physician or other qualified health care professional (List separately in addition to code for primary procedure)",Add‑On,MedSolutions,
+Cardiology,MRI CARDIAC,0900T,"Noninvasive estimate of absolute quantitation of myocardial blood flow (AQMBF), derived from assistive algorithmic analysis
+of the dataset acquired via contrast cardiac magnetic resonance (CMR), pharmacologic stress, with interpretation and report
+by a physician or other qualified health care professional (List separately in addition to code for primary procedure)",Add‑On,MedSolutions,
+Cardiology,Cardiac Surgery,33255,"Operative tissue ablation and reconstruction of atria, extensive (eg, maze procedure); without cardiopulmonary bypass",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33254,"Operative tissue ablation and reconstruction of atria, limited (eg, modified maze procedure)",Yes,CareCore National,
+Cardiology,Cardiac Surgery,33258,"Operative tissue ablation and reconstruction of atria, performed at the time of other cardiac procedure(s), extensive (eg, maze
+procedure), without cardiopulmonary bypass (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Cardiology,Cardiac Surgery,93581,Percutaneous transcatheter closure of a congenital ventricular septal defect with implant,Yes,CareCore National,
+Cardiology,Cardiac Surgery,93580,"Percutaneous transcatheter closure of congenital interatrial communication (ie, Fontan fenestration, atrial septal defect) with
+implant",Yes,CareCore National,
+Cardiology,Cardiac Surgery,93582,Percutaneous transcatheter closure of patent ductus arteriosus,Yes,CareCore National,

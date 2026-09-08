@@ -1,0 +1,13 @@
+numpy
+pandas
+pdfplumber
+python-dotenv
+openai
+groq
+rank-bm25
+langchain-text-splitters
+pymupdf
+liteparse
+docling
+docling-core
+marker-pdf

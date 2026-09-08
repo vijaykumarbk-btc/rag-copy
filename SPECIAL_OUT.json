@@ -1,0 +1,36 @@
+{
+  "Query": "when is adjacent segment disease considered medically necessary",
+  "Prior auth required": "Yes",
+  "Policy Name": "Cigna ACDF (CMM-601: Anterior Cervical Discectomy and Fusion)",
+  "Referred Sections": [
+    "<Primary policy section ID/title, e.g. CMM-601.7: Adjacent Segment Disease>",
+    "<Clinical condition 1, e.g. Radiculopathy>",
+    "<Clinical condition 2, e.g. Myelopathy>"
+  ],
+  "Medical necessity indications": [
+    {
+      "Guideline Category": "<Condition Category Name, e.g. Radiculopathy or Myelopathy>",
+      "Required findings": [
+        "<Detailed bullet of symptom requirements, pain level, and functional impairment>",
+        "<Detailed bullet of objective physical examination findings required>",
+        "<Detailed bullet of diagnostic imaging requirements (MRI/CT/X-ray) and concordant findings>",
+        "<Detailed bullet of conservative management requirements and trial duration>",
+        "<Detailed bullet of general criteria: nicotine-free status and behavioral health criteria>"
+      ],
+      "Source": "<Clean section citation without repeating titles, e.g. CMM-601.7: Adjacent Segment Disease > Radiculopathy (TOC: S12.1.1)"
+    }
+  ],
+  "Non-Indications": [
+    "Procedures performed before the required post-operative duration has elapsed (e.g., < 6 months from prior surgery).",
+    "Neck pain or radiculopathy without objective physical exam findings or concordant advanced imaging (MRI/CT).",
+    "Failure to complete the mandatory trial of conservative therapy (minimum 6 weeks of PT/medications) unless contraindicated.",
+    "Active tobacco or nicotine use without verified 6-week cessation and negative cotinine laboratory test.",
+    "Presence of unmanaged significant behavioral or mental health disorders, active opioid/alcohol use disorder, or secondary gain."
+  ],
+  "Important criteria & exceptions": [
+    "<Important qualifying rules, verification methods (e.g., objective cotinine testing methods and timeline), conservative care exceptions, or multi-level requirements>"
+  ],
+  "Documentation required": [
+    "<Specific clinical documents, imaging reports, and provider notes that must be submitted to verify criteria (e.g., Operative report from prior cervical surgery, Plain cervical spine flexion/extension X-rays, Cervical MRI/CT radiology reports showing neural compression, Physical therapy and pharmacy records documenting >= 6 weeks of conservative care, Objective laboratory cotinine test results, Behavioral health evaluation note)>"
+  ]
+}

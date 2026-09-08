@@ -1,0 +1,63 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Vascular Interventions,"Lower Extremity
+Interventions",37296,"Revascularization, endovascular, open or percutaneous, inframalleolar vascular territory, with transluminal angioplasty,
+including all maneuvers necessary for accessing and selectively catheterizing the artery and crossing the lesion, including all
+imaging guidance and radiological supervision and interpretation necessary to perform the angioplasty within the same artery,
+unilateral; straightforward lesion, initial vessel",Yes,CareCore National,
+Vascular Interventions,"Lower Extremity
+Interventions",37297,"Revascularization, endovascular, open or percutaneous, inframalleolar vascular territory, with transluminal angioplasty,
+including all maneuvers necessary for accessing and selectively catheterizing the artery and crossing the lesion, including all
+imaging guidance and radiological supervision and interpretation necessary to perform the angioplasty within the same artery,
+unilateral; straightforward lesion, each additional vessel (List separately in addition to code for primary procedure)",Yes,CareCore National,
+Vascular Interventions,"Lower Extremity
+Interventions",37298,"Revascularization, endovascular, open or percutaneous, inframalleolar vascular territory, with transluminal angioplasty,
+including all maneuvers necessary for accessing and selectively catheterizing the artery and crossing the lesion, including all
+imaging guidance and radiological supervision and interpretation necessary to perform the angioplasty within the same artery,
+unilateral; complex lesion, initial vessel",Yes,CareCore National,
+Vascular Interventions,"Lower Extremity
+Interventions",37299,"Revascularization, endovascular, open or percutaneous, inframalleolar vascular territory, with transluminal angioplasty,
+including all maneuvers necessary for accessing and selectively catheterizing the artery and crossing the lesion, including all
+imaging guidance and radiological supervision and interpretation necessary to perform the angioplasty within the same artery,
+unilateral; complex lesion, each additional vessel (List separately in addition to code for primary procedure)",Yes,CareCore National,
+Vascular Interventions,"Cerebrovascular
+Interventions",61624,"Transcatheter permanent occlusion or embolization (eg, for tumor destruction, to achieve hemostasis, to occlude a vascular
+malformation), including all radiological supervision and interpretation, intraprocedural roadmapping, and imaging guidance
+necessary to complete the intervention, percutaneous, any method; central nervous system (intracranial, spinal cord)",Yes,CareCore National,
+Vascular Interventions,"Cerebrovascular
+Interventions",61630,"Balloon angioplasty, intracranial (eg, atherosclerotic stenosis), percutaneous","Experimental /
+Investigational - Yes",CareCore National,
+Vascular Interventions,"Cerebrovascular
+Interventions",61635,"Transcatheter placement of intravascular stent(s), intracranial (eg, atherosclerotic stenosis), including balloon angioplasty, if
+performed",Yes,CareCore National,
+Vascular Interventions,"Cerebrovascular
+Interventions",37215,"Transcatheter placement of intravascular stent(s), cervical carotid artery, open or percutaneous, including angioplasty, when
+performed, and radiological supervision and interpretation; with distal embolic protection",Yes,CareCore National,
+Vascular Interventions,"Cerebrovascular
+Interventions",37216,"Transcatheter placement of intravascular stent(s), cervical carotid artery, open or percutaneous, including angioplasty, when
+performed, and radiological supervision and interpretation; without distal embolic protection",Yes,CareCore National,
+Vascular Interventions,"Cerebrovascular
+Interventions",37218,"Transcatheter placement of intravascular stent(s), intrathoracic common carotid artery or innominate artery, open or
+percutaneous antegrade approach, including angioplasty, when performed, and radiological supervision and interpretation",Yes,CareCore National,
+Vascular Interventions,"Cerebrovascular
+Interventions",0075T,"Transcatheter placement of extracranial vertebral artery stent(s), including radiologic supervision and interpretation, open or
+percutaneous; initial vessel",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,36473,"Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous,
+mechanochemical; first vein treated",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,36474,"Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous,
+mechanochemical; subsequent vein(s) treated in a single extremity, each through separate access sites (List separately in
+addition to code for primary procedure)",Add On,CareCore National,
+Vascular Interventions,Venous Interventions,36475,"Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous,
+radiofrequency; first vein treated",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,36476,"Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous,
+radiofrequency; subsequent vein(s) treated in a single extremity, each through separate access sites (List separately in
+addition to code for primary procedure)",Add On,CareCore National,
+Vascular Interventions,Venous Interventions,36478,"Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous,
+laser; first vein treated",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,36479,"Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous,
+laser; subsequent vein(s) treated in a single extremity, each through separate access sites (List separately in addition to code
+for primary procedure)",Add On,CareCore National,
+Vascular Interventions,Venous Interventions,36482,"Endovenous ablation therapy of incompetent vein, extremity, by transcatheter delivery of a chemical adhesive (eg,
+cyanoacrylate) remote from the access site, inclusive of all imaging guidance and monitoring, percutaneous; first vein treated",Yes,CareCore National,

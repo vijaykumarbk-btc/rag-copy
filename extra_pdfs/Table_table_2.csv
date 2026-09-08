@@ -1,0 +1,88 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Other Services,"Experimental /
+Investigational",Q4423,"Biolab tri-membrane wrap flow, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4424,"Revive ft, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4436,"Renati ac membrane, per square centimeter (add-on, list separately in addition to primary procedure)”",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4437,"Revival ac, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4438,"Pretect, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4440​,"Curamatrix, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+"Crossover Code for:
+• Primary Program: Other Services
+• Companion Program:
+Musculoskeletal - Joint / Spine Surgery
+(See External Notation column for more
+details.)",Joint Surgery,64999*,"Unlisted procedure, nervous system",Yes,MedSolutions,"This is a crossover code that can be requested under
+three programs: MSK Joint, MSK Spine Surgery or
+Other Services.
+• If your request is intended to be used for Other
+Services, please submit your request under the Other
+Services program through the CareCoreNational
+platform.
+• If your request is intended to be used for MSK
+Spine Surgery, please submit your request under the
+MSK Spine program through the CareCoreNational
+platform.
+• If your request is intended to be used for MSK Joint
+Surgery, please submit your request under the Other
+Services program through the Medsolutions
+platform."
+"Crossover Code for:
+• Primary Program: Musculoskeletal -
+Pain Management
+• Companion Program: Other Services
+(See External Notation column for more
+details.)",Other Services,C9807*,"Nerve stimulator, percutaneous, peripheral (e.g., sprint peripheral nerve stimulation system), including electrode and all
+disposable system components, non-opioid medical device (must be a qualifying medicare non-opioid medical device for
+post-surgical pain relief in accordance with section 4135 of the caa, 2023)",Yes,CareCore National,"This is a crossover code that can be requested
+under two programs: MSK Pain Management or
+Other Services.
+• If your request is intended to be used for Other
+Services, please submit your request under the Other
+Services program through the CareCoreNational
+platform.
+• If your request is intended to be used for MSK Pain
+Management, please submit your request under the
+MSK program through the MedSolutions platform."
+"Crossover Code for:
+• Primary Program: Other Services
+• Companion Program:
+Musculoskeletal (MSK) - Spine
+Surgery
+(See External Notation column for
+more details.)",Outpatient Surgery,64714*,"Neuroplasty, major peripheral nerve, arm or leg, open; lumbar plexus",Yes,CareCore National,"This is a crossover code that can be requested
+under two programs: MSK Spine Surgery or
+Other Services.
+• If your request is intended to be used in
+conjunction with MSK Spine Surgery, please
+submit your request under the MSK Spine
+program through the CareCoreNational
+platform."
+Other Services,Outpatient Surgery,60661,"Ablation of 1 or more thyroid nodule(s), additional lobe, percutaneous, including imaging guidance, radiofrequency (List
+separately in addition to code for primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,60660,"Ablation of 1 or more thyroid nodule(s), one lobe or the isthmus, percutaneous, including imaging guidance, radiofrequency",Yes,CareCore National,
+Other Services,Outpatient Surgery,0950T,"Ablation of benign prostate tissue, transrectal, with high intensity–focused ultrasound (HIFU), including ultrasound guidance",Yes,CareCore National,
+Other Services,Outpatient Surgery,55880,"Ablation of malignant prostate tissue, transrectal, with high intensity-focused ultrasound (HIFU), including ultrasound
+guidance",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",55881,"Ablation of prostate tissue, transurethral, using thermal ultrasound, including magnetic resonance imaging guidance for, and
+monitoring of, tissue ablation",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",55882,"Ablation of prostate tissue, transurethral, using thermal ultrasound, including magnetic resonance imaging guidance for, and
+monitoring of, tissue ablation; with insertion of transurethral ultrasound transducer for delivery of thermal ultrasound, including
+suprapubic tube placement and placement of an endorectal cooling device, when performed",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0601T,"Ablation, irreversible electroporation; 1 or more tumors per organ, including fluoroscopic and ultrasound guidance, when
+performed, open",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0600T,"Ablation, irreversible electroporation; 1 or more tumors per organ, other than liver or prostate, including imaging guidance,
+when performed, percutaneous",Yes,CareCore National,
+Other Services,Potentially Cosmetic,15787,Abrasion; each additional 4 lesions or less (List separately in addition to code for primary procedure),Add On,CareCore National,
+Other Services,Potentially Cosmetic,15786,"Abrasion; single lesion (eg, keratosis, scar)",Yes,CareCore National,

@@ -1,0 +1,81 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Vascular Interventions,Venous Interventions,36483,"Endovenous ablation therapy of incompetent vein, extremity, by transcatheter delivery of a chemical adhesive (eg,
+cyanoacrylate) remote from the access site, inclusive of all imaging guidance and monitoring, percutaneous; subsequent
+vein(s) treated in a single extremity, each through separate access sites (List separately in addition to code for primary
+procedure)",Add‑On,CareCore National,
+Vascular Interventions,Venous Interventions,36465,"Injection of non-compounded foam sclerosant with ultrasound compression maneuvers to guide dispersion of the injectate,
+inclusive of all imaging guidance and monitoring; single incompetent extremity truncal vein (eg, great saphenous vein,
+accessory saphenous vein)",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,36466,"Injection of non-compounded foam sclerosant with ultrasound compression maneuvers to guide dispersion of the injectate,
+inclusive of all imaging guidance and monitoring; multiple incompetent truncal veins (eg, great saphenous vein, accessory
+saphenous vein), same leg",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,36468,"Injection(s) of sclerosant for spider veins (telangiectasia), limb or trunk",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,36471,"Injection(s) of sclerosant; multiple incompetent veins (other than telangiectasia), same leg",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37700,"Ligation and division of long saphenous vein at saphenofemoral junction, or distal interruptions",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37718,"Ligation, division, and stripping, short saphenous vein",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37722,"Ligation, division, and stripping, long (greater) saphenous veins from saphenofemoral junction to knee or below",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37735,"Ligation and division and complete stripping of long or short saphenous veins with radical excision of ulcer and skin graft
+and/or interruption of communicating veins of lower leg with excision of deep fascia",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37780,Ligation and division of short saphenous vein at saphenopopliteal junction (separate procedure),Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37799,"Unlisted procedure, vascular surgery",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37765,"Stab phlebectomy of varicose veins, 1 extremity; 10-20 stab incisions",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37766,"Stab phlebectomy of varicose veins, 1 extremity; more than 20 incisions",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37785,"Ligation, division, and/or excision of varicose vein cluster(s), 1 leg",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37238,"Transcatheter placement of an intravascular stent(s), open or percutaneous, including radiological supervision and
+interpretation and including angioplasty within the same vessel, when performed; initial vein",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37239,"Transcatheter placement of an intravascular stent(s), open or percutaneous, including radiological supervision and
+interpretation and including angioplasty within the same vessel, when performed; each additional vein (List separately in
+addition to code for primary procedure)",Add On,CareCore National,
+Vascular Interventions,Venous Interventions,37248,"Transluminal balloon angioplasty (except dialysis circuit), open or percutaneous, including all imaging and radiological
+supervision and interpretation necessary to perform the angioplasty within the same vein; initial vein",Yes,CareCore National,
+Vascular Interventions,Venous Interventions,37249,"Transluminal balloon angioplasty (except dialysis circuit), open or percutaneous, including all imaging and radiological
+supervision and interpretation necessary to perform the angioplasty within the same vein; each additional vein (List
+separately in addition to code for primary procedure)",Add On,CareCore National,
+Vascular Interventions,Vascular Embolization,37241,"Vascular embolization or occlusion, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping,
+and imaging guidance necessary to complete the intervention; venous, other than hemorrhage (eg, congenital or acquired
+venous malformations, venous and capillary hemangiomas, varices, varicoceles)",Yes,CareCore National,
+Vascular Interventions,Vascular Embolization,37242,"Vascular embolization or occlusion, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping,
+and imaging guidance necessary to complete the intervention; arterial, other than hemorrhage or tumor (eg, congenital or
+acquired arterial malformations, arteriovenous malformations, arteriovenous fistulas, aneurysms, pseudoaneurysms)",Yes,CareCore National,
+Vascular Interventions,Vascular Embolization,37244,"Vascular embolization or occlusion, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping,
+and imaging guidance necessary to complete the intervention; for arterial or venous hemorrhage or lymphatic extravasation",Yes,CareCore National,
+Vascular Interventions,"Aortic
+Dissection/Aneurysm
+Repair",34718,"Endovascular repair of iliac artery, not associated with placement of an aorto-iliac artery endograft at the same session, by
+deployment of an iliac branched endograft, including pre-procedure sizing and device selection, all ipsilateral selective iliac
+artery catheterization(s), all associated radiological supervision and interpretation, and all endograft extension(s) proximally to
+the aortic bifurcation and distally in the internal iliac, external iliac, and common femoral artery(ies), and treatment zone
+angioplasty/stenting, when performed, for other than rupture (eg, for aneurysm, pseudoaneurysm, dissection, arteriovenous
+malformation, penetrating ulcer), unilateral","Experimental /
+Investigational - Yes",CareCore National,
+Vascular Interventions,Vascular Embolization,37243,"Vascular embolization or occlusion, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping,
+and imaging guidance necessary to complete the intervention; for tumors, organ ischemia, or infarction",Yes,CareCore National,
+Vascular Interventions,"Lower Extremity
+Interventions",C9764,"Revascularization, endovascular, open or percutaneous, lower extremity artery(ies), except tibial/peroneal; with intravascular
+lithotripsy, includes angioplasty within the same vessel(s), when performed","Experimental /
+Investigational - Yes",CareCore National,
+Vascular Interventions,"Lower Extremity
+Interventions",C9767,"Revascularization, endovascular, open or percutaneous, lower extremity artery(ies), except tibial/peroneal; with intravascular
+lithotripsy and transluminal stent placement(s), and atherectomy, includes angioplasty within the same vessel(s), when
+performed","Experimental /
+Investigational - Yes",CareCore National,
+Vascular Interventions,"Lower Extremity
+Interventions",C9772,"Revascularization, endovascular, open or percutaneous, tibial/peroneal artery(ies), with intravascular lithotripsy, includes
+angioplasty within the same vessel (s), when performed","Experimental /
+Investigational - Yes",CareCore National,
+Radiation Oncology,01-Brachy,0395T,"High dose rate electronic brachytherapy, interstitial or intracavitary treatment, per fraction, includes basic dosimetry, when
+performed",Yes,CareCore National,
+Radiation Oncology,01-Brachy,77316,"Brachytherapy isodose plan; simple (calculation[s] made from 1 to 4 sources, or remote afterloading brachytherapy, 1
+channel), includes basic dosimetry calculation(s)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,01-Brachy,77317,"Brachytherapy isodose plan; intermediate (calculation[s] made from 5 to 10 sources, or remote afterloading brachytherapy, 2-
+12 channels), includes basic dosimetry calculation(s)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,01-Brachy,77318,"Brachytherapy isodose plan; complex (calculation[s] made from over 10 sources, or remote afterloading brachytherapy, over
+12 channels), includes basic dosimetry calculation(s)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,77436,"Surface radiation therapy; superficial or orthovoltage, treatment planning and simulation-aided field setting","No - Claim Policies
+Apply",CareCore National,CMS Addition Effective 01/01/26

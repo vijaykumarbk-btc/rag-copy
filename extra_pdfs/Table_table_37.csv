@@ -1,0 +1,73 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Radiation Oncology,11-Proton,S8030,Scleral application of tantalum ring(s) for localization of lesions for proton beam therapy,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,15-Management,77427,"Radiation treatment management, 5 treatments","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,15-Management,77431,Radiation therapy management with complete course of therapy consisting of 1 or 2 fractions only,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,15-Management,77470,"Special treatment procedure (eg, total body irradiation, hemibody radiation, per oral or endocavitary irradiation)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,15-Management,77499,"Unlisted procedure, therapeutic radiology treatment management","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,17-planning,77261,Therapeutic radiology treatment planning; simple,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,17-planning,77262,Therapeutic radiology treatment planning; intermediate,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,17-planning,77263,Therapeutic radiology treatment planning; complex,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,17-planning,77280,Therapeutic radiology simulation-aided field setting; simple,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,17-planning,77285,Therapeutic radiology simulation-aided field setting; intermediate,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,17-planning,77290,Therapeutic radiology simulation-aided field setting; complex,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,17-planning,77293,Respiratory motion management simulation (List separately in addition to code for primary procedure),"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,19-Delivery,77402,"Radiation treatment delivery; Level 1 (eg, single-electron field, multiple-electron fields, or 2D photons), including imaging
+guidance, when performed",Yes,CareCore National,
+Radiation Oncology,19-Delivery,77407,"Radiation treatment delivery; Level 2, single-isocenter (eg, 3D or IMRT), photons, including imaging guidance, when
+performed",Yes,CareCore National,
+Radiation Oncology,19-Delivery,77412,"Radiation treatment delivery; Level 3, multiple isocenters with photon therapy (eg, 2D, 3D, or IMRT) or a single-isocenter
+photon therapy (eg, 3D or IMRT) with active motion management, or total skin electrons, or mixed-electron/photon field(s),
+including imaging guidance, when performed",Yes,CareCore National,
+Radiation Oncology,19-Delivery,77417,Therapeutic radiology port image(s),"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,21-Guidance,77387,"Guidance for localization of target volume for delivery of radiation treatment, includes intrafraction tracking, when performed",Yes,CareCore National,
+Radiation Oncology,23-Devices,77295,"3-dimensional radiotherapy plan, including dose-volume histograms","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77300,"Basic radiation dosimetry calculation, central axis depth dose calculation, TDF, NSD, gap calculation, off axis factor, tissue
+inhomogeneity factors, calculation of non-ionizing radiation surface and depth dose, as required during course of treatment,
+only when prescribed by the treating physician","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77306,"Teletherapy isodose plan; simple (1 or 2 unmodified ports directed to a single area of interest), includes basic dosimetry
+calculation(s)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77307,"Teletherapy isodose plan; complex (multiple treatment areas, tangential ports, the use of wedges, blocking, rotational beam,
+or special beam considerations), includes basic dosimetry calculation(s)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77321,"Special teletherapy port plan, particles, hemibody, total body","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77331,"Special dosimetry (eg, TLD, microdosimetry) (specify), only when prescribed by the treating physician","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77332,"Treatment devices, design and construction; simple (simple block, simple bolus)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77333,"Treatment devices, design and construction; intermediate (multiple blocks, stents, bite blocks, special bolus)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77334,"Treatment devices, design and construction; complex (irregular blocks, special shields, compensators, wedges, molds or
+casts)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77336,"Continuing medical physics consultation, including assessment of treatment parameters, quality assurance of dose delivery,
+and review of patient treatment documentation in support of the radiation oncologist, reported per week of therapy","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77370,Special medical radiation physics consultation,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,23-Devices,77399,"Unlisted procedure, medical radiation physics, dosimetry and treatment devices, and special services","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,25-Radiopharm,79005,"Radiopharmaceutical therapy, by oral administration",Yes,CareCore National,
+Radiation Oncology,25-Radiopharm,79101,"Radiopharmaceutical therapy, by intravenous administration",Yes,CareCore National,"EviCore Radiation Oncology Program Effective
+01/01/19 Addition"
+Radiation Oncology,25-Radiopharm,A9513,"Lutetium lu 177, dotatate, therapeutic, 1 millicurie",Yes,CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"

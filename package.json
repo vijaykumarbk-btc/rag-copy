@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@llamaindex/liteparse": "^2.13.1",
+    "@llamaindex/liteparse-wasm": "^2.13.1"
+  }
+}

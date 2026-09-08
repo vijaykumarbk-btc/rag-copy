@@ -1,0 +1,74 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Musculoskeletal,Spine Surgery,27280,"Arthrodesis, sacroiliac joint, open, includes obtaining bone graft, including instrumentation, when performed",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,27278,"Arthrodesis, sacroiliac joint, percutaneous or minimally invasive, with image guidance, includes obtaining bone graft when
+performed, unilateral; placement of intra-articular device(s), without cortical piercing",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,27279,"Arthrodesis, sacroiliac joint, percutaneous or minimally invasive, with image guidance, includes obtaining bone graft when
+performed, unilateral; placement of transarticular device(s) and/or intra-articular device(s) piercing the lateral or medial
+cortices of the ilium and the lateral cortex of the sacrum",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,20936,"Autograft for spine surgery only (includes harvesting the graft); local (eg, ribs, spinous process, or laminar fragments)
+obtained from same incision (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,20937,"Autograft for spine surgery only (includes harvesting the graft); morselized (through separate skin or fascial incision) (List
+separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,20938,"Autograft for spine surgery only (includes harvesting the graft); structural, bicortical or tricortical (through separate skin or
+fascial incision) (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63078,"Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; thoracic, each
+additional interspace (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63077,"Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; thoracic, single
+interspace",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,20975,Electrical Stimulation To Aid Bone Healing; Invasive (Operative),Yes,CareCore National,
+Musculoskeletal,Spine Surgery,62380,"Endoscopic Decompression Of Spinal Cord, Nerve Root(S), Including Laminotomy, Partial Facetectomy, Foraminotomy,
+Discectomy And/Or Excision Of Herniated Intervertebral Disc, 1 Interspace, Lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,62290,"Injection procedure for discography, each level; lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22853,"Insertion of interbody biomechanical device(s) (eg, synthetic cage, mesh) with integral anterior instrumentation for device
+anchoring (eg, screws, flanges), when performed, to intervertebral disc space in conjunction with interbody arthrodesis, each
+interspace (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22867,"Insertion Of Interlaminar/Interspinous Process Stabilization/Distraction Device, Without Fusion, Including Image Guidance
+When Performed, With Open Decompression, Lumbar; Single Level",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22868,"Insertion of interlaminar/interspinous process stabilization/distraction device, without fusion, including image guidance when
+performed, with open decompression, lumbar; second level (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22869,"Insertion Of Interlaminar/Interspinous Process Stabilization/Distraction Device, Without Open Decompression Or Fusion,
+Including Image Guidance When Performed, Lumbar; Single Level",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22870,"Insertion of interlaminar/interspinous process stabilization/distraction device, without open decompression or fusion, including
+image guidance when performed, lumbar; second level (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22854,"Insertion of intervertebral biomechanical device(s) (eg, synthetic cage, mesh) with integral anterior instrumentation for device
+anchoring (eg, screws, flanges), when performed, to vertebral corpectomy(ies) (vertebral body resection, partial or complete)
+defect, in conjunction with interbody arthrodesis, each contiguous defect (List separately in addition to code for primary
+procedure)",Add‑On,CareCore National,
+Musculoskeletal,Spine Surgery,22859,"Insertion of intervertebral biomechanical device(s) (eg, synthetic cage, mesh, methylmethacrylate) to intervertebral disc
+space or vertebral body defect without interbody arthrodesis, each contiguous defect (List separately in addition to code for
+primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22841,Internal spinal fixation by wiring of spinous processes (List separately in addition to code for primary procedure),Add On,CareCore National,
+Musculoskeletal,Spine Surgery,C1821,Interspinous process distraction device (implantable),Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63001,"Laminectomy With Exploration And/Or Decompression Of Spinal Cord And/Or Cauda Equina, Without Facetectomy,
+Foraminotomy Or Discectomy (Eg, Spinal Stenosis), 1 Or 2 Vertebral Segments; Cervical",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63005,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy
+or discectomy (eg, spinal stenosis), 1 or 2 vertebral segments; lumbar, except for spondylolisthesis",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63015,"Laminectomy With Exploration And/Or Decompression Of Spinal Cord And/Or Cauda Equina, Without Facetectomy,
+Foraminotomy Or Discectomy (Eg, Spinal Stenosis), More Than 2 Vertebral Segments; Cervical",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63017,"Laminectomy With Exploration And/Or Decompression Of Spinal Cord And/Or Cauda Equina, Without Facetectomy,
+Foraminotomy Or Discectomy (Eg, Spinal Stenosis), More Than 2 Vertebral Segments; Lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63016,"Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy
+or discectomy (eg, spinal stenosis), more than 2 vertebral segments; thoracic",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63012,"Laminectomy with removal of abnormal facets and/or pars inter-articularis with decompression of cauda equina and nerve
+roots for spondylolisthesis, lumbar (Gill type procedure)",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63047,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or
+nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63048,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or
+nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; each additional vertebral segment, cervical,
+thoracic, or lumbar (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63045,"Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or
+nerve root[s], [eg, spinal or lateral recess stenosis]), single vertebral segment; cervical",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63044,"Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or
+excision of herniated intervertebral disc, reexploration, single interspace; each additional lumbar interspace (List separately in
+addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63042,"Laminotomy (Hemilaminectomy), With Decompression Of Nerve Root(S), Including Partial Facetectomy, Foraminotomy
+And/Or Excision Of Herniated Intervertebral Disc, Reexploration, Single Interspace; Lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63020,"Laminotomy (Hemilaminectomy), With Decompression Of Nerve Root(S), Including Partial Facetectomy, Foraminotomy
+And/Or Excision Of Herniated Intervertebral Disc; 1 Interspace, Cervical",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63030,"Laminotomy (Hemilaminectomy), With Decompression Of Nerve Root(S), Including Partial Facetectomy, Foraminotomy
+And/Or Excision Of Herniated Intervertebral Disc; 1 Interspace, Lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22505,"Manipulation of spine requiring anesthesia, any region","Experimental /
+Investigational - Yes",CareCore National,

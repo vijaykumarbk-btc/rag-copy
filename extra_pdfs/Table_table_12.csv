@@ -1,0 +1,76 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Other Services,Unlisted Procedure,94799,Unlisted pulmonary service or procedure,Yes,CareCore National,
+Other Services,Unlisted Procedure,99199,"Unlisted special service, procedure or report",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",42140,"Uvulectomy, excision of uvula",Yes,CareCore National,
+Other Services,Potentially Cosmetic,57110,"Vaginectomy, complete removal of vaginal wall;",Yes,CareCore National,
+Other Services,Outpatient Surgery,57335,Vaginoplasty for intersex state,Yes,CareCore National,
+Other Services,Potentially Cosmetic,56620,Vulvectomy simple; partial,Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4162,"Woundex flow, bioskin flow, 0.5 cc",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4163,"Woundex, bioskin, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4234,"Xcellerate, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",A2004,"Xcellistem, 1 mg",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4253,"Zenith amniotic membrane, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Cardiology,CCTA,75577,"Quantification and characterization of coronary atherosclerotic plaque to assess severity of coronary disease, derived from
+augmentative software analysis of the data set from a coronary computed tomographic angiography, with interpretation and
+report by a physician or other qualified health care professional",Yes,MedSolutions,
+Cardiology,CCTA,C9793,"3D predictive model generation for pre-planning of a cardiac procedure, using data from cardiac computed tomographic
+angiography and/or magnetic resonance imaging with report",Yes,MedSolutions,
+Cardiology,"Cardiac
+Electrophysiology",93657,"Additional linear or focal intracardiac catheter ablation of the left or right atrium for treatment of atrial fibrillation remaining
+after completion of pulmonary vein isolation (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Cardiology,MR,C9762,"Cardiac magnetic resonance imaging for morphology and function, quantification of segmental dysfunction; with strain
+imaging",Yes,MedSolutions,
+Cardiology,MR,C9763,"Cardiac magnetic resonance imaging for morphology and function, quantification of segmental dysfunction; with stress
+imaging",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93454,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,C7557,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation with left heart catheterization including intraprocedural injection(s) for left
+ventriculography, when performed and intraprocedural coronary fractional flow reserve (FFR) with 3D functional mapping of
+color-coded FFR values for the coronary tree, derived from coronary angiogram data, for real-time review and interpretation of
+possible atherosclerotic stenosis(es) intervention",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93455,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation; with catheter placement(s) in bypass graft(s) (internal mammary, free
+arterial venous grafts) including intraprocedural injection(s) for bypass graft angiography",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93457,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation; with catheter placement(s) in bypass graft(s) (internal mammary, free
+arterial, venous grafts) including intraprocedural injection(s) for bypass graft angiography and right heart catheterization",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93458,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation; with left heart catheterization including intraprocedural injection(s) for
+left ventriculography, when performed",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93459,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation; with left heart catheterization including intraprocedural injection(s) for
+left ventriculography, when performed, catheter placement(s) in bypass graft(s) (internal mammary, free arterial, venous
+grafts) with bypass graft angiography",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93460,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation; with right and left heart catheterization including intraprocedural
+injection(s) for left ventriculography, when performed",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93461,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation; with right and left heart catheterization including intraprocedural
+injection(s) for left ventriculography, when performed, catheter placement(s) in bypass graft(s) (internal mammary, free
+arterial, venous grafts) with bypass graft angiography",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93456,"Catheter placement in coronary artery(s) for coronary angiography, including intraprocedural injection(s) for coronary
+angiography, imaging supervision and interpretation; with right heart catheterization",Yes,MedSolutions,
+Cardiology,Cardiac Catheterization,93453,"Combined right and left heart catheterization including intraprocedural injection(s) for left ventriculography, imaging
+supervision and interpretation, when performed",Yes,MedSolutions,
+Cardiology,"Cardiac
+Electrophysiology",93621,"Comprehensive electrophysiologic evaluation including insertion and repositioning of multiple electrode catheters with
+induction or attempted induction of arrhythmia; with left atrial pacing and recording from coronary sinus or left atrium (List
+separately in addition to code for primary procedure)",Add On,CareCore National,
+Cardiology,"Cardiac
+Electrophysiology",93622,"Comprehensive electrophysiologic evaluation including insertion and repositioning of multiple electrode catheters with
+induction or attempted induction of arrhythmia; with left ventricular pacing and recording (List separately in addition to code
+for primary procedure)",Add On,CareCore National,
+Cardiology,"Cardiac
+Electrophysiology",93620,"Comprehensive electrophysiologic evaluation including insertion and repositioning of multiple electrode catheters with
+induction or attempted induction of arrhythmia; with right atrial pacing and recording, right ventricular pacing and recording,
+His bundle recording",Yes,CareCore National,

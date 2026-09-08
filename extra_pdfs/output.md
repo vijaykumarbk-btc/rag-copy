@@ -1,0 +1,7416 @@
+Instructions for use
+
+The following coverage policy applies to health benefit plans administered by Cigna. Coverage policies are intended to provide guidance in interpreting certain standard Cigna benefit plans and are used by medical directors and other health care professionals in making medical necessity and other coverage determinations. Please note the terms of a customer's particular benefit plan document may differ significantly from the standard benefit plans upon which these coverage policies are based. For example, a customer's benefit plan document may contain a specific exclusion related to a topic addressed in a coverage policy.
+
+In the event of a conflict, a customer's benefit plan document always supersedes the information in the coverage policy. In the absence of federal or state coverage mandates, benefits are ultimately determined by the terms of the applicable benefit plan document. Coverage determinations in each specific instance require consideration of:
+
+1. The terms of the applicable benefit plan document in effect on the date of service
+2. Any applicable laws and regulations
+3. Any relevant collateral source materials including coverage policies
+4. The specific facts of the particular situation
+
+Coverage policies relate exclusively to the administration of health benefit plans. Coverage policies are not recommendations for treatment and should never be used as treatment guidelines.
+
+This evidence-based medical coverage policy has been developed by EviCore, Inc. Some information in this coverage policy may not apply to all benefit plans administered by Cigna.
+
+These guidelines include procedures EviCore does not review for Cigna. Please refer to the Cigna CPT code list for the current list of high-tech imaging procedures that EviCore reviews for Cigna.
+
+CPT ®  (Current Procedural Terminology) is a registered trademark of the American Medical Association (AMA). CPT ®  five-digit codes, nomenclature and other data are copyright 2024 American Medical Association. All Rights Reserved. No fee schedules, basic units, relative values or related listings are included in the CPT book. AMA does not directly or indirectly practice medicine or dispense medical services. AMA assumes no liability for the data contained herein or not contained herein.
+
+CLINICAL GUIDELINES Radiation Oncology
+
+Effective Date: March 1, 2025
+
+## NCCN Notice
+
+All information provided by the NCCN is "Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ™ ) © 2017, 2018, 2019, 2020, 2021, 2022, 2023, and 2024 National Comprehensive Cancer Network. The NCCN Guidelines ™  and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines, go online to NCCN.org."
+
+NCCN Notice
+
+Table of Contents
+
+| Guideline                                                                                                                         | Page                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| NCCN Notice....................................................................................................................2  |                                                                                     |
+| General Information........................................................................................................5      |                                                                                     |
+| Preface to the Radiation Oncology Guidelines................................................................                      | 6                                                                                   |
+| Abbreviations and Definitions for Radiation Oncology Guidelines...................................                                | 8                                                                                   |
+| Radiation Oncology Guidelines For Special Techniques.........................................                                     | 13                                                                                  |
+| Biology-Guided Radiation Therapy (BgRT)....................................................................14                     |                                                                                     |
+| Brachytherapy of the Coronary                                                                                                     | Arteries.........................................................................16 |
+| Hyperthermia...................................................................................................................25 |                                                                                     |
+| Image-Guided Radiation Therapy (IGRT).......................................................................28                    |                                                                                     |
+| Neutron Beam Therapy..................................................................................................            | 32                                                                                  |
+| Proton Beam Therapy.....................................................................................................34        |                                                                                     |
+| Radiation Oncology Guidelines For Treatment by Site............................................                                   | 83                                                                                  |
+| Adrenocortical Carcinoma...............................................................................................84         |                                                                                     |
+| Anal Canal Cancer..........................................................................................................87     |                                                                                     |
+| Bladder Cancer...............................................................................................................90   |                                                                                     |
+| Bone Metastases............................................................................................................       | 94                                                                                  |
+| Brain Metastases............................................................................................................      | 99                                                                                  |
+| Breast Cancer...............................................................................................................108   |                                                                                     |
+| Cervical Cancer.............................................................................................................124   |                                                                                     |
+| Endometrial Cancer......................................................................................................          | 131                                                                                 |
+| Esophageal Cancer.......................................................................................................136       |                                                                                     |
+| Gastric Cancer..............................................................................................................141   |                                                                                     |
+| Head and Neck Cancer................................................................................................144           |                                                                                     |
+| Hepatobiliary Cancer.....................................................................................................148      |                                                                                     |
+| Hodgkin Lymphoma......................................................................................................            | 154                                                                                 |
+| Kidney Cancer...............................................................................................................159   |                                                                                     |
+| Multiple Myeloma and Solitary Plasmacytomas...........................................................162                         |                                                                                     |
+| Non-Hodgkin Lymphoma..............................................................................................                | 166                                                                                 |
+| Non-Malignant Disorders..............................................................................................             | 170                                                                                 |
+| Non-Small Cell Lung Cancer........................................................................................189             |                                                                                     |
+| Oligometastases............................................................................................................200    |                                                                                     |
+| Other Cancers...............................................................................................................212   |                                                                                     |
+| Pancreatic Cancer.........................................................................................................213     |                                                                                     |
+| Primary Craniospinal Tumors and Neurologic Conditions............................................219                              |                                                                                     |
+| Prostate Cancer............................................................................................................227    |                                                                                     |
+| Rectal Cancer...............................................................................................................      | 241                                                                                 |
+
+| Skin Cancer- Melanoma...............................................................................................         | 247                                                                                                                          |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Skin Cancer- Non-Melanoma.......................................................................................             | 251                                                                                                                          |
+| Small Cell Lung Cancer................................................................................................257    |                                                                                                                              |
+| Soft Tissue Sarcomas...................................................................................................263   |                                                                                                                              |
+| Testicular Cancer..........................................................................................................  | 268                                                                                                                          |
+| Thymoma and Thymic Cancer.....................................................................................               | 271                                                                                                                          |
+| Urethral Cancer and Cancers of the Ureter and Renal Pelvis.....................................                              | 275                                                                                                                          |
+| Vulvar Cancer............................................................................................................... | 277                                                                                                                          |
+| Radiation Oncology Guidelines For Radiopharmaceuticals..................................                                     | 282                                                                                                                          |
+| Azedra ® (iobenguane I-131).........................................................................................283      |                                                                                                                              |
+| 177 Lu-dotatate (Lutathera ® )...........................................................................................286 |                                                                                                                              |
+| Selective Internal Radiation Therapy (SIRT)................................................................292               |                                                                                                                              |
+| Pluvicto ® (lutetium Lu 177 vipivotide tetraxetan)..........................................................299              |                                                                                                                              |
+| Xofigo ® (Radium-223)...................................................................................................301  |                                                                                                                              |
+| Zevalin ®                                                                                                                    | .........................................................................................................................303 |
+| Key Updates................................................................................................................  | 315                                                                                                                          |
+| Cigna V1.0.2025 Key Updates: Radiation Oncology Guidelines..................................316                              |                                                                                                                              |
+
+## General Information
+
+General Information
+
+### Preface to the Radiation Oncology Guidelines
+
+RO.AD.100.C
+
+v2.0.2024
+
+Prior Authorization Requirements
+
+The most appropriate medically necessary treatment regimen for each individual is evaluated using an evidence-based approach. For requests that fall outside of guidelines, submission of medical records are needed to document an individual's current clinical status and why an exception to policy is being requested. Without this information, medical necessity for the request cannot be established.
+
+Specific elements of an individual's medical records commonly required to establish medical necessity include, but are not limited to:
+
+- Recent (within 60 days) virtual or in-person Radiation Oncology consultation which includes a detailed history, physical examination and diagnosis including stage of disease and type of tumor
+
+- Radiation prescription and treatment plan(s) including the documentation of the technique and number of treatments (fractions) prescribed
+
+- Imaging studies (ie, those ordered to stage an individual)
+
+- Reports from other providers participating in treatment of the relevant condition
+
+Out of Scope Treatments
+
+- Requests for Optune ® , MRgFUS (MR-guided focused ultrasound), GliaSite ® and HIPEC (Hyperthermic Intraperitoneal Chemotherapy) are not reviewed as part of this program and, as such, these requests should be directed to Cigna.
+
+- In addition, requests for radiation treatment given to an individual during an inpatient stay (ie, non-breast IORT) should be directed to Cigna.
+
+Similar or Duplicate Requests
+
+- Requests that are similar or duplicative to a treatment recently approved will require additional individual clinical information to determine medical necessity.
+
+Sequential Versus Concurrent Requests
+
+- When multiple lesions are present in a single episode of care, treatment should be delivered concurrently, rather than sequentially.
+
+Medicare Coverage Policies
+
+- See the Medicaid and Medicare Hierarchy and Application .
+
+Experimental, Investigational or Unproven (EIU) Studies
+
+- See the Guideline Definitions .
+
+Clinical and Research Trials
+
+- Clinical trial requests will be considered to determine whether they meet Cigna coverage and these evidence-based clinical guidelines.
+
+Radiopharmaceuticals
+
+- All radiopharmaceuticals approved by the United States Food &amp; Drug Administration (FDA) and used for the direct treatment of cancer are subject to governance within this document.
+
+- All U.S. Food and Drug Administration (FDA) approved radiopharmaceuticals used for direct cancer treatment not currently addressed in these Radiation Oncology Guidelines will be recognized as medically necessary when used in accordance with the FDA indication.
+
+Legislative Mandate
+
+- State and federal legislations may need to be considered in the review of radiation oncology requests.
+
+### Abbreviations and Definitions for Radiation Oncology Guidelines
+
+RO.AD.101.C
+
+v2.0.2024
+
+| Abbreviation   | Definition                                    |
+|----------------|-----------------------------------------------|
+| 3D             | Three-dimensional                             |
+| 3DCRT          | Three-dimensional conformal radiation therapy |
+| ACR            | American College of Radiology                 |
+| ADT            | Androgen deprivation therapy                  |
+| AJCC           | American Joint Committee on Cancer            |
+| AML            | Acute myeloid leukemia                        |
+| APBI           | Accelerated partial breast irradiation        |
+| AP-PA          | Anteroposterior-posteroanterior               |
+| ASTRO          | American Society for Radiation Oncology       |
+| BgRT           | Biology-guided radiation therapy              |
+| Brachy         | Brachytherapy                                 |
+| BUN            | Blood urea nitrogen                           |
+| CALGB          | Cancer and Leukemia Group B                   |
+| CBC            | Complete blood count                          |
+| CNS            | Central nervous system                        |
+| CRA            | Cardiac radioablation                         |
+| CT             | Computed tomography                           |
+| DES            | Drug-eluting stent                            |
+| DIBH           | Deep inspiration breath hold                  |
+| DLBCL          | Diffuse large B cell lymphoma                 |
+| EBRT           | External beam radiation therapy               |
+| ECOG           | Eastern Cooperative Oncology Group            |
+
+| Abbreviation   | Definition                                                 |
+|----------------|------------------------------------------------------------|
+| EORTC          | European Organisation for Research and Treatment of Cancer |
+| EIU            | Experimental, investigational or unproven                  |
+| FDA            | Food and Drug Administration                               |
+| FIGO           | International Federation of Gynecology and Obstetrics      |
+| GOG            | Gynecologic Oncology Group                                 |
+| GS             | Gleason score                                              |
+| Gy             | Gray                                                       |
+| HA-WBRT        | Hippocampal-avoidance whole brain radiation therapy        |
+| HDR            | High-dose rate                                             |
+| IGRT           | Image-guided radiation therapy                             |
+| ILROG          | International Lymphoma Radiation Oncology Group            |
+| IMRT           | Intensity-modulated radiation therapy                      |
+| IORT           | Intraoperative radiation therapy                           |
+| IRF            | Intermediate risk factor                                   |
+| KPS            | Karnofsky performance status                               |
+| LDH            | Lactate dehydrogenase                                      |
+| LDR            | Low-dose rate                                              |
+| MDS            | Myelodysplastic syndrome                                   |
+| MRI            | Magnetic resonance imaging                                 |
+| NCCN ®         | National Comprehensive Cancer Network                      |
+| NK             | Natural killer                                             |
+| NSABP          | National Surgical Adjuvant Breast and Bowel Project        |
+| NSCLC          | Non-small cell lung cancer                                 |
+| OS             | Overall survival                                           |
+
+| Abbreviation   | Definition                                                   |
+|----------------|--------------------------------------------------------------|
+| PBT            | Proton beam therapy                                          |
+| PCI            | Prophylactic cranial irradiation                             |
+| PET            | Positron emission tomography                                 |
+| PFS            | Progression free survival                                    |
+| PSA            | Prostate specific antigen                                    |
+| PTV            | Planning target volume                                       |
+| QUANTEC        | Quantitative Analysis of Normal Tissue Effects in the Clinic |
+| RECIST         | Response Evaluation Criteria in Solid Tumors                 |
+| RFS            | Relapse-free survival                                        |
+| RTOG           | Radiation Therapy Oncology Group                             |
+| SBRT           | Stereotactic body radiation therapy                          |
+| SCLC           | Small cell lung cancer                                       |
+| SEER           | Surveillance, Epidemiology, and End Results Program          |
+| SRS            | Stereotactic radiosurgery                                    |
+| SWOG           | Southwest Oncology Group                                     |
+| TBI            | Total body irradiation                                       |
+| VMAT           | Volumetric modulated arc therapy                             |
+| WBRT           | Whole brain radiation therapy                                |
+| WHO            | World Health Organization                                    |
+
+#### Definitions
+
+The Karnofsky Performance Status and the ECOG Performance Status are commonly used to assess the functional status of an individual. These two commonly accepted scales help: a.) classify an individual according to their functional impairment, b.) compare the effectiveness of therapies, and c.) assess the prognosis of an individual.
+
+Karnofsky scale
+
+The Karnofsky Performance Scale Index is a scale used to classify an individual according to functional impairment to assess their prognosis. The scale is scored using percentages for functional capacity ranging from normal health to death. The scale includes the following:
+
+|   Index | Specific criteria                                                            | General category                                                                                                    |
+|---------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+|     100 | Normal, no complaints, no evidence of disease.                               | Able to carry on normal activity; no special care needed.                                                           |
+|      90 | Able to carry on normal activity, minor signs or symptoms of disease.        | Able to carry on normal activity; no special care needed.                                                           |
+|      80 | Normal activity with effort, some signs or symptoms of disease.              | Able to carry on normal activity; no special care needed.                                                           |
+|      70 | Cares for self, unable to carry on normal activity or to do active work.     | Unable to work, able to live at home and care for most personal needs, varying amount of assistance needed.         |
+|      60 | Requires occasional assistance from others but able to care for most needs.  | Unable to work, able to live at home and care for most personal needs, varying amount of assistance needed.         |
+|      50 | Requires considerable assistance from others and frequent medical care.      | Unable to work, able to live at home and care for most personal needs, varying amount of assistance needed.         |
+|      40 | Disabled, requires special care and assistance.                              | Unable to care for self, requires institutional or hospital care or equivalent, disease may be rapidly progressing. |
+|      30 | Severely disabled, hospitalization indicated, death not imminent.            | Unable to care for self, requires institutional or hospital care or equivalent, disease may be rapidly progressing. |
+|      20 | Very sick, hospitalization necessary, active supportive treatment necessary. | Unable to care for self, requires institutional or hospital care or equivalent, disease may be rapidly progressing. |
+|      10 | Moribund                                                                     | Unable to care for self, requires institutional or hospital care or equivalent, disease may be rapidly progressing. |
+|       0 | Dead                                                                         | Unable to care for self, requires institutional or hospital care or equivalent, disease may be rapidly progressing. |
+
+| Index                                                                                                                                                                                                                                                           | Specific criteria                                                                                                                                                                                                                                               | General category                                                                                                                                                                                                                                                |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Mor V, Laliberte L, Morris JN, Wiemann M. The Karnofsky Performance Status Scale. An examination of its reliability and validity in a research setting. Cancer . 1984;53(9):2002-2007. doi:10.1002/1097-0142(19840501)53:9<2002::aid- cncr2820530933>3.0.co;2-w | Mor V, Laliberte L, Morris JN, Wiemann M. The Karnofsky Performance Status Scale. An examination of its reliability and validity in a research setting. Cancer . 1984;53(9):2002-2007. doi:10.1002/1097-0142(19840501)53:9<2002::aid- cncr2820530933>3.0.co;2-w | Mor V, Laliberte L, Morris JN, Wiemann M. The Karnofsky Performance Status Scale. An examination of its reliability and validity in a research setting. Cancer . 1984;53(9):2002-2007. doi:10.1002/1097-0142(19840501)53:9<2002::aid- cncr2820530933>3.0.co;2-w |
+
+Eastern Cooperative Oncology Group (ECOG) performance scale
+
+The ECOG performance scale is used to measure an individual's level of functioning, specifically their: a.) ability to care for themselves, b.) daily activity, and c.) physical ability. The ECOG scale includes the following grades:
+
+| GRADE                                                                                               | ECOG PERFORMANCE STATUS                                                                                                                                   |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0                                                                                                   | Fully active, able to carry on all pre- disease performance without restriction                                                                           |
+| 1                                                                                                   | Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature, e.g., light house work, office work |
+| 2                                                                                                   | Ambulatory and capable of all selfcare but unable to carry out any work activities; up and about more than 50% of waking hours                            |
+| 3                                                                                                   | Capable of only limited selfcare; confined to bed or chair more than 50% of waking hours                                                                  |
+| 4                                                                                                   | Completely disabled; cannot carry on any selfcare; totally confined to bed or chair                                                                       |
+| 5                                                                                                   | Dead                                                                                                                                                      |
+| ECOG performance status. ECOG-ACRIN.org. https://ecog-acrin.org/resources/ecog- performance-status. | ECOG performance status. ECOG-ACRIN.org. https://ecog-acrin.org/resources/ecog- performance-status.                                                       |
+
+#### References
+
+1. ECOG performance status. ECOG-ACRIN.org. https://ecog-acrin.org/resources/ecog-performance-status.
+
+2. Karnofsky Scale. Cancer.gov. https://training.seer.cancer.gov/followup/procedures/dataset/karnofsky.html
+
+3. Mor V, Laliberte L, Morris JN, Wiemann M. The Karnofsky Performance Status Scale. An examination of its reliability and validity in a research setting. Cancer . 1984;53(9):2002-2007. doi:10.1002/1097-0142(19840501)53:9&lt;2002::aid-cncr2820530933&gt;3.0.co;2-w
+
+## Radiation Oncology Guidelines For Special Techniques
+
+Radiation Oncology Guidelines For Special Techniques
+
+### Biology-Guided Radiation Therapy (BgRT)
+
+#### POLICY
+
+#### DISCUSSION
+
+As noted by Centers for Medicare &amp; Medicaid Services (CMS) Healthcare Common Procedure Coding System (HCPCS) Application Summaries and Coding Recommendations, biology-guided radiotherapy (BgRT) delivery is "distinct from conventional forms of EBRT as it requires an injected radiopharmaceutical to enable ongoing acquisition of emissions data during radiotherapy delivery and these emissions data are used to control where and how much radiation is delivered, through real-time, sub-second latency beam adjustments during treatment". 1 The treatment "includes modeling and precise delivery of FDG-guided external-beam radiation therapy (EBRT)". 1
+
+CMS established new reimbursement codes (A9609, C9794 and C9795) through the New Technology Ambulatory Payment Classification (APC) pathway for the modeling, delivery, and FDG of BgRT treatment. 2,3 The APC pathway for New technology APC is reserved for new services that require time for sufficient claims data to be collected in order to assign the service to an appropriate clinical APC group. 4 Scintix BgRT has received FDA clearance for treatment of primary and metastatic tumors in lung and bone. 5
+
+There is limited clinical evidence demonstrating the utility of BgRT, thus BgRT is not medically necessary for all indications and diagnoses.
+
+#### References
+
+https://www.cms.gov/files/document/2023-hcpcs-application-summary-quarter-3-2023-drugs-and-biologicalsposted-10/17/2023-updated-12/28.pdf
+
+- I. Biology-guided radiation therapy is considered not medically necessary for all indications and diagnoses.
+
+1. Department of Health &amp; Human Services. Centers for Medicare &amp; Medicaid Services (CMS) healthcare common procedure coding system (HCPCS) application summaries and coding recommendations. Third quarter, 2023 HCPCS coding cycle. Revised on December 7, 2023.
+
+RO.RST.146.A
+
+v2.0.2024
+
+2. RefleXion. CMS assigns accretive reimbursement for RefleXion's breakthrough SCINTIX therapy. Published January 11, 2024. https://reflexion.com/press-releases/cms-assigns-accretive-reimbursement-for-reflexionsbreakthrough-scintix-therapy/
+
+3. Our technology - RefleXion. https://reflexion.com/scintix-therapy/
+
+4. Process and Information Required for a New Technology Ambulatory Payment Classification (APC) Assignment Under the Hospital Outpatient Prospective Payment System (OPPS)
+
+5. RefleXion. RefleXion receives FDA clearance for SCINTIX biology-guided radiotherapy; cutting-edge treatment applicable for early and late-stage cancers. Published February 2, 2023. https://reflexion.com/press-releases/ reflexion-receives-fda-clearance-for-scintix-biology-guided-radiotherapy-cutting-edge-treatment-applicable-forearly-and-late-stage-cancers/
+
+### Brachytherapy of the Coronary Arteries
+
+RO.RST.102.C v2.0.2024
+
+POLICY
+
+- I. A single treatment of coronary artery brachytherapy is considered medically necessary for EITHER of the following:
+
+- A. When used as an adjunct to percutaneous coronary intervention (PCI) for treatment of in-stent restenosis (ISR) in a native coronary artery or saphenous vein graft (SVG) stent
+
+- B. For recurrent ISR who are not candidates for repeat drug-eluting stents (DES) or bypass surgery
+
+- II. All other indications are considered not medically necessary.
+
+#### DISCUSSION
+
+Revascularization of obstructed arteries due to coronary artery disease (CAD) may be accomplished by PCI with balloon angioplasty, a minimally-invasive procedure in which a catheter with an inflatable balloon at the tip is inserted into the lumen of the artery and inflated, dilating the area of blockage. Coronary stents are implanted in most patients during PCI, resulting in lower rates of restenosis compared to balloon angioplasty alone. Several DES have been developed to minimize the incidence of restenosis, and represent approximately 70% to 90% of stent implantations. The choice of stent (bare metal vs. drug-eluting) depends on various factors, including lesion location and morphology, patient characteristics, and the patient's ability to adhere to the extended period of dual antiplatelet therapy required for drug-eluting stents. In-stent restenosis continues to be a significant problem with bare metal stents, and is thought to be caused by neointimal hyperplasia within the stent. Several mechanical treatments of in-stent restenosis were attempted, including balloon re-dilatation, removal of instent hyperplasia by atherectomy, and repeated bare metal stenting. Brachytherapy was introduced as a method to treat in-stent restenosis by the delivery of gamma or beta radiotherapy via a catheter-based system. Brachytherapy affects the proliferation of smooth muscle cells that are responsible for restenosis, and may be used to treat instent restenosis of native coronary arteries and SVGs. The role of brachytherapy has diminished, however, and drug-eluting stents have emerged as the preferred method of treatment for in-stent restenosis. Brachytherapy may play a role in treatment of selected patients, however.
+
+- I. In-stent restenosis of native coronary arteries and SVGs
+
+- A. Several early multicenter trials of brachytherapy demonstrated the treatment benefits of intracoronary radiation for the treatment of in-stent restenosis:
+
+1. IN itial H yperplasia I nhibition with B eta I n-stent T rial [INHIBIT] , Waksman et al (2002)
+
+2. ST ents A nd R adiation Therapy [START], Popma et al (2002)
+
+3. GAMMA-1 trial, Leon et al (2001)
+
+4. Coronary Radiation to Inhibit Proliferation Post Stenting [SCRIPPS], Teirstein et al (1997)
+
+5. Washington Radiation for In-Stent Restenosis Trial [WRIST], Ajani et al (2002)
+
+- B. Ellis et al, for the TAXUS V ISR Investigators (2008), conducted a randomized study to evaluate 2-year outcomes of treatment with a paclitaxel-eluting stent (PES) (n = 195) or brachytherapy (n = 201) in patients referred for PCI for bare metal stent in-stent restenosis. Between 9 and 24 months, ischemia-driven target lesion revascularization (TLR) tended to be required less in the PES group compared to the brachytherapy group (5.3% vs. 10.3%, p = 0.07). At 24 months, ischemia-driven TLR and ischemia-driven target vessel revascularization (TVR) were significantly reduced in the PES group compared to the brachytherapy group (10.1% vs. 21.6%, p = 0.003, and 18.1% vs. 27.5%, p = 0.03, respectively). There were no significant differences between the 2 groups in death, myocardial infarction, or target vessel thrombosis between 12 and 24 months, or cumulative to 24 months.
+
+- C. Holmes et al, for the SISR Investigators (2008) conducted a randomized trial to evaluate the safety and efficacy of sirolimus-eluting stents (SES) (n = 259) compared to vascular brachytherapy (VBT) (n = 125) for treatment of in-stent restenosis in a bare metal stent. At 3 years, survival free from TLR or TVR was significantly improved with SES; freedom from TLR was 81.0% for SES vs. 71.6% for brachytherapy, p = 0.018; TVR was 78.2% for SES vs. 68.8% for brachytherapy, p = 0.022. Target vessel failure and major adverse cardiac events (MACE) were improved with SES but did not reach statistical significance. There was no statistically significant difference in definite or probable stent thrombosis between the 2 groups. Five-year follow-up of the SISR trial was published by Alli et al in 2012. There were no differences in safety or efficacy outcomes for treatment of BMS restenosis with SES vs. VBT. There were no significant differences in survival free from TLR, TVR, or major adverse cardiac events between the 2 groups.
+
+- D. Drug-eluting stents were compared to beta-radiation for the treatment of instent restenosis in a case series conducted by Zavalloni et al (2006). The first 68 patients (group I) were treated with brachytherapy using the Novoste™ BetaCath™ system. The latter 73 patients (group II) were treated with a Cypher™ sirolimus-eluting stent or a Taxus™ paclitaxel-eluting stent. Nine months following
+
+treatment, restenosis rates were 37.8% (28/74) for patients in group I and 14.9% (11/74) for patients in group II ( p = 0.0028). A diffuse pattern of recurrence was more frequently seen after brachytherapy (20/74 vs. 6/74, p = 0.005). The 'edge effect' following brachytherapy was associated with worse outcomes and accounted for most failures. Recurrence within the original restenotic stent was similar in both groups (12.9% vs. 14.9%, p = 0.8). Patients treated with drugeluting stents for diffuse in-stent restenosis experienced more favorable clinical and angiographic outcomes compared to a similar cohort of patients treated with beta-brachytherapy.
+
+- E. Brachytherapy has also been used to successfully treat in-stent restenosis in SVGs. The SVG-WRIST trial (Waksman et al, 2002), a randomized, double-blind, placebo-controlled trial, evaluated the effect of intravascular gamma radiation in 120 patients with in-stent restenosis in saphenous vein grafts. Patients underwent balloon angioplasty, atherectomy, additional stenting or a combination of these procedures. If the intervention was successful, patients were randomly assigned in a double-blind fashion to intravascular treatment with a ribbon containing iridium-192 (n = 60) or nonradioactive seeds (n = 60). Revascularization and radiation therapy were successful in all patients. At 6 months, the restenosis rate was lower in the iridium-192 group (21%) than in the placebo group (44%). At 12 months, revascularization of the target lesion was lower in the iridium-192 group (17%) than in the placebo group (57%). The rate of major cardiac events at 12 months was also lower in the iridium-192 group (32%) than the placebo group (63%).
+
+- F. Rha et al (2005) published a follow-up to the SVG-WRIST trial to determine whether the safety and efficacy of brachytherapy is durable. At 36 months, target lesion revascularization (TLR), repeat percutaneous transluminal coronary angioplasty (PTCA) and TLR-major adverse cardiac events (MACE) remained significantly lower in the irradiated group, although TVR and TVR-MACE did not. The beneficial effect and efficacy of irradiation declined with time and manifested with late recurrences. The authors stated that saphenous vein grafts are known to degenerate over time, and when PCI is required, the clinical outcome of these patients is markedly impaired. The outcomes of patients in the SVG-WRIST trial are driven, therefore, by the restenotic process, with a high likelihood that graft failure was a result of progression of degenerative disease within the graft or within the native coronary arteries distal to the graft. The authors concluded that patients in the SVG-WRIST trial treated with brachytherapy had a marked reduction in the need for repeat TLR at 36 months, with sustained clinical benefit at 3 years despite late recurrences, which were more pronounced in the irradiated group.
+
+- II. Meta-analyses
+
+- A. A meta-analysis by Lu et al (2012) was conducted to determine whether DES implantation remains favorable in large sample size and long-term follow-up when compared to intracoronary brachytherapy (ICBT) in patients with in-
+
+stent restenosis. The analysis included 1942 patients in 12 controlled trials (4 randomized controlled and 8 nonrandomized controlled trials). DES were significantly more effective in reducing TVR ( p = 0.009) and binary restenosis ( p &lt; 0.00001) compared to ICBT at a midterm follow-up of 6 to 12 months. There were no significant differences in cardiac death, MI, and late stent thrombosis at midterm follow-up. At a follow-up of 24 to 36 months, there continued to be no significant difference in cardiac death ( p = 0.59) or MI ( p = 0.65), although a statistically significant difference was found in TVR ( p = 0.005) in favor of DES.
+
+- B. Oliver et al (2008) conducted a meta-analysis of randomized trials assessing the outcome of brachytherapy or drug-eluting stents for the treatment of in-stent restenosis. The analysis included 14 studies/3103 patients. Neither treatment had any effect on mortality or rate of myocardial infarction. At intermediate follow-up, brachytherapy reduced the rate of revascularization, binary restenosis, and late loss compared to balloon angioplasty and selective bare metal stents alone. MACE rates were lower in patients treated with brachytherapy at both intermediate and long-term follow-up. Drug-eluting stents reduced the rate of revascularization, MACE, and binary restenosis compared to brachytherapy, but follow-up was limited to 9 months. The authors concluded that vascular brachytherapy improves the long-term outcome of angioplasty compared with bare metal stents alone in the treatment of in-stent restenosis, and drug-eluting stents appear to provide similar results during short-term follow-up.
+
+- C. Uchida et al (2006) conducted a meta-analysis of randomized controlled trials comparing intracoronary gamma- and beta-radiation therapy to placebo for in-stent restenosis. The authors assessed the comparative effectiveness of brachytherapy and of the 2 radiation sources. They also evaluated the performance of the procedure in native coronary arteries and SVG. Five randomized controlled trials that compared brachytherapy to placebo in 1310 patients were reviewed. There was considerable between-study variance, and diabetes was found to be a significant factor in this variance. In multivariate meta-regression analyses adjusted for diabetes and lesion length, neither gamma radiation source nor SVG was a significant factor for the between-study variance ( p = 0.675 and 0.433, respectively). Neither gamma radiation in SVG nor difference in radiation source (beta or gamma) in native coronary arteries was a significant factor in brachytherapy effectiveness compared to placebo. Intracoronary brachytherapy was effective compared to placebo at mid-term follow-up.
+
+- D. Additional proposed indications include:
+
+1. Intracoronary brachytherapy has been proposed as a treatment for new stenosis of native coronary arteries and SVG, as well as restenosis of native coronary arteries and SVG at the unstented site of a previous PCI.
+
+2. Brachytherapy has also been evaluated as a method of primary prevention of restenosis after stent implantation for de novo lesions.
+
+3. VBT may be used for recurrent drug-eluting stent in-stent restenosis. Recent studies have shown that VBT is safe with low recurrence rates at 1 year post procedure. It is considered to be a safe short-term method of restoring patency although repeat intervention will be eventually considered medically necessary. In a study of 186 patients with 283 lesions, Negi et al (2016), unstable angina was treated with balloon angioplasty followed by VBT. In 99% of cases, treatment was delivered without adverse effects. Similarly, Ohri et al (2016), reported on 134 patients with 141 treated lesions as well as a control group of 37 patients. This study confirmed the safety and usefulness of the procedure in a high risk population. Additional investigation was recommended
+
+- E. In the BetAce randomized trial, Ribichini et al (2006) evaluated brachytherapy for prevention of in-stent restenosis after angioplasty of de novo lesions in patients with high plasma angiotensin converting enzyme (ACE). Elevated plasma ACE levels have been proposed to increase the risk of in-stent restenosis. Thirty-one patients (33 stenoses) were randomized to stent implantation (control group), and 30 patients (31 stenoses) were randomized to brachytherapy and stented angioplasty. Following angioplasty, in-stent minimal lumen diameter (MLD) was similar in both groups. At 6 months, MLD had decreased in the control group to 1.74 ± 0.8 mm, compared to 2.25 ± 1.05 mm in the brachytherapy group. The mean in-stent diameter was 2.3 ± 0.8 mm in the control group vs. 2.9 ± 1.05 mm in the brachytherapy group, and the restenosis rate was 37.5% in the control group vs. 17.9% in the brachytherapy group. At 6 months, a higher need for TVR was seen in the control group (35.5%) than in the brachytherapy group (13.3%). The authors concluded that this study confirms that patients with high plasma ACE levels are exposed to an increased risk for in-stent restenosis and that the preventive use of brachytherapy in these patients reduced neointimal formation and increased MLD.
+
+- F. Ferrero et al (2007) reported 5-year follow-up of the BetAce trial, analyzing the incidence of death, myocardial infarction (MI), and ischemia-driven target vessel revascularization (TVR). The incidence of stent thrombosis was slightly higher in the brachytherapy group (10%) than in the control group (6.5%). This difference was not statistically significant. Although there was a significantly higher need for TVR in the control group at 6 months, the difference lost its significance at 12 months and 5 years because of a late catch-up phenomenon in the brachytherapy group, with a higher incidence of edge stenosis and stent occlusion. Five-year event-free survival rank for death, MI and TVR was 43% in the brachytherapy group compared to 45% in the control group ( p = 0.95). The occurrence of additional ischemic events in both groups equalized the long-term clinical outcomes. The authors stated that intracoronary beta radiation at the time of stent implantation only transiently prevents excessive neointimal proliferation that leads to stenosis recurrence in the first year after treatment. The late catch-up phenomenon, along with the natural progression of the atherosclerotic disease in
+
+other segments, is responsible for the loss of the clinical benefit of brachytherapy in the long term.
+
+- G. Syeda et al (2006) conducted a double-blind, randomized trial of beta brachytherapy for prevention of restenosis after stent implantation in native coronary de novo lesions. Eighty-nine diabetic individuals (106 lesions) were randomly assigned to treatment with beta radiation or placebo treatment. Angiographic analysis at 9 months demonstrated a late lumen loss of 0.7 ± 0.9 mm in the brachytherapy group vs. 1.2 ± 0.8 mm in the control group at the injured segment, 0.9 ± 1.0 vs. 1.3 ± 0.7 mm at the radiated segment, and 0.9 ± 1.0 vs. 1.3 ± 0.7 mm at the target segment. Binary restenosis rates were significantly lower in the brachytherapy group in all subsegments. TVR for restenosis was necessary in 9 lesions (17.6%) in the brachytherapy group vs. 18 (34%) in the placebo group. Late thrombosis occurred in 4 brachytherapy patients after premature discontinuation of antiplatelet therapy, resulting in a MACE rate of 37.2%, compared to 38.6% in the placebo group. The authors concluded that, in diabetic patients with de novo coronary lesions, intracoronary radiation after stent implantation significantly reduced restenosis. This clinical benefit was reduced, however, by the frequent occurrence of new thrombosis
+
+- III. Professional societies/organizations
+
+- A. A guideline update for coronary artery revascularization published by the American College of Cardiology (ACC), American Heart Association (AHA) and the Society for Cardiovascular Angiography and Interventions (SCAI) (Lawton et al, 2022) states that "compared with other therapies, DES appears to provide the most benefit" to the treatment of restenosis. As such, DES is considered a level I recommendation. On the other hand, brachytherapy is now considered a level 2b recommendation and may be considered in patients who have recurrent ISR "with an artery that is unfavorable to receive another DES" or "who are not good candidates for bypass surgery."
+
+- B. Guidelines for PCI issued by the European Society of Cardiology (ESC) state that brachytherapy proved to be the only evidence-based nonsurgical treatment for instent restenosis. The guideline also states that a prolonged intake of clopidogrel for 1 year after radiation is necessary. The ESC guideline recommends brachytherapy for the treatment of in-stent restenosis in native coronary arteries as a Class 1A recommendation. Brachytherapy for treatment of in-stent restenosis of a saphenous vein bypass graft is considered as a Class 1B recommendation. Class I indicates evidence and/or general agreement that a given diagnostic procedure/ treatment is beneficial, useful and effective. Level of evidence A indicates that data is derived from multiple randomized clinical trials or meta-analyses, while level of evidence B indicates data is derived from a single randomized clinical trial or large non-randomized studies (Silber et al, 2005).
+
+- C. 2018 Guidelines on Myocardial Revascularization developed by The Task Force on Myocardial Revascularization of the European Society of Cardiology (ESC)
+
+and the European Association for Cardio-Thoracic Surgery (EACTS) state that for "restenosis associated with angina or ischaemia… repeat revascularization and repeat PCI remains the strategy of choice for most patients." The authors further indicate that "the results from DES are superior to those obtained with balloon angioplasty, BMS implantation, or brachytherapy."
+
+IV. Summary
+
+Prior to the widespread use of drug-eluting stents, in-stent restenosis following percutaneous coronary intervention (PCI) was a significant clinical problem, frequently resulting in the need for repeat revascularization procedures. Intracoronary brachytherapy was shown to be an effective treatment for in-stent restenosis of native coronary arteries or saphenous vein grafts. Brachytherapy procedures have decreased in frequency, however, and drug-eluting stents have emerged as the treatment of choice in the majority of cases. Brachytherapy may still play a role in the treatment of in-stent restenosis in selected patients, however.
+
+There is insufficient evidence in the published medical literature to demonstrate the safety and efficacy of brachytherapy for expanded indications, including treatment for new stenosis of native coronary arteries and SVGs; restenosis of native coronary arteries and SVGs at the unstented site of a previous PCI; or as primary prevention of restenosis after stent implantation for de novo lesions.
+
+#### References
+
+1. Ajani AE, Waksman R, Sharma AK, et al. Three-year follow-up after intracoronary gamma radiation therapy for in-stent restenosis. Original WRIST. Washington Radiation for In-Stent Restenosis Trial. Cardiovasc Radiat Med . 2001;2(4):200-204. doi:10.1016/s1522-1865(02)00105-1
+
+2. Alli OO, Teirstein PS, Satler L, et al. Five-year follow-up of the Sirolimus-Eluting Stents vs Vascular Brachytherapy for Bare Metal In-Stent Restenosis (SISR) trial. Am Heart J . 2012;163(3):438-445. doi:10.1016/ j.ahj.2011.11.019
+
+3. Bonow RO, Mann DL, Zipes DP, Libby P. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine . 9th ed. Elsevier Science; 2011.
+
+4. Brenner DJ, Miller RC. Long-term efficacy of intracoronary irradiation in inhibiting in-stent restenosis. Circulation . 2001;103(9):1330-1332. doi:10.1161/01.cir.103.9.1330
+
+5. Castagna MT, Mintz GS, Waksman R, et al. Comparative efficacy of gamma-irradiation for treatment of in-stent restenosis in saphenous vein graft versus native coronary artery in-stent restenosis: An intravascular ultrasound study. Circulation . 2001;104(25):3020-3022. doi:10.1161/hc5001.101750
+
+6. Castagna MT, Mintz GS, Weissman NJ, et al. Intravascular ultrasound analysis of the impact of gamma radiation therapy on the treatment of saphenous vein graft in-stent restenosis. Am J Cardiol . 2002;90(12):1378-1381. doi:10.1016/s0002-9149(02)02877-1
+
+7. Ellis SG, O'Shaughnessy CD, Martin SL, et al. Two-year clinical outcomes after paclitaxel-eluting stent or brachytherapy treatment for bare metal stent restenosis: the TAXUS V ISR trial. Eur Heart J . 2008;29(13):1625-1634. doi:10.1093/eurheartj/ehn231
+
+8. Ferrero V, Ribichini F, Heyndrickx GR, et al. Angiographic and three-dimensional intravascular ultrasound analysis of combined intracoronary beta radiation and self-expanding stent implantation in human coronary arteries. Am J Cardiol . 2004;94(10):1237-1242. doi:10.1016/j.amjcard.2004.07.106
+
+9. Ferrero V, Ribichini F, Piessens M, et al. Intracoronary beta-irradiation for the treatment of de novo lesions: 5-year clinical follow-up of the BetAce randomized trial. Am Heart J . 2007;153(3):398-402. doi:10.1016/ j.ahj.2006.11.015
+
+10. Geiger MH, Ludwig J, Burckhard R, et al. High-dose intracoronary irradiation after de novo stent implantation results of the EVEREST (Evaluation of Endoluminal Radiation in Elective Stenting) trial. Strahlenther Onkol . 2006;182(1):9-15. doi:10.1007/s00066-006-1434-y
+
+11. Grise MA, Massullo V, Jani S, et al. Five-year clinical follow-up after intracoronary radiation: results of a randomized clinical trial. Circulation . 2002;105(23):2737-2740. doi:10.1161/01.cir.0000018126.87045.e0
+
+12. Holmes DR Jr, Teirstein PS, Satler L, et al. 3-year follow-up of the SISR (Sirolimus-Eluting Stents Versus Vascular Brachytherapy for In-Stent Restenosis) trial. JACC Cardiovasc Interv . 2008;1(4):439-448. doi:10.1016/ j.jcin.2008.05.010
+
+13. Leon MB, Teirstein PS, Moses JW, et al. Localized intracoronary gamma-radiation therapy to inhibit the recurrence of restenosis after stenting. N Engl J Med . 2001;344(4):250-256. doi:10.1056/ NEJM200101253440402
+
+14. Levine GN, Bates ER, Blankenship JC, et al. 2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention: executive summary: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines and the Society for Cardiovascular Angiography and Interventions. Catheter Cardiovasc Interv . 2012;79(3):453-495. doi:10.1002/ccd.23438
+
+15. Lu YG, Chen YM, Li L, Zhao RZ, Fu CH, Yan H. Drug-eluting stents vs. intracoronary brachytherapy for in-stent restenosis: a meta-analysis. Clin Cardiol . 2011;34(6):344-351. doi:10.1002/clc.20900
+
+16. Negi SI, Torguson R, Gai J, et al. Intracoronary Brachytherapy for Recurrent Drug-Eluting Stent Failure. JACC Cardiovasc Interv . 2016;9(12):1259-1265. doi:10.1016/j.jcin.2016.03.018
+
+17. Neumann FJ, Sousa-Uva M, Ahlsson A, et al. 2018 ESC/EACTS Guidelines on myocardial revascularization [published correction appears in Eur Heart J. 2019 Oct 1;40(37):3096]. Eur Heart J . 2019;40(2):87-165. doi:10.1093/eurheartj/ehy394
+
+18. Ohri N, Sharma S, Kini A, et al. Intracoronary brachytherapy for in-stent restenosis of drug-eluting stents. Adv Radiat Oncol . 2015;1(1):4-9. Published 2015 Dec 19. doi:10.1016/j.adro.2015.12.002
+
+19. Oliver LN, Buttner PG, Hobson H, Golledge J. A meta-analysis of randomised controlled trials assessing drugeluting stents and vascular brachytherapy in the treatment of coronary artery in-stent restenosis. Int J Cardiol . 2008;126(2):216-223. doi:10.1016/j.ijcard.2007.03.132
+
+20. Popma JJ, Suntharalingam M, Lansky AJ, et al. Randomized trial of 90Sr/90Y beta-radiation versus placebo control for treatment of in-stent restenosis. Circulation . 2002;106(9):1090-1096. doi:10.1161/01.cir.0000027814.96651.72
+
+21. Rha SW, Kuchulakanti P, Ajani AE, et al. Three-year follow-up after intravascular gamma-radiation for in-stent restenosis in saphenous vein grafts. Catheter Cardiovasc Interv. 2005;65(2):257-262. doi:10.1002/ccd.20372
+
+22. Ribichini F, Ferrero V, Piessens M, et al. Intracoronary beta-irradiation prevents excessive in-stent neointimal proliferation in de novo lesions of patients with high plasma ACE levels. The BetAce randomized trial. Cardiovasc Revasc Med . 2005;6(1):7-13. doi:10.1016/j.carrev.2005.02.005
+
+23. Schiele TM, Pöllinger B, Kantlehner R, et al. Evolution of angiographic restenosis rate and late lumen loss after intracoronary beta radiation for in-stent restenotic lesions. Am J Cardiol . 2004;93(7):836-842. doi:10.1016/ j.amjcard.2003.12.020
+
+24. Serruys PW, Wijns W, Sianos G, et al. Direct stenting versus direct stenting followed by centered beta-radiation with intravascular ultrasound-guided dosimetry and long-term anti-platelet treatment: results of a randomized trial: Beta-Radiation Investigation with Direct Stenting and Galileo in Europe (BRIDGE). J Am Coll Cardiol . 2004;44(3):528-537. doi:10.1016/j.jacc.2004.03.077
+
+25. Silber S, Albertsson P, Avilés FF, et al. Guidelines for percutaneous coronary interventions. The Task Force for Percutaneous Coronary Interventions of the European Society of Cardiology. Eur Heart J . 2005;26(8):804-847. doi:10.1093/eurheartj/ehi138
+
+26. Silber S, Popma JJ, Suntharalingam M, et al. Two-year clinical follow-up of 90Sr/90 Y beta-radiation versus placebo control for the treatment of in-stent restenosis. Am Heart J . 2005;149(4):689-694. doi:10.1016/ j.ahj.2004.05.061
+
+27. Syeda B, Schukro C, Kirisits C, et al. Randomized blinded clinical trial of intracoronary brachytherapy with 90Sr/ Y beta-radiation for the prevention of restenosis after stent implantation in native coronary arteries in diabetic patients. Radiother Oncol . 2006;78(1):60-66. doi:10.1016/j.radonc.2005.10.012
+
+28. Task Force on Myocardial Revascularization of the European Society of Cardiology (ESC) and the European Association for Cardio-Thoracic Surgery (EACTS); European Association for Percutaneous Cardiovascular Interventions (EAPCI), Kolh P, et al. Guidelines on myocardial revascularization. Eur J Cardiothorac Surg . 2010;38 Suppl:S1-S52. doi:10.1016/j.ejcts.2010.08.019
+
+29. Teirstein PS, Massullo V, Jani S, et al. Catheter-based radiotherapy to inhibit restenosis after coronary stenting. N Engl J Med . 1997;336(24):1697-1703. doi:10.1056/NEJM199706123362402
+
+30. Uchida T, Bakhai A, Almonacid A, Shibata T, Cox B, Kuntz RE. A meta-analysis of randomized controlled trials of intracoronary gamma- and beta-radiation therapy for in-stent restenosis. Heart Vessels . 2006;21(6):368-374. doi:10.1007/s00380-006-0919-z
+
+31. U.S. Food and Drug Administration. Center for Devices and Radiological Health. PMA-Premarket Approval database.
+
+32. Van Belle E, Bauters C, Bertrand ME. The biology of restenosis. Topol EJ, ed. Textbook of cardiovascular medicine . Philadelphia: Lippincott Williams &amp; Wilkins a Wolters Kluwer business 2007.
+
+33. Verin V, Popowski Y, de Bruyne B, et al. Endoluminal beta-radiation therapy for the prevention of coronary restenosis after balloon angioplasty. The Dose-Finding Study Group. N Engl J Med . 2001;344(4):243-249. doi:10.1056/NEJM200101253440401
+
+34. Waksman R, Ajani AE, White RL, et al. Intravascular gamma radiation for in-stent restenosis in saphenous-vein bypass grafts. N Engl J Med . 2002;346(16):1194-1199. doi:10.1056/NEJMoa012579
+
+35. Waksman R, Ajani AE, White RL, et al. Five-year follow-up after intracoronary gamma radiation therapy for instent restenosis. Circulation . 2004;109(3):340-344. doi:10.1161/01.CIR.0000109488.62415.01
+
+36. Waksman R, Raizner AE, Yeung AC, Lansky AJ, Vandertie L. Use of localised intracoronary beta radiation in treatment of in-stent restenosis: the INHIBIT randomised controlled trial [published correction appears in Lancet 2002 Jun 1;359(9321):1950]. Lancet . 2002;359(9306):551-557. doi:10.1016/s0140-6736(02)07741-3
+
+37. Writing Committee Members, Lawton JS, Tamis-Holland JE, et al. 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol . 2022;79(2):e21-e129. doi:10.1016/ j.jacc.2021.09.006
+
+38. Zavalloni D, Belli G, Rossi ML, et al. Comparison between drug-eluting stents and beta-radiation for the treatment of diffuse in-stent restenosis: clinical and angiographic outcomes. Am Heart J . 2006;152(5):908.e1-908.e7. doi:10.1016/j.ahj.2006.01.014
+
+POLICY
+
+- I. The use of hyperthermia and concurrent external beam radiation therapy treatment is considered medically necessary for ANY of the following:
+
+- A. Superficially recurrent melanoma
+
+- B. Chest wall recurrence of breast cancer
+
+- C. Recurrent cervical lymph nodes from head and neck cancer
+
+Treatment of the above conditions will be approved in the absence of BOTH of the following:
+
+- A. Metastatic disease for which chemotherapy or hormonal therapy is being given concurrently
+
+- B. Evidence of tumor recurrence exceeding 4 cm in depth
+
+When hyperthermia is indicated, no more than 10 hyperthermia treatments delivered twice weekly at 72- hour intervals should be utilized
+
+- II. The use of hyperthermia is considered not medically necessary for EACH of the following:
+
+- A. Intraluminal hyperthermia
+
+- B. Endocavitary hyperthermia
+
+- C. Interstitial hyperthermia
+
+- D. Regional deep tissue hyperthermia exceeding 4 cm in depth
+
+- E. Whole body hyperthermia
+
+### Hyperthermia
+
+#### DISCUSSION
+
+After initial enthusiasm for the use of hyperthermia in the late 1970s, interest waned with the publication of studies showing little or no benefit in the mid-1980s. Later review of the negative findings disclosed that the critical temperature necessary for hyperthermic cell death, 42 to 43 degrees centigrade (C), was either poorly measured or poorly maintained in these studies. Point measurements rather than volume mapping of thermal gradients were relied upon in planning these hyperthermia studies.
+
+Renewed interest in the use of hyperthermia began to emerge in both Europe and the United States (US) in the 1990s. Research from Duke University, Northwestern University, University of Southern California, Stanford University, Washington University, as well as centers in Holland, Germany, Norway, Austria, Italy and Switzerland have
+
+RO.RST.103.C
+
+v2.0.2024
+
+contributed substantially to the emergence of hyperthermia as a useful treatment modality when combined with radiation therapy.
+
+Currently, in the US, the Food and Drug Administration (FDA) has approved hyperthermia for use in the treatment of cancer when combined with radiation therapy for the '…palliative management of certain solid surface and subsurface malignant tumors (i.e. melanoma, squamous or basal cell tumors, adenocarcinoma, or sarcoma) that are progressive or recurrent despite conventional therapy...'.
+
+Following FDA approval, Medicare approved coverage for local hyperthermia when used together with radiation therapy. A National Coverage Determination (NCD 110.1) was issued by Medicare (CMS) in December 1984 and remains unchanged. It states, 'Local hyperthermia is covered under Medicare when used in conjunction with radiation therapy for the treatment of primary or metastatic cutaneous or subcutaneous superficial malignancies. It is not covered when used alone or in connection with chemotherapy.'
+
+Although research into hyperthermic treatments at depths greater than 4 cm is ongoing in the US, it is currently recognized only as investigational, as are intraluminal, endocavitary, and interstitial applications.
+
+On May 15, 2009, the FDA granted humanitarian use device (HUD) status to the BSD-2000 and on November 18, 2011, the FDA granted humanitarian device exemption (HDE) to the BSD-2000 for the treatment of cervical cancer patients ineligible for chemotherapy (treatment population less than 4,000). This is the only approval for deep heating and only actual costs incurred in the research may be billed. Other applications for deep heating are pending for both BSD and Medifocus devices.
+
+In the US, only the BSD-500 has FDA commercial clearance for superficial heating (less than a 4 cm depth). This is currently the only device approved for reimbursement. It operates at the microwave range of 915 MHz with different applicators and power setting ranging from 20 to 250 watts. The standard recommended treatment regimen for use with radiation therapy is a '…total of 10 hyperthermia treatments delivered two times per week at 72-hour intervals, with each heat treatment preceded or followed by a standard prescribed dose of ionizing radiation within 30 minutes of the heat treatment.' A sustained intratumoral temperature of 42.5 degrees C for 60 minutes is recommended.
+
+The FDA granted pre-market approval for the Sonotherm ® 1000 Ultrasound Therapy System on September 29, 1989. This approval was for hyperthermia to treat tumors at a depth of 8 cm. Although FDA approval was granted, the device remains in clinical study and is designated EIU.
+
+There are 3 clinical sites in which randomized studies have documented the benefit of hyperthermia given in conjunction with radiotherapy.
+
+1. Melanoma - 134 metastatic or recurrent lesions of malignant melanoma in 70 patients were randomly assigned to receive radiation therapy (3 fractions of 8 or 9 Gy over 8
+
+days) alone or followed by hyperthermia (43 degrees C for 60 minutes). Beneficial local effect was 28% for radiation alone and 46% for combined treatment. Toxicity was not higher with hyperthermia (Overgaard, 1995)
+
+2. Breast - 5 randomized trials were combined to report the benefit of combined treatment for superficial localized breast cancer. The control rate for radiation therapy alone was 41%, while that for combined treatment was 59%. The greatest effect was observed in patients with recurrent lesions in previously irradiated lesions where further irradiation was limited to low doses (Vernon, 1996)
+
+3. Head and neck metastatic lymph nodes - a randomized study of 44 nodes in 41 patients confirmed the improved 5-year actuarial nodal control of the combined treatment arm. In addition, the study reports a statistically significant improvement in survival at 5 years, and no increased toxicity from combined modality therapy (Valdagni, 1994)
+
+#### References
+
+1. BSD-2000 Brochure.
+
+2. BSD-500 Brochure.
+
+3. HUD and HDE for BSD-2000.
+
+4. Hyperthermia for Treatment of Cancer. National Coverage Determination (NCD) 110.1.
+
+5. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - March 11, 2024. Breast Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/breast.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Breast Cancer Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+6. Overgaard J, Gonzalez Gonzalez D, Hulshof MC, et al. Randomised trial of hyperthermia as adjuvant to radiotherapy for recurrent or metastatic malignant melanoma. European Society for Hyperthermic Oncology. Lancet . 1995;345(8949):540-543. doi:10.1016/s0140-6736(95)90463-8
+
+7. PMA for BSD-500 and supplement.
+
+8. Sonotherm ® 1000 Ultrasound Therapy System.
+
+9. Valdagni R, Amichetti M. Report of long-term follow-up in a randomized trial comparing radiation therapy and radiation therapy plus hyperthermia to metastatic lymph nodes in stage IV head and neck patients. Int J Radiat Oncol Biol Phys . 1994;28(1):163-169. doi:10.1016/0360-3016(94)90154-6
+
+10. Vernon CC, Hand JW, Field SB, et al. Radiotherapy with or without hyperthermia in the treatment of superficial localized breast cancer: results from five randomized controlled trials. International Collaborative Hyperthermia Group. Int J Radiat Oncol Biol Phys . 1996;35(4):731-744. doi:10.1016/0360-3016(96)00154-x
+
+### Image-Guided Radiation Therapy (IGRT)
+
+RO.RST.104.C
+
+v2.0.2024
+
+POLICY
+
+- I. IGRT during intensity-modulated radiation therapy (IMRT)
+
+- A. IGRT is considered medically necessary when IMRT has been approved and is being utilized.
+
+- II. IGRT during three-dimensional conformal radiation therapy (3DCRT)
+
+- A. IGRT in conjunction with definitive treatment with 3DCRT is considered medically necessary in the following circumstances:
+
+1. Treatment of the hepatobiliary tract
+
+2. Treatment of head and neck cancer
+
+3. Treatment of Hodgkin and non-Hodgkin lymphoma
+
+4. Treatment of lung cancer
+
+5. Treatment of prostate cancer
+
+6. Treatment of esophageal cancer
+
+7. Treatment of gastric cancer
+
+8. Treatment of pancreatic cancer
+
+9. Treatment of adrenal gland cancer
+
+10. Treatment of pelvic cancers (ie, rectal cancer) when the individual is in the prone position on a belly board
+
+11. During breast boost when using photons
+
+12. During external beam-based accelerated partial breast irradiation (APBI)
+
+13. During treatment of left breast cancer when a deep inspiration breath hold (DIBH) technique is being used
+
+14. Treatment of breast cancer when the individual is in the prone position
+
+15. During the boost to the bladder
+
+16. Preoperative or postoperative treatment of sarcomas
+
+- B. When the planning target volume (PTV) is in close proximity to a previously irradiated area
+
+- III. IGRT during stereotactic radiosurgery (SRS)/stereotactic body radiation therapy (SBRT)
+
+- A. For SBRT, the IGRT codes may not be billed separately because by American Medical Association (AMA) definition they are bundled and included in the daily treatment codes. In addition, the IGRT codes may not be billed separately with SRS as stated in the American Society for Radiation Oncology (ASTRO) Coding Guide.
+
+- IV. IGRT and brachytherapy
+
+- A. In brachytherapy cases, imaging is considered medically necessary to verify source position in all but the simplest of cases. The images may also be used to perform dosimetry calculations. Use of applicable simulation and/or field verification codes is appropriate, such as CPT ® Code 77280.
+
+- V. IGRT and superficial radiation therapy or electron beam therapy
+
+- A. The use of IGRT with either superficial radiation therapy or electron beam therapy is considered not medically necessary.
+
+- VI. Medical necessity for the use of IGRT is determined by the diagnosis. The use of certain types of radiation equipment does not by itself make IGRT medically necessary.
+
+#### DISCUSSION
+
+IGRT is a method by which image guidance is applied to place the isocenter for the upcoming treatment appropriately. This technology typically is applied for an individual undergoing intensity-modulated radiation therapy (IMRT). However, in some cases in which the isocenter is the main concern, IGRT occasionally can be used with threedimensional conformal radiation therapy (3DCRT). The American Society for Radiation Oncology (ASTRO) together with the American College of Radiology (ACR) have published practice parameters (Luh et al, 2020) and technical standards (Cheng et al, 2014) regarding IGRT. In addition, in their Radiation Oncology Coding Resource, ASTRO has addressed IGRT in detail.
+
+Historical methodology of using port films to confirm patient set-up and block placement has not been replaced by IGRT. For example, the Coding Resource states '…guidance and tracking are not indicated…" when "…replacing 'port check' imaging when target localization is not medically necessary." Outside of treatment procedures requiring only isocenter placement, port films and/or verification simulations are still the appropriate modalities. If the isocenter placement is the primary concern (ie, for IMRT), then IGRT is typically the method utilized. This does, however, imply the target can be localized with the specific IGRT modality requested (ie, stereoscopic imaging for target localization, computed tomography (CT) guidance for field placement or ultrasound (US) guidance for field placement) (Weiss et al, 2011). In the event no target is localized, blocking and patient set-up is accomplished through typical alignment of bony structures using portal imaging; appropriate coding for port films would apply.
+
+Effective 1/1/2015, IGRT techniques are covered under 2 different coding systems. CPT ® code 77387 is for billing in the Hospital Outpatient Prospective Payment System (HOPPS) and for those non-Medicare health plans that accept this definition. Also, the new IMRT treatment delivery CPT ® codes (77385 and 77386) include IGRT guidance and tracking, when performed. The technical component of IGRT (77387- TC) is packaged into the IMRT service with which it is performed, and is not reported separately. In the Medicare Physician Fee Schedule (MPFS) setting, as well as the Healthcare Common Procedure Coding System (HCPCS) setting, the G-Code system has replaced CPT ® codes. G6001 replaces CPT ® code 76950, G6002 replaces CPT ® code 77421, and G6017 replaces CPT ® code 0197T. In contrast to the HOPPS reporting, IGRT is not bundled into IMRT for MPFS and HCPCS and is reported separately.
+
+Respiratory motion management may be clinically appropriate for treating some cancers, including lung cancer and some cases of breast cancer (deep inspiration breath hold [DIBH]). Respiratory tracking by continuous localization systems or fourdimensional CT (4D-CT) are now included in CPT ® code 77387. This code is for billing in the HOPPS and for those non-Medicare health plans that accept this definition. In the MPFS setting as well as the HCPCS setting, the G-Code G6017 has replaced CPT ® code 0197T. In the hospital-outpatient setting G6017 is considered image guidance and is packaged into the primary service payment.
+
+In IGRT-approved cases, only 1 method or technique of IGRT is allowed daily.
+
+CPT ® codes 77370 and 77470 should not be billed based on the use of IGRT.
+
+#### References
+
+1. American Society for Radiation Oncology. IGRT coding FAQs and tips. https://www.astro.org/Daily-Practice/ Coding/Coding-Guidance/Coding-FAQ-39;s-and-Tips/FAQ-IGRT
+
+2. ASTRO 2023 Radiation Oncology Coding Resource. American Society for Radiation Oncology (ASTRO). 2023.
+
+3. Chadha M, Young A, Geraghty C, Masino R, Harrison L. Image guidance using 3D-ultrasound (3D-US) for daily positioning of lumpectomy cavity for boost irradiation. Radiat Oncol . 2011;6:45. Published 2011 May 9. doi:10.1186/1748-717X-6-45
+
+4. Chen YJ, Suh S, Nelson RA, Liu A, Pezner RD, Wong JY. Setup variations in radiotherapy of anal cancer: advantages of target volume reduction using image-guided radiation treatment. Int J Radiat Oncol Biol Phys . 2012;84(1):289-295. doi:10.1016/j.ijrobp.2011.10.068
+
+5. Eldredge HB, Studenski M, Keith S, et al. IGRT after prostatectomy: evaluation of corrective shifts and toxicity using online conebeam CT vs. weekly port films for target localization. Int J Radiat Oncol Biol Phys . 2010;78(3):S380-S380. doi:10.1016/j.ijrobp.2010.07.896
+
+6. Graff P, Hu W, Yom SS, Pouliot J. Does IGRT ensure target dose coverage of head and neck IMRT patients?. Radiother Oncol . 2012;104(1):83-90. doi:10.1016/j.radonc.2011.09.024
+
+7. Hyer DE, Serago CF, Kim S, Li JG, Hintenlang DE. An organ and effective dose study of XVI and OBI cone-beam CT systems. J Appl Clin Med Phys . 2010;11(2):3183. Published 2010 Apr 17. doi:10.1120/ jacmp.v11i2.3183
+
+8. Jaffray DA, Langen KM, Mageras G, et al. Safety considerations for IGRT: Executive summary. Pract Radiat Oncol . 2013;3(3):167-170. doi:10.1016/j.prro.2013.01.004
+
+9. Kan MW, Leung LH, Wong W, Lam N. Radiation dose from cone beam computed tomography for image-guided radiation therapy. Int J Radiat Oncol Biol Phys . 2008;70(1):272-279. doi:10.1016/j.ijrobp.2007.08.062
+
+10. Leonard CE, Tallhamer M, Johnson T, et al. Clinical experience with image-guided radiotherapy in an accelerated partial breast intensity-modulated radiotherapy protocol. Int J Radiat Oncol Biol Phys . 2010;76(2):528-534. doi:10.1016/j.ijrobp.2009.02.001
+
+11. Lisbona A, Averbeck D, Supiot S, et al. Radiothérapie conformationnelle avec modulation d'intensité (RCMI) guidée par l'image: impact de l'augmentation du volume irradié à faible dose? [IMRT combined to IGRT:
+
+increase of the irradiated volume. Consequences]?. Cancer Radiother . 2010;14(6-7):563-570. doi:10.1016/ j.canrad.2010.07.227
+
+12. Luh JY, Albuquerque KV, Cheng C, et al. ACR-ASTRO Practice Parameter for Image-guided Radiation Therapy (IGRT). Am J Clin Oncol . 2020;43(7):459-468. doi:10.1097/COC.0000000000000697
+
+13. Mohammed N, Kestin L, Grills I, et al. Comparison of IGRT registration strategies for optimal coverage of primary lung tumors and involved nodes based on multiple four-dimensional CT scans obtained throughout the radiotherapy course. Int J Radiat Oncol Biol Phys . 2012;82(4):1541-1548. doi:10.1016/j.ijrobp.2011.04.025
+
+14. Ottosson W, Baker M, Hedman M, Behrens CF, Sjöström D. Evaluation of setup accuracy for NSCLC patients; studying the impact of different types of cone-beam CT matches based on whole thorax, columna vertebralis, and GTV. Acta Oncol . 2010;49(7):1184-1191. doi:10.3109/0284186X.2010.500303
+
+15. Park CK, Pritz J, Zhang GG, Forster KM, Harris EE. Validating fiducial markers for image-guided radiation therapy for accelerated partial breast irradiation in early-stage breast cancer. Int J Radiat Oncol Biol Phys . 2012;82(3):e425-e431. doi:10.1016/j.ijrobp.2011.07.027
+
+16. Potters L, Gaspar LE, Kavanagh B, et al. American Society for Therapeutic Radiology and Oncology (ASTRO) and American College of Radiology (ACR) practice guidelines for image-guided radiation therapy (IGRT). Int J Radiat Oncol Biol Phys . 2010;76(2):319-325. doi:10.1016/j.ijrobp.2009.09.041
+
+17. Sangalli G, Passoni P, Cattaneo GM, et al. Planning design of locally advanced pancreatic carcinoma using 4DCT and IMRT/IGRT technologies. Acta Oncol . 2011;50(1):72-80. doi:10.3109/0284186X.2010.484425
+
+18. Shah A, Aird E, Shekhdar J. Contribution to normal tissue dose from concomitant radiation for two common kV-CBCT systems and one MVCT system used in radiotherapy. Radiother Oncol . 2012;105(1):139-144. doi:10.1016/j.radonc.2012.04.017
+
+19. Wang D, Zhang Q, Eisenberg BL, et al. Significant Reduction of Late Toxicities in Patients With Extremity Sarcoma Treated With Image-Guided Radiation Therapy to a Reduced Target Volume: Results of Radiation Therapy Oncology Group RTOG-0630 Trial. J Clin Oncol . 2015;33(20):2231-2238. doi:10.1200/ JCO.2014.58.5828
+
+20. Weiss K. IGRT, are you applying it correctly?. Revenue Cycle. Radiation Oncology News . January 2011.
+
+21. Zelefsky MJ, Kollmeier M, Cox B, et al. Improved clinical outcomes with high-dose image guided radiotherapy compared with non-IGRT for the treatment of clinically localized prostate cancer. Int J Radiat Oncol Biol Phys . 2012;84(1):125-129. doi:10.1016/j.ijrobp.2011.11.047
+
+POLICY
+
+- I. Neutron beam radiotherapy is considered not medically necessary for all indications and diagnoses.
+
+### Neutron Beam Therapy
+
+#### DISCUSSION
+
+There is limited research, resulting in a lack of substantial information on the clinical effectiveness of neutron beam therapy, although it has been tried in soft tissue sarcoma, prostate cancer, pancreas, colon, and lung cancers amongst others. The lack of data and comparative trials limits its designation to EIU. Currently, the University of Washington Medical Cyclotron Facility in Seattle is the only clinical neutron facility in the United States.
+
+The effectiveness of neutrons as treatment of choice in the treatment of salivary gland tumors was previously confirmed by Stannard et al. (2013) with the treatment of 335 patients at IThemba Labs. The patients had either unresectable tumors or had gross macroscopic residual disease. Local regional control was 60.6% at 5 years and 39.1% at 10 years. Disease specific survival was 66.8% at 5 years and 53.7% at 10 years.
+
+In a retrospective case series, Davis et al (2016) reported on 140 patients with salivary gland malignancy of the oral cavity and the sublingual and submandibular glands. The 6-year locoregional control rate was 72.2% and the 6-year overall survival was 58%. Of 27 patients that completed a quality of life (QOL) survey, 20 (74%) reported xerostomia, 15 (56%) reported trismus, 14 (52%) reported dysphagia, 11 (41%) reported difficulty chewing, 9 (34%) reported dysgeusia, 8 (30%) reported speech changes, 8 (30%) had osteoradionecrosis (ORN), 7 (26%) reported an increase in dental decay and 7 (26%) reported pain.
+
+In a follow-up publication, Timoshchuk et al (Oral Oncol 2019) reported on 545 patients with parotid (56%), submandibular (16%) and base of tongue (12%) malignancies. The 6- and 10-year locoregional control rates were 84% and 79% respectively. The 6- and 10-year freedom from distant metastases rates were 80% and 77% respectively. The 6- and 10-year overall survival rates were 72% and 62% respectively. On multivariate analysis, female sex, age, neck involvement, microscopic lymphovascular invasion and surgery/margin status were all found to be statistically significantly associated with overall survival. With respect to toxicity, 89% experienced xerostomia and 79% mucositis during treatment. At 10 years, 78 of 545 patients were able to provide data on
+
+RO.RST.105.C v2.0.2024
+
+long-term complications, with 72% reporting xerostomia, 61.5% trismus, 46% dysgeusia, 43.6% dysphagia, 38.5% difficulty chewing, 36% increased tooth decay, 34.6% pain and 32% speech changes. Sixteen patients also developed ORN.
+
+Given the high rates of long-term toxicity which "tends to increase over time… diminishing demand, concerns regarding the methodologic robustness of available randomized trial data, and closure of all but one center in the United States…' the National Comprehensive Cancer Network (NCCN) panel states that "neutron therapy is no longer routinely recommended for treatment of salivary gland cancers...'.
+
+#### References
+
+1. Aihara T, Morita N, Kamitani N, et al. Boron neutron capture therapy for advanced salivary gland carcinoma in head and neck. Int J Clin Oncol . 2014;19(3):437-444. doi:10.1007/s10147-013-0580-3
+
+2. ASTRO 2023 Radiation Oncology Coding Resource. American Society for Radiation Oncology (ASTRO). 2023.
+
+3. Burmeister J, Spink R, Liang L, et al. Commissioning of intensity modulated neutron radiotherapy (IMNRT). Med Phys . 2013;40(2):021718. doi:10.1118/1.4766878
+
+4. Davis C, Sikes J, Namaranian P, Laramore G, Dillon JK. Neutron beam radiation therapy: an overview of treatment and oral complications when treating salivary gland malignancies. J Oral Maxillofac Surg . 2016;74(4):830-835. doi:10.1016/j.joms.2015.10.014
+
+5. Douglas JG, Goodkin R, Laramore GE. Gamma knife stereotactic radiosurgery for salivary gland neoplasms with base of skull invasion following neutron radiotherapy. Head Neck . 2008;30(4):492-496. doi:10.1002/ hed.20729
+
+6. Douglas JG, Laramore GE, Austin-Seymour M, Koh W, Stelzer K, Griffin TW. Treatment of locally advanced adenoid cystic carcinoma of the head and neck with neutron radiotherapy. Int J Radiat Oncol Biol Phys . 2000;46(3):551-557. doi:10.1016/s0360-3016(99)00445-9
+
+7. Huber PE, Debus J, Latz D, et al. Radiotherapy for advanced adenoid cystic carcinoma: neutrons, photons or mixed beam?. Radiother Oncol . 2001;59(2):161-167. doi:10.1016/s0167-8140(00)00273-5
+
+8. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 4.2024 - May 1, 2024. Head and Neck Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/head-and-neck.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Head and Neck Cancers Version 4.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+9. Prott FJ, Micke O, Haverkamp U, Willich N, Schüller P, Pötter R. Results of fast neutron therapy of adenoid cystic carcinoma of the salivary glands. Anticancer Res . 2000;20(5C):3743-3749.
+
+10. Rockhill JK, Laramore GE. Neutron radiotherapy. In: Gunderson LL, Tepper JE, eds. Clinical Radiation Oncology . 4th ed. Elsevier; 2016:373-380.
+
+11. Stannard C, Vernimmen F, Carrara H, et al. Malignant salivary gland tumours: can fast neutron therapy results point the way to carbon ion therapy?. Radiother Oncol . 2013;109(2):262-268. doi:10.1016/j.radonc.2013.08.013
+
+12. Timoshchuk MA, Dekker P, Hippe DS, et al. The efficacy of neutron radiation therapy in treating salivary gland malignancies. Oral Oncol . 2019;88:51-57. doi:10.1016/j.oraloncology.2018.11.006
+
+POLICY
+
+If the request for proton beam therapy has been determined to be not medically necessary or is considered experimental, investigational or unproven (EIU), please refer to the disease specific guideline for the medically necessary dosing and technique.
+
+If the request for proton beam therapy has been determined to be medically necessary, please refer to the disease specific guideline for specific dosing information.
+
+Group 1:
+
+Proton Beam Therapy (PBT) is considered medically necessary for the curative treatment of ANY of the following conditions when metastatic disease is not present: 1
+
+- I. Individuals with cancer syndromes such as NF-1, Li-Fraumeni, Ataxia Telangiectasia (with deleterious ATM mutations), Hereditary Retinoblastoma, Lynch syndrome, or Hereditary Breast or Ovarian Cancer (with BRCA1/2 mutations)
+
+- II. Re-irradiation with curative intent where cumulative critical structure dose will exceed tolerance dose
+
+- III. Primary malignant or benign bone tumors
+
+- IV. Primary ocular tumors including intraocular/uveal melanomas
+
+- V. Base of skull primary tumors (e.g., Chordomas, Chondrosarcomas)
+
+- VI. Primary CNS tumors excluding IDH wild-type glioblastoma multiforme
+
+- VII. Primary spine or spinal cord tumors where organs at risk tolerance will be exceeded with photon treatments
+
+- VIII. Nonmetastatic primary tumors requiring craniospinal irradiation (e.g., medulloblastoma)
+
+- IX. Nasopharynx, nasal cavity, paranasal sinuses or other accessory sinuses cancer
+
+- X. Unresected T3, T4, or node positive head and neck cancers
+
+- XI. Esophageal cancer
+
+- XII. Thymoma or thymic carcinoma
+
+- XIII. Mediastinal lyphomas
+
+- XIV. Thoracic sarcomas
+
+- XV. Primary malignant pleural mesothelioma
+
+- XVI. Hepatocellular cancer or intrahepatic cholangiocarcinoma
+
+- XVII. Retroperitoneal sarcomas
+
+### Proton Beam Therapy
+
+RO.RST.106.C
+
+v2.0.2024
+
+- XVIII. Individuals with a single kidney or transplanted pelvic kidney with treatment of an adjacent target volume
+
+- XIX. Benign or malignant tumors or hematologic malignancies in children aged 21 years and younger treated with curative intent
+
+Group 2:
+
+Currently, the evidence does not support any definitive benefit to PBT over intensity-modulated radiation therapy (IMRT) when IMRT is considered medically necessary in the treatment of any of the following malignancies. Instead, the available evidence suggests that PBT may be essentially equivalent to photons. Where PBT is significantly more costly than IMRT, coverage for proton beam therapy for the treatment of these other malignancies will depend upon the applicable health benefit plan definition of medical necessity. Where the medical necessity definition limits coverage to the most cost-effective equivalent treatment, the use of PBT for the treatment of the following cancers is considered not medically necessary:
+
+- I. Locally advanced breast cancer when treating the internal mammary nodes
+
+- II. Glioblastoma, IDH wild-type
+
+- III. Remaining cases of head and neck cancer not included in Group 1 including:
+
+- A. Head and neck cancers not included in Group 1 (e.g., T1/T2 tumors, node negative tumors, postoperative tumors with negative margins, periorbital tumors)
+
+- B. Cutaneous tumors with cranial nerve invasion to the base of skull, cavernous sinus and/or brainstem
+
+- C. Head and neck cancers requiring ipsilateral radiation treatment (e.g., oral cavity, salivary gland)
+
+- IV. Hodgkin Lymphoma
+
+- V. Non-Hodgkin Lymphoma
+
+- VI. Stage II-III non-small cell lung cancer
+
+- VII. Pancreatic cancer
+
+- VIII. Prostate cancer (intact or postoperative)
+
+Group 3:
+
+Proton beam is a Food and Drug Administration (FDA) approved modality and by itself, this modality is not experimental, investigational or unproven (EIU). However, due to insufficient evidence, the use of proton beam therapy for the curative treatment of all other diagnoses, including the following, is considered EIU:
+
+- I. Mucosal melanoma
+
+- II. Breast cancer, excluding Group 1 or 2 indications
+
+- III. Lung cancer, excluding Group 1 or 2 indications
+
+- IV. Gastric cancer
+
+- V. Extrahepatic cholangiocarcinoma
+
+- VI. Kidney cancer
+
+- VII. Adrenal cancers
+
+- VIII. Liver metastases being treated with curative intent (ie, oligometastases)
+
+- IX. Colon cancer
+
+- X. Rectal cancer
+
+- XI. Anal cancer
+
+- XII. Bladder cancer
+
+- XIII. Cervical cancer
+
+- XIV. Endometrial cancer
+
+- XV. Ovarian cancer
+
+- XVI. Skin cancer
+
+- XVII. Palliative treatment
+
+- XVIII. Metastatic tumors
+
+- XIX. Leptomeningeal disease
+
+- XX. Multiple myeloma
+
+- XXI. Pelvic or proximal thigh where use of protons results in significant dose reduction to genitalia
+
+#### DISCUSSION
+
+In 2017, the American Society for Radiation Oncology (ASTRO) updated the 'Proton Beam Therapy Model Policy.' The model policy update was developed by ASTRO's Payer Relations Subcommittee and states that the model policies were developed to '…communicate what ASTRO believes to be correct coverage policies for radiation oncology services.' It also states that the ASTRO model policies '…do not serve as clinical guidelines…' and are '…recommendations for medical insurance coverage.' These recommendations together with a review of the published evidence and guidelines were used to develop coverage criteria.
+
+Group 1
+
+- I. Chordomas and chondrosarcomas of the skull base
+
+These rare primary malignant tumors of the skull base are treated primarily by surgery and postoperative radiotherapy. There is extensive data on the use of PBT for the treatment of these tumors postoperatively, although there are no randomized trials and no evidence of the superiority of PBT over conventional therapy in these tumors. A systematic review of all published cases of chordoma (416 patients) treated with proton radiotherapy revealed local control of 69% and 5-year overall survival (OS) of 80% (Amichetti et al, 2009). While comparison to older historical data of conformal photon radiotherapy may imply some benefit to PBT, more current Stereotactic Radiosurgery (SRS) outcomes compare more favorably with PBT results. However, based on the rare nature of these tumors, their location adjacent to critical CNS structures, and the documented efficacy of PBT, treatment of these tumors with PBT is considered medically necessary.
+
+- II. Uveal melanoma
+
+PBT is effective in the treatment of these tumors with local control rates of over 95%, 85% cause-specific survival, and eye preservation rate of 90% with reasonable vision retained in approximately 50% of individuals. Intermediate tumors are treated just as effectively with brachytherapy, and the superiority of PBT in these tumors has not been demonstrated. For large uveal melanomas, PBT has been associated with a lower rate of secondary enucleation. Based on the extensive and excellent data on the use of protons in uveal melanomas, PBT is considered medically necessary, particularly in an individual who is not an optimal candidate for brachytherapy (Char et al, 2002; Conway et al, 2006; Desjardins et al, 2006; Egger et al, 2003; Lumbroso-Le Rouic et al, 2006).
+
+Nag et al (2003) published The American Brachytherapy Society recommendations for the use of brachytherapy in individuals with uveal melanomas. The American Brachytherapy Society recommends that individuals with very small uveal melanomas (&lt; 2.5 mm height and &lt; 10 mm in largest basal dimension) undergo observation and treatment be reserved for tumor growth. Brachytherapy is suitable for individuals with medium size choroidal melanoma (between 2.5 and 10 mm in height and &lt; 16 mm basal diameter). Individuals with gross extrascleral extension, ring melanoma, and tumor involvement of more than half of the ciliary body are considered not suitable for plaque brachytherapy.
+
+- III. Sinus Tumors
+
+National Comprehensive Cancer Network (NCCN ® ) Guidelines ® recommends either IMRT or proton therapy for maxillary sinus or paranasal/ethmoid sinus tumors.
+
+- IV. Hepatocellular carcinoma (HCC)
+
+In HCC, proton beam treatment plays a role in unresectable cancers. PBT for HCC is a technology which, according to the National Comprehensive Cancer Network (NCCN ® ) Guidelines ® , may have a role in certain clinical circumstances. The unique dosimetric advantages of heavy charged particle radiation (Bragg Peak) offer significant potential advantages in sparing hepatic parenchyma compared to traditional photon techniques. This theoretical advantage is still the object of ongoing studies in this country. A multi-institutional phase II study (Hong et al, 2016) demonstrated a 2-year HCC local control rate of 94.8%. Treatment was given with a hypofractionated regimen of 67.5 Gy equivalent in 15 fractions to a patient population that included previously treated patients and those with tumor vascular thrombosis. On-going phase III studies are in progress. However, a meta-analysis of 70 studies demonstrated a decided advantage of charged particle treatment as compared to traditional radiation but found no difference when comparing charged particle treatment to stereotactic body radiation therapy (SBRT).
+
+The larger PBT series are from Japan suggesting excellent local control rates and modest 2- to 5-year survival rates. Four retrospective (360 patients) and 2 prospective studies (64 patients) of hypofractionated PBT in patients with hepatocellular cancer show results similar to those achieved with SBRT. (Fukumitsu et al, 2009; Hashimoto et al, 2006; Hata et al, 2005; Hata et al, 2006; Hsiung-Stripp et al, 2001; Koyama et al, 2003; Kozak et al, 2007; Macdonald et al, 2001; Sugahara et al, 2005; Sugahara et al, 2010; Zhang et al, 2008; Zurlo et al, 2000).
+
+In HCC, proton beam treatment may play a role in unresectable cancers that are not amenable to other forms of treatment including:
+
+- A. Ablative techniques (radiofrequency, cryosurgery, alcohol injection, microwave)
+
+Several ablative techniques have been used both in the operable and definitive setting. For select lesions, generally under 3 cm in size that are well localized, definitive treatment may be considered. Contraindications to ablation include lack of anatomic accessibility, size, number, and location near abdominal organs, major ducts, and blood vessels. A complication reported with ablation is the development of tumor rupture with lesions located on the hepatic capsule or tumor seeding along the track with subcapsular and poorly differentiated lesions. Local control rates in the range of 90% at 2 years have been reported for ablative techniques.
+
+- B. Arterial treatments (selective internal radiation therapy [SIRT], also known as transarterial radioembolization [TARE]; transarterial chemoembolization [TACE]; or transarterial embolization [TAE])
+
+These techniques require selective catheterization of the hepatic arterial supply to the tumor-involved liver segments. As HCC is a hypervascular tumor, there is preferential blood flow as compared to the normal hepatic parenchyma. Indications for these procedures include multiple tumors, generally 4 or more in number, lesions greater than 3 to 5 cm, lesions without vascular invasion or extra-hepatic spread. Absolute contraindications include decompensated cirrhosis, jaundice, clinical encephalopathy, refractory ascites, hepatorenal syndrome, extensive tumor replacement of both lobes, portal vein occlusion or severely reduced flow, hepatofugal flow and renal insufficiency. Relative contraindications include tumor size greater than 10 cm, severe cardiovascular or pulmonary disease, varices at high risk of bleeding or bile duct occlusion. In clinical trials TACE appears superior to TAE. SIRT/TARE provide high doses of radiation to tumor capillary beds. Yttrium-90 beta radiation, delivered by SIR-Spheres ® -or TheraSphere ® -labeled microspheres, delivers preferential high doses of radiation and tends to spare normal hepatic tissues. Full discussion of the indications and contraindications to
+
+SIRT/TARE may be found in the Selective Internal Radiation Therapy (SIRT) clinical guideline.
+
+In addition to the contraindications listed above, all arterial therapies must take into account their effect on liver function as embolic-, chemo-, or radiation-liver disease or dysfunction can result in severe morbidity or death. Bilirubin greater than 3 mg/dl for TACE/TAE and 2 mg/dl for SIRT/TARE are considered strong relative contraindications unless segmental treatment is being performed.
+
+- C. External beam radiation therapy (EBRT) (intensity-modulated radiation therapy [IMRT], three-dimensional conformal radiation therapy [3DCRT], and SBRT)
+
+Conformal radiation techniques such as 3DCRT generally have played a palliative role in the treatment of HCC. Yet, HCC is a radiosensitive tumor and highly conformal external beam techniques such as IMRT or 3DCRT should be considered in a definitive manner in inoperable tumors not amenable to other treatments. Great care must be given in considering the individual's liver function, Hepatitis B carrier status, prior transarterial or other treatments, portal vein thrombosis, and Childs-Pugh score. A dose volume constraint to be considered is for the mean liver dose (liver minus gross tumor volume) to be less or equal to 28 Gy in 2 Gy fractions. The University of Michigan has demonstrated that tumoricidal doses from 40 Gy to 90 Gy delivered in 1.5 Gy twice daily treatments along with hepatic-infused chemotherapy could result in a 1-year local control rate of 81% and survival rate of 57% in an individual who was unresectable and without portal vein thrombosis. Studies for conformal RT and TACE have also been done in Asia showing improved survival for the combination.
+
+SBRT is considered the mainstay of the radiation effort to control inoperable HCC. Current indications for the use of SBRT include 3 or fewer tumors without evidence of vascular or organ invasion and away from hollow organs, such as the bowel or stomach, as perforation and hemorrhage are significant complications. Sufficient hepatic reserve as evidenced by a Childs-Pugh A score is extremely important as safety data are considered limited in Childs-Pugh B or those with poor liver reserve. Some controversy has existed over the size of eligible lesions with initial restriction to lesions of up to 5 cm now being expanded to larger lesions. RTOG 1112 eligibility criteria include up to 5 lesions with no 1 lesion exceeding 15 cm, with a total maximum sum of all lesions not exceeding 20 cm. Current optimal dose recommendations are 50 Gy in 5 treatment fractions with a mean liver dose of 13.0 Gy and an additional organ constraint of liver Veff &lt; 25%. If these constraints are not met, dose reductions from this optimal dose down to 30 Gy for a mean lung dose (MLD) of 16 Gy are recommended. Optimal and acceptable dose volume constraints to critical organs may be found in the NRG Oncology GI003: A Phase III Randomized Trial of Protons Versus Photons for Hepatocellular Carcinoma.
+
+SBRT has proven itself both as effective bridge therapy 1) for an individual with HCC and cirrhosis prior to transplant and 2) in an individual who is inoperable, both as an initial treatment and for an individual who is ineligible or incompletely treated by other methods. Excellent local control rates at 1- to 2- years ranging from 70 to 90% have been reported on initially treated patients and a 61% 2-year survival rate has been reported in patients previously treated with TACE.
+
+- D. PBT
+
+PBT for HCC is an emerging technology which, according to the NCCN Guidelines ® , may have a role in certain clinical circumstances. The unique dosimetric advantages of heavy charged particle radiation (Bragg Peak) offer significant potential advantages in sparing hepatic parenchyma compared to traditional photon techniques. This theoretical advantage is still the object of ongoing studies in this country. A multi-institutional phase II study (Hong et al, 2016) demonstrated a 2-year HCC local control rate of 94.8%. Treatment was given with a hypofractionated regimen of 67.5 Gy equivalent in 15 fractions to a patient population that included previously treated patients and those with tumor vascular thrombosis. On-going phase III studies are in progress. However, a meta-analysis of 70 studies demonstrated a decided advantage of charged particle treatment as compared to traditional radiation but found no difference when comparing charged particle treatment to SBRT.
+
+The larger PBT series are from Japan suggesting excellent local control rates and modest 2- to 5-year survival rates. Four retrospective (360 patients) and 2 prospective studies (64 patients) of hypofractionated PBT in patients with hepatocellular cancer show results similar to those achieved with SBRT. (Fukumitsu et al, 2009; Hashimoto et al, 2006; Hata et al, 2005; Hata et al, 2006; Hsiung-Stripp et al, 2001; Koyama et al, 2003; Kozak et al, 2007; Macdonald et al, 2001; Sugahara et al, 2005; Sugahara et al, 2010; Zhang et al, 2008; Zurlo et al, 2000). In an individual with unresectable hepatocellular cancers who is not optimally treated with radiofrequency ablation or SBRT, PBT is medically necessary.
+
+NRG Oncology GI003: A Phase III Randomized Trial of Protons Versus Photons for Hepatocellular Carcinoma provided radiographic size criteria that allow for use of photon based therapy (3DCRT, IMRT, or SBRT) and proton beam therapy for treatment of hepatocellular carcinoma. Per the protocol, for individuals with a single lesion, the lesion can be 15 cm or less in greatest dimension. For individuals with two lesions, no lesion can be greater than 10 cm in greatest dimension. For individuals with three lesions, no lesion can be greater than 6 cm in greatest dimension. Portal vein involvement or thrombosis combined with a single lesion that is ≥ 1 cm and ≤ 15 cm in greatest dimension is allowed. In an individual with HCC who is not acceptably treated with 3DCRT, IMRT, ablative, transarterial or SBRT techniques in the curative setting, PBT is considered medically necessary.
+
+V. Seminoma
+
+The risks of radiation-induced second malignancy in seminoma are well documented. The current NCCN Guidelines ® continue to mention the increased risk of second cancers arising in the kidney, liver, and bowels in patients treated with radiation therapy. They caution against the use of IMRT in the treatment of seminoma as the radiation doses to these organs (integral dose) is increased compared to 3DCRT fields used in anterior and posterior fashion. However, it must be recognized that use of anterior/posterior fields whether 2D or 3D are the very technique which has been the subject of these reports. IMRT might theoretically make it worse.
+
+A brief review of the literature outlines the risk. Lewinshtein et al (2012) used Surveillance, Epidemiology, and End Results Program (SEER) data between 1973 and 2000. They found a 19% increase in secondary primary malignancies in seminoma patients exposed to radiation therapy as compared to the general population including pancreas, non-bladder urothelial, bladder, thyroid, and others. The risk lasted 15 years from the time of initial diagnosis. An accompanying editorial in the journal noted an increased incidence of seminoma during the last 4 decades with improved survival, which makes the issue of radiation-induced malignancies of increasing concern. Indeed, the NCCN ® noted that the routine use of adjuvant therapy for stage I seminoma is not warranted as the risk of recurrence is low compared to the potential harms of adjuvant therapy.
+
+Travis et al, reported twice on this issue- in 1997 and 2005. They identified risks of lung, bladder, pancreas, stomach, and other organs, noting that secondary primary cancers are a leading cause of death in men with a history of testicular cancer. The risk may extend as long as 35 years. Patients treated with radiation therapy had the highest risk of developing cancer especially when treated at a young age. Among organs treated in a radiation field, the stomach, large bowel, pancreas, and bladder stood out for the development of a later cancer.
+
+Given these findings, radiation is no longer used in early seminoma, but there remains a population of patients with more advanced disease that may benefit. Although this population of patients is relatively small as 80% of seminoma, totaling approximately 8600 cases a year, is diagnosed in stage I, the relative doses of radiation and increased field sizes pose a problem. Dose modeling by Mazonakis et al, published in 2015, showed that medically necessary abdominopelvic irradiation increased the risk for induction of secondary malignancies by as much as 3.9%.
+
+The use of protons brings a distinct advantage in lowering radiation dose to the population at risk. Simone II, et al, writing in the International Journal of Radiation Oncology Biology Physics in 2012, showed that proton plans could reduce mean doses to the stomach to 119 cGy vs. 768 cGy for photons as well as having meaningful reductions in doses to bladder and pancreas with a subsequent theoretical expected decrease in cancers.
+
+Based on the above information documenting a higher risk of secondary malignancy unique to seminoma, the use of PBT is considered medically necessary.
+
+Group 2
+
+- I. High-grade gliomas
+
+Mizumoto et al (2015) published their results of using PBT in the treatment of a glioblastoma multiforme (GBM). In this study, 23 patients were treated postoperatively with standard photons to a dose of 50.4 Gy with a concurrent boost of 46.2 GyE using PBT. The 1- and 2-year survival was 78% and 43% respectively. Median survival was 21 months. It is noted that 6 patients developed radiation necrosis (who all survived at least 4 years without evidence of recurrence, but in whom the performance status had declined by 10% to 30%). The authors conclude that the studied regimen '…has a high potential to improve survival in GBM patients…' and that '…although radiation necrosis is inevitable in the treated area, it may be controllable with necrotomy and bevacizumab administration.' At the present time, the results of this study cannot be used to support PBT as the dose used is significantly higher than what is considered a standard of care (ie, 66 Gy), and the rate of symptomatic brain necrosis is higher than with customary doses and techniques. Further, this study utilized both photons and protons.
+
+In a retrospective dosimetric study of 12 patients with high-grade gliomas (HGGs) treated with intensity-modulated proton therapy (IMPT) and compared to volumetricmodulated arc therapy (VMAT) and 3D conformal radiotherapy (3DCRT), Adeberg et al (2016) found that '…target coverage was comparable for all three modalities…' with the use of PBT resulting in '…significant reductions…in mean dose to the whole brain;…supratentorial…and infratentorial regions; brainstem;… pituitary gland;… contralateral hippocampus; and contralateral subventricular zone.' The authors further state that '…this can potentially reduce the dose- and volume-related side effects of treatment…' However, no evidence of reduction in side effects has been demonstrated.
+
+In an abstract, Ramakrishna et al (2016) developed passive scatter proton beam therapy plans for 19 patients recently treated with IMRT. The authors demonstrated similar target coverage using protons compared to IMRT and not unexpectedly, a lower mean V5, V10, V12 and V20 for uninvolved brain. Further, PBT resulted in lower mean hippocampal V5 and V10 relative to IMRT. The authors, however, conclude that 'The overall potential clinical benefit of these dosimetric advantages in glioblastoma patients remains to be determined.'
+
+While studies have demonstrated that PBT is an acceptable form of treatment for GBM, analysis of the effectiveness of PBT compared to IMRT is needed. Additional information is awaited from ongoing studies such as the randomized phase II trial, NCT01854554, Glioblastoma Multiforme (GBM) Proton vs. Intensity Modulated Radiotherapy (IMRT) as well as NRG BN001.
+
+II. Low-grade gliomas
+
+There are a limited number of dosimetric studies that demonstrate the different dose distributions and doses to normal tissue structures with protons compared to 3DCRT or IMRT. Dosimetric results have predictably shown a dose reduction to nearby organs at risk (OARs), particularly those farther away from the target, primarily in the lower dose ranges. Dennis et al (2013) estimated doses in 11 patients and found that the equivalent uniform dose was 10 to 20 Gy lower with protons, but the estimated risk of toxicity using normal tissue complication probability modeling showed only negligible differences, with low risk of toxicity with both modalities. Harrabi et al (2016) evaluated doses with protons compared to 3DCRT (and not the more conformal technique, IMRT) in 74 patients and found expected reduction in mean dose to other structures and integral dose. They concluded that the dose distribution of PBT is significantly superior when compared to conventional radiotherapy, but also stated that to what extent this will have a clinical impact remains to be proven by long-term observations. The reduction in the volume of tissue receiving low doses of radiation has not clearly been associated with improved clinical outcomes.
+
+Studies showing the clinical outcomes with PBT for low-grade glioma are mostly single institution series with relatively small numbers of patients. For example, Shih et al (2015) reported outcomes in 20 patients treated with 54 Gy of PBT for low-grade glioma. There was no evidence of decline in neurocognitive function or quality of life (QOL), but 30% of patients had endocrine dysfunction. With median follow-up of 5.1 years, the 3 year progression free survival (PFS) was 85% and 5 year PFS was only 40%. This study had notable limitations, including a relatively heterogeneous cohort comprised of both primary (n = 8) and recurrent (n = 12) LGGs, as well as patients with prior symptomatology leading to PBT initiation (thus, a potentially altered baseline). Patients that progressed were also removed from the study, and QOL for those patients was not included.
+
+Other studies reporting clinical outcomes are difficult to interpret due to heterogeneous patient groups, often including a mixture of pediatric and adult patients, low- and high-grade glioma, and both initial treatment and re-treatment patients. Greenberger et al (2014) published clinical outcomes for 32 pediatric patients and reported no significant declines in Full-Scale Intelligence Quotient and an 82.8% 8 year PFS rate. The applicability of this experience to adult patients is uncertain.
+
+Hauswald et al (2012) published results from 19 patients, with progression after prior biopsy, resection or chemotherapy, delivering a median dose of 54 GyE. With 5month median follow-up, 12 patients had stable disease, 2 had partial or complete remission, 1 had progression and 2 had 'pseudo-progression'. This study had limitations of a heterogeneous patient group and short follow-up.
+
+Wilkinson et al (2016) reported, in abstract form only, the largest study to date, a retrospective analysis of 58 patients from the Proton Collaborative Group registry, and illustrated no grade  ≥  3 toxicities when treated with up to 54 Gy relative biological effectiveness (RBE) (this abstract did not report other clinical outcomes).
+
+Current NCCN Guidelines ® for Central Nervous System Cancers do not mention or recommend use of PBT for treatment of low-grade glioma.
+
+While dosimetric studies suggest the potential for a benefit of proton beam therapy in the treatment of low-grade glioma, the published studies of PBT in low-grade glioma do not offer comparisons of clinical outcomes compared to customary photon based treatment. Studies to evaluate any benefit of proton beam therapy are ongoing, including a phase II trial, NCT01358058, Proton Radiation Therapy for Gliomas, and another phase II trial NCT01024907, Proton Beam Radiation Therapy in Treating Patients with Low Grade Gliomas.
+
+III. Esophageal cancer
+
+There have been several dosimetric studies comparing dose distributions in a limited number of patients, using PBT or customary photon based techniques (Isacsson et al, 1998; Makishima et al, 2015; Zhang et al, 2008). These have shown reduction in low dose radiation distribution to some structures, such as heart and lung, and increased radiation dose to other structures, such as spinal cord and skin (Funk et al, 2015). Such studies suffer from the biases and talents of the investigators who plan and create computer models of dose deposition for one therapy or the other, and also do not present any clinical outcome data to show outcomes with PBT or to compare outcomes to customary photon-based techniques.
+
+Reported clinical experiences for PBT have generally been limited to single-institution studies. Ishikawa et al (2015) treated 40 patients with 60 to 64 Gy equivalent and concurrent chemotherapy. There were no grade 3 or greater toxicities and 2 year disease-free survival (DFS) was 77% and 3 year overall survival (OS) was 70%. Lin et al (2012) reported outcomes for 62 patients with esophageal adenocarcinoma, treated with 50.4 Gy equivalent and surgery in almost half of the patients. Grade 3 toxicity was noted in &lt; 10% of patients and there was pathologic complete response (CR) in 28% of patients having surgery. The 3-year overall, relapse-free, distant metastasis-free, and locoregional-free survival rates were 51.7%, 40.5%, 66.7%, and 56.5%, respectively. Prayongrat et al (2017) describe 19 patients with esophageal cancer treated with intensity-modulated proton therapy (IMPT) to 50.4 GyE between 2011 and 2016. The initial cohort was 32 patients with mostly unresectable cancer treated with definitive chemoradiation, but 13 were excluded for multiple reasons. The median follow-up was 17 months. Seven of the 19 had disease failure (3 locoregional). Acute toxicities included grade 3 esophagitis, nausea and vomiting, fatigue and anorexia, and hematologic. Late toxicity included 1 each of grade 3 pleural effusion and an esophageal stricture. Late toxicities could not be fully evaluated because of short follow-up.
+
+In a single institution, randomized phase IIB trial of proton beam therapy (PBT) versus Intensity Modulated Radiation Therapy (IMRT) for locally advanced esophageal cancer, Lin et al (2020) randomly assigned patients with stage II-III esophageal cancer eligible for chemoradiation therapy to PBT (73 paients assigned, but 46 evaluable) or IMRT (74 patients assigned, but 61 evaluable) to 50.4 Gy. The prespecified endpoints were total toxicity burden (TTB) and progression free survival (PFS) between these modalities. TTB encompassed multiple adverse events including asymptomatic pleural effusion, atrial fibrillation, and symptomatic pleural effusion. The trial was closed when there was a significant difference in the TTB between the two arms. The posterior mean TTB was 2.3 times higher for IMRT than PBT. When evaluating the surgical population, the mean post op complication (POC) score was 7.6 times higher for IMRT. The 3 year progression free survival rate (50.8% vs 51.2%) and 3 year overall survival rates (44.5% vs 44.5%) were similar. There was no significant difference in the quality of life (QOL) evaluation between the arms during or after the RT, or after adjusting for age/comorbidities and receipt of surgery and no difference in the degree of QOL decline from baseline. The authors conclude that PBT reduced the risk and severity of adverse events compared with IMRT. However, TTB is not a validated endpoint. Additionally, the study is further limited by its small sample sizes and by being single institution experience which requires validation in a larger cooperative group.
+
+A. Neoadjuvant treatment
+
+Wang et al (2013) reported a retrospective review of patients treated with different radiation techniques prior to surgery for esophageal cancer, either 3DCRT, IMRT or PBT in 444 patients over 13 years. Protons were used in 72 patients. It should be noted that this was not a randomized study and treatment eras as well as clinical factors were not the same for the different groups. They found that 3D technique was associated with a statistically significant increase in risk of pulmonary toxicity compared to IMRT or protons. There was a non-significant trend towards higher pulmonary toxicity risk with IMRT compared to protons.
+
+Lin et al (2017) retrospectively reviewed 580 esophageal cancer patients treated between 2007 and 2013 using 3DCRT, IMRT, or PBT modalities at 3 academic institutions (all proton beam was apparently done at MD Anderson Cancer Center).
+
+All patients had initially non-metastatic cancer treated with neoadjuvant concurrent chemoradiotherapy and surgical resection. Total radiation dose was 50.4 Gy. Lower post-operative complications were noted with protons compared to IMRT in terms of pulmonary and wound complications. Average length of stay was lower for protons as was 90 day mortality (0.9% with PBT vs. 4.2% with 3D and 4.3% with IMRT). The conclusion of the study was that the '…data provide meaningful new evidence that supports the potential clinical benefit of PBT in the treatment of esophageal cancer.' This study was not a randomized comparison, and there is potential for important differences between the treatment groups.
+
+This data suggests that for resectable esophageal cancers, patients treated with neoadjuvant chemoradiation are likely to do as well treated with proton beam as they would with IMRT. The authors suggest that proton beam may decrease acute toxicities and improve survival, but admit that additional studies including the ongoing randomized trial (NCT01512589) are needed to confirm this.
+
+B. Definitive treatment
+
+Xi et al (2017) stated in their recent publication that '…the long-term clinical outcome of PBT over IMRT has never been well addressed, especially for the subset of patients receiving definitive CRT.' In this retrospective review, Xi et al (2017) report on 343 patients who received either IMRT or PBT as part of definitive chemoradiation. In a dosimetric analysis of 308 of these patients, the use of PBT resulted in lower average doses to the heart and lung as well as significantly lower pulmonary V5, V10 and V20. PBT also led to a significant reduction in cardiac V30 but no improvement in the V40. These dosimetric differences did not translate into reduction in toxicity. In terms of grade 3, 4 and 5 toxicity, there were no significant differences between the 2 modalities.
+
+At a median follow-up of 65.1 months for the IMRT group and 44.8 months for the PBT group, PBT was associated with a significantly lower distant recurrence rate whereas the locoregional recurrence rate was not statistically improved. At 5 years, PBT was associated with a significantly higher overall survival rate (41.6% vs. 31.6%). The authors note that '…more patients in the IMRT group developed early distant recurrence before surgery than in the PBT group (25.2% vs. 18.2%), which may have resulted in biased survival results.' Thus, additional analyses were conducted including 1 by stage of disease. This revealed that for stage I-II disease, there was no benefit to PBT. However, for stage III disease, PBT was associated with a significantly higher 5-year OS and progression free survival (PFS).
+
+Why proton beam therapy improved survival in the locally advanced stages is not clear. The primary advantage of PBT over IMRT is the ability to reduce the integral dose to nearby structures. The dose delivered to the target is equivalent and therefore should result in equivalent control rates. The authors acknowledge that '…it is difficult to fully account for all possible reasons why the PBT had more favorable survival…'. Though 'PBT might have contributed to the reduction in cardiopulmonary mortality in the PBT group, we do not have direct proof that this is in fact true because many of the deaths are due to unknown causes.' Other considerations were made but ultimately the authors conclude that the '...results from the present study suggest that the theoretical advantage of PBT over IMRT might convert into survival benefit. Prospective controlled studies will better establish the role of PBT in EC.'
+
+C. Other considerations
+
+The dose distribution using PBT is affected to a much greater extent by changes in tissue density than photon radiation therapy. As a result, there is concern about using PBT in the presence of significant target motion. This especially pertains to targets in the thorax and upper abdomen, including the distal esophagus that move as a result of diaphragmatic excursion (Mori and Chen, 2008; Mori et al, 2008). Because the diaphragm moves during respiration, this results in changes to the tissues in the beam path, which can cause significant interplay effects and dose uncertainty. This could result in unanticipated overdose of normal tissues or under dose of target volumes. Therefore, direct comparative studies will be helpful to determine the relative safety and efficacy of protons relative to customary photon radiation.
+
+The results from the previously mentioned single-institution experiences of esophageal PBT suggest the potential for improved clinical outcomes compared to customary photon treatments. Prospective trials comparing PBT with standard photon technologies like 3DCRT or IMRT will be necessary to provide high-quality evidence demonstrating the value of PBT. There are currently active clinical trials in the United States evaluating the role of PBT for esophageal cancer including an accruing randomized trial from MD Anderson Cancer Center that began in the spring of 2012 (NCT01512589) ('Phase IIB Randomized Trial of PBT versus IMRT for the Treatment of Esophageal Cancer').
+
+IV. Breast cancer
+
+To determine '…the feasibility of using proton radiation for the treatment of invasive breast cancer after mastectomy,' MacDonald et al (2013) reported the toxicity outcomes of 12 patients, 5 of which had permanent implants in place. Eleven of the patients were also treated to the internal mammary lymph nodes (IMNs). Skin toxicity, fatigue and radiation pneumonitis were evaluated during radiation and at 4 and 8 weeks after completing radiation. The authors found that '…proton treatment was well tolerated…' with '…skin reactions (that) were mostly superficial and often with moderate to severe erythema and moderate to large areas of dry superficial desquamation.' This is not uncommon as '…the entrance dose is higher for proton radiation, leading to some concern regarding skin tolerance.' However, '…cosmesis at 4 and 8 weeks was favorable, inasmuch as most patients had only mild erythema or hyperpigmentation…' The authors conclude that '…proton radiation for PMRT is feasible, with acceptable early toxicity. Additional follow up is needed to assess late complications and outcomes of proton RT.'
+
+Cuaron et al (2015) retrospectively reported toxicity outcomes of 30 patients treated with proton beam therapy in the postmastectomy and postlumpectomy setting from 2013 to 2014. It is noted that the internal mammary nodes were treated in 28 patients. The authors found that 20 patients experienced grade 2 dermatitis with 8 experiencing moist desquamation which '…compares favorably to rates seen with both IMRT photons and conventional electrons…' Seven patients experienced skin pain and 8 developed grade 2 esophagitis. There were no cases of lung toxicity or cardiac toxicity. Lastly, 1 patient developed a grade 3 complication of the implant requiring removal. The authors note that '…with uniform scanning proton therapy there is 100% dose at the skin…' which '…warrants further study, because there are also long-term concerns associated with high surface doses to patients with implants.' In addition, the esophagitis rate of '…33% in the current series is presumed to be higher than what would be expected with conventional techniques.' The authors conclude that '…further study is needed to accurately select which patients stand to benefit from proton therapy for breast cancer.'
+
+In a prospective clinical study, Bradley et al (2016) reported on 18 women receiving proton beam therapy between 2012 and 2014. It is noted that radiation included treatment to the IMNs. The authors found that proton beam '…consistently resulted in decreased heart and lung dose for all patients…' With a median follow-up of 20 months, 22% of patients developed grade 3 dermatitis with the remaining patients experiencing grade 2 dermatitis which the authors state '…is not unexpected given the higher skin dose with a proton beam compared with a photon beam.' In addition, 5 patients developed grade 2 esophagitis. The authors conclude that proton beam therapy is '…tolerated without excessive acute toxicity.'
+
+Verma et al (2017) recently published their results of acute toxicity in 91 patients treated with adjuvant proton beam therapy between 2011 and 2016. Treatment was directed to the breast or chest wall as well as the regional lymph nodes including the IMNs. The authors reported grade 2 and 3 acute dermatitis in 72% and 5% respectively with 21% requiring opioids for pain control and 8% requiring a treatment break. Seven patients developed a skin infection requiring antibiotics, 1 of which resulted in nonlethal sepsis. Another patient developed a non-healing wound requiring closure with a latissimus flap. The authors state that the skin toxicity is comparable to prior data though they add that 'US (Uniform Scanning) technique does not allow for any skin-sparing with radiation dose and also results in relatively more heterogeneity (i.e., larger-sized hotspots of higher magnitude) than what is typically accepted with photon plans.' Additional results also revealed that 33% of patients developed grade 2 esophagitis with 31% experiencing grade 1 esophagitis. Finally, at a median follow-up of 15.5 months, 4 patients developed locoregional relapse. The authors conclude that protons '…appears to have appropriate toxicity…' though '…further data with longer follow-up are greatly needed.'
+
+To this end, the ASTRO Model Policy on Proton Beam Therapy states that '…there is a need for continued clinical evidence development and comparative effectiveness analyses for the appropriate use of PBT for various disease sites' including breast cancer.
+
+Studies to evaluate any benefit of proton beam therapy are ongoing. For example, a phase III trial (NCT0260334 Pragmatic Randomized Trial of Proton vs. Photon Therapy for Patients with Non-Metastatic Breast Cancer Receiving Comprehensive Nodal Radiation: A Radiotherapy Comparative Effectiveness [RADCOMP] Trial) is currently recruiting patients. This study will help determine the benefit of proton beam therapy in the treatment of breast cancer in patients receiving comprehensive nodal radiation.
+
+- V. Prostate cancer
+
+Comparative effectiveness studies have been published comparing toxicity and oncologic outcomes between proton and photon therapies and have reported similar early toxicity rates.
+
+For example, Yu et al (2013) reviewed Medicare data for patients treated with protons or IMRT (&gt; 27,000 patients in each group) and found that although proton radiation therapy (PRT) '…was associated with a statistically significant reduction in genitourinary toxicity at 6 months compared with IMRT (5.9% vs. 9.5%; odds ratio [OR] = 0.60, 95% confidence interval [CI] = 0.38 to 0.96, p = .03), at 12 months posttreatment there was no difference in genitourinary toxicity (18.8% vs. 17.5%; OR = 1.08, 95% CI = 0.76 to 1.54, p = .66). There was no statistically significant difference in gastrointestinal or other toxicity at 6 months or 12 months post-treatment.' They concluded that when comparing protons to IMRT '…there was no difference in toxicity in a comprehensive cohort of Medicare beneficiaries with prostate cancer at 12 months post-treatment.'
+
+Hoppe et al (2014) reported a prospective quality-of-life (QOL) comparison of patient-reported outcomes between IMRT (204 patients) and proton therapy (1234 patients). This was not a randomized study, but a single institution series compared to a population of patients from a different multi-institutional study using IMRT, with potentially significant differences in the compared groups (different treatment eras, uncontrolled use of androgen deprivation therapy, larger prostate volumes for IMRT patients, older age for IMRT patients, and superior baseline function in proton group). Even though some of these differences, such as older patients, more androgen deprivation and larger prostate volumes for IMRT patients, would be expected to result in higher rates of adverse symptoms for the IMRT group, '…no differences were observed in summary score changes for bowel, urinary incontinence, urinary irritative/obstructive, and sexual domains between the 2 cohorts…' after up to 2 years of follow-up. The conclusion of this study states 'The findings from this study provide evidence of excellent and comparable QOL outcomes for prostate cancer patients treated with either contemporary IMRT or PT.'
+
+A similar comparison of patient-reported outcomes between a single institution series of 95 patients treated with PBT with 153 IMRT patients in a multi-institutional study and 123 patients treated with 3D techniques was reported by Gray et al (2013). In the immediate post-treatment period, patients in the IMRT cohort reported clinically meaningful decrements in QOL in the urinary irritation/obstruction and urinary incontinence domains that were not observed in the other 2 cohorts. At 12 months, only patients in the PBT cohort reported clinically meaningful score decrements in the urinary irritation/obstruction domain. At 24 months, clinically meaningful changes in urinary QOL were not observed in any of the cohorts. The authors concluded that PBT resulted in patient-reported outcome declines similar to those with photon-based modalities.
+
+Fang et al (2015) published a study of case-matched patients treated with protons (n = 181) or IMRT (n = 213), and reported '…the risks of acute and late GI/GU toxicities did not differ significantly after adjustment for confounders and predictive factors.'
+
+A review of Medicare data by Kim et al (2011) for 337 patients treated with protons and 4645 patients treated with IMRT evaluated the rate of GI toxicities requiring interventional procedures occurring at least 6 months after cancer diagnosis. This was 20.1 events per 1000-person years for the proton group, compared to 8.9 events for IMRT and 2.1 events for patients who did not receive radiation.
+
+The largest retrospective comparative effectiveness analysis to date comparing IMRT to proton therapy was performed using SEER-Medicare claims data for the following long-term endpoints: gastrointestinal morbidity, urinary incontinence, nonincontinence urinary morbidity, sexual dysfunction, and hip fractures (Sheets et al, 2012). With follow-up as mature as 80 months, the authors concluded that men receiving IMRT therapy had statistically significantly lower gastrointestinal morbidity than patients receiving proton therapy, whereas rates of urinary incontinence, nonincontinence urinary morbidity, sexual dysfunction, hip fractures, and additional cancer therapies were statistically indistinguishable between the cohorts.
+
+Considered as a whole, these studies do not show any significant benefit of proton beam therapy over IMRT for either treatment efficacy or long-term toxicity. A comprehensive review of 8 studies of PBT for prostate cancer with patient-reported outcomes (PRO) by Verma et al. (2018) concluded 'Prostate cancer is currently the focus of the greatest amount of QOL/PRO data; results for PBT analyzed here in are consistent with findings of retrospectively and prospectively collected data displaying no differences in toxicities between PBT and IMRT.' There is no compelling evidence that clinical outcomes are superior for proton beam therapy and, therefore, no evidence that PBT is considered medically necessary for treatment of prostate cancer.
+
+The primary dosimetric advantage of protons compared to IMRT is delivery of low or moderate doses of radiation to smaller volumes of tissue around the prostate, such as muscle, bone, vessels and fat that is not immediately adjacent to the prostate. These tissues do not routinely contribute to the morbidity of prostate radiation, are relatively resilient to radiation injury, and so the benefit of decreased dose to these types of normal non-critical tissues has not been apparent. By contrast, the high dose region encompassing the prostate target and immediately adjacent tissues does not receive any less radiation using PBT and, in fact, may receive higher doses to a larger volume with protons due to the range and RBE uncertainty of protons and the need for a larger treatment volume to compensate for this uncertainty. Toxicity associated with prostate radiation is more closely associated with high dose exposure of normal tissues, &gt; 50 Gy. Trofimov et al (2007) compared proton treatment plans using 2 opposed lateral beams to IMRT plans using 7 coplanar beams in 10 patients with early-stage prostate cancer. For a prescription dose of 79.2 Gy to the prostate, IMRT irradiated substantially greater volumes of normal tissue in the &lt; 30 Gy RBE range, including both the bladder and the rectum. However, patients treated with PBT had significantly larger normal tissue exposure in the 50 to 75 Gy RBE range. The volume of bladder receiving 50 and 60 GyE was significantly higher with the proton plans, but no difference in rectal volume was noted at these doses. This may be one reason that the perceived dosimetric advantages of proton beam radiation have not translated into differences in toxicity or patient outcomes.
+
+The NCCN ® panel believes no clear evidence supports a benefit or decrement to proton therapy over IMRT for either treatment efficacy or long-term toxicity.
+
+The American Society of Radiation Oncology (ASTRO) has taken a clear position towards use of proton beam in the treatment of prostate cancer:
+
+- A. ASTRO Model Medical Policy on Proton Beam Therapy (2017) evaluated proton therapy and created a model policy to support the society's position on payment coverage for proton therapy. ASTRO has stated in their Proton Beam Therapy Model Policy that '…in the treatment of prostate cancer, the use of PBT is evolving as the comparative efficacy evidence is still being developed. In order for an informed consensus on the role of PBT for prostate cancer to be reached, it is essential to collect further data, especially to understand how the effectiveness of proton therapy compares to other radiation therapy modalities such as IMRT and brachytherapy. There is a need for more well-designed registries and studies with sizable comparator cohorts to help accelerate data collection. Proton beam therapy for primary treatment of prostate cancer should only be performed within the context of a prospective clinical trial or registry.'
+
+- B. ASTRO Choosing Wisely (2013): 'Don't routinely recommend proton beam therapy for prostate cancer outside of a prospective clinical trial or registry. There is no
+
+clear evidence that proton beam therapy for prostate cancer offers any clinical advantage over other forms of definitive radiation therapy. Clinical trials are necessary to establish a possible advantage of this expensive therapy.'
+
+- C. ASTRO Proton Beam Therapy for Prostate Cancer Position Statement (2013): At the present time, ASTRO believes the comparative efficacy evidence of proton beam therapy with other prostate cancer treatments is still being developed, and thus the role of proton beam therapy for localized prostate cancer within the current availability of treatment options remains unclear. While proton beam therapy is not a new technology, its use in the treatment of prostate cancer is evolving. ASTRO strongly supports allowing for coverage with evidence development for patients treated on clinical trials or within prospective registries. ASTRO believes that collecting data in these settings is essential to informing consensus on the role of proton therapy for prostate cancer, especially insofar as it is important to understand how the effectiveness of proton therapy compares to other radiation therapy modalities such as IMRT and brachytherapy.
+
+An ongoing prospective randomized trial is accruing patients to compare prostate proton therapy and prostate IMRT (PARTIQoL Trial/NCT01617161). Patients with low- and intermediate-risk prostate cancer are eligible. The primary measure of the study is to compare reduction in mean Expanded Prostate Cancer Index Composite (EPIC) bowel scores for PBT vs. IMRT treated patients at 24 months post radiation.
+
+In addition to the above trial, there are at least 8 ongoing phase II-III trials investigating proton beam therapy in the treatment of prostate cancer:
+
+- A. NCT01352429 A Phase II Trial of Proton Radiation Therapy or Intensity-Modulated Radiation Therapy Using Mild Hypofractionation for Low- and Intermediate-Risk Adenocarcinoma of the Prostate
+
+- B. NCT02040610 A Phase II Study of Hypofractionated Image Guided Proton Therapy for Low and Intermediate Risk Prostate Cancer
+
+- C. NCT01230866 A Phase III Prospective Randomized Trial of Standardfractionation vs. Hypo-fractionation With Proton Radiation Therapy for Low Risk Adenocarcinoma of the Prostate
+
+- D. NCT00831623 Phase I-II Trial of Hypofractionated Conformal Proton Beam Radiation Therapy for Favorable-risk Prostate Cancer
+
+- E. NCT01950351 Phase II Trial of Hypofractionated Proton Beam Therapy in Men with Localized Prostate Adenocarcinoma
+
+- F. NCT01045226 A Phase II Trial of Proton Radiation Therapy of Using Standard Fractionation for Low- and Low-Intermediate Risk Adenocarcinoma of the Prostate
+
+- G. NCT01492972 Hypo-fractionated Radiation Therapy With or Without Androgen Suppression for Intermediate Risk Adenocarcinoma of the Prostate
+
+- H. NCT02874014 Prospective Evaluation of Hypofractionation Proton Beam Therapy With Concurrent Treatment of the Prostate and Pelvic Nodes for Clinically Localized, High Risk or Unfavorable Intermediate Risk Prostate Cancer
+
+- VI. Head and neck cancers
+
+- A. Sinonasal and nasopharynx
+
+Russo et al (2016) reported on 54 patients with newly diagnosed stage III-IV squamous cell carcinoma of the paranasal sinus or nasal cavity who were treated with proton beam therapy (passive scatter technique) between 1991 and 2008. Of the 54 patients, 37 (68.5%) had undergone surgical resection prior to receiving PBT, 18 of whom achieved a gross total resection (GTR). For patients achieving a GTR or partial resection, a median dose of 70.0 Gy relative biological effectiveness (RBE) was given (range of 59.4 to 79.4). For those undergoing a biopsy only, a median dose of 76 Gy RBE was delivered (range of 70 to 78.1). Forty patients also received elective nodal irradiation (utilizing photons for the low neck) to a median dose of 45 Gy RBE. Chemotherapy was given in 24 (44.4%) patients. The authors reported an 80% 2- and 5-year local control; an 89% and 83% regional control at 2- and 5-years respectively; and a 76% and 73% 2- and 5-year locoregional control (LRC). Freedom from distant metastases at 2- and 5-years was 78%. Diseasefree survival (DFS) was 57% and 48% at 2- and 5-years respectively while OS was 67% and 47% at 2- and 5-years respectively. The authors indicate that the rates of LRC and OS were comparable to those previously published for sinonasal SCC and that the toxicity profile '…was acceptable, with 8 grade 3, 6 grade 4, and no grade 5 toxicities.'
+
+McDonald et al (2016) conducted a retrospective review of patients with a primary cancer of the nasopharynx, nasal cavity or paranasal sinus; 12 patients treated with IMRT, 14 patients treated with protons to primary site and concurrent matched photons to lymph nodes; and 14 patients treated with protons alone to the head and neck. It is noted that all 12 patients treated with IMRT empirically had placement of a gastrostomy tube (G-tube) prior to treatment whereas those receiving PBT had these placed electively (ultimately no patients required it). In a dosimetric comparison, PBT delivered significantly lower mean dose to the oral cavity, larynx and esophagus and resulted in improved parotid sparing. On multivariate analysis, PBT was significantly associated with lower G-tube dependence at 3 months after completion of radiotherapy and lower opioid pain requirement (equivalent morphine dose; EMD) at completion of radiotherapy. At 1 and 3 months after completion, however, the significant association with EMD was lost as the majority of patients returned to baseline EMD by 3 months. The authors conclude that the initial results '…may serve in hypothesis formation for further investigation' and '…merit further evaluation in a larger study with more uniform patient and treatment characteristics…'
+
+Holliday et al (2015) conducted a retrospective case-control study on 30 patients with nasopharyngeal cancer treated with IMRT and IMPT. In this study, 10 patients treated with IMRT on a prospective observational study were matched, in a 2:1 ratio, by 20 patients treated with IMPT. There were no significant differences between the groups with each group receiving 70 Gy. Dosimetric analysis revealed that patients receiving PBT had significantly lower mean doses to the oral cavity, brainstem, whole brain, and mandible. In addition, patients receiving PBT had a significantly lower rate of G-tube placement by the end of treatment (20% vs. 65%, p = 0.02). On bivariable analysis, increased mean oral cavity dose was associated with a higher rate of G-tube placement; no patient required a G-tube if the mean oral cavity dose was &lt; 26 Gy whereas all patients with a mean dose of &gt; 41.8 Gy did. On multivariate analysis, mean dose to the oral cavity remained significantly associated with G-tube placement (OR 1.31, p = 0.003); interestingly however treatment type (IMPT vs. IMRT) was not. Though there were no grade 4 or 5 acute toxicities, patients receiving IMPT experienced significantly fewer grade 3 acute toxicities ( p = 0.015). There was no difference in rates of chronic toxicity between the groups.
+
+Patel et al (2014) conducted a meta-analysis of charged particle therapy (protons, carbon ions, helium ions) vs. photon therapy (2D, 3D, and IMRT published after 1990) for cancers of the paranasal sinus and nasal cavity. In this analysis, 43 cohorts were identified; 30 treated with photons (1186 patients) and 13 with charged particles (286 patients). There were no statistically significant differences between the 2 groups. When comparing charged particle therapy to photons, the authors found charged particle therapy was associated with a significantly higher rate of OS at the longest duration of follow-up and at 5 years; significantly higher LRC at the longest duration of follow-up; and significantly higher 5-year DFS. When restricting the analysis to treatment-naïve patients, charged particle therapy was associated with a significantly higher OS, LRC and 5-year DFS. When comparing PBT to IMRT, PBT was associated with a significantly higher 5-year DFS and LRC at longest follow-up. In an analysis of toxicity, charged particle therapy was found to be significantly associated with more neurological toxic effects ( p = 0.0002). The authors indicate that this could be related to reporting bias (significantly higher proportion of charged particle therapy studies reported toxic effects ( p = 0.03); referral bias (greater proportion of anatomically challenging cases were referred for charged particle therapy); and/or the greater RBE and higher physical dose associated with charged particle therapy.
+
+B. Oropharynx
+
+Sio et al (2016) reported on patient-reported outcomes (PROs) in patients with oropharyngeal cancer treated with chemotherapy and IMPT (35) vs. chemotherapy and IMRT (46). PROs were obtained using the MD Anderson Symptom Inventory
+
+(MDASI) for Head and Neck Cancers during the acute (during treatment), subacute (within 3 months after treatment) and chronic phases. At baseline, it was noted that the MDASI scores were equivalent between the 2 groups except that the IMRT group had higher scores for difficulty with swallowing/chewing. At a median follow-up of 7.7 months (IMPT) and 2.7 months (IMRT), there was no difference in the MDASI scores during the acute phase. In the subacute phase, IMPT was associated with significantly lower symptom burden related to taste and appetite. In the chronic phase, IMPT was associated with significantly lower symptom burden related to appetite. When limiting the analysis to moderate to severe symptoms, IMPT was only significantly associated with a lower symptom burden related to taste and mucus in the subacute phase. The authors state 'Significant proportions of patients in both groups still experienced moderate to severe symptoms during the chronic phase (i.e., &gt; 3 months after completion of treatment).' The authors conclude that 'In this small cohort, we were unable to substantiate an improvement in quality of life from using IMPT...(which was) unexpected' and may be related to '…the small sample size in this retrospective cohort, the sensitivity of the PRO instrument, or the lack of a true difference in patient-reported quality of life between IMPT and IMRT.'
+
+In a dosimetric analysis of IMPT vs. IMRT in the treatment of oropharyngeal cancer (OPC), Holliday et al (Autumn 2016) compared doses to various OARs in 2 different cohorts; the first included 25 patients who received IMPT for which IMRT plans were generated and the second included 25 patients treated with IMRT matched to those 25 patients treated with IMPT. In the first cohort, the authors found significant reductions in the mean doses to the anterior oral cavity, posterior oral cavity, esophagus, structures involved in dysphasia and CNS structures involved in the nausea-vomiting response using IMPT. In the second cohort, similar results were seen with IMPT except that the mean doses to the esophagus and structures involved in dysphagia were not significantly different. The authors state that 'This discrepancy underscores the reality that, no matter how diligently one generates an excellent comparison IMRT plan, more care may be taken when generating a plan intended to actually treat a patient.' No difference was seen in the mean doses to the parotid or submandibular glands in either group. In discussing the improvements in the mean doses delivered to the CNS structures, the authors state '…it is difficult to gauge whether this statistical significance is clinically significant, as many of the CNS structures evaluated do not have well-established dose constraints.' The authors conclude that 'Prospective trials enrolling patients with OPC will provide further information on oncologic control and toxicity end points for IMPT versus IMRT.'
+
+Gunn et al (2016) reported on their experience with 50 patients treated with IMPT for a diagnosis of OPC between March 2011 and July 2014. A simultaneous integrated boost technique was used to deliver 66 Gy RBE for small-volume disease and 70 Gy RBE for more advanced disease. At a median follow-up of 29 months, the 2-year OS was 94.5% and 2-year PFS was 88.6%. Acute side effects included grade 3 dermatitis, mucositis, and dysphagia which occurred in 23, 29 and 12 patients respectively. Sixteen patients (32%) required evaluation in an emergency room during treatment with 10 subsequently requiring hospitalization primarily due to dehydration and pain from mucositis. Eleven patients had a Gtube placed during treatment which the authors state compare favorably with data in IMRT series. The median tube duration was 82 days after completing radiation therapy. There were 8 patients with grade 3 late toxicity, primarily dysphagia. The authors conclude that '…our findings demonstrate the feasibility and proof of principle of advanced proton therapy techniques delivering simultaneous integrated boost plans…thus laying the ground work for a direct head-to-head comparison study.'
+
+Blanchard et al (2016) conducted a 2:1 case-matched analysis of 50 patients treated with IMPT for a diagnosis of OPC to 100 patients treated with IMRT. At a median follow-up of 32 months (entire cohort), there was no difference in OS or PFS between IMPT and IMRT. In a multivariate analysis, insertion of a G-tube at the acute phase was the only significant variable associated with OS with a hazard ratio (HR) of 4.96 ( p = 0.04) whereas this and advanced age were associated with PFS. It was noted that patients receiving a G-tube during radiotherapy had significantly longer history of smoking, greater comorbidity, more advanced disease, greater need for bilateral treatment, higher use of induction chemotherapy and concurrent chemotherapy, and a longer duration of treatment. With regards to toxicity, there were no differences in acute toxicity by technique. At 3 months post treatment, IMPT was significantly associated with less xerostomia and Gtube presence or weight loss greater than 20%. Only the latter remained significant at 1-year post radiation. The authors conclude '…that IMPT provides similar tumor control and lower rates of subacute and late swallowing-related morbidity than IMRT…' and that '…it is essential that our findings be replicated through prospective multicenter trials… and incorporate cost-effectiveness analysis as well as patient-reported outcomes.'
+
+C. Salivary gland
+
+Romesser et al (2016) conducted a retrospective review of 41 patients diagnosed with major salivary gland cancer or cutaneous squamous cell carcinoma metastasis to a major salivary gland. These patients underwent unilateral irradiation with IMRT or uniform scanning proton beam therapy. In a dosimetric analysis, patients receiving PBT had a significantly lower brainstem maximum dose, spinal maximum dose, oral cavity mean dose, contralateral parotid gland mean dose and contralateral submandibular maximum dose. PBT was also associated with a significantly lower rate of grade 2 or greater acute mucositis and dysgeusia but resulted in a higher rate of grade 2 or greater dermatitis.
+
+D. Adenoid cystic carcinoma
+
+Bhattasali et al (2016) reported on 9 patients with unresectable adenoid cystic carcinoma (ACC) treated with definitive PBT and concurrent cisplatin. Sites of treatment included the larynx (1), nasopharynx (5), paranasal sinus (2) and oropharynx (1). Treatment was to 70 Gy using either passive scatter protons (laryngeal ACC) or IMPT with cisplatin given concurrently. At a median follow-up of 27 months, 4 patients (44%) achieved a complete response, 4 achieved a partial response without disease progression and 1 developed local progression. With respect to toxicity, 4 patients experienced grade 3 acute toxicities and 1 developed a grade 4 toxicity (blindness in the treated eye).
+
+In a retrospective analysis, Linton et al (2015) reported on 26 patients with head and neck ACC treated with PBT. This heterogeneous group of patients included 19 receiving treatment at initial diagnosis and 7 receiving treatment at recurrence (6 of whom had prior radiation and 3 of whom had pulmonary metastases). Twenty were treated after surgery with 18 of these exhibiting positive margins or gross residual disease. Six were treated after biopsy alone. It is noted that 2 patients also received IMRT as part of their PBT. The dose planned was 75.6 Gy for gross residual disease, 70.2 to 72 Gy for positive margins and 66 to 70.2 Gy for negative margins. At a median follow-up of 25 months, the 2-year estimate of OS was 82%, of LC was 92% and of development of distant metastases (DM) was 25%. One patient developed an acute grade 3 toxicity. Grade 3, 4 and 5 late toxicity was seen in 2, 1 and 1 patients respectively. The authors conclude '…high-dose proton therapy provides encouraging preliminary LC. Longer follow-up is needed to gauge the durability of disease control and to monitor for late toxicities of therapy.'
+
+Holliday et al (Spring 2016) reported on 16 patients who received postoperative PBT for a diagnosis of head and neck ACC. Sites of treatment included lacrimal gland or sac (5), paranasal sinus (4), parotid gland (4), submandibular gland (2) and buccal mucosa (1). Median dose delivered was 60 Gy with 12 patients receiving concurrent chemotherapy. At a median follow-up of 24.9 months, 15 patients (94%) were without evidence of disease. Four patients developed acute grade 3 toxicity and 1 patient experienced a grade 4 toxicity (blindness). An additional patient developed asymptomatic frontal lobe necrosis 18 months after treatment completion with near resolution at 24 months. The authors conclude that 'Intensity-modulated proton therapy demonstrated comparable efficacy and safety when compared to other radiation modalities including other proton therapy delivery techniques.'
+
+E. Lacrimal gland
+
+Esmaeli et al (2016) reported on 11 patients with lacrimal gland carcinoma who underwent globe sparing surgical reduction followed by radiation therapy from 2007 to 2014. This included 3 patients treated with IMRT and 7 with IMPT at initial diagnosis with a dose delivered ranging from 52 Gy to 64 CGE. One additional patient refused radiation and chemotherapy after surgery but received stereotactic radiosurgery at the time of recurrence. Patients had stage T1N0 (1), T2N0 (6), T3N0 (1) or T4N0 (3), all without metastases. Seven patients had ACC, 6 of whom received concurrent chemotherapy. At a median follow-up of 33 months, all 11 patients remained disease free. All 11 patients experienced grade I ocular toxicity with 1 patient, treated with IMRT, experiencing grade IV toxicity. The authors conclude that '…globe-sparing surgery followed by adjuvant radiotherapy or concurrent chemoradiotherapy is associated with acceptable shortterm locoregional control…'
+
+Holliday et al (2016 May 1) also reported on a similar cohort consisting of 20 patients receiving PBT following orbit-sparing surgery for cancers of the orbit and ocular adnexa. Primary sites included the lacrimal gland (7), lacrimal sac/ nasolacrimal duct (10) or eyelid (3). Seven patients had SCC and 7 had ACC. Median dose delivered was 60 Gy RBE with 11 patients receiving concurrent chemotherapy. At a median follow-up of 27.1 months, 1 patient with SCC of the eyelid developed parotid recurrence and 1 patient with sebaceous carcinoma of the nasolacrimal duct developed metastases while the remaining patients remained without recurrence. Seven patients experienced acute grade 3 while 9 patients developed chronic grade 3 ocular or eyelid function toxicity. Bivariate analysis revealed that a dose of 36 Gy or less to the ipsilateral cornea was associated with grade 3 chronic ocular toxicity ( p = 0.032). The authors conclude that these findings '…suggest that adjuvant proton therapy can be delivered successfully after orbit-sparing surgery for epithelial tumors of the orbit and ocular adnexa.'
+
+F. Reirradiation
+
+McDonald et al (2016 Nov 15) reported on 61 patients with head and neck cancer receiving curative proton beam reirradiation. It is noted that PBT was utilized '…when the dosimetric gains of proton therapy were believed advantageous because photon-based reirradiation could not adequately cover the reirradiation target without exceeding the critical normal tissue constraints, or would result in excessive risk of toxicity.' Hence, 55 of the 61 patients had '…primary or recurrent disease involving skull base sites.' The median dose of reirradiation was 66 Gy RBE for microscopic disease and 70.2 Gy RBE for gross disease. At a median follow-up of 15.2 months, median survival was 16.5 months and the 2-year OS was 32.7%. The 2-year risk of locoregional failure was 23% while 38.3% developed distant metastases. Grade 3 acute toxicity was seen in 13.1% while 1 patient (1.6%) experienced a grade 5 acute toxicity. Grade 3 late toxicity was seen in 15.1%, grade 4 late toxicity in 5.7% and grade 5 late toxicity in 3.8%. The authors conclude 'Reirradiation with proton therapy, with or without chemotherapy, provided reasonable locoregional disease control, toxicity profiles, and survival outcomes for an advanced-stage and heavily pretreated population. Additional data are needed to identify which patients are most likely to benefit from aggressive efforts to achieve local disease control and to evaluate the potential benefit of proton therapy relative to other modalities of reirradiation.'
+
+In a study of 60 patients receiving proton beam therapy for reirradiation, Phan et al (2016) reported on 60 patients receiving proton beam reirradiation. At a median follow-up of 13.6 months, there was a 1-year locoregional failure-free survival of 68.4% and OS of 83.8%. Thirty percent experienced grade 3 acute toxicity while 16.7% experienced late grade 3 toxicity at 1 year. The authors concluded that proton '…reirradiation for patients with recurrent or secondary primary H&amp;N cancer offers 2-year rates of LRC and survival compatible with those in modern IMRT series… Larger prospective studies with longer follow-up times are needed to evaluate the efficacy, tolerability, and cost-effectiveness of proton therapy compared with other conformal RT approaches such as IMRT, VMAT, and SBRT for H&amp;N reirradiation.'
+
+VII. Non-small cell lung cancer
+
+The data on proton beam therapy in the treatment of lung cancers is limited. Numerous dosimetric studies showing the potential for radiation dose reduction have been reported. Chang et al (2006) from MD Anderson compared the dose to the normal tissue comparing proton radiotherapy with 3DCRT or IMRT in stage I or stage III non-small cell lung cancer. Twenty-five patients with medically inoperable stage I or inoperable stage IIIA/B (NCT01883810) non-small cell lung cancer (NSCLC) were studied. For stage III, the lung V5, V10, and V20 were 54.1%, 46.9%, and 34.8%, respectively, for photon 3DCRT with 63 Gy, whereas they were 39.7%, 36.6%, and 31.6%, respectively, for proton with dose escalation to 74 CGE ( p = 0.002). In all cases, the doses to lung, spinal cord, heart, esophagus, and integral dose were lower with proton therapy compared with IMRT. No clinical outcomes were reported, and no evidence that these dose differences resulted in clinically meaningful improvement in results is presented. The authors acknowledged that proton radiotherapy in lung cancer raises many important issues among the most challenging of which is tumor motion during treatment resulting from the patient's breathing.
+
+The result of a phase II study of high-dose proton therapy with concurrent chemotherapy for unresectable stage III NSCLC was reported by Chang et al (2017). Sixty-five patients were treated with 74 Gy RBE proton therapy with weekly carboplatin and paclitaxel. Disease was staged with positron emission tomography (PET)/computed tomography (CT), protons were delivered as passively scattered beams, and adaptive re-planning was performed in 25% of patients. Patients all had Karnofsky Performance Status (KPS) ≥ 70 (median 90) and &lt; 10% weight loss, which are more favorable prognostic features. At a median follow-up time of 27.3 months, the median overall survival time was 26.5 months. The total local failure rate was 20.5%. No patient experienced grade 5 toxicity. The most common grade 3 adverse effects related to proton therapy were dermatitis and esophagitis, each experienced by 5 patients (11.4%); 1 patient (2.3%) developed grade 3 pneumonitis, and 1 patient had a pulmonary/pleural fistula.
+
+Early findings on toxicity of proton beam therapy with concurrent chemotherapy for NSCLC were reported by Sejpal et al (2011), at MD Anderson Cancer Center. They compared the toxicity of proton therapy + concurrent chemotherapy in 62 patients with NSCLC (treatment period 2006 to 2008) with toxicity for patients with similar disease given 3DCRT + chemotherapy (n = 74; treatment period 2001 to 2003) or IMRT+ chemotherapy (n = 66; treatment period 2003 to 2005). Proton therapy to the gross tumor volume was given with weekly intravenous paclitaxel and carboplatin. This report focuses only on acute and subacute toxicity, because the follow-up duration is too short to evaluate tumor control and survival. Median follow-up times were 15.2 months (proton), 17.9 months (3DCRT), and 17.4 months (IMRT). Rates of severe (grade &gt; 3) pneumonitis and esophagitis in the proton group (2% and 5%) were lower despite the higher radiation dose (3DCRT, 30% and 18%; IMRT, 9% and 44%; p &lt; .001 for all). Median overall survival times were 17.7 months for the 3DCRT group, 17.6 months for the IMRT group, and 24.4 months for the proton therapy group (log-rank p = 0.1061). The authors acknowledged several shortcomings of their study including the use of retrospective data for comparison, including substantial differences in pretreatment assessments (especially imaging) and treatment-planning capabilities over the periods of study and the heterogeneity of the patient populations. The proton therapy group was itself somewhat heterogeneous because of the inclusion of 25 patients with any stage (including recurrent) disease. Therefore differences in outcomes in this study are not clearly related to treatment modality.
+
+Hoppe et al (2012) published the result of a retrospective study on proton therapy with concurrent chemotherapy for 19 patients with NSCLC (18 stage III, 1 stage IIB) either with or without induction chemotherapy. Non-hematologic and hematologic acute grade 3 toxicity (90 days) developed in 1 and 4 patients, respectively. Two of 16 patients assessable for late toxicity (90 days) developed a significant grade 3 non-hematologic late toxicity, whereas 1 patient developed a grade 3 hematologic late toxicity. Local progression was the site of first relapse in 1 patient. The median progression-free survival (PFS) and median overall survival (OS) were 14 and 18 months, respectively. Seven patients are currently alive without evidence of disease, and 7 other patients died from disease progression, including 6 with distant metastases as their first site of relapse and 1 with local progression as their first site of relapse. The authors concluded proton therapy for stage III lung cancer is a promising treatment approach. Larger prospective studies are needed to confirm these findings, define the critical dosimetric points that may be unique to proton therapy, and investigate the potential of proton therapy to facilitate radiation dose escalation and/or combined modality therapy.
+
+Liao et al (2018) reported rates of local failure (LF) or radiation pneumonitis (RP) in a Bayesian randomized trial of intensity-modulated radiotherapy (IMRT) vs. 3D proton therapy (3DPT), both with concurrent chemotherapy, for locally advanced non-small cell lung cancer. Pairs of IMRT and 3DPT plans were created for each patient. Patients were eligible for randomization only if both plans satisfied normal tissue constraints at the same radiation dose. Of 255 enrolled patients, 149 were randomly allocated to IMRT (n = 92) or 3DPT (n = 57). The rate of grade 3 RP was 6.5% with IMRT and 10.5% with protons. LF rates were 10.9% with IMRT and 10.5% with protons. The conclusion was that proton treatment did not improve dose-volume indices for lung but did for heart. No benefit was noted in RP or LF after proton beam treatment. Similarly, Niedzielski et al (2017) reported esophageal toxicity results from this same patient cohort and concluded that there was no significant difference in esophageal toxicity from either proton- or photon-based radiation therapy as quantified by esophagitis grade or the esophageal expansion imaging biomarker.
+
+Wang et al (2016) reported comparisons of patient-reported symptoms after treatment in a total of only 82 patients, treated with either 3D technique, IMRT or proton beam therapy. They found that pain, as a major esophagitis-related symptom, increased more during therapy ( p = 0.019) and decreased more after ( p = 0.013) therapy in the 3DCRT and IMRT groups than in the PBT group. Compared with the PBT group, the 3DCRT and IMRT groups reported greater decrease in systemic symptoms (fatigue, drowsiness, lack of appetite, disturbed sleep) after therapy ( p = 0.016). They concluded that patients receiving PBT reported significantly less severe symptoms than did patients receiving IMRT or 3DCRT. These results should be confirmed in a randomized study with comparable tumor burden among therapies.
+
+Considered together, these early reports of proton beam radiation for lung cancer are mostly single institution retrospective studies which do not demonstrate clearly superior outcomes compared to customary photon radiation techniques. The limited randomized study information from Liao et al (2017) and Niedzielski et al (2017) do not show evidence of improved outcomes with protons.
+
+The American Society of Radiation Oncology (ASTRO) has taken a clear position towards the use of proton beam in the treatment of lung cancer. ASTRO Model Medical Policy on Proton Beam Therapy listed lung cancer in Group 2; Coverage with Evidence Development (CED). For the cancers in group 2, it is essential to collect further data, especially to understand how the effectiveness of proton therapy compares to other radiation therapy modalities. There is a need for more welldesigned registries and studies with sizable comparator cohorts to help accelerate data collection. Proton beam therapy for primary treatment of these cancers, including locally-advanced lung cancer, should only be performed within the context of a prospective clinical trial or registry. This is consistent with the investigational and unproven nature of proton beam radiation therapy for treatment of lung cancer.
+
+Currently there are multiple clinical trials recruiting patients to study the role of proton beam radiation therapy in stage II-III non-small cell lung cancer. These include RTOG 1308 (NCT01993810), A Phase III Randomized Trial Comparing Overall Survival after Photon versus Proton Chemoradiation Therapy for Inoperable Stage II-IIIB NSCLC. This randomized study aims to provide information on a clinically meaningful QOL benefit from proton therapy over photon therapy. The study will focus on 2 key toxicities:
+
+- A. The primary QOL outcome: Pulmonary toxicity (ie, clinical pneumonitis and lung fibrosis), a chronic effect of treatment that can have long term negative effects on QOL
+
+- B. The secondary QOL outcome: Esophageal toxicity (esophagitis), an acute/ subacute effect which is largely transient
+
+In addition, the following studies are active:
+
+- A. NCT01770418 A Phase I/II Study of Hypofractionated Proton Therapy for Stage IIIII Non-Small Cell Lung Cancer
+
+- B. NCT01629498 Phase I/II Trial of Image-Guided, Intensity-Modulated Photon (IMRT) or Scanning Beam Proton Therapy (IMPT) Both with Simultaneous Integrated Boost (SIB) Dose Escalation to the Gross Tumor Volume (GTV) with Concurrent Chemotherapy for Stage II/III Non-Small Cell Lung Cancer (NSCLC)
+
+- C. NCT02731001 Proton Therapy to Reduce Acute Normal Tissue Toxicity in Locally Advanced Non-small-cell Lung Cancer (PRONTOX)
+
+- D. NCT01076231 Feasibility and Phase I/II Trial of Preoperative Proton Beam Radiotherapy with Concurrent Chemotherapy for Resectable Stage IIIA or Superior Sulcus NSCLC
+
+- VIII. Pancreatic Cancer
+
+There have been several dosimetric studies comparing dose distributions in a limited number of patients using PBT or customary photon-based techniques. In a dosimetric study of unresectable pancreatic cancers treated to 59.4 Gy, Hsiung-Stripp et al (2001) suggested the proton plans significantly reduced dose to the spinal cord ( p = 0.003), left kidney ( p = 0.025), right kidney ( p = 0.059), and to the liver ( p = 0.061).
+
+Nichols et al (2012) reported on a comparison of retrospectively generated threedimensional conformal proton plans with IMRT treatment planning on 8 consecutive patients with resected pancreatic head cancers from the same institution receiving 50.4 CGE. The proton plans offered significantly reduced normal-tissue exposure over the IMRT plans with respect to the median small bowel V20 Gy (15.4% versus 47.0% p = 0.0156); median gastric V20 Gy (2.3% versus 20.0% p = 0.0313); and median right kidney V18 Gy (27.3% versus 50.5% p = 0.0156).
+
+Lee et al (2013) reported the outcomes of 12 consecutive patients who received neoadjuvant treatment for localized pancreatic cancers. They included high-risk nodal stations and delivered 50.4 CGE. In spite of the enlargement of the PTV, normal tissue exposures were well within tolerance limits and only minimally increased relative to exposures seen when only the gross tumor target was treated.
+
+Thompson et al (2014) reported a dosimetric comparison of proton and photon therapy in unresectable cancers of the head of pancreas. In this study, the authors investigated the potential use of double scattering (DS) and pencil beam scanning (PBS) proton therapy in limiting dose to critical organs at risk. All plans were calculated to 55 Gy in 25 fractions with equivalent constraints and normalized to prescription dose. Both DS and PBS decreased stomach, duodenum, and small bowel dose in low-dose regions compared to IMRT ( p &lt; 0.01). However, protons yielded increased doses in the mid to high dose regions (eg, 23.6 to 53.8 and 34.9 to 52.4Gy for duodenum using DS and PBS, respectively; p &lt; 0.05). Protons also increased generalized equivalent uniform dose to duodenum and stomach, however these differences were small (&lt; 5% and 10%, respectively; p &lt; 0.01). Doses to other organs at risk were within institutional constraints and placed no obvious limitations on treatment planning. The authors concluded that protons are able to reduce the treated volume receiving low-intermediate doses, however the clinical significance of this remains to be determined. Proton therapy does not appear to reduce OAR volumes receiving high dose.
+
+Bouchard et al (2009) from M.D. Anderson Cancer Center compared 3DCRT, IMRT, or protons to define which unresectable pancreatic tumor locations are safe for dose escalation (72 Gy). They concluded that IMRT allows a more conformal dose distribution in the high-dose regions, while proton therapy reduces low-dose bath irradiation to the body. They suggested uncertainty margins needed for proton planning precluded its full potential for higher-dose areas, and IMPT might be a solution.
+
+There is limited clinical data demonstrating outcomes for patients with pancreas cancer treated with PBT. Reported clinical experiences for PBT have generally been limited to single-institution studies. Nichols et al (2013) presented outcomes of 22 patients treated with proton therapy and concomitant capecitabine (1000 mg by mouth twice a day) for resected (n = 5), marginally resectable (n = 5), and unresectable/inoperable (n = 12) biopsy-proven pancreatic and ampullary adenocarcinoma. Proton doses ranged from 50.4 Gy RBE to 59.4 Gy RBE. No patient demonstrated any grade 3 toxicity during treatment or during follow-up. Three patients experienced grade 2 gastrointestinal toxicity. Chemotherapy was welltolerated with a median of 99% of the prescribed doses delivered.
+
+Sachsman et al (2014) published information on 11 patients with unresectable pancreatic cancer, evaluating whether the serious adverse event rate could be reduced from 15% (expected) to &lt; 5%. The prescribed dose was 59.4 CGE with concomitant oral capecitabine. Median follow-up was 14 months for all patients and 23 months for surviving patients. No patient experienced a grade 3 or greater toxicity during treatment or follow-up. Grade 2 toxicity was limited to a single patient experiencing grade 2 fatigue. Median weight loss over the course of treatment was 1.7 kg (range, loss of 5.7 to gain of 4.9 kg). The median survival was 18.4 months and at 2 years the freedom from local progression was 69%.
+
+University of Pennsylvania (Lukens et al, 2013) investigated whether lower normal tissue exposure by proton therapy translated into lower rates of acute gastrointestinal (GI) toxicity compared to photon chemoradiation. They enrolled 13 patients with pancreatic adenocarcinoma in a prospective feasibility study of proton therapy with concurrent continuous infusion 5-FU or capecitabine CRT. Median total RT dose was 54 Gy (50.4 to 59.4). A concurrent cohort of 17 patients was treated with photon beam. In the proton group, the rate of grade 3 acute GI toxicity was 8%, and 10 patients (77%) had grade &gt; 2 acute non-hematologic toxicity. In the photon group, 4 patients (24%) developed acute grade 3 GI toxicity.
+
+Hong et al (2014) published a series of patients with resectable pancreatic cancer treated with hypofractionated preoperative radiation, 25 Gy RBE in 5 fractions. Patients had to have resectable disease, good performance status (ECOG = 0 to 1) and all had negative laparoscopy prior to treatment. Twelve point three percent (12.3%) of patients were excluded due to positive findings at the time of laparoscopy, even after appearing to have localized disease on CT imaging. Of the remaining 50 patients, only 78% had surgery, with 16% found to be unresectable, 4% diagnosed with metastases prior to surgery, and 2% diagnosed with cholangiocarcinoma instead of pancreatic cancer. The median PFS was 10.4 months, and median OS was 17.3 months. Median follow-up for analysis was 38 months among the 12 patients still alive. The OS rate at 2 years was 42% (95% CI: 28% to 55%). For the 37 eligible resected patients, median PFS was 14.5 months (95% CI: 10.2 to 21.8 months), and median OS was 27.0 months (95% CI: 16.2 to 32.3 months). Six of 37 eligible resected patients (16%) experienced locoregional recurrence, while 73% developed distant metastases. The authors concluded that short-course proton-based chemoradiation is well tolerated and is associated with favorable local control in resectable pancreatic cancer (although 16% local failure after surgery and radiation, particularly with such limited follow-up and early deaths, is not particularly favorable).
+
+Takatori et al (2014) reported an analysis of the upper gastrointestinal complications associated with gemcitabine concurrent proton radiation therapy for patients with inoperable pancreatic cancer. The study demonstrated a 49.4% rate of gastric/ duodenal ulceration in the treated patients. Advanced immobilization techniques, such as the use of breath hold gating or targeting with implanted fiducial markers, were not used in this series, and the dose of 67.5 Gy RBE was higher than customary preoperative doses. Of note, the initial report (Terashima, 2012) of this series, with
+
+12.5 month median follow-up, concluded that this regimen was feasible and effective with only 12% grade 3 toxicity, 1 year local control of 82% and survival of 77%, emphasizing the need for an adequate follow-up period to assess outcomes.
+
+Maemura et al (2017) published a comparison of protons and photons, with the photon group treated with hyperfractionated accelerated radiotherapy (HART). Moderate hematological toxicities were observed only in the HART group, whereas 2 patients in the PBRT group developed duodenal ulcers. All patients underwent scheduled radiotherapy, with overall disease control rates of 93% and 80% in the HART and PBRT groups, respectively. Local progression was observed in 60% and 40% of patients in the HART and PBRT groups, respectively. However, there was no statistical significance between the 2 groups regarding the median time to progression (15.4 months in both) and the median overall survival (23.4 vs. 22.3 months).
+
+Jethwa et al reported on their initial experience with IMPT (intensity modulated proton therapy) for 13 patients with localized pancreatic cancer. Patients were treated to a dose of 50 Gy with chemotherapy. A VMAT plan was also generated for dosimetric comparison. At a median follow-up of 16 months, 'low rates of acute GI AEs and favorable PROs.'
+
+Kim et al also reported low rates of toxicity in 37 patients treated with proton beam therapy using a simultaneous integrated boost in 10 total fractions. No grade 3 or higher toxicity was seen while maintaining a median overall survival of 19.3 months.
+
+Other considerations
+
+The dose distribution using PBT is affected to a much greater extent by changes in tissue density than photon radiation therapy. As a result, there is concern about using PBT in the presence of significant target motion. This especially pertains to targets in the thorax and upper abdomen, including the pancreas, which move as a result of diaphragmatic excursion (Mori and Chen, 2008; Mori et al, 2008). Because the diaphragm moves during respiration, this results in changes to the tissues in the beam path, which can cause significant interplay effects and dose uncertainty. This could result in unanticipated overdose of normal tissues or under dose of target volumes.
+
+Houweling et al (2017) compared the dosimetric impact of interfractional anatomical changes for photon and proton plans for pancreatic cancer patients based on daily cone beam CT images, and found that photon plans were highly robust against interfractional anatomical changes. However, the near-minimum CTV dose for protons was reduced 8%, and in proton therapy, such changes can severely reduce the dose coverage of the target. Therefore, direct comparative studies will be helpful to determine the relative safety and efficacy of protons relative to customary photon radiation.
+
+The results from the previously mentioned single-institution experiences of pancreatic PBT do not demonstrate improved patient outcomes with PBT compared to customary photon treatments. Dosimetric studies suggest some possible benefits for PBT in the low/moderate dose ranges which could theoretically reduce toxicity, but there remain insufficient clinical publications documenting the benefits, risks, or efficacy of proton beam therapy. In addition, there are concerns about proton beam dose distributions in the setting of organ and respiratory motion and tissue differences and interfaces, as are seen in this location. Therefore, prospective trials comparing PBT with standard photon technologies like 3DCRT or IMRT will be necessary to provide high-quality evidence demonstrating the value of PBT. There are currently active clinical trials in the United States evaluating the role of PBT for pancreatic cancer, including NCT02598349, A Phase II Trial of Escalated Dose Proton Radiotherapy With Elective Nodal Irradiation and Concomitant Chemotherapy for Patients With Unresectable, Borderline Resectable or Medically Inoperable Pancreatic Adenocarcinoma, and NCT01683422, A Phase II Trial of Gemcitabine and Erlotinib (GE) Plus Proton-chemotherapy (PCT) and Capox for Locally Advanced Pancreatic Cancer (LAPC).
+
+IX. Thymoma
+
+The role of proton beam radiation for thymoma is primarily limited to small dosimetric studies mostly from single institutions. While these studies demonstrate a dosimetric advantage, there is no evidence presented as to how these dose differences translate into improved outcomes. For instance, Zhu et al (2018) report on 6 patients with stage II and III thymic malignancies who received treatment with proton beam therapy. Comparative photon based intensity modulated radiation therapy (IMRT) plans were also generated. This study reported an improvement in dosimetric outcomes with proton beam therapy. There was a significant reduction in heart, lung, and esophagus dose with proton beam therapy compared to IMRT planning. Clinically, 2 of the 6 patients developed recurrence. Similarly, Parikh et al (2016) presented a study of 4 patients with thymoma who underwent resection followed by adjuvant proton beam therapy. They also showed a dosimetric analysis comparing proton beam therapy and IMRT. The authors noted a significant reduction in mean lung dose (4.6 Gy vs. 8.1 Gy, p = .02), mean esophagus dose (5.4 Gy vs 20.6 Gy, p = .003), and mean heart dose (6.0 Gy vs. 10.4 Gy, p = .007). Three of the 4 patients reported grade 1 dermatitis. As noted by the authors, 'prospective evaluation and longer follow-up is needed to assess clinical outcomes and late toxicities.' These studies have demonstrated that proton beam therapy is well tolerated. Additional studies will be necessary to demonstrate the efficacy for proton beam therapy relative to photon based therapy in thymoma and thymic carcinoma.
+
+- X. Lymphoma
+
+There is considerable interest in use of PBT for treatment of Hodgkin and NonHodgkin Lymphoma. These individuals often have relatively good prognoses, with 10year survival rate of Hodgkin Lymphoma (HL) of approximately 90% and somewhat lower rates for Non-Hodgkin Lymphoma (NHL). Therefore, there is concern that this patient population has a longer duration of survival, allowing sufficient time for very late side effects of radiation for curative treatment to emerge and affect quality of life. However, the doses of radiation that are typically delivered for lymphoma are low or moderate compared to most solid tumors, and these doses often do not approach the established tolerance doses for organs at risk in the treated volume. The dosimetric advantage to PBT is primarily in the volume of tissue receiving low doses of radiation relative to the prescribed dose, and since the prescribed dose is already low in this setting, it is not clear that the reduction in the volume of organs at risk exposed to these relatively low doses is clinically meaningful.
+
+There are several studies of dosimetric comparisons between PBT and photon therapy, most of which demonstrate modest reductions in radiation dose to organs at risk, primarily in the low-dose range. For example, Hoppe et al (2014, Aug 1) reported dose differences using 3DCRT, IMRT, or PBT for 15 patients with HL, and mean dose to organs at risk in the chest (eg, heart, lung, breast, thyroid, esophagus) was lower with protons. The mean reduction in heart dose with proton therapy compared with 3DCRT was 7.6 Gy, and the mean reduction in heart dose with proton therapy compared with IMRT was 3.4 Gy. Jørgensen et al (2013) reported on esophageal doses for 46 patients with mediastinal HL, and the mean dose with PBT was 1.7 Gy lower with protons than with 3D or IMRT techniques. Maraldo et al (2013) evaluated dose to heart, lungs, and breast with mantle technique, 3DCRT, IMRT, or PBT. They concluded that in early-stage, mediastinal HL, modern radiotherapy provides superior results compared with mantle fields. However, there is no single best radiotherapy technique for HL; the decision should be made at the individual patient level. Numerous other dosimetric studies (Cella et al, 2013; Chera et al, 2009; Horn et al, 2016; Maraldo et al, 2014; Sachsman et al, 2015; Toltz et al, 2015) have similarly demonstrated that lower doses to heart, breast tissue, and lung can be achieved using PBT. A review of studies by Tseng et al (2017) reported that weighted average difference in dose to different organs using PBT or modern radiation therapy (photon) techniques was 0 to 3.28 Gy. None of these studies has demonstrated a difference in clinical outcomes related to this dosimetric reduction.
+
+In contrast to the large number of dosimetric studies comparing dose distributions, there are relatively few studies of patients treated with PBT that report patient outcomes. Much of the experience has been in the pediatric population, and whether extrapolation of this to adult patients is appropriate is not clear. Hoppe et al (2014 Aug 1) reported on 15 patients treated with involved nodal radiation for HL (5 children, 10 adults), with 37 month median follow-up. Three year relapse free survival was 93% and no late grade 3 or higher nonhematologic toxicities were noted. They concluded that PBT following chemotherapy in patients with HL is well-tolerated, and disease outcomes were similar to those of conventional photon therapy.
+
+A registry study reported by Hoppe et al (2016) included 50 patients from a multicenter study, 10 were excluded, leaving 40 patients (14 pediatric) treated with involved site PBT after chemotherapy. With median follow-up of only 21 months, the 2 year relapse-free survival was 85%, and there were no grade 3 or higher toxicities.
+
+Winkfield et al (2015) published, in abstract form only, results of 46 patients with HL and NHL, 13 of whom were treated for salvage after prior relapse. With 50.5 month follow-up, the 5 year progression free survival was 80%. Nine of 46 patients developed late toxicities, though no grades of toxicity were reported.
+
+Sachsman et al (2015) reported on 11 patients treated with PBT for NHL. With a 38-month median follow-up, the 2-year local control rate was 91%, with an in-field recurrence developing at the completion of proton therapy in 1 patient with natural killer/T-cell lymphoma, while no grade 3 toxicities were observed within the rest of the cohort. They concluded that PBT is a feasible and effective treatment for NHL. Early outcomes are favorable. Longer follow-up and more patients are needed to confirm these findings.
+
+Plastaras et al (2016) published an abstract with 12 adults treated for mediastinal lymphoma (10 HL, 2 NHL). There were no grade 3 toxicities, and no recurrences noted with only 7 months median follow-up.
+
+An abstract from the Proton Therapy Center of Prague (Dĕdečková et al, 2016) reported their experience with mediastinal lymphoma. Among 35 patients treated thus far with a median follow-up period of 10 months, no grade 3 toxicities or grade 2 pneumonitis have been observed. Furthermore, only 2 patients had disease relapse and both of these occurred outside of the proton field.
+
+Group 3:
+
+- I. Anal canal cancer
+
+There is limited data on the role of proton beam therapy in the treatment of anal cancer. The data is primarily limited to dosimetric studies comparing photon therapy and proton beam therapy (Anand et al, 2015; Ojerholm et al, 2015). Wo et al (2018) reported preliminary data on NCT01858025 which was a pilot study of 25 patients examining the feasibility of pencil beam scanning proton beam therapy in anal cancer. The study found proton beam therapy to be feasible. The authors note that 'while felt to be unrelated to the study, the two Grade 5 adverse events on this small study highlights potentially treatment related risks of this effective yet toxic regimen.' As the data is limited and the 1 clinical study was associated with 2 grade 5 adverse events, the use of proton beam therapy in the treatment of anal cancer is unproven.
+
+- II. Bladder cancer
+
+There is limited data on the role of proton beam therapy in the management of bladder cancer. Hata and colleagues report on 25 patients with transitional cell carcinoma of the urinary bladder who received photon based pelvic radiation combined with intra-arterial chemotherapy with methotrexate and cisplatin, transurethral resection biopsy of the bladder, followed by proton beam radiation boost. The authors found that radiation with photons followed by a proton boost was feasible. Similarly, Takaoka et al (2017) presented outcomes of 70 patients with bladder cancer treated with transurethral resection of the bladder tumor, photon based pelvic radiation, followed by proton boost. The authors found that bladder conservation therapy with photons followed by a proton boost is feasible. As these clinical studies were of photon therapy followed by proton therapy, there is limited data on the efficacy of proton beam therapy in bladder cancer. Therefore, proton beam therapy in the treatment of bladder cancer is unproven.
+
+- III. Cervical and endometrial cancer
+
+There is limited data on the role of proton beam therapy in the treatment of cervical cancer. The data is primarily limited to dosimetric studies comparing photon therapy and proton beam therapy (de Boer P, 2018; Marnitz S et al, 2015; van de Schoot AJ et al, 2016). For instance, Clivio et al (2013) describe a dosimetric study of 11 patients with cervical cancer who receive 50.4 Gy followed by an intensity modulated proton therapy (IMPT) boost instead of brachytherapy. In this dosimetric study, the authors were able to achieve good target coverage and superior DVH coverage with photons followed by a proton boost. These studies describe a dosimetric benefit; however, it is unclear if this translates into a clinical benefit. There are limited clinical data on proton beam therapy and cervical cancer. Lin et al (2015) describe their single institution experience of treating 11 patients with posthysterectomy gynecologic cancers including endometrial cancer and cervical cancer with proton beam therapy. The authors report that their preliminary results demonstrate that treatment with proton beam therapy is feasible and there were dosimetric advantages with proton therapy compared to an IMRT plan. As there is limited clinical data on the efficacy of proton beam therapy in cervical and endometrial cancer, proton beam therapy in the treatment of cervical cancer or endometrial cancer is unproven.
+
+- IV. Gastric cancer
+
+In gastric cancer, there is 1 study describing a potential dosimetric advantage of proton beam therapy (Dionisi et al, 2014). There are no published clinical studies. As treatment with protons is dependent on tissue density and changes in patterns of gas, treatment of gastric cancer with proton beam therapy presents challenges (Raldow and Hong, 2018). Therefore, the use of proton beam therapy in the treatment of gastric cancer is unproven.
+
+- V. Rectal cancer
+
+The available published literature on proton beam therapy and rectal cancer is limited to dosimetric studies (Blanco et al, 2016; Colaco et al, 2014; Wolff et al, 2012). There is no readily available published data on clinical studies of proton beam therapy and rectal cancer. Therefore, the use of proton beam therapy in the treatment of rectal cancer is unproven.
+
+- VI. Sarcoma
+
+Studies of proton beam therapy in soft tissue sarcoma are limited. With the exception of retroperitoneal sarcomas, there is limited clinical data on proton beam therapy in soft tissue sarcoma (Delaney et al, 2014). The studies of proton beam therapy in soft tissue sarcoma are primarily dosimetric comparisons. For example, in a dosimetric analysis of 5 patients with paraspinal sarcoma, Weber and colleagues (2007) found that intensity modulated photon therapy and intensity modulated proton plans produced equally homogeneous levels of tumor coverage. There was a reduction in the integral dose to the organs at risk with the intensity modulated radiation therapy plan. As there is limited clinical data on the efficacy of proton beam therapy in soft tissue sarcoma, proton beam therapy in the treatment of soft tissue sarcoma is unproven.
+
+Additional considerations
+
+- I. Secondary malignancies
+
+In a review of SEER registries, Berrington de Gonzales et al (2011) concluded from that 'five excess cancers per 1000 treated with radiotherapy by 15 years after diagnosis.' A common argument by advocates for use of PBT is the potential to reduce the risk of secondary malignancies further. A larger volume of normal tissue is exposed to low-dose radiation with IMRT, and this higher integral dose theoretically could cause a higher rate of second malignancies. There is a large body of data discussing the theoretic risks and benefits of PBT with respect to second malignancies, based on modeling (Arvold et al, 2012; Athar et al, 2009; Brenner et al, 2008; Moteabbed et al, 2012; Zacharatou et al, 2008). A commonly referenced study is one reported by Chung et al (2013) from Massachusetts General Hospital (MGH). While their data shows a lower risk of second malignancies in the proton group (5.2%) compared to a National Cancer Institute SEER database matched with a photon control group (7.5%) at a median follow-up of 6.7 years, their conclusion of the study is that '…these findings are reassuring that the risk of second tumors was at least not increased when using protons compared with photons…' and that '…given the limitations of the study, the reduced second tumor rate in the proton cohort that we observed should be viewed as hypothesis generating.' The authors admit to several significant limitations of their study, including having lost 26% of the patients to follow-up. There is also debate about the reliability of the SEER database matched cohort in determining the risk of second malignancies from photon therapy. In a response to this publication, Bekelman et al (2013) noted that '…most of the excess of second cancers in the photon therapy cohort occurred in the first 5 years after treatment…' and that '…for the key period of interest for radiationrelated solid malignancies, 5 or more years after treatment, the incidence rate was nearly identical…' between photons and proton beam therapy. It is best summed up by a comprehensive review from the NIH published in June 2013. The publication concluded that '…to date, no observational studies have directly assessed the second cancer risks after IMRT or proton therapy. Until sufficient follow-up is available to conduct such studies, assessment of the risks relies on risk projection studies or theoretical models.' (Berrington de Gonzales et al, 2013). A publication by Zelefsky et al (2013) from Memorial Sloan-Kettering Cancer Center (MSKCC) on the rate of second malignancies after treatment of prostate cancer with radical prostatectomy, brachytherapy, and external beam radiotherapy yielded a different outcome related to the conventional radiotherapy. Two thousand six hundred fifty-eight (2658) patients treated over 3 years were followed over 10 years. The study found that, when adjusted for age and smoking history, the incidence of second malignancies after radiotherapy was not significantly different from that after radical prostatectomy.
+
+Regarding the risk of second malignancy after cranial irradiation with SRS, a study with 5000 patients showed no increased risk (Rowe et al, 2007). The authors conclude, 'Pragmatically, in advising patients, the risks of malignancy would seem small, particularly if such risks are considered in the context of the other risks faced by patients with intracranial pathologies requiring radiosurgical treatments.'
+
+Whether PBT increases or reduces the risk of second malignancies is very much an unanswered issue, and as a result of the available published data, the use of proton beam is considered not medically necessary solely to reduce the risk of a secondary malignancy.
+
+##### References
+
+1. American Society for Radiation Oncology Model Policies. Proton Beam Therapy (PBT). 2017 June.
+
+2. American Society for Radiation Oncology Model Policies. Proton Beam Therapy (PBT). 2023 May.
+
+3. A phase I/II study of hypofractionated proton therapy for stage II-III non-small cell lung cancer. ClinicalTrials.gov identifier: NCT01770418. Updated April 4, 2023. https://beta.clinicaltrials.gov/study/NCT01770418
+
+4. A phase III randomized trial of protons versus photons for hepatocellular carcinoma. NRG Oncology Identifier: NRG-GI003. Amended October 18, 2019. https://www.nrgoncology.org/Clinical-Trials/Protocol/nrg-gi003? filter=nrg-gi003
+
+5. Adeberg S, Harrabi SB, Bougatf N, et al. Intensity-modulated proton therapy, volumetric-modulated arc therapy, and 3D conformal radiotherapy in anaplastic astrocytoma and glioblastoma: A dosimetric comparison. Intensitätsmodulierte Protonentherapie, volumenmodulierte Arc-Therapie und dreidimensionale konformale Radiotherapie beim anaplastischen Astrozytom und Glioblastom : Ein dosimetrischer Vergleich. Strahlenther Onkol . 2016;192(11):770-779. doi:10.1007/s00066-016-1007-7
+
+6. Allen AM, Pawlicki T, Dong L, et al. An evidence based review of proton beam therapy: the report of ASTRO's emerging technology committee. Radiother Oncol . 2012;103(1):8-11. doi:10.1016/j.radonc.2012.02.001
+
+7. Amichetti M, Amelio D, Cianchetti M, Enrici RM, Minniti G. A systematic review of proton therapy in the treatment of chondrosarcoma of the skull base. Neurosurg Rev . 2010;33(2):155-165. doi:10.1007/ s10143-009-0235-z
+
+8. Amichetti M, Cianchetti M, Amelio D, Enrici RM, Minniti G. Proton therapy in chordoma of the base of the skull: a systematic review. Neurosurg Rev . 2009;32(4):403-416. doi:10.1007/s10143-009-0194-4
+
+9. Anand A, Bues M, Rule WG, et al. Scanning proton beam therapy reduces normal tissue exposure in pelvic radiotherapy for anal cancer. Radiother Oncol . 2015;117(3):505-508. doi:10.1016/j.radonc.2015.10.027
+
+10. Arvold ND, Niemierko A, Broussard GP, et al. Projected second tumor risk and dose to neurocognitive structures after proton versus photon radiotherapy for benign meningioma. Int J Radiat Oncol Biol Phys . 2012;83(4):e495-e500. doi:10.1016/j.ijrobp.2011.10.056
+
+11. ASTRO Position Statement. Use of proton beam therapy for prostate cancer. 2013 Feb
+
+12. ASTRO releases list of five radiation oncology treatments to question as part of national Choosing Wisely ® campaign. 2013 Sep 13.
+
+13. Athar BS, Paganetti H. Neutron equivalent doses and associated lifetime cancer incidence risks for head &amp; neck and spinal proton therapy. Phys Med Biol . 2009;54(16):4907-4926. doi:10.1088/0031-9155/54/16/005
+
+14. Barker FG 2 nd , Butler WE, Lyons S, et al. Dose-volume prediction of radiation-related complications after proton beam radiosurgery for cerebral arteriovenous malformations. J Neurosurg . 2003;99(2):254-263. doi:10.3171/ jns.2003.99.2.0254
+
+15. Barsky AR, Carmona R, Verma V, et al. Comparative Analysis of 5-Year Clinical Outcomes and Patterns of Failure of Proton Beam Therapy Versus Intensity Modulated Radiation therapy for Prostate Cancer in the Postoperative Setting. Pract Radiat Oncol . 2021;11(2):e195-e202. doi:10.1016/j.prro.2020.11.005
+
+16. Bekelman JE, Schultheiss T, Berrington De Gonzalez A. Subsequent malignancies after photon versus proton radiation therapy. Int J Radiat Oncol Biol Phys . 2013;87(1):10-12. doi:10.1016/j.ijrobp.2013.05.016
+
+17. Berrington de Gonzalez A, Gilbert E, Curtis R, et al. Second solid cancers after radiation therapy: a systematic review of the epidemiologic studies of the radiation dose-response relationship. Int J Radiat Oncol Biol Phys . 2013;86(2):224-233. doi:10.1016/j.ijrobp.2012.09.001
+
+18. Bhattasali O, Holliday E, Kies MS, et al. Definitive proton radiation therapy and concurrent cisplatin for unresectable head and neck adenoid cystic carcinoma: A series of 9 cases and a critical review of the literature. Head Neck . 2016;38(Suppl 1):E1472-E1480. doi:10.1002/hed.24262
+
+19. Blanchard P, Garden AS, Gunn GB, et al. Intensity-modulated proton beam therapy (IMPT) versus intensitymodulated photon therapy (IMRT) for patients with oropharynx cancer - A case matched analysis. Radiother Oncol . 2016;120(1):48-55. doi:10.1016/j.radonc.2016.05.022
+
+20. Boskos C, Feuvret L, Noel G, et al. Combined proton and photon conformal radiotherapy for intracranial atypical and malignant meningioma. Int J Radiat Oncol Biol Phys . 2009;75(2): 399-406. doi:10.1016/j.ijrobp.2008.10.053
+
+21. Bouchard M, Amos RA, Briere TM, Beddar S, Crane CH. Dose escalation with proton or photon radiation treatment for pancreatic cancer. Radiother Oncol . 2009;92(2):238-243. doi:10.1016/j.radonc.2009.04.015
+
+22. Brenner DJ, Hall EJ. Secondary neutrons in clinical proton radiotherapy: a charged issue. Radiother Oncol . 2008;86(2):165-170. doi:10.1016/j.radonc.2007.12.003
+
+23. Bradley JA, Dagan R, Ho MW, et al. Initial Report of a Prospective Dosimetric and Clinical Feasibility Trial Demonstrates the Potential of Protons to Increase the Therapeutic Ratio in Breast Cancer Compared With Photons. Int J Radiat Oncol Biol Phys . 2016;95(1):411-421. doi:10.1016/j.ijrobp.2015.09.018
+
+24. Bush DA, McAllister CJ, Loredo LN, Johnson WD, Slater JM, Slater JD. Fractionated proton beam radiotherapy for acoustic neuroma. Neurosurgery . 2002;50(2): 270-275. doi:10.1097/00006123-200202000-00007
+
+25. Cella L, Conson M, Pressello MC, et al. Hodgkin's lymphoma emerging radiation treatment techniques: tradeoffs between late radio-induced toxicities and secondary malignant neoplasms. Radiat Oncol . 2013;8:22. Published 2013 Jan 30. doi:10.1186/1748-717X-8-22
+
+26. Chan AW, Liebsch NJ. Proton radiation therapy for head and neck cancer. J Surg Oncol . 2008;97(8):697-700. doi:10.1002/jso.21013
+
+27. Chang JY, Komaki R, Lu C, et al. Phase 2 study of high-dose proton therapy with concurrent chemotherapy for unresectable stage III nonsmall cell lung cancer. Cancer . 2011;117(20):4707-4713. doi:10.1002/cncr.26080
+
+28. Chang JY, Verma V, Li M, et al. Proton beam radiotherapy and concurrent chemotherapy for unresectable stage III non-small cell lung cancer: Final results of a phase 2 study [published correction appears in JAMA Oncol. 2017 Sep 1;3(9):1286] [published correction appears in JAMA Oncol. 2017 Dec 1;3(12):1742]. JAMA Oncol . 2017;3(8):e172032. doi:10.1001/jamaoncol.2017.2032
+
+29. Chang JY, Zhang X, Wang X, et al. Significant reduction of normal tissue dose by proton radiotherapy compared with three-dimensional conformal or intensity-modulated radiation therapy in Stage I or Stage III non-small-cell lung cancer. Int J Radiat Oncol Biol Phys . 2006;65(4):1087-1096. doi:10.1016/j.ijrobp.2006.01.052
+
+30. Char DH, Kroll S, Phillips TL, Quivey JM. Late radiation failures after iodine 125 brachytherapy for uveal melanoma compared with charged-particle (proton or helium ion) therapy. Ophthalmology . 2002;109(10):1850-1854. doi:10.1016/s0161-6420(02)01174-0
+
+31. Chera BS, Rodriguez C, Morris CG, et al. Dosimetric comparison of three different involved nodal irradiation techniques for stage II Hodgkin's lymphoma patients: conventional radiotherapy, intensity-modulated radiotherapy, and three-dimensional proton radiotherapy. Int J Radiat Oncol Biol Phys . 2009;75(4):1173-1180. doi:10.1016/j.ijrobp.2008.12.048
+
+32. Chung CS, Yock TI, Nelson K, Xu Y, Keating NL, Tarbell NJ. Incidence of second malignancies among patients treated with proton versus photon radiation. Int J Radiat Oncol Biol Phys . 2013;87(1):46-52. doi:10.1016/ j.ijrobp.2013.04.030
+
+33. Clivio A, Kluge A, Cozzi L, et al. Intensity modulated proton beam radiation for brachytherapy in patients with cervical carcinoma. Int J Radiat Oncol Biol Phys . 2013;87(5):897-903. doi:10.1016/j.ijrobp.2013.08.027
+
+34. Coen JJ, Bae K, Zietman AL, et al. Acute and late toxicity after dose escalation to 82 GyE using conformal proton radiation for localized prostate cancer: initial report of American College of Radiology Phase II study 03-12. Int J Radiat Oncol Biol Phys . 2011;81(4):1005-1009. doi:10.1016/j.ijrobp.2010.06.047
+
+35. Coen JJ, Paly JJ, Niemierko A, et al. Long-term quality of life outcome after proton beam monotherapy for localized prostate cancer. Int J Radiat Oncol Biol Phys . 2012;82(2):e201-e209. doi:10.1016/j.ijrobp.2011.03.048
+
+36. Coen JJ, Zietman AL, Rossi CJ, et al. Comparison of high-dose proton radiotherapy and brachytherapy in localized prostate cancer: a case-matched analysis. Int J Radiat Oncol Biol Phys . 2012;82(1):e25-e31. doi:10.1016/j.ijrobp.2011.01.039
+
+37. Colaco RJ, Nichols RC, Huh S, et al. Protons offer reduced bone marrow, small bowel, and urinary bladder exposure for patients receiving neoadjuvant radiotherapy for resectable rectal cancer. J Gastrointest Oncol . 2014;5(1):3-8. doi:10.3978/j.issn.2078-6891.2013.041
+
+38. Comparing photon therapy to proton therapy to treat patients with lung cancer. ClinicalTrials.gov identifier: NCT01993810. Updated February 28 2023. https://beta.clinicaltrials.gov/study/NCT01993810
+
+39. Conway RM, Poothullil AM, Daftari IK, Weinberg V, Chung JE, O'Brien JM. Estimates of ocular and visual retention following treatment of extra-large uveal melanomas by proton beam radiotherapy. Arch Ophthalmol . 2006;124(6):838-843. doi:10.1001/archopht.124.6.838
+
+40. Cuaron JJ, Chon B, Tsai H, et al. Early toxicity in patients treated with postoperative proton therapy for locally advanced breast cancer. Int J Radiat Oncol Biol Phys . 2015 Jun 1;92(2):284-291.
+
+41. de Boer P, van de Schoot AJ, Westerveld H, et al. Target tailoring and proton beam therapy to reduce small bowel dose in cervical cancer radiotherapy: A comparison of benefits. Zielvolumenpräzisierung und Protonentherapie zur Reduktion der Dünndarmdosis bei der Strahlentherapie des Gebärmutterhalskrebses : Ein Planvergleich. Strahlenther Onkol . 2018;194(3):255-263. doi:10.1007/s00066-017-1224-8
+
+42. Debus J, Schulz-Ertner D, Schad L, et al. Stereotactic fractionated radiotherapy for chordomas and chondrosarcomas of the skull base. Int J Radiat Oncol Biol Phys . 2000;47(3):591-596.doi:10.1016/ s0360-3016(00)00464-8
+
+43. Dědečková K, Móciková H, Marková J, et al. T011: Proton radiotherapy for mediastinal Hodgkin lymphoma: Single institution experience (abstract). Haematologica . 2016;101(Suppl 5):12-13.
+
+44. DeLaney TF, Liebsch NJ, Pedlow FX, et al. Long-term results of phase II study of high dose photon/proton radiotherapy in the management of spine chordomas, chondrosarcomas, and other sarcomas. J Surg Oncol . 2014;110(2):115-122. doi:10.1002/jso.23617
+
+45. Dennis ER, Bussière MR, Niemierko A, et al. A comparison of critical structure dose and toxicity risks in patients with low grade gliomas treated with IMRT versus proton radiation therapy. Tech Cancer Res Treat . 2013;12(1):1-9. doi:10.7785/tcrt.2012.500276
+
+46. Desjardins L, Lumbroso-Le Rouic L, Levy-Gabriel C, et al. Combined proton beam radiotherapy and transpupillary thermotherapy for large uveal melanomas: a randomized study of 151 patients. Ophthalmic Res . 2006;38(5):255-260. doi:10.1159/000094834
+
+47. Dionisi F, Avery S, Lukens JN, et al. Proton therapy in adjuvant treatment of gastric cancer: Planning comparison with advanced x-ray therapy and feasibility report. Acta Oncol . 2014;53(10):1312-1320. doi:10.3109/0284186X.2014.912351
+
+48. Eaton BR, MacDonald SM, Yock TI, Tarbell NJ. Secondary malignancy risk following proton radiation therapy. Front Oncol . 2015;5:261. Published 2015 Nov 26. doi:10.3389/fonc.2015.00261
+
+49. Efstathiou JA, Trofimov AV, Zietman AL. Life, liberty, and the pursuit of protons: an evidence-based review of the role of particle therapy in the treatment of prostate cancer. Cancer J . 2009;15(4):312-318. doi:10.1097/ PPO.0b013e3181b14ec0
+
+50. Egger E, Zografos L, Schalenbourg A, et al. Eye retention after proton beam radiotherapy for uveal melanoma. Int J Radiat Oncol Biol Phys . 2003;55(4):867-880. doi:10.1016/s0360-3016(02)04200-1
+
+51. Esmaeli B, Yin VT, Hanna EY, et al. Eye-sparing multidisciplinary approach for the management of lacrimal gland carcinoma. Head Neck . 2016;38(8):1258-1262. doi:10.1002/hed.24433
+
+52. Fang P, Mick R, Deville C, et al. A case-matched study of toxicity outcomes after proton therapy and intensitymodulated radiation therapy for prostate cancer. Cancer . 2015;121(7):1118-1127. doi:10.1002/cncr.29148
+
+53. Filippi AR, Ciammella P, Piva C, et al. Involved-site image-guided intensity modulated versus 3D conformal radiation therapy in early stage supradiaphragmatic Hodgkin lymphoma. Int J Radiat Oncol Biol Phys . 2014;89(2):370-375. doi:10.1016/j.ijrobp.2014.01.041
+
+54. Fitzek MM, Thornton AF, Harsh G 4th, et al. Dose-escalation with proton/photon irradiation for Daumas-Duport lower-grade glioma: results of an institutional phase I/II trial. Int J Radiat Oncol Biol Phys . 2001;51(1):131-137. doi:10.1016/s0360-3016(01)01589-9
+
+55. Fitzek MM, Thornton AF, Rabinov JD, et al. Accelerated fractionated proton/photon irradiation to 90 cobalt gray equivalent for glioblastoma multiforme: results of a phase II prospective trial. J Neurosurg . 1999;91(2):251-260. doi:10.3171/jns.1999.91.2.0251
+
+56. Fukumitsu N, Sugahara S, Nakayama H, et al. A prospective study of hypofractionated proton beam therapy for patients with hepatocellular carcinoma. Int J Radiat Oncol Biol Phys . 2009;74(3):831-836. doi:10.1016/ j.ijrobp.2008.10.073
+
+57. Funk RK, Tryggestad EJ, Kazemba BD, et al. Dosimetric comparison of IMRT vs. pencil-beam scanning proton therapy for distal esophageal cancer. Proceedings to the 54 th Annual Meeting for the Particle Therapy Cooperative Group (PTCOG) and the 2 nd Annual Meeting of PTCOG- North America. Int J Particle Therapy . 2015 Summer;2(1): 360-361.
+
+58. Georg D, Hopfgartner J, Gòra J, et al. Dosimetric considerations to determine the optimal technique for localized prostate cancer among external photon, proton, or carbon-ion therapy and high-dose-rate or low-doserate brachytherapy. Int J Radiat Oncol Biol Phys . 2014;88(3):715-722. doi:10.1016/j.ijrobp.2013.11.241
+
+59. Glioblastoma multiforme (GBM) proton vs. intensity modulated radiotherapy (IMRT). ClinicalTrials.gov identifier: NCT01854554. Updated October 18, 2021. https://beta.clinicaltrials.gov/study/NCT01854554
+
+60. Gray PJ, Paly JJ, Yeap BY, et al. Patient-reported outcomes after 3-dimensional conformal, intensity-modulated, or proton beam radiotherapy for localized prostate cancer. Cancer . 2013;119(9):1729-1735. doi:10.1002/ cncr.27956
+
+61. Greenberger BA, Pulsifer MG, Ebb DH, et al. Clinical outcomes and late endocrine, neurocognitive, and visual profiles of proton radiation for pediatric low-grade gliomas. Int J Radiat Oncol Biol Phys . 2014;89(5):1060-1068. doi:10.1016/j.ijrobp.2014.04.053
+
+62. Grutters JP, Kessels AG, Pijls-Johannesma M, De Ruysscher D, Joore MA, Labmin P. Comparison of the effectiveness of radiotherapy with photons, protons and carbon-ions for non-small cell lung cancer: a metaanalysis. Radiother Oncol . 2010;95(1):32-40. doi:10.1016/j.radonc.2009.08.003
+
+63. Gunn GB, Blanchard P, Garden AS, et al. Clinical outcomes and patterns of disease recurrence after intensity modulated proton therapy for oropharyngeal squamous carcinoma. Int J Radiat Oncol Biol Phys . 2016;95(1):360-367. doi:10.1016/j.ijrobp.2016.02.021
+
+64. Harrabi SB, Bougatf N, Mohr A, et al. Dosimetric advantages of proton therapy over conventional radiotherapy with photons in young patients and adults with low-grade glioma. Strahlenther Onkol . 2016 Nov;192(11):759-769.
+
+65. Hasegawa T, Ishii D, Kida Y, et al. Gamma Knife surgery for skull base chordomas and chondrosarcomas. J Neurosurg . 2007 Oct; 107(4):752-757.
+
+66. Hashimoto T, Tokuuye K, Fukumitsu N, et al. Repeated proton beam therapy for hepatocellular carcinoma. Int J Radiat Oncol Biol Phys . 2006 May 1; 65(1):196-202.
+
+67. Hata M, Tokuuye K, Sugahara S, et al. Proton beam therapy for hepatocellular carcinoma patients with severe cirrhosis. Strahlenther Onkol . 2006;182(12):713-720. doi:10.1007/s00066-006-1564-2
+
+68. Hata M, Miyanaga N, Tokuuye K, et al. Proton beam therapy for invasive bladder cancer: a prospective study of bladder-preserving therapy with combined radiotherapy and intra-arterial chemotherapy. Int J Radiat Oncol Biol Phys . 2006;64(5):1371-1379. doi:10.1016/j.ijrobp.2005.10.023
+
+69. Hata M, Tokuuye K, Sugahara S, et al. Proton beam therapy for hepatocellular carcinoma with portal vein tumor thrombus. Cancer . 2005;104(4):794-801. doi:10.1002/cncr.21237
+
+70. Hauswald H, Rieken S, Ecker S, et al. First experiences in treatment of low-grade glioma grade I and II with proton therapy. Radiation Oncol . 2012 Dec;7:189.
+
+71. Holliday E, Bhattasali O, Kies M, et al. Postoperative intensity-modulated proton therapy for head and neck adenoid cystic carcinoma. Int J Particle Ther . 2016 Spring;2(4):543-543.
+
+72. Holliday EB, Esmaeli B, Pinckard J, et al. A multidisciplinary orbit-sparing treatment approach that includes proton therapy for epithelial tumors of the orbit and ocular adnexa. Int J Radiat Oncol Biol Phys . 2016 May 1;95(1):344-352.
+
+73. Holliday EB, Frank SJ. Proton radiation therapy for head and neck cancer: a review of the clinical experience to date. Int J Radiat Oncol Biol Phys . 2014 Jun 1; 89(2):292-302.
+
+74. Holliday EB, Garden AS, Rosenthal DI, et al. Proton therapy reduces treatment-related toxicities for patients with nasopharyngeal cancer: a case-match control study of intensity-modulated proton therapy and intensitymodulated photon therapy. Int J Particle Ther . 2015 Summer;2(1):19-28.
+
+75. Holliday EB, Kocak-Uzel E, Feng L, et al. Dosimetric advantages of intensity-modulated proton therapy for oropharyngeal cancer compared with intensity-modulated radiation: A case-matched control analysis. Med Dosim . 2016;41(3):189-194. doi:10.1016/j.meddos.2016.01.002
+
+76. Hong TS, Ryan DP, Borger DR, et al. A Phase 1/2 and biomarker study of preoperative short course chemoradiation with proton beam therapy and capecitabine followed by early surgery for resectable pancreatic ductal adenocarcinoma. Int J Radiat Biol Phys . 2014 Jul 15;89(4):830-838.
+
+77. Hong TS, Wo JY, Yeap BY, et al. Multi-institutional Phase II study of high-dose hypofractionated proton beam therapy in patients with localized, unresectable hepatocellular carcinoma and intrahepatic cholangiocarcinoma. J Clin Oncol . 2016 Feb 10;34(5):460-468.
+
+78. Hoppe BS, Flampouri S, Henderson RH, et al. Proton therapy with concurrent chemotherapy for non-small-cell lung cancer: technique and early results. Clin Lung Cancer . 2012 Sep; 13(5):352-358.
+
+79. Hoppe BS, Flampouri S, Zaiden R, et al. Involved-node proton therapy in combined modality therapy for Hodgkin's lymphoma: results of a phase 2 study. Int J Radiat Oncol Biol Phys . 2014 Aug 1;89(5):1053-1059.
+
+80. Hoppe BS, Mamalui-Hunter M, Mendenhall NP, et al. Improving the therapeutic ratio by using proton therapy in patients with stage I or stage II seminoma. Am J Clin Oncol . 2013 Feb; 36(1):31-37.
+
+81. Hoppe BS, Michalski JM, Mendenhall NP, et al. Comparative effectiveness study of patient-reported outcomes after proton therapy or intensity-modulated radiotherapy for prostate cancer. Cancer . 2014 Apr 1; 120(7):1076-1085.
+
+82. Hoppe BS, Tsai H, Larson G, et al. Proton therapy patterns-of-care and early outcomes for Hodgkin lymphoma: results from the Proton Collaborative Group Registry. Acta Oncol . 2016;55(11):1378-1380.
+
+83. Horn S, Fournier-Bidoz N, Pernin V, et al. Comparison of passive-beam proton therapy, helical tomotherapy and 3D conformal radiation therapy in Hodgkin's lymphoma female patients receiving involved-field or involved site radiation therapy. Cancer Radiother . 2016 Apr;20(2):98-103.
+
+84. Horwich A, Fossa SD, Huddart R, et al. Second cancer risk and mortality in men treated with radiotherapy for stage I seminoma. Brit J Cancer . 2014 Jan; 110 (1): 256-263.
+
+85. Houweling AC, Crama K, Visser J, et al. Comparing the dosimetric impact of interfractional anatomical changes in photon, proton and carbon ion radiotherapy for pancreatic cancer patients. Phys Med Biol . 2017 Mar 21;62(8):3051-3064.
+
+86. Hsiung-Stripp DC, McDonough J, Masters HM, et al. Comparative treatment planning between proton and xray therapy in pancreatic cancer. Med Dosim . 2001 Autumn; 26(3):255-259.
+
+87. Hutcheson K, Lewin JS, Garden AS, et al. Early experience with IMPT for the treatment of oropharyngeal tumors: Acute toxicities and swallowing-related outcomes. Int J Radiat Oncol Biol Phys . 2013 Oct 1; 87(2 Suppl):S605.
+
+88. Hypofractionated image guided proton therapy for low and intermediate risk prostate cancer. ClinicalTrials.gov identifier: NCT02040610. Updated April 5, 2019. https://beta.clinicaltrials.gov/study/NCT02040610
+
+89. Hypofractionated proton beam therapy for localized prostate cancer. ClinicalTrials.gov identifier: NCT01950351. Updated April 11, 2023. https://beta.clinicaltrials.gov/study/NCT01950351
+
+90. Hypo-fractionated radiation therapy with or without androgen suppression for intermediate risk prostate cancer. ClinicalTrials.gov identifier: NCT01492972. Updated April 4, 2023. https://beta.clinicaltrials.gov/study/ NCT01492972
+
+91. Image-guided,intensity-modulated photon or proton beam radiation therapy in treating patients with stage IIIIIB non-small cell lung cancer. ClinicalTrials.gov identifier: NCT01629498. Updated February 27, 2023. https:// beta.clinicaltrials.gov/study/NCT01629498
+
+92. In-room PET in proton radiation therapy. ClinicalTrials.gov identifier: NCT01228448. Updated August 18, 2020. https://beta.clinicaltrials.gov/study/NCT01228448
+
+93. Isacsson U, Lennernäs B, Grusell E, Jung B, Montelius A, Glimelius B. Comparative treatment planning between proton and x-ray therapy in esophageal cancer. Int J Radiat Oncol Biol Phys . 1998;41(2):441-450. doi:10.1016/s0360-3016(98)00047-9
+
+94. Ishikawa H, Hashimoto T, Moriwaki T, et al. Proton beam therapy combined with concurrent chemotherapy for esophageal cancer. Anticancer Res . 2015 Mar;35(3):1757-1762.
+
+95. Jiang ZQ, Yang K, Komaki R, et al. Long-term clinical outcome of intensity-modulated radiotherapy for inoperable non-small cell lung cancer: the MD Anderson experience. Int J Radiat Oncol Biol Phys . 2012;83(1):332-339. doi:10.1016/j.ijrobp.2011.06.1963
+
+96. Jørgensen AY, Maraldo MV, Brodin NP, et al. The effect on esophagus after different radiotherapy techniques for early stage Hodgkin's lymphoma. Acta Oncol . 2013;52(7):1559-1565. doi:10.3109/0284186X.2013.813636
+
+97. Kim S, Shen S, Moore DF, et al. Late gastrointestinal toxicities following radiation therapy for prostate cancer. Eur Urol . 2011;60(5):908-916. doi:10.1016/j.eururo.2011.05.052
+
+98. Kollmeier MA, Fidaleo A, Pei X, et al. Favourable long-term outcomes with brachytherapy-based regimens in men ≤60 years with clinically localized prostate cancer. BJU Int . 2013;111(8):1231-1236. doi:10.1111/ j.1464-410X.2012.11663.x
+
+99. Kotecha R, Yamada Y, Pei X, et al. Clinical outcomes of high-dose-rate brachytherapy and external beam radiotherapy in the management of clinically localized prostate cancer. Brachytherapy . 2013 Jan-Feb; 12(1):44-49.
+
+100. Koyama S, Tsujii H. Proton beam therapy with high-dose irradiation for superficial and advanced esophageal carcinomas. Clin Cancer Res . 2003 Sep 1; 9(10 Pt 1):3571-3577.
+
+101. Kozak KR, Kachnic LA, Adams J, et al. Dosimetric feasibility of hypofractionated proton radiotherapy for neoadjuvant pancreatic cancer treatment. Int J Radiat Oncol Biol Phys . 2007 Aug 1; 68(5):1557-1566.
+
+102. Lee RY, Nichols RC Jr, Huh SN, et al. Proton therapy may allow for comprehensive elective nodal coverage for patients receiving neoadjuvant radiotherapy for localized pancreatic head cancers. J Gastrointest Oncol . 2013;4(4):374-379. doi:10.3978/j.issn.2078-6891.2013.043
+
+103. Lewinshtein D, Gulati R, Nelson PS et al. Incidence of second malignancies after external beam radiotherapy for clinical stage I testicular seminoma. BJU International . 2012 Mar; 109(5): 706-712.
+
+104. Liao Z, Lee JJ, Komaki R, et al. Bayesian Adaptive Randomization Trial of Passive Scattering Proton Therapy and Intensity-Modulated Photon Radiotherapy for Locally Advanced Non-Small-Cell Lung Cancer [published correction appears in J Clin Oncol. 2018 Aug 20;36(24):2570]. J Clin Oncol . 2018;36(18):1813-1822. doi:10.1200/JCO.2017.74.0720
+
+105. Liao ZX, Lee JJ, Komaki R, et al. Bayesian randomized trial comparing intensity modulated radiation therapy versus passively scattered proton therapy for locally advanced non-small cell lung cancer. J Clin Oncol . 2016; 34(15\_suppl), 8500.
+
+106. Lin LL, Kirk M, Scholey J, et al. Initial Report of Pencil Beam Scanning Proton Therapy for Posthysterectomy Patients With Gynecologic Cancer. Int J Radiat Oncol Biol Phys . 2016;95(1):181-189. doi:10.1016/ j.ijrobp.2015.07.2205.
+
+107. Lin SH, Hobbs BP, Verma V, et al. Randomized Phase IIB Trial of Proton Beam Therapy Versus IntensityModulated Radiation Therapy for Locally Advanced Esophageal Cancer. J Clin Oncol . 2020;38(14):1569-1579. doi:10.1200/JCO.19.02503
+
+108. Lin SH, Komaki R, Liao Z, et al. Proton beam therapy and concurrent chemotherapy for esophageal cancer. Int J Radiat Oncol Biol Phys . 2012 Jul 1;83(3):e345-351.
+
+109. Lin SH, Merrell KW, Shen J, et al. Multi-institutional analysis of radiation modality use and postoperative outcomes of neoadjuvant chemoradiation for esophageal cancer. Radiother Oncol . 2017 Jun;123(3):376-381.
+
+110. Linton OR, Moore MG, Brigance JS, Summerlin DJ, McDonald MW. Proton therapy for head and neck adenoid cystic carcinoma: initial clinical outcomes. Head Neck . 2015;37(1):117-124. doi:10.1002/hed.23573
+
+111. Lukens JN, Mick R, Demas KL, et al. Acute toxicity of proton versus photon chemoradiation therapy for pancreatic adenocarcinoma: a cohort study. Int J Radiat Biol Phys . 2013 Oct 1;87(2 Suppl):S311.
+
+112. Lumbroso-Le Rouic L, Delacroix S, Dendale R, et al. Proton beam therapy for iris melanomas. Eye . 2006; 20(12):1300-1305.
+
+113. Luu QT, Loredo LN, Archambeau JO, et al. Fractionated proton radiation treatment for pediatric craniopharyngioma: preliminary report. Cancer J . 2006 Mar-Apr; 12(2):155-159.
+
+114. MacDonald SM, Patel SA, Hickey S, et al. Proton therapy for breast cancer after mastectomy: early outcomes of a prospective clinical trial. Int J Radiat Oncol Biol Phys . 2013 Jul 1;86(3):484-490.
+
+115. Maemura K, Mataki Y, Kurahara H, et al. Comparison of proton beam radiotherapy and hyper-fractionated accelerated chemoradiotherapy for locally advanced pancreatic cancer. Pancreatology . 2017 SepOct;17(5):833-838.
+
+116. Makishima H, Ishikawa H, Terunuma T, et al. Comparison of adverse effects of proton and x-ray chemoradiotherapy for esophageal cancer using an adaptive dose-volume histogram analysis. J Radiat Research . 2015 May 1;56(3):568-576.
+
+117. Marnitz S, Wlodarczyk W, Neumann O, Koehler C, Weihrauch M, Budach V, Cozzi L. Which technique for radiation is most beneficial for patients with locally advanced cervical cancer? Intensity modulated proton therapy versus intensity modulated photon treatment, helical tomotherapy and volumetric arc therapy for primary radiation - an intraindividual comparison. Radiat Oncol . 2015; 10: 91.
+
+118. Maraldo MV, Brodin NP, Aznar MC, et al. Doses to head and neck normal tissues for early stage Hodgkin lymphoma after involved node radiotherapy. Radiother Oncol . 2014 Mar;110(3):441-447.
+
+119. Maraldo MV, Brodin NP, Aznar MC, et al. Estimated risk of cardiovascular disease and secondary cancers with modern highly conformal radiotherapy for early-stage mediastinal Hodgkin lymphoma. Ann Oncol . 2013 Aug;24(8):2113-2118.
+
+120. Marks LB, Yorke ED, Jackson A, et al. Use of normal tissue complication probability models in the clinic. Int J Radiat Oncol Biol Phys . 2010 Mar 1;76(3 S);S10-S19.
+
+121. Mazonakis M, Berris T, Lyraraki E, Damilakis J. Radiation therapy for stage IIA and IIB testicular seminoma: peripheral dose calculations and risk assessments. Phys Med Bio . 2015;60(6):2375-2389.
+
+122. McDonald JS, Smalley SR, Benedetti J, et al. Chemoradiotherapy after surgery compared with surgery alone for adenocarcinoma of the stomach or gastroesophageal junction. N Engl J Med . 2001 Sep 6; 345(10):725-730.
+
+123. McDonald MW, Liu Y, Moore MG, et al. Acute toxicity in comprehensive head and neck radiation for nasopharynx and paranasal sinus cancers: cohort comparison of 3D conformal proton therapy and intensity modulated radiation therapy. Radiat Oncol . 2016;11(32).
+
+124. McDonald MW, Zolali-Meybodi O, Lehnert SJ, et al. Reirradiation of recurrent and second primary head and neck cancer with proton therapy. Int J Radiat Oncol Biol Phys . 2016 Nov 15;96(4):808-819.
+
+125. Mendenhall NP, Hoppe BS, Nichols RC, et al. Five-year outcomes from 3 prospective trials of image-guided proton therapy for prostate cancer. Int J Radiat Oncol Biol Phys . 2014 Mar; 88(3):596-602.
+
+126. Mild hypofractionation with proton therapy or intensity modulated radiation therapy (IMRT) for intermediaterisk prostate cancer. ClinicalTrials.gov identifier: NCT01352429. Updated May 23, 2022. https:// beta.clinicaltrials.gov/study/NCT01352429
+
+127. Mizumota M, Yamamoto Y, Takano S, et al. Long-term survival after treatment of glioblastoma multiforme with hyperfractionated concomitant boost proton beam therapy. Pract Radiat Oncol . 2015 Jan-Feb;5(1):e9-e16.
+
+128. Mohan R, Grosshans D. Proton therapy - present and future. Adv Drug Deliv Rev . 2017 Jan 15; 109:26-44.
+
+129. Mori S and Chen GTY. Quantification and visualization of charged particle range variations. Int J Radiat Oncol Biol Phys . 2008 Sep 1;72(1):268-277.
+
+130. Mori S, Wolfgang J, Lu HM, Schneider R, Choi NC, Chen GT. Quantitative assessment of range fluctuations in charged particle lung irradiation. Int J Radiat Oncol Biol Phys. 2008;70(1):253-261. doi:10.1016/ j.ijrobp.2007.08.049
+
+131. Moteabbed M, Geyer A, Drenkhahn R, et al. Comparison of whole-body phantom designs to estimate organ equivalent neutron doses for secondary cancer risk assessment in proton therapy. Phys Med Biol . 2012 Jan 21; 57(2):499-515.
+
+132. Moyers MF, Miller DW, Bush DA, et al. Methodologies and tools for proton beam design for lung tumors. Int J Radiat Oncol Biol Phys . 2001 Apr 1;49(5):1429-1438.
+
+133. Murphy ES, Suh JH. Radiotherapy for vestibular schwannomas: a critical review. Int J Radiat Oncol Biol Phys . 2011 Mar 15; 79(4):985-997.
+
+134. Nag S, Quivey JM, Earle JD. et al. The American Brachytherapy Society recommendations for brachytherapy of uveal melanomas. Int J Radiat Oncol Biol Phys . 2003;56(2), pp.544-555.
+
+135. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - March 11, 2024. Breast Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/breast.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Breast Cancer Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+136. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2023 - March 24, 2023. Central Nervous System Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/cns.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Central Nervous System Cancers Version 1.2023. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+137. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024- April 26, 2024. Esophageal and Esophagogastric Junction Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/esophageal.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Esophageal and Esophagogastric Junction Cancers Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+138. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 4.2024 - May 1, 2024. Head and Neck Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/head-and-neck.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Head and Neck Cancers Version 4.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+139. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 5.2024 - April 23, 2024. Non-Small Cell Lung Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/nscl.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Non-Small Cell Lung Cancer Version 5.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+140. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 8, 2024. Prostate Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/prostate.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Prostate Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+141. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - March 15, 2024. Testicular Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/testicular.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Testicular Cancer Version 1.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+142. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - April 9, 2024. Hepatocellular Carcinoma. https://www.nccn.org/professionals/physician\_gls/pdf/hcc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Hepatocellular Carcinoma Version 1.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+143. Nichols RC Jr, George TJ, Zaiden RA Jr, et al. Proton therapy with concomitant capecitabine for pancreatic and ampullary cancers is associated with a low incidence of gastrointestinal toxicity. Acta Oncol . 2013;52(3):498-505. doi:10.3109/0284186X.2012.762997
+
+144. Nichols RC Jr, Huh SN, Prado KL, et al. Protons offer reduced normal-tissue exposure for patients receiving postoperative radiotherapy for resected pancreatic head cancer. Int J Radiat Oncol Biol Phys . 2012;83(1):158-163. doi:10.1016/j.ijrobp.2011.05.045
+
+145. Niedzielski JS, Yang J, Mohan R, et al. Differences in normal tissue response in the esophagus between proton and photon radiation therapy for non-small cell lung cancer using in vivo imaging biomarkers. Int J Radiat Oncol Biol Phys . 2017 Nov 15;99(4):1013-1020.
+
+146. Noël G, Feuvret L, Calugaru V et al. Chordomas of the base of the skull and upper cervical spine. One hundred patients irradiated by a 3D conformal technique combining photon and proton beams. Acta Oncol . 2005; 44(7):700-708.
+
+147. Ojerholm E, Kirk ML, Thompson RF, et al. Pencil-beam scanning proton therapy for anal cancer: a dosimetric comparison with intensity-modulated radiotherapy. Acta Oncol . 2015;54(8):1209-1217. doi:10.3109/0284186X.2014.1002570
+
+148. Patel SH, Want Z, Wong WW, et al. Charged particle therapy versus photon therapy for paranasal sinus and nasal cavity malignant diseases: a systematic review and meta-analysis. Lancet Oncol . 2014 Aug:15(9):1027-1038.
+
+149. Peeler CR, Mirkovic D, Titt U, et al. Clinical evidence of variable proton biological effectiveness in pediatric patients treated for ependymoma. Radiother Oncol ; 2016 Dec; 121(3):395-401.
+
+150. Phan J, Sio TT, Nguyen TP, et al. Reirradiation of head and neck cancer with proton therapy: outcomes and analyses. Int J Radiat Oncol Biol Phys . 2016 Sep 1;96(1):30-41.
+
+151. Plastaras JP, Vogel J, Elmongy H, et al. First clinical report of pencil beam scanned proton therapy for mediastinal lymphoma. Int J Radiat Oncol Biol Phys . 2016 Oct 1;96(2 Suppl):E497.
+
+152. Prayongrat A, Xu C, Li H, et al. Clinical outcomes of intensity modulated proton therapy and concurrent chemotherapy in esophageal carcinoma: a single institutional experience. Adv Radiat Oncol . 2017 JulSep;2(3):301-307.
+
+153. Phase III Randomized Trial Comparing Overall Survival After Photon Versus Proton Chemoradiotherapy for Inoperable Stage II-IIIB NSCLC. ClinicalTrials.gov identifier: NCT01993810. https://clinicaltrials.gov/ct2/show/ NCT01993810. Updated December 10, 2020.
+
+154. Prospective evaluation of hypofractionation proton beam therapy with concurrent treatment of the prostate and pelvic nodes for clinically localized, high risk or unfavorable intermediate risk prostate cancer. ClinicalTrials.gov identifier: NCT02874014. Updated February 2, 2023. https://beta.clinicaltrials.gov/study/NCT02874014
+
+155. Proton beam radiation therapy and chemotherapy in treating patients with stage III non-small cell lung cancer that can be removed by surgery. ClinicalTrials.gov identifier: NCT01076231. Updated May 17, 2021. https:// beta.clinicaltrials.gov/study/NCT01076231
+
+156. Proton radiation therapy in treating patients with prostate cancer. ClinicalTrials.gov identifier: NCT01045226. Updated February 1, 2023. https://beta.clinicaltrials.gov/study/NCT01045226
+
+157. Proton radiotherapy for stage I, IIA, and IIB seminoma. ClinicalTrials.gov identifier: NCT01557790. Updated April 13, 2020. https://beta.clinicaltrials.gov/study/NCT01557790
+
+158. Proton therapy to reduce acute normal tissue toxicity in locally advanced non-small-cell lung cancer (PRONTOX). ClinicalTrials.gov identifier: NCT02731001. Updated August 19, 2021. https:// beta.clinicaltrials.gov/study/NCT02731001
+
+159. Proton therapy vs. IMRT for low or intermediate risk prostate cancer (PARTIQoL). ClinicalTrials.gov identifier: NCT01617161. Updated August 24, 2022. https://beta.clinicaltrials.gov/study/NCT01617161
+
+160. Raldow AC, Hong TS. Will There Be a Clinically Significant Role for Protons in Patients With Gastrointestinal Malignancies? Semin Radiat Oncol . 2018 Apr;28(2):125-130. doi: 10.1016/j.semradonc.2017.11.006.
+
+161. Ramakrishna NR, Harper B, Burkavage R, et al. A comparison of brain and hippocampal dosimetry with protons or intensity modulated radiation therapy planning for unilateral glioblastoma. Int J Radiat Oncol Biol Phys . 2016 Oct 1;96(2 Suppl):e134-e135.
+
+162. Radiation Therapy Oncology Group (RTOG). RTOG 1308 Protocol Information. Phase III Randomized Trial Comparing Overall Survival After Photon Versus Proton Chemoradiotherapy for Inoperable Stage II-IIIB NSCLC.
+
+163. Richie JP. Editorial Comment. Re: Incidence of second malignancies after external beam radiotherapy for clinical stage I testicular seminoma. J of Urology . 2012 Dec; 188(6):2231-2232.
+
+164. Romesser PB, Cahlon O, Scher E, et al. Proton beam radiation therapy results in significantly reduced toxicity compared with intensity-modulated radiation therapy for head and neck tumors that require ipsilateral radiation. Radiother Oncol . 2016 Feb;118(2):286-292.
+
+165. Ronson BB, Schulte RW, Han KP, et al. Fractionated proton beam irradiation of pituitary adenomas. Int J Radiat Oncol Biol Phys . 2006 Feb 1; 64(2):425-434.
+
+166. Rowe J, Grainger A, Walton L, Silcocks P, Radatz M, Kemeny A. Risk of malignancy after gamma knife stereotactic radiosurgery. Neurosurgery . 2007;60(1):60-66. doi:10.1227/01.NEU.0000255492.34063.32
+
+167. Russo AL, Adams JA, Weyman EA, et al. Long-term outcomes after proton beam therapy for sinonasal squamous cell carcinoma. Int J Radiat Oncol Biol Phys . 2016 May 1;95(1):358-376.
+
+168. Sachsman S, Flampouri S, Li Z, et al. Proton therapy in the management of non-Hodgkin lymphoma. Leuk Lymphoma . 2015;56(9):2608-2612.
+
+169. Sachsman S, Hoppe BS, Mendenhall NP, et al. Proton therapy to the subdiaphragmatic region in the management of Hodgkin lymphoma. Leuk Lymphoma . 2015;56(7):2019-2024.
+
+170. Sachsman S, Nichols Jr RC, Morris CG, et al. Proton therapy and concomitant capecitabine for non-metastatic unresectable pancreatic adenocarcinoma. Int J Particle Therapy . 2014 Winter;1(3):692-701.
+
+171. Santos PMG, Barsky AR, Hwang WT, et al. Comparative toxicity outcomes of proton-beam therapy versus intensity-modulated radiotherapy for prostate cancer in the postoperative setting. Cancer . 2019;125(23):4278-4293. doi:10.1002/cncr.32457
+
+172. Schild ST, Rule WG, Ashman JB, et al. Proton beam therapy for locally advanced lung cancer: a review. World J Clin Oncol . 2014 Oct 10;5(4):568-575.
+
+173. Sejpal S, Komaki R, Tsao A, et al. Early findings on toxicity of proton beam therapy with concurrent chemotherapy for nonsmall cell lung cancer. Cancer . 2011 Jan 11;117(13):3004-3013.
+
+174. Sheets NC, Goldin GH, Meyer AM, et al. Intensity-modulated radiation therapy, proton therapy, or conformal radiation therapy and morbidity and disease control in localized prostate cancer. JAMA . 2012 Apr 18; 307(15):1611-1620.
+
+175. Shih HA, Arvold ND, Niemierko A, et al. Second tumor risk and projected late effects after proton vs. intensity modulated photon radiotherapy for benign meningioma: a dosimetric comparison. Int J Radiat Oncol Biol Phys . 2010 Nov 1; 78(3): S272.
+
+176. Shih HA, Sherman JC, Nachtigall LB, et al. Proton therapy for low-grade gliomas: Results from a prospective trial. Cancer . 2015 Jan 13;121(10):1712-1719.
+
+177. Simone CB 2nd, Kramer K, O'Meara WP, et al. Predicted rates of secondary malignancies from proton versus photon radiation therapy for stage I seminoma. Int J Radiat Oncol Biol Phys . 2012;82(1):242-249. doi:10.1016/ j.ijrobp.2010.11.021
+
+178. Sio TT, Lin HK, Shi Q, et al. Intensity Modulated Proton Therapy Versus Intensity Modulated Photon Radiation Therapy for Oropharyngeal Cancer: First Comparative Results of Patient-Reported Outcomes. Int J Radiat Oncol Biol Phys . 2016;95(4):1107-1114. doi:10.1016/j.ijrobp.2016.02.044
+
+179. Slater JD, Rossi CJ Jr, Yonemoto LT, et al. Proton therapy for prostate cancer: the initial Loma Linda University experience. Int J Radiat Oncol Biol Phys . 2004;59(2):348-352. doi:10.1016/j.ijrobp.2003.10.011
+
+180. Spratt DE, Pei X, Yamada J, Kollmeier MA, Cox B, Zelefsky MJ. Long-term survival and toxicity in patients treated with high-dose intensity modulated radiation therapy for localized prostate cancer. Int J Radiat Oncol Biol Phys . 2013;85(3):686-692. doi:10.1016/j.ijrobp.2012.05.023
+
+181. Steneker M, Lomax A, Schneider U. Intensity modulated photon and proton therapy for the treatment of head and neck tumors. Radiother Oncol . 2006 Aug; 80(2):263-267.
+
+182. Study of hypofractionated proton beam radiation therapy for prostate cancer. ClinicalTrials.gov identifier: NCT00831623. Updated March 13, 2023. https://beta.clinicaltrials.gov/study/NCT00831623
+
+183. Study of hypo-fractionated proton radiation for low risk prostate cancer. ClinicalTrials.gov identifier: NCT01230866. Updated April 4, 2023. https://beta.clinicaltrials.gov/study/NCT01230866
+
+184. Sugahara S, Oshiro Y, Nakayama H, et al. Proton beam therapy for large hepatocellular carcinoma. Int J Radiat Oncol Biol Phys . 2010 Feb 1; 76(2):460-466.
+
+185. Sugahara S, Tokuuye K, Okumura T, et al. Clinical results of proton beam therapy for cancer of the esophagus. Int J Radiat Oncol Biol Phys . 2005 Jan 1; 61(1):76-84.
+
+186. Takatori K, Terashima K, Yoshida R, et al. Upper gastrointestinal complications associated with gemcitabineconcurrent proton radiotherapy for inoperable pancreatic cancer. J Gastroenterol . 2014 Jun;49(6):1074-1080.
+
+187. Takaoka EI, Miyazaki J, Ishikawa H, et al. Long-term single-institute experience with trimodal bladder-preserving therapy with proton beam therapy for muscle-invasive bladder cancer. Jpn J Clin Oncol . 2017;47(1):67-73. doi:10.1093/jjco/hyw151
+
+188. Terashima K, Demizu Y, Jin D, et al. A phase I/II study of gemcitabine-concurrent proton radiotherapy for locally advanced pancreatic cancer without distant metastasis. Radiother Oncol . 2012 Apr;103(1):25-31.
+
+189. Thompson RF, Mayekar SU, Zhai H, et al. A dosimetric comparison of proton and photon therapy in unresectable cancers of the head of pancreas. Med Phys . 2014;41(8):081711. doi:10.1118/1.4887797
+
+190. Tolz A, Shin N, Mitrou E, et al. Late radiation toxicity in Hodgkin lymphoma patients: proton therapy's potential. J Appl Clinic Med Physics ; 2015 Sept 8;16(5):167-178.
+
+191. Tommasino F, Durante M. Proton radiobiology. Cancers (Basel) . 2015;7(1):353-381. Published 2015 Feb 12. doi:10.3390/cancers7010353
+
+192. Travis LB, Curtis RE, Storm H, et al. Risk of second malignant neoplasms among long-term survivors of testicular cancer. J Natl Cancer Inst . 1997;89(19):1429-1439. doi:10.1093/jnci/89.19.1429
+
+193. Travis LB, Fossa SD, Schonfield SJ, et al. Second cancers among 40,576 testicular cancer patients: focus on long-term survivors. J Natl Cancer Inst . 2005 Sep 21; 97(18); 1354-1365.
+
+194. Trofimov A, Nguyen PL, Coen JJ, et al. Radiotherapy treatment of early-stage prostate cancer with IMRT and protons: a treatment planning comparison. Int J Radiat Oncol Biol Phys . 2007 Oct 1;69(2):444-453.
+
+195. Trofimov A, Nguyen PL, Efstathiou JA, et al. Interfractional variations in the setup of pelvic bony anatomy and soft tissue, and their implications on the delivery of proton therapy for localized prostate cancer. Int J Radiat Oncol Biol Phys . 2011 Jul 1;80(3):928-937.
+
+196. Tseng YD, Cutter DJ, Plastaras JP, et al. Evidence-based review on the use of proton therapy in lymphoma from the Particle Therapy Cooperative Group (PTCOG) Lymphoma Subcommittee. Int J Radiat Oncol Biol Phys . 2017 Nov 15;99(4):825-842.
+
+197. van de Schoot AJ, Visser J, van Kesteren Z, Janssen TM, Rasch CR, Bel A. Beam configuration selection for robust intensity-modulated proton therapy in cervical cancer using Pareto front comparison. Phys Med Biol . 2016;61(4):1780-1794. doi:10.1088/0031-9155/61/4/1780
+
+198. Verma V, Iftekaruddin Z, Badar N, et al. Proton beam radiotherapy as part of comprehensive regional nodal irradiation for locally advanced breast cancer. Radiother Oncol . 2017 May;123(2):294-298.
+
+199. Verma V, Simone CB 2 nd , Mishra MV. Quality of life and patient-reported outcomes following proton radiation therapy: a systematic review. J Natl Cancer Inst . 2018;110(4):341-353. doi: 10.1093/jnci/djx208
+
+200. Wang J, Wei C, Tucker SL, et al. Predictors of postoperative complications after trimodality therapy for esophageal cancer. Int J Radiat Oncol Biol Phys . 2013 Aug 1;86(5):885-891.
+
+201. Wang XS, Shi Q, Williams LA, et al. Prospective study of patient-reported symptom burden in patients with nonsmall-cell lung cancer undergoing proton or photon chemoradiation therapy. J Pain Symptom Manage . 2016 May;51(5):832-838.
+
+202. Weber DC, Chan AW, Bussiere MR, et al. Proton beam radiosurgery for vestibular schwannoma: tumor control and cranial nerve toxicity. Neurosurgery . 2003 Sep; 53(3):577-588.
+
+203. Weber DC, Rutz HP, Bolsi A, et al. Spot scanning proton therapy in the curative treatment of adult patients with sarcoma: the Paul Scherrer institute experience. Int J Radiat Oncol Biol Phys . 2007;69(3):865-871. doi:10.1016/ j.ijrobp.2007.04.034
+
+204. Wilkinson B, Morgan H, Gondi V, et al. Low levels of acute toxicity associated with proton therapy for low-grade glioma: a proton collaborative group study. Int J Radiat Oncol Biol Phys . 2016 Oct 1; 96(2S):E135.
+
+205. Winkfield KM, Gallotto S, Niemierko A, Adams JA, Tarbell NJ, Chen YL. Proton therapy for mediastinal lymphomas: an 8-year single-institution report. Int J Radiat Oncol Biol Phys . 2015;93(3 Suppl):E461. doi:10.1016/j.ijrobp.2015.07.1725
+
+206. Wo JY, Yeap BY, Delany TF et al. A pilot feasibility study of definitive concurrent chemoradiation with pencil beam scanning proton beam in combination with 5-fluorouracil and mitomycin-c for carcinoma of the anal canal. J Clin Oncol . 2018 Feb; 36(4 suppl):733-733. doi: 10.1200/JCO.2018.36.4\_suppl.733.
+
+207. Wolff HA, Wagner DM, Conradi LC, et al. Irradiation with protons for the individualized treatment of patients with locally advanced rectal cancer. Radiotherapy and Oncology . 2012 Jan;102(1): 30-37.
+
+208. Xi M, Xu C, Liao Z, et al. Comparative outcomes after definitive chemoradiotherapy using proton beam therapy versus intensity modulated radiation therapy for esophageal cancer: a retrospective, single-institutional analysis. Int J Radiat Oncol Biol Phys . 2017 Nov 1;99(3):667-676.
+
+209. Yoon M, Kim D, Shin DH, et al. Inter- and intrafractional movement-induced dose reduction of prostate target volume in proton beam treatment. Int J Radiat Oncol Biol Phys . 2008 Jul 15;71(4):1091-1102.
+
+210. Yu JB, Soulos PR, Herrin J et al. Proton versus intensity-modulated radiotherapy for prostate cancer: patterns of care and early toxicity. J Natl Cancer Inst . 2013;105(1):25-32. doi:10.1093/jnci/djs463
+
+211. Zacharatou Jarlskog C, Paganetti H. Risk of developing second cancer from neutron dose in proton therapy as function of field characteristics, organ, and patient age. Int J Radiat Oncol Biol Phys . 2008;72(1):228-235. doi:10.1016/j.ijrobp.2008.04.069
+
+212. Zelefsky MJ, Pei X, Teslova T, et al. Secondary cancers after intensity-modulated radiotherapy, brachytherapy and radical prostatectomy for the treatment of prostate cancer: incidence and cause-specific survival outcomes according to the initial treatment intervention. BJU Int . 2012 Dec; 110(11):1696-701.
+
+213. Zhang X, Zhao KL, Guerrero TM, et al. Four-dimensional computed tomography-based treatment planning for intensity-modulated radiation therapy and proton therapy for distal esophageal cancer. Int J Radiat Oncol Biol Phys . 2008 Sep 1; 72(1):278-287.
+
+214. Zietman A. Proton beam and prostate cancer: An evolving debate. Rep Pract Oncol Radiother . 2013;18(6):338-342. Published 2013 Jul 3. doi:10.1016/j.rpor.2013.06.001
+
+215. Zietman AL, Bae K, Slater JD, et al. Randomized trial comparing conventional-dose with high-dose conformal radiation therapy in early-stage adenocarcinoma of the prostate: long-term results from proton radiation oncology group/american college of radiology 95-09. J Clin Oncol . 2010;28(7):1106-1111. doi:10.1200/ JCO.2009.25.8475
+
+216. Zorlu F, Gürkaynak M, Yildiz F, Oge K, Atahan IL. Conventional external radiotherapy in the management of clivus chordomas with overt residual disease. Neurol Sci . 2000;21(4):203-207. doi:10.1007/s100720070077
+
+217. Zurlo A, Lomax A, Hoess A, et al. The role of proton therapy in the treatment of large irradiation volumes: a comparative planning study of pancreatic and biliary tumors. Int J Radiat Oncol Biol Phys . 2000 Aug 1; 48(1):277-288.
+
+## Radiation Oncology Guidelines For Treatment by Site
+
+Radiation Oncology Guidelines For Treatment by Site
+
+POLICY
+
+- I. In the adjuvant (post-operative) curative treatment of primary adrenocortical carcinoma (ACC):
+
+- A. Up to 30 fractions of three-dimensional conformal radiation therapy (3DCRT) or intensity-modulated radiation therapy (IMRT) is considered medically necessary in ANY of the following situations:
+
+1. Stage II or III disease
+
+2. Presence of positive margins
+
+3. Presence of high-grade or Ki-67 &gt; 10%
+
+- B. SBRT is considered not medically necessary.
+
+- II. In the palliative treatment of primary ACC:
+
+- A. Up to 15 fractions of 3DCRT is considered medically necessary.
+
+### Adrenocortical Carcinoma
+
+#### DISCUSSION
+
+Most adrenal tumors are benign though adrenocortical carcinoma (ACC) are rarely encountered. The mainstay treatment of ACCs is surgery, whose extent of surgery remains an important prognostic factor. Data on the use of adjuvant radiation is limited. However, several retrospective studies have shown a benefit to the use of adjuvant radiation.
+
+For example, Fassnacht et al (J Clin Endocrin Metab 2006) conducted a review of the German ACC Registry and identified 14 patients with non-metastatic ACC who received adjuvant radiation, matched to a control group within the registry who did not receive radiation. In each group, 8 patients had pathologic R0 disease, 2 had R1 and 4 had Rx (ie, tumor spillage). Patients who received radiation were treated with a 3D technique to a median dose of 50.4 Gy. Target volume was the tumor bed alone in 7 patients with 7 additional patients receiving radiation to the regional lymph nodes (ie, bilateral paraaortic nodes). At a median follow-up of 37 months, 11 of 14 patients in the control group experienced a local recurrence as compared to 2 in the treated group. However, disease-free and overall survival were no different. The authors concluded that 'adjuvant radiotherapy should be considered in patients at high risk of local recurrence…'
+
+In a follow-up publication, Polat et al (Cancer 2009) recommended adjuvant radiation in patients with 1) an R1 or Rx resection, 2) presence of tumor spillage intraoperatively, 3)
+
+RO.TXS.107.A v2.0.2024
+
+locoregionally advanced disease (especially with invasion to neighboring organs) and/or positive lymph nodes, and 4) R0 resection of tumor &gt; 8 cm.
+
+More recently, Sabolch et al (IJROBP 2015) reported on 20 patients with non-metastatic ACC who underwent R0 or R1 resection and received adjuvant radiation at the University of Michigan. This group was also matched to 20 patients who did not receive radiation. Patients receiving radiation were treated with IMRT (15) or 3D (5) to a median dose of 55 Gy. The target volume included the surgical bed and the adjacent bilateral paraaortic lymph nodes. 15 patients in each group also received concurrent mitotane. At a median follow-up of 34 months, local recurrence was seen in 1 patient within the adjuvant radiation group vs. 12 in the control ( p = 0.0005). Relapse-free survival (RFS) and overall survival (OS) were not significantly different, however. Treatment was well tolerated with no difference between the cohorts and with most patients experiencing grade 1 or 2 nausea.
+
+In a follow-up publication, Gharzai et al (J Clin Endocrin Metab 2019) reported on 39 patients who received adjuvant radiation again matched to 39 patients who did not receive radiation. It is noted that this update included 3 patients with oligometastatic ACC. At a median follow-up of 4.2 years, patients receiving radiation had a significantly improved overall survival as compared to the control group (77.7% and 72.1% vs. 48.6% and 29.5% at 3- and 5- years respectively). Locoregional RFS was also significantly higher for those receiving radiation ( p = 0.0024). The authors concluded that adjuvant radiation should be considered in high-risk patients including 1) R0 with large size, incomplete/R1 resection, or stage III disease.
+
+In review of the NCDB (National Cancer Database), Nelson et al (Ann Surg Oncol 2018) identified 171 patients with non-metastatic ACC which was compared to 1013 patients who did not receive radiation. Patient characteristics were similar between the groups except those receiving radiation were more likely to have 1) positive margins, 2) evidence of vascular invasion and 3) received chemotherapy. In a multivariate analysis of all patients, high-grade histology and vascular invasion were statistically associated with decreased survival. In a subgroup analysis, adjuvant radiation led to a significant improvement in overall survival in only those patients with positive margins ( p = 0.04).
+
+In a systematic review and meta-analysis reported by Viani et al (J Can Res Ther 2019), adjuvant radiation was found to significantly reduce the risk of local recurrence after surgery. Specifically, the absolute risk reduction of local recurrence was 28% at 5 years. However, no difference in overall survival was found with toxicity being 'mild and selflimited.' The authors noted that 'although a comparison by subgroup has not been possible, our results suggest that adjuvant RT is appropriate for patients with Stage II or III with or without positive margins.'
+
+The European Society of Endocrinology published guidelines on treatment of ACCs in adults. In this guideline, the panel 'suggests considering radiation in addition to mitotane therapy on an individualized basis therapy in patients with R1 or Rx resection or in stage III.' Recommended doses of radiation included '50-60 Gy to the previous tumor bed in fractionated doses of approximately 2 Gy each.' (Fassnacht Eur J Endocrin 2018).
+
+National Comprehensive Cancer Network (NCCN ® ) Guidelines ® also recommend consideration of external beam radiation in patients at high-risk of local recurrence including positive margins, Ki-67 &gt; 10%, capsular rupture, large size and high grade.
+
+In the postoperative setting, when radiation therapy is indicated, evidence and guidelines support the use of conventionally fractionated regimens. Given the lack of evidence to support SBRT in the postoperative treatment of ACC, it is considered not medically necessary.
+
+#### References
+
+1. Fassnacht M, Hahner S, Polat B, et al. Efficacy of adjuvant radiotherapy of the tumor bed on local recurrence of adrenocortical carcinoma. J Clin Endocrinol Metab . 2006;91(11):4501-4504. doi:10.1210/jc.2006-1007
+
+2. Gharzai LA, Green MD, Griffith KA, et al. Adjuvant Radiation Improves Recurrence-Free Survival and Overall Survival in Adrenocortical Carcinoma. J Clin Endocrinol Metab . 2019;104(9):3743-3750. doi:10.1210/ jc.2019-00029
+
+3. Nelson DW, Chang SC, Bandera BC, Fischer TD, Wollman R, Goldfarb M. Adjuvant Radiation is Associated with Improved Survival for Select Patients with Non-metastatic Adrenocortical Carcinoma. Ann Surg Oncol . 2018;25(7):2060-2066. doi:10.1245/s10434-018-6510-x
+
+4. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2023 - August 2, 2023. Neuroendocrine and Adrenal Tumors. https://www.nccn.org/professionals/physician\_gls/pdf/neuroendocrine.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Neuroendocrine and Adrenal Tumors Version 1.2023. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+5. Polat B, Fassnacht M, Pfreundner L, et al. Radiotherapy in adrenocortical carcinoma. Cancer . 2009;115(13):2816-2823. doi:10.1002/cncr.24331
+
+6. Sabolch A, Else T, Griffith KA, et al. Adjuvant radiation therapy improves local control after surgical resection in patients with localized adrenocortical carcinoma. Int J Radiat Oncol Biol Phys . 2015;92(2):252-259. doi:10.1016/ j.ijrobp.2015.01.007
+
+7. Spanos WJ Jr, Clery M, Perez CA, et al. Late effect of multiple daily fraction palliation schedule for advanced pelvic malignancies (RTOG 8502). Int J Radiat Oncol Biol Phys . 1994;29(5):961-967. doi:10.1016/0360-3016(94)90389-1
+
+8. Spanos W Jr, Guse C, Perez C, Grigsby P, Doggett RL, Poulter C. Phase II study of multiple daily fractionations in the palliation of advanced pelvic malignancies: preliminary report of RTOG 8502. Int J Radiat Oncol Biol Phys . 1989;17(3):659-661. doi:10.1016/0360-3016(89)90120-x
+
+9. Viani GA, Viana BS. Adjuvant radiotherapy after surgical resection for adrenocortical carcinoma: A systematic review of observational studies and meta-analysis. J Cancer Res Ther . 2019;15(Supplement):S20-S26. doi:10.4103/jcrt.JCRT\_996\_15
+
+POLICY
+
+- I. Definitive treatment
+
+- A. External beam photon radiation therapy using three-dimensional conformal radiation therapy (3DCRT) or intensity-modulated radiation therapy (IMRT) is considered medically necessary in the definitive treatment of anal canal cancer.
+
+1. A dose of 45 Gy to 59.4 Gy in 25 to 33 fractions delivered in up to 3 phases is considered medically necessary.
+
+- II. Palliation
+
+A. Up to 10 fractions of 3DCRT is considered medically necessary.
+
+### Anal Canal Cancer
+
+#### DISCUSSION
+
+Anal canal cancer is a rare cancer with an annual incidence of approximately 9440 new cases (Siegel, 2022). Historically, surgery with an abdominoperineal resection (APR) was the mainstay of treatment for patients with anal cancer but was associated with a 40% to 70% 5-year overall survival (OS) rate (Ghosn et al, 2015). In 1974, Nigro and colleagues from Wayne State reported their experience of 3 patients with anal carcinoma who received neoadjuvant chemoradiation therapy and were found to have a complete response at the time of surgery. Following this initial data, multiple studies have demonstrated the effectiveness of chemoradiation therapy in anal cancer with local response rates of 80% to 90% (Glynne-Jones et al, 2014). While there is no prospective randomized data comparing chemoradiation versus APR, chemoradiation therapy is considered the standard of care for initial definitive treatment of anal cancer (GlynneJones et al, 2014).
+
+Several studies have evaluated various treatment regimens for the definitive care of patients with nonmetastatic squamous cell anal cancer. Randomized trials have reported on radiation therapy alone versus combined chemoradiation therapy for treatment of patients with anal cancer (Bartelink et al, 1997; Northover et al, 2010). These studies typically utilized doses of 45 Gy to the pelvis followed by a 15 to 20 Gy boost. The data from the UKCCR ACT I trial and the EORTC trial demonstrated improved locoregional control and decreased risk of requiring a colostomy with combined chemoradiation therapy compared to radiation therapy alone (Bartelink et al, 1997; Northover et al, 2010). Locoregional control with radiation therapy alone ranged from 40% to 50% vs. 60% to 70% with chemotherapy and radiation therapy (Bartelink et al, 1997; Northover et al, 2010).
+
+RO.TXS.108.A v2.0.2024
+
+In Radiation Therapy Oncology Group (RTOG) 0529, Kachnic and colleagues (2013) performed a phase II prospective trial to evaluate IMRT as definitive therapy for patients with anal cancer treated with radiation therapy and chemotherapy with 5-FU and mitomycin-C. The radiation therapy dose ranged from 50.4 Gy in 28 fractions to 54 Gy in 30 fractions, depending on tumor or nodal stage. The primary endpoint of this study was to evaluate if IMRT is able to reduce the rate of gastrointestinal (GI) and genitourinary (GU) acute toxicity of chemoradiation by 15% in a multi institutional cooperative group setting, when compared to anal cancer patients treated with conventional radiation techniques in RTOG 9811. When the rate of acute GI/GU toxicity was analyzed, the primary endpoint was not met. The rate of grade 2+ GI/GU acute toxicity was exactly equivalent in RTOG 9811 and RTOG 0529 (77% vs. 77%, p = 0.5). They found that IMRT was associated with a significant reduction in grade 2 hematologic toxicity and grade 3 dermatologic and GI toxicity. An additional primary endpoint of this trial was to determine if dose-painting IMRT is feasible to be performed in accordance with prescribed radiation planning guidelines. In an analysis of radiation planning quality, 81% of submitted cases required revision of planning following the initial submission secondary to incorrect contouring, noncompliance of normal tissue constraints, or incorrect target dosing. Forty-six percent of cases required multiple plan revisions and re-submissions. This trial did not meet the primary endpoint of a reduction in grade 2 GI/GU toxicity, and there was a high rate of required treatment planning revisions. The authors concluded that dose-painting IMRT is associated with a significant decrease in grade 2 hematologic, grade 3 gastrointestinal, and grade 3 dermatologic toxicity.
+
+There is limited data on radiation therapy in the palliative treatment of anal cancer. Anal cancer is a radiosensitive tumor with studies of radiation alone associated with 60% to 90% local control rates depending on the size of the tumor (Newman G et al, 1992; Touboul et al, 1994). The initial studies demonstrating the effectiveness of chemoradiation employed doses of 30 Gy in 15 fractions with concurrent chemotherapy and demonstrated greater than 80% to 90% response rates. National Comprehensive Cancer Network (NCCN ® ) Guidelines ® recommend 20 to 25 Gy in 5 fractions to 30 Gy in 10 fractions in the clinical setting of palliation of disease symptoms. Therefore, up to 10 fractions is recommended in the palliative treatment of anal cancer.
+
+#### References
+
+1. Bartelink H, Roelofsen F, Eschwege F, et al. Concomitant radiotherapy and chemotherapy is superior to radiotherapy alone in the treatment of locally advanced anal cancer: results of a phase III randomized trial of the European Organization for Research and Treatment of Cancer Radiotherapy and Gastrointestinal Cooperative Groups. J Clin Oncol . 1997;15(5):2040-2049. doi:10.1200/JCO.1997.15.5.2040
+
+2. Expert Panel on Radiation Oncology-Rectal/Anal Cancer, Hong TS, Pretz JL, et al. ACR Appropriateness Criteria ® -Anal Cancer. Gastrointest Cancer Res . 2014;7(1):4-14.
+
+3. Ghosn M, Kourie HR, Abdayen P, et al. Anal cancer treatment: current status and future perspectives. World J Gastroenterol . 2015 Feb 28;21(8):2294-2302.
+
+4. Glynne-Jones R, Nilsson PJ, Aschele C, et al. Anal cancer: ESMO-ESSO-ESTRO clinical practice guidelines for diagnosis, treatment and follow-up. Radiother Oncol . 2014;111(3):330-339. doi:10.1016/j.radonc.2014.04.013
+
+5. Kachnic LA, Winter K, Myerson RJ, et al. RTOG 0529: a phase 2 evaluation of dose-painted intensity modulated radiation therapy in combination with 5-fluorouracil and mitomycin-C for the reduction of acute morbidity in carcinoma of the anal canal. Int J Radiat Oncol Biol Phys . 2013;86(1):27-33. doi:10.1016/j.ijrobp.2012.09.023
+
+6. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - December 20, 2023. Anal Carcinoma. https://www.nccn.org/professionals/physician\_gls/pdf/anal.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Anal Carcinoma Version 1.2024. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+7. Newman G, Calverley DC, Acker BD, Manji M, Hay J, Flores AD. The management of carcinoma of the anal canal by external beam radiotherapy, experience in Vancouver 1971-1988. Radiother Oncol . 1992;25(3):196-202. doi:10.1016/0167-8140(92)90268-y
+
+8. Nigro ND, Vaitkevicius VK, Considine B Jr. Combined therapy for cancer of the anal canal: a preliminary report. Dis Colon Rectum . 1974;17(3):354-356. doi:10.1007/BF02586980
+
+9. Northover J, Glynne-Jones R, Sebag-Montefiore D, et al. Chemoradiation for the treatment of epidermoid anal cancer: 13-year follow-up of the first randomised UKCCCR Anal Cancer Trial (ACT I). Br J Cancer . 2010;102(7):1123-1128. doi:10.1038/sj.bjc.6605605
+
+10. Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer statistics, 2022. CA Cancer J Clin . 2022;72(1):7-33. doi:10.3322/caac.21708
+
+11. Touboul E, Schlienger M, Buffat L, et al. Epidermoid carcinoma of the anal canal. Results of curative-intent radiation therapy in a series of 270 patients. Cancer . 1994;73(6):1569-1579. doi:10.1002/1097-0142(19940315)73:6&lt;1569::aid-cncr2820730607&gt;3.0.co;2-f
+
+POLICY
+
+- I. Non-muscle invasive bladder carcinoma (stages Ta, Tis, T1)
+
+- A. In the treatment of newly diagnosed non-muscle invasive bladder carcinoma, the use of radiation therapy is considered not medically necessary.
+
+- II. Muscle-invasive bladder carcinoma (stages T2-T4)
+
+- A. In an individual undergoing bladder preservation, the use of 55 Gy in 20 fractions (hypofractionation) or 30 to 37 fractions (conventional fractionation) using threedimensional conformal radiation therapy (3DCRT) is considered medically necessary.
+
+- B. In the preoperative setting (ie, prior to planned cystectomy), the use of radiation therapy is considered not medically necessary.
+
+- C. In the postoperative setting (ie, following cystectomy), the use of 25 to 33 fractions of 3DCRT is considered medically necessary in those who have pT3-T4 disease, positive lymph nodes and/or positive surgical margins.
+
+- D. Intensity-modulated radiation therapy (IMRT) is considered medically necessary for EITHER of the following:
+
+1. Treatment in the curative setting which overlaps with a previously irradiated area
+
+2. An optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines ®
+
+- III. Palliation
+
+- A. In the palliative treatment of bladder carcinoma, the use of up to 15 fractions of 3DCRT is considered medically necessary.
+
+### Bladder Cancer
+
+#### DISCUSSION
+
+For non-muscle invasive (stages Ta, Tis, T1) bladder carcinoma (NMIBC), treatment includes transurethral resection of bladder tumor (TURBT) often followed by intravesical therapy (Babjuk, 2013; Brausi, 2011). In patients with high-risk non-muscle invasive bladder cancer, radiation has been evaluated. However, its use in this group of patients is not well defined. For example, in a retrospective study of 141 patients with high-risk T1 bladder cancer, radiation alone or combined with chemotherapy was found to be a '…reasonable alternative to intravesical treatment or early cystectomy...' (Weiss, 2006). On the other hand, in a randomized control trial of 210 patients with pT1G3 bladder
+
+RO.TXS.109.A
+
+v2.0.2024
+
+cancer, radiation therapy was found to be equivalent to more conservative treatment (Harland, 2007). Further, NCCN ® currently does not endorse the use of radiation therapy for non-muscle invasive bladder cancer (NCCN ® V3.2024). As such, the use of radiation is considered not medically necessary for the treatment of non-muscle invasive bladder cancer.
+
+For an individual with muscle-invasive bladder cancer, treatment options include cystectomy or definitive chemoradiation as part of a bladder-preserving approach (Gakis, 2013).
+
+An ideal candidate for bladder preservation includes one with tumors &lt; 5 cm, a visibly complete TURBT, absence of associated carcinoma in situ, and no evidence of ureteral obstruction (Milosevic, 2007). NCCN ® also indicates that 'optimal candidates for bladder preservation with chemoradiotherapy include patients with tumors that present without moderate/severe hydronephrosis, are without concurrent extensive or multifocal Tis, and are &lt; 6 cm. Ideally, tumors should allow for a visually complete or maximally debulking TURBT.'
+
+Radiotherapy with concurrent cisplatin is the most common bladder sparing approach used to treat muscle-invasive bladder cancer. Following TURBT, 40 to 45 Gy is given to the whole pelvis using 3DCRT. Afterwards, repeat endoscopy is performed to examine the tumor response. If residual disease is seen, then a cystectomy is recommended. If a complete response is noted, then an additional 20 to 25 Gy is delivered with cisplatin. This approach demonstrated a 5-year survival of 49% when examined prospectively in RTOG 89-03 (Shipley, 1998). In a phase III randomized trial, concurrent chemoradiation improved 5-year disease-free survival (DFS) from 54% to 67% ( p = 0.01) (James, 2012). Furthermore, approximately 80% of long-term survivors will maintain an intact bladder with this approach (Mak, 2014; Rodel, 2002). While several phase II prospective studies have examined alternative radiation fractionation schemes, none has demonstrated a clinically meaningful benefit compared to standard once a day fractionation schedules (Hagan, 2003; Kaufman, 2000). Recently, anti-PD-L1 immunotherapy with agents such as atezolizumab (Tecentriq) was approved for the treatment of advanced bladder cancer for patients who are unable to receive cisplatin. However, the use of radiation therapy with these agents is considered experimental, investigational, and/or unproven (EIU) at this time. Definitive radiotherapy alone is considered for an individual with no evidence of metastatic disease who cannot undergo a cystectomy or concurrent chemoradiation.
+
+In the preoperative setting, there remains insufficient data to determine the benefit of radiation therapy. For example, in an intergroup trial of 140 patients with invasive bladder cancer or recurrent superficial high-grade cancer, preoperative radiation (20 Gy in 5 fractions) was not associated with a survival advantage at 5 years (Smith, 1997). On the other hand, several publications have suggested a benefit to preoperative radiation in patients with high stage disease (Parsons, 1988; Cole, 1995). Further, recent NCCN
+
+Guidelines ® state, 'for invasive tumors, consider low-dose preoperative RT prior to segmental cystectomy…' though this is a category 2B recommendation.
+
+In the postoperative setting, the role of radiation is more defined. Data from a retrospective series demonstrate higher local recurrence rates in patients with T3T4 disease, positive nodes, or positive surgical margins (Herr, 2004). The benefit of postoperative radiation and reducing local recurrence and improving disease-free survival has been shown in several studies (Bayoumi, 2014; Zaghloul, 1992; Nasr, 2015). Further, recent NCCN Guidelines ® recommend consideration of postoperative pelvic radiation for patients with pT3/pT4 pN0-2 disease. As a result, the use of radiation in the postoperative setting is considered medically necessary for an individual with pT3T4 disease, positive lymph nodes and/or positive surgical margins.
+
+The goal of palliative radiation therapy in the management of bladder cancer is symptom relief such as control of urinary symptoms or hematuria. Literature evaluating palliation with radiation therapy for patients with bladder cancer supports fractionation schedules including 36 Gy in 6 fractions, 21 Gy in 3 fractions, 30 Gy in 10 fractions, 20 Gy in 5 fractions and 8-10 Gy in 1 fraction. Spanos et al evaluated up to 12 fractions for palliation of advanced pelvic malignancies. In an individual with evidence of metastatic disease, palliative radiation is considered medically necessary, up to 15 fractions using 3D techniques.
+
+#### References
+
+1. Ali A, Song YP, Mehta S, et al. Palliative Radiation Therapy in Bladder Cancer-Importance of Patient Selection: A Retrospective Multicenter Study. Int J Radiat Oncol Biol Phys . 2019;105(2):389-393. doi:10.1016/ j.ijrobp.2019.06.2541
+
+2. Babjuk M, Burger M, Zigeuner R, et al. EAU guidelines on non-muscle-invasive urothelial carcinoma of the bladder: update 2013. Eur Urol . 2013;64(4):639-653. doi:10.1016/j.eururo.2013.06.003
+
+3. Bayoumi Y, Heikal T, Darweish H. Survival benefit of adjuvant radiotherapy in stage III and IV bladder cancer: results of 170 patients. Cancer Manag Res . 2014;6:459-465. Published 2014 Nov 27. doi:10.2147/ CMAR.S69055
+
+4. Brausi M, Witjes JA, Lamm D, et al. A review of current guidelines and best practice recommendations for the management of nonmuscle invasive bladder cancer by the International Bladder Cancer Group. J Urol . 2011;186(6):2158-2167. doi:10.1016/j.juro.2011.07.076
+
+5. Choudhury A, Porta N, Hall E, et al. Hypofractionated radiotherapy in locally advanced bladder cancer: an individual patient data meta-analysis of the BC2001 and BCON trials. Lancet Oncol . 2021;22(2):246-255. doi:10.1016/S1470-2045(20)30607-0
+
+6. Cole CJ, Pollack A, Zagars GK, Dinney CP, Swanson DA, von Eschenbach AC. Local control of muscleinvasive bladder cancer: preoperative radiotherapy and cystectomy versus cystectomy alone. Int J Radiat Oncol Biol Phys . 1995;32(2):331-340. doi:10.1016/0360-3016(95)00086-E
+
+7. Gakis G, Witjes JA, Compérat E, et al. EAU guidelines on primary urethral carcinoma. Eur Urol . 2013;64(5):823-830. doi:10.1016/j.eururo.2013.03.044
+
+8. Hagan MP, Winter KA, Kaufman DS, et al. RTOG 97-06: initial report of a phase I-II trial of selective bladder conservation using TURBT, twice-daily accelerated irradiation sensitized with cisplatin, and adjuvant MCV combination chemotherapy. Int J Radiat Oncol Biol Phys . 2003;57(3):665-672. doi:10.1016/ s0360-3016(03)00718-1
+
+9. Herr HW, Faulkner JR, Grossman HB, et al. Surgical factors influence bladder cancer outcomes: a cooperative group report. J Clin Oncol . 2004;22(14):2781-2789. doi:10.1200/JCO.2004.11.024
+
+10. James ND, Hussain SA, Hall E, et al. Radiotherapy with or without chemotherapy in muscle-invasive bladder cancer. N Engl J Med . 2012;366(16):1477-1488. doi:10.1056/NEJMoa1106106
+
+11. Kaufman DS, Winter KA, Shipley WU, et al. The initial results in muscle-invading bladder cancer of RTOG 95-06: phase I/II trial of transurethral surgery plus radiation therapy with concurrent cisplatin and 5-fluorouracil followed by selective bladder preservation or cystectomy depending on the initial response. Oncologist . 2000;5(6):471-476. doi:10.1634/theoncologist.5-6-471
+
+12. Mak RH, Hunt D, Shipley WU, et al. Long-term outcomes in patients with muscle-invasive bladder cancer after selective bladder-preserving combined-modality therapy: a pooled analysis of Radiation Therapy Oncology Group protocols 8802, 8903, 9506, 9706, 9906, and 0233 [published correction appears in J Clin Oncol. 2015 Mar 1;33(7):814]. J Clin Oncol . 2014;32(34):3801-3809. doi:10.1200/JCO.2014.57.5548
+
+13. Milosevic M, Gospodarowicz M, Zietman A, et al. Radiotherapy for bladder cancer. Urology . 2007;69(1 Suppl):80-92. doi:10.1016/j.urology.2006.05.060
+
+14. Nasr AM, El Mongi M, Hagag M, et al. Postoperative radiotherapy in bladder cancer patients: 5-year institutional experience of National Cancer Institute, Cairo University. J Cancer Ther . 2015;6(7):579-593. doi:10.4236/ jct.2015.67063
+
+15. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - April 16, 2024. Bladder Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/bladder.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Bladder Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+16. Parsons JT, Million RR. Planned preoperative irradiation in the management of clinical stage B2-C (T3) bladder carcinoma. Int J Radiat Oncol Biol Phys . 1988;14(4):797-810. doi:10.1016/0360-3016(88)90102-2
+
+17. Rödel C, Grabenbauer GG, Kühn R, et al. Combined-modality treatment and selective organ preservation in invasive bladder cancer: long-term results. J Clin Oncol . 2002;20(14):3061-3071. doi:10.1200/JCO.2002.11.027
+
+18. Shipley WU, Winter KA, Kaufman DS, et al. Phase III trial of neoadjuvant chemotherapy in patients with invasive bladder cancer treated with selective bladder preservation by combined radiation therapy and chemotherapy: initial results of Radiation Therapy Oncology Group 89-03. J Clin Oncol . 1998;16(11):3576-3583. doi:10.1200/JCO.1998.16.11.3576
+
+19. Smith JA Jr, Crawford ED, Paradelo JC, et al. Treatment of advanced bladder cancer with combined preoperative irradiation and radical cystectomy versus radical cystectomy alone: a phase III intergroup study. J Urol . 1997;157(3):805-808.
+
+20. Spanos WJ Jr, Clery M, Perez CA, et al. Late effect of multiple daily fraction palliation schedule for advanced pelvic malignancies (RTOG 8502). Int J Radiat Oncol Biol Phys . 1994;29(5):961-967. doi:10.1016/0360-3016(94)90389-1
+
+21. Spanos W Jr, Guse C, Perez C, Grigsby P, Doggett RL, Poulter C. Phase II study of multiple daily fractionations in the palliation of advanced pelvic malignancies: preliminary report of RTOG 8502. Int J Radiat Oncol Biol Phys . 1989;17(3):659-661. doi:10.1016/0360-3016(89)90120-x
+
+22. Weiss C, Wolze C, Engelhausen DG, et al. Radiochemotherapy after transurethral resection for highrisk T1 bladder cancer: an alternative to intravesical therapy or early cystectomy?. J Clin Oncol . 2006;24(15):2318-2324. doi:10.1200/JCO.2006.05.8149
+
+23. Zaghloul MS, Awwad HK, Akoush HH, Omar S, Soliman O, el Attar I. Postoperative radiotherapy of carcinoma in bilharzial bladder: improved disease free survival through improving local control. Int J Radiat Oncol Biol Phys . 1992;23(3):511-517. doi:10.1016/0360-3016(92)90005-3
+
+POLICY
+
+- I. Up to 10 fractions of radiation therapy is considered medically necessary in the palliative treatment of bone metastases.
+
+- II. Conventional isodose technique is considered medically necessary in the palliative treatment of bone metastases.
+
+- III. For the palliative treatment of multiple sites of bone metastases, all lesions requiring treatment must be treated concurrently.
+
+- IV. Three-dimensional conformal radiation therapy (3DCRT) is considered medically necessary when there is a significant complex extraosseous component to the target volume.
+
+- V. Intensity-modulated radiation therapy (IMRT) is considered medically necessary in cases where overlap with previous radiotherapy fields is likely to cause complications.
+
+- VI. Stereotactic body radiation therapy (SBRT) using up to 5 fractions is considered not medically necessary for the treatment of bone metastases except in EITHER of the following clinical scenarios:
+
+- A. Treatment to a portion of the spine that has been previously irradiated
+
+- B. Treatment of sarcoma, melanoma, hepatocellular carcinoma or renal cell carcinoma that have metastasized to the spine
+
+SBRT, as a complete course of therapy, must be completed in 5 fractions in a single episode of care.
+
+- VII. EACH of the following is considered not medically necessary for ALL other indications for the treatment of bone metastases:
+
+- A. 3DCRT
+
+- B. IMRT
+
+- C. SBRT
+
+For oligometastatic disease, please refer to the Oligometastases clinical guideline.
+
+### Bone Metastases
+
+#### DISCUSSION
+
+Bone is a common site of metastatic cancer. Photon techniques are the mainstay of treatment for symptomatic bone metastases. Local field radiotherapy is highly effective in relieving pain and preventing fractures and is typically associated with minimal side effects. Eighteen trials assessing fractionation and dose of radiotherapy for painful bone metastases have been published (Hartsell et al, 2003; Wu et al, 2003). Randomized
+
+RO.TXS.110.C
+
+v2.0.2024
+
+trials comparing a single fraction of 8 Gy with multiple fraction radiotherapy regimens (20 to 30 Gy in 5 to 10 fractions) reveal similar overall response rates. Pain relief is typically achieved 1 to 4 weeks after treatment and the duration of response is 12 to 24 weeks. In a pooled analysis of patients with bone metastases, approximately onethird of patients will have complete pain relief and an additional one-third of patients will have partial relief of pain, irrespective of the dose-fractionation used. RTOG trial 9714 included 949 patients who were randomly assigned between 8 Gy in a single dose or 30 Gy in 10 fractions. Pain response rates were similar with 8 Gy in 1 fraction compared with 30 Gy in 10 fractions (66% in each group). A British trial (Yarnold et al, 1999) randomized 765 patients with painful bony metastases to 8 Gy as a single fraction, 20 Gy in 5 fractions, or 30 Gy in 10 fractions. There were no differences in pain endpoints among the groups. A Dutch trial (van der Linden et al, 2004) randomized 1171 patients with bone metastases to 8 Gy in 1 fraction or 24 Gy in 6 fractions and found no difference in pain relief or toxicity. While retreatment was higher with patients treated with a single fraction (18% vs. 9%), a reanalysis revealed this was because physicians were only more willing to treat after a single fraction. The study concluded that with or without the effect of retreatment, single fraction and multi-fraction radiation provided equal palliation.
+
+At the 2019 American Society for Radiation Oncology (ASTRO) meeting, Ryu and colleagues presented the results of Radiation Therapy Oncology Group (RTOG) 0631: Phase II/III Study of Image-Guided Radiosurgery/SBRT for Localized Spine Metastasis. RTOG 0631 is a phase III multicenter, randomized clinical trial comparing stereotactic radiosurgery (SRS)/stereotactic body radiotherapy (SBRT) vs. conventional fractionation. Three hundred thirty-nine individuals with 1 to 3 spine metastases were randomized to SBRT (16 or 18 Gy in 1 fraction) or conventional external beam radiation therapy (8 Gy in 1 fraction) and 215 individuals were available for analysis. Radioresistant histologies including soft tissue sarcomas, melanomas, and renal cell carcinomas were included. The primary endpoint was pain response at 3 months. Pain response at 3 months was 40.3% in radiosurgery vs. 57.9% in conventional external beam radiation therapy, p = 0.99. There was no difference in the patient pain response at 1, 3, and 6 months in individuals with localized spine metastases in the radiosurgery arm compared to the conventional treatment arm. There was no difference in quality of life measures. The authors concluded that while radiosurgery was safely performed without causing any increase in adverse effects, there was no difference in pain response rate with conventional palliative external beam radiation therapy (EBRT) compared to stereotactic radiation therapy for spinal metastases.
+
+The American Society for Radiation Oncology (ASTRO) Choosing Wisely ® campaign has recommended not to use extended fractionation schemes (&gt; 10 fractions) for palliation of bone metastases. It also states that, '…strong consideration should be given to a single 8 Gy fraction for patients with limited prognosis or with transportation difficulties.'
+
+The American College of Radiology (ACR) Appropriateness Criteria ® panel recommends fractionation schedules ranging from a single 8 Gy fraction to 30 Gy in 10 fractions for the palliation of long bone involvement, whereas 35 Gy in 14 or 15 fractions and 40 Gy in 20 fractions is considered less appropriate due to the protracted length of therapy. A shorter course of radiation offers equivalent palliation and increased convenience for the individual and caregivers.
+
+Surgery may be appropriate to establish a diagnosis if uncertain, in an individual with acceptable performance status. In individuals where bony retropulsion is likely to be the primary cause of neurologic deficit or those with rapid deterioration of neurologic function or with high grade cervical cord compression, surgery can be considered based on the results of a randomized trial comparing surgery and postoperative radiotherapy versus radiotherapy alone. Vertebral body resection and radical decompressive surgery with postoperative radiotherapy was found to be superior to radiotherapy alone in the only randomized trial of spinal cord compression conducted to date (Regine et al, 2003). Patients with a single site of cord compression and a minimum 3 month life expectancy were enrolled. The trial was stopped early after 101 patients were enrolled. Patients who received surgery plus conventional radiation therapy retained the ability to walk significantly longer (126 days vs. 35 days with conventional radiation therapy alone). In a total of 32 patients who could not walk at the time of enrollment, 56% of those who received surgery and conventional radiation therapy recovered the ability to walk versus 19% who received conventional radiation therapy alone. Functional scores, maintenance of continence, and use of steroids and narcotics were all improved in patients undergoing decompressive surgery versus radiotherapy alone. Survival was slightly better in patients undergoing surgery (median 4.2 months vs. 3.3 months, p = 0.08). An individual with neurologic deficit and life expectancy of at least 3 months should be considered for surgery based on the results of this phase III study.
+
+The ASTRO Task Force on radiotherapy for bone metastases published its guidelines in 2017. The task force clearly states that dosing and target volume have yet to be fully defined for SBRT and that SBRT should be considered investigational. Further, the task force states that SBRT should not be the primary treatment of vertebral bone lesions causing spinal cord compression. For recurrent painful lesions, the task force recommends that SBRT should be limited to clinical trials. The summary of the task force is that SBRT '…holds theoretical promise in the treatment of new or recurrent spine lesions… (and that)…its use be limited to highly selected patients and preferably within a prospective trial.'
+
+Conventional isodose technique: According to the 2024 Radiation Oncology Coding Resource published by the American Society for Radiation Oncology (ASTRO), 'a teletherapy isodose plan (CPT codes 77306, 77307, and 77295) determines the radiation dose within the target and surrounding normal tissues'. CPT ® code 77306 describes a simple teletherapy isodose plan (using 1 or 2 unmodified ports), while CPT ® code 77307 describes a complex teletherapy isodose plan. The latter code may be used when the ports (or beams) are modified. An 'example clinical scenario' for CPT ® code 77306 described in this resource is 'a 65-year-old man with advanced lung cancer presents with a painful metastasis to the lumbar spine. Following simulation, a teletherapy isodose plan and monitor unit calculation is performed'. As the ports (beams) used to target and treat the metastasis are often modified, a complex teletherapy isodose plan (CPT ® code 77307) is considered medically necessary for the treatment of bone metastases.
+
+#### References
+
+1. ASTRO 2024 Radiation Oncology Coding Resource. American Society for Radiation Oncology (ASTRO). 2024.
+
+2. ASTRO release list of five radiation oncology treatments to question as part of national Choosing Wisely ® campaign. 2013 Sep 23.
+
+3. Bayer Press Release. Bayer to showcase latest oncology research at ESMO 2018 Congress. 2018 Oct 9.
+
+4. Chander SS, Sarin R. Single fraction radiotherapy for bone metastases: are all questions answered?. Radiother Oncol . 1999;52(2):191-193. doi:10.1016/s0167-8140(98)00105-4
+
+5. Chow E, van der Linden YM, Roos D, et al. Single versus multiple fractions of repeat radiation for painful bone metastases: a randomised, controlled, non-inferiority trial. Lancet Oncol . 2014;15(2):164-171. doi:10.1016/ S1470-2045(13)70556-4
+
+6. Hartsell WF, Scott C, Bruner DW, et al. Phase III randomized trial of 8 Gy in 1 fraction vs. 30 Gy in 10 fractions for palliation of painful bone metastases: preliminary results of RTOG 97-14. Int J Radiat Oncol Biol Phys . 2003; 57(2 Suppl):S124.
+
+7. Hartsell WF, Scott CB, Bruner DW, et al. Randomized trial of short-versus long-course radiotherapy for palliation of painful bone metastases. J Natl Cancer Inst . 2005;97(11):798-804. doi:10.1093/jnci/dji139
+
+8. Hoskin PJ, Grover A, Bhana R. Metastatic spinal cord compression: radiotherapy outcome and dose fractionation. Radiother Oncol . 2003;68(2):175-180. doi:10.1016/s0167-8140(03)00191-9
+
+9. Kim EY, Chapman TR, Ryu S, et al. Expert panel on radiation oncology. ACR Appropriateness Criteria ® NonSpinal Bone Metastases. Date of Origin: 1996. Last review date: 2014.
+
+10. Lo SS, Lutz ST, Chang EL, et al. Expert panel on radiation oncology. ACR Appropriateness Criteria ® Spinal Bone Metastases. J Palliat Med . 2013 Jan; 16(1):9-19. Published at ACR website. Date of Origin: 1996. Last review date: 2012.
+
+11. Lutz S, Berk L, Chang E, et al. Palliative radiotherapy for bone metastases: an ASTRO evidence-based guideline. Int J Radiat Oncol Biol Phys . 2011;79(4):965-976. doi:10.1016/j.ijrobp.2010.11.026
+
+12. Maranzano E, Bellavita R, Rossi R, et al. Short-course versus split-course radiotherapy in metastatic spinal cord compression: results of a phase III, randomized, multicenter trial. J Clin Oncol . 2005;23(15):3358-3365. doi:10.1200/JCO.2005.08.193
+
+13. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2023 - March 24, 2023. Central Nervous System Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/cns.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Central Nervous System Cancers Version 1.2023. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+14. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 8, 2024. Prostate Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/prostate.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Prostate Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+15. Oldenburger E, Brown S, Willmann J, et al. ESTRO ACROP guidelines for external beam radiotherapy of patients with complicated bone metastases. Radiother Oncol . 2022;173:240-253. doi:10.1016/ j.radonc.2022.06.002
+
+16. Pope K, Fitzpatrick D, Potter A, et al. Dosimetric and clinical impact of 3D vs. 2D planning in palliative radiotherapy for bone metastases. Support Care Cancer . 2013;21(8):2229-2235. doi:10.1007/ s00520-013-1777-8
+
+17. Regine WF, Tibbs PA, Young A, et al. Metastatic spinal cord compression: a randomized trial of direct decompressive surgical resection plus radiotherapy vs. radiotherapy alone. Int J Radiat Oncol Biol Phys . 2003 Oct 1; 57(2 Suppl):S125.
+
+18. Sahgal A, Bilsky M, Chang EL, et al. Stereotactic body radiotherapy for spinal metastases: current status, with a focus on its application in the postoperative patient. J Neurosurg Spine . 2011;14(2):151-166. doi:10.3171/2010.9.SPINE091005
+
+19. van der Linden YM, Lok JJ, Steenland E, et al. Single fraction radiotherapy is efficacious: a further analysis of the Dutch Bone Metastasis Study controlling for the influence of retreatment. Int J Radiat Oncol Biol Phys . 2004;59(2):528-537. doi:10.1016/j.ijrobp.2003.10.006
+
+20. van der Velden J, Willmann J, Spałek M, et al. ESTRO ACROP guidelines for external beam radiotherapy of patients with uncomplicated bone metastases. Radiother Oncol . 2022;173:197-206. doi:10.1016/ j.radonc.2022.05.024
+
+21. Wu JS, Wong R, Johnston M, Bezjak A, Whelan T; Cancer Care Ontario Practice Guidelines Initiative Supportive Care Group. Meta-analysis of dose-fractionation radiotherapy trials for the palliation of painful bone metastases. Int J Radiat Oncol Biol Phys . 2003;55(3):594-605. doi:10.1016/s0360-3016(02)04147-0
+
+22. Yarnold JR. 8 Gy single fraction radiotherapy for the treatment of metastatic skeletal pain: randomised comparison with a multifraction schedule over 12 months of patient follow-up. Bone Pain Trial Working Party. Radiother Oncol . 1999;52(2):111-121. doi:10.1016/S0167-8140(99)00097-3
+
+POLICY
+
+- I. Whole brain radiation therapy (WBRT)
+
+- A. Up to 10 fractions of WBRT using radiation planned with conventional isodose technique is considered medically necessary. The use of three-dimensional conformal radiation therapy (3DCRT) or image-guided radiation therapy (IGRT) is considered not medically necessary.
+
+- II. Hippocampal-avoidance whole brain radiation therapy (HA-WBRT)
+
+- A. HA-WBRT is considered medically necessary using 10 fractions of intensitymodulated radiation therapy (IMRT) for an individual when ALL of the following criteria are met:
+
+1. Karnofsky performance status (KPS) of at least 70 or an Eastern Cooperative Oncology Group (ECOG) performance status of at least 2
+
+2. Absence of leptomeningeal disease
+
+3. Primary histology is not germ cell, lymphoma or unknown
+
+- III. Stereotactic radiosurgery (SRS)
+
+- A. Determination of medical necessity
+
+1. SRS is considered medically necessary for an individual when ALL of the following criteria are met:
+
+- a. KPS of at least 70
+
+- b. Systemic disease is under control or good options for systemic treatment are available
+
+- c. Absence of leptomeningeal disease
+
+- d. Primary histology is not germ cell, small cell, or lymphoma
+
+- e. All lesions present on imaging can be treated in a single treatment plan in a single fraction (for SRS) or 2 to 5 fractions (for fractionated SRS). If more than 5 fractions are needed as part of a single episode of care, each fraction must be billed as 3DCRT or IMRT, depending on the planning technique, as the definition of fractionated SRS is not met.
+
+- f. Submission of recent consultation note and recent restaging studies
+
+- B. Treatment and retreatment
+
+1. Initial treatment with SRS for brain metastases is considered medically necessary when ALL of the following conditions are met:
+
+- a. Total number of brain metastases is less than or equal to 10
+
+- b. Meets ALL of the above criteria for medical necessity of SRS
+
+### Brain Metastases
+
+RO.TXS.111.C v2.0.2024
+
+2. In an individual who has received prior SRS, retreatment with SRS is considered medically necessary when ALL of the following conditions are met:
+
+- a. Total number of brain metastases treated in the last 12 months is less than or equal to 15
+
+- b. Meets ALL of the above criteria for medical necessity of SRS
+
+3. In an individual who has received prior WBRT, SRS is considered medically necessary.
+
+4. Postoperative SRS is considered medically necessary for the treatment of:
+
+- a. A combination of up to 4 resected and unresected lesions that are individually &lt; 5 cm in size
+
+#### DISCUSSION
+
+- I. Whole brain radiation therapy (WBRT)
+
+The median survival following the diagnosis of metastatic disease involving the brain is generally 4- to 6- months. Many patients develop brain metastases late in the course of their disease when progressive extracranial disease dictates survival. The clinical response rate, degree of response, and duration of response depend on the extent of tumor and the severity of initial neurologic deficits.
+
+The use of alternative fractionation schedules during WBRT has been studied in patients with brain metastases and in those undergoing prophylactic cranial radiation (Borgelt et al, 1980; Le Péchoux et al, 2009; Murray et al, 1997; Wolfson et al, 2011). These studies have not shown any improvement in neurocognitive outcomes with alternative schedules. Shorter course regimens are appropriate for patients at increased risk of early death, such as those with a poor performance status and progressive systemic disease. Whole brain radiation using 30 Gy in 10 fractions is considered medically necessary in the treatment of brain metastases. In patients with a poor performance status, a shorter course of radiation using 20 Gy in 5 fractions should be utilized.
+
+The use of whole brain radiation for individuals who are eligible for treatment with SRS to all brain metastases has changed. A meta-analysis in 2014 analyzed 5 randomized studies and found the addition of whole brain radiation with SRS vs. SRS or surgery alone decreased the risk of intra-cranial progression by 53% but did not improve overall survival (Soon, 2014). A recent large randomized study conducted by the Alliance group came to similar conclusions. This study randomized patients to SRS with whole brain radiation or SRS alone and found higher rates of cognitive deterioration in patients who received whole brain radiation (92% vs. 64%). Similarly, it found improved intracranial tumor rates (85% vs. 50% at 1 year) but no improvement in overall survival with whole brain radiation (HR 1.02, 95% CI
+
+0.75-1.38) (Brown, 2016). Furthermore, in 2014, the American Society for Radiation Oncology (ASTRO) released its second Choosing Wisely ® recommendations which stated, 'Don't routinely add adjuvant whole brain radiation therapy to stereotactic radiosurgery for limited brain metastases." (www.choosingwisely.org/astro-releasessecond-list). Therefore, in individuals who can undergo routine surveillance, WBRT is not considered medically necessary as adjunctive therapy following treatment with SRS.
+
+In patients who have undergone surgical resection, postoperative WBRT was associated with a three-fourths relative risk reduction in recurrence (absolute risk reduction 18%) and was associated with decreased risk of death from neurologic causes (Patchell et al, 1998). Therefore, postoperative whole brain radiotherapy can be recommended for individuals who undergo resection of a solitary metastasis and who have controlled extracranial disease.
+
+Whole brain radiotherapy involves the use of 2 lateral opposed fields, with or without the use of custom blocking. Radiation planned using a conventional isodose technique is considered medically necessary for the majority of patients requiring whole brain radiation therapy. Due to the palliative nature of the treatment, and dose delivered, construction of a dose volume histogram is not medically necessary. In cases where the patient has received prior radiation, 3D planning techniques will be considered.
+
+One strategy to reduce the neurocognitive decline following whole brain radiation is the use of memantine. A single randomized study found a decrease in cognitive decline in patients who were started on memantine compared to observation, (hazard ratio 0.78, 95% CI 0.62 to 0.99).
+
+Hippocampal avoidance whole brain IMRT has been studied as a strategy to decrease neurocognitive decline associated with whole brain radiation therapy. A phase II study, Radiation Therapy Oncology Group (RTOG) 0933, examined whether hippocampal avoidance whole brain IMRT was associated with a decrease in neurocognitive decline. It found a mean decline in the Hopkins Verbal Learning Test of 7% at 4 months which compared favorably to historical comparison value of 30%. Overall survival was 6.8 months. There are limitations when comparing the results of this study to historical controls. For instance, the improved survival seen on 0933 could explain the improvement in neurocognitive decline. Furthermore, the delivery of hippocampal radiation is technically challenging as shown in an analysis that found 24% of cases submitted to RTOG 0933 had unacceptable deviations when the contours were submitted for pretreatment review (Gondi, 2015).
+
+NRG CC001 is a randomized phase III trial of 518 patients with brain metastases 5 mm outside of the hippocampus and KPS ≥70 who were randomized to whole brain radiation therapy (WBRT) or to hippocampal avoidance whole-brain radiotherapy
+
+(HA-WBRT). Both arms received memantine and were treated to 30 Gy. The primary endpoint was time to neurocognitive failure.
+
+At a median follow-up of 7.9 months, the time to cognitive failure was significantly lower in those receiving HA-WBRT (HR of 0.745, p = 0.02). Though there was no difference at 2 months between the arms, the HA-WBRT arm was significantly less likely to have a deterioration in Hopkins Verbal Learning Test - Revised (HVLTR) total recall and delayed recognition at 6 months (16.4% vs. 33.3%, p = 0.02). Further, those receiving HA-WBRT reported significantly less fatigue, less difficulty with remembering things, and less difficulty with speaking. There was no difference in intracranial progression free survival or overall survival.
+
+The authors note that the 'benefit of HA-WBRT emerges robustly with ≥ 4 months follow-up' and that 'it seems reasonable to forego HA during WBRT in patients with survival expected to be &lt; 4 months.' National Comprehensive Cancer Network (NCCN ® ) Guidelines ® also recommend to consider hippocampal-sparing WBRT for patients with a better prognosis (4 months or greater). NCCN Guidelines ® Small Cell Lung Cancer support hippocampal-sparing WBRT using IMRT for individuals with small cell lung cancer with better prognosis and who met criteria for entrance into NRG CC001. As such, HA-WBRT is considered medically necessary in individuals who meet criteria for entrance into the trial (ie, no leptomeningeal disease, known primary histology excluding lymphoma and germ cell).
+
+- II. Stereotactic radiosurgery (SRS)
+
+Selection criteria for radiosurgery are similar to those for surgical resection, ie patients with solitary metastases, tumor size, tumor location, good performance status, and limited or responsive extracranial disease (Andrews, 2004; Kocher, 2011; Soon, 2014; Yamamoto, 2014). In tumors up to 3 cm in size, radiosurgery is associated with a local control of approximately 70% at 1 year (Kocher, 2011).
+
+The American Society of Radiation Oncology published Radiation Therapy for Brain Metastases: An ASTRO Clinical Practice Guideline (2022). This guideline provided treatment algorithms for management of brain metastases based on a systematic review of the current evidence. For individuals with ECOG performance status 1-2, the guideline strongly recommends SRS for individuals with up to 4 intact brain metastases and conditionally recommends SRS for individuals with 5 to 10 brain metastases. The guideline notes that the management of individuals with more than 5 brain metastases remains controversial as there is limited prospective randomized data to guide management in this group.
+
+Hughes and colleagues (2019) published a retrospective review of 2089 patients from 8 academic centers who received initial SRS for management of brain metastases. The study concluded that there was no significant survival difference in individuals with 5 to 15 brain metastases compared to individuals with 2 to 4 brain metastases who received initial treatment with SRS for brain metastases. However, of the patients included in the study, only 10 patients had 11 to 15 brain metastases compared to over 2000 patients with 1 to 10 brain metastases (989 with 1 brain metastasis; 882 with 2-4 brain metastases; 190 with 5-10 brain metastases).
+
+Given the available data, radiosurgery is considered medically necessary in the initial management of patients with brain metastases who meet the following conditions, 1) total number of brain metastases is less than or equal to 10, 2) the individual has a KPS ≥ 70, 3) systemic disease is under control or good options for systemic treatment are available, 4) there is no leptomeningeal disease, 5) primary histology is not germ cell, small cell, or lymphoma, and 6) all lesions can be treated in a single fraction (for SRS) or up to 5 fractions (for fractionated SRS).
+
+According to guidance published by ASTRO, CPT ® instructions for CPT ® 77373 'Stereotactic body radiation therapy (SBRT), treatment delivery, per fraction to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions…' and include the possibility of treating multiple sites of disease in 1 treatment course. Further, '…for single fraction cranial lesion(s), see CPT ® 77371 and CPT ® 77372.' Therefore, if the sum of the treatment days for all of the sites treated during a single course of therapy exceeds 5, it is not appropriate to charge CPT ® 77373 for SBRT delivery.
+
+Following radiosurgery alone, approximately 25% to 50% of patients will develop new metastases within the first year (Ayala-Peacock, 2014; Gorovets, 2017). Treatment options for new metastases include further radiosurgery or whole brain radiation therapy. Factors predicting for recurrences within the brain include age, histology, increasing number of brain metastases, and increasing extracranial disease burden (Gorovets, 2017). The primary drawback with the use of radiosurgery upfront is the increased risk of distant failure in the brain (Kotecha, 2017). Patients who present with early and extensive distant failure in the brain and those with limited survival are better treated with whole brain radiation therapy. About 40% of patients will require whole brain radiation within 6 months of initial treatment with radiosurgery. In patients who do experience further recurrence in the brain following radiosurgery it is critical to risk stratify this cohort to determine who will benefit from further radiosurgery vs. whole brain radiation (Gorovets, 2017). Factors such as high brain metastases velocity, number of brain metastases, extra-cranial disease, and performance status can be used to stratify further brain metastases treatment strategies.
+
+Therefore, further treatment with radiosurgery, in a previously treated patient will be considered medically necessary in those who meet the following conditions: 1) total number of brain metastases treated in the last 12 months is less than or equal to 15, 2) the individual has a KPS ≥ 70, 3) systemic disease is under control or good options for systemic treatment are available, 4) there is no leptomeningeal disease, 5) primary histology is not germ cell, small cell, or lymphoma, 6) all lesions can be treated in a single treatment plan with a single fraction (for SRS) or up to 5 fractions (for fractionated SRS).
+
+In addition, submission of the consultation note and recent restaging studies (ie, within 60 days) will be required for review to verify that the patient's systemic disease is controlled, history of previous treatments, and performance status.
+
+- A. Postoperative SRS
+
+1. MD Anderson Cancer Center (MDACC)
+
+Mahajan et al (2017) reported a phase III randomized trial (NCT00950001) of 132 patients with 1 to 3 completely resected brain metastases treated with postoperative SRS or observation. Patients were excluded if the tumor cavity was greater than 4 cm, the unresected brain metastases were no greater than 3 cm, there was prior history of brain radiation, presence of leptomeningeal disease, a prior history of resection of any brain metastases, incomplete resection, poor performance status (KPS &lt; 70), and small cell lung malignancies (1 vs. 2 to 3), histology (melanoma vs. other), and preoperative tumor size (&lt; 3 cm vs. &gt; 3 cm).
+
+At 12 months, the use of SRS was associated with improved freedom from local recurrence (73% vs. 43% in observation, p = 0.015) with no statistically significant increase in distant brain metastases or time to whole brain radiation. Median overall survival (OS) was similar (17 months for the SRS group vs. 18 months for the observation group). In a post-hoc analysis, patients with an initial tumor diameter of 2.5 cm or less was associated with a 91% 12-month freedom from local recurrence rate, whereas those with a tumor &gt; 2.5 cm had a local control rate of 40% to 46%. In multivariate analysis, predictors for time to local recurrence were SRS and metastases size. For overall survival, only stable disease (compared to progressive disease) was a significant predictor.
+
+2. N107C/CEC.3
+
+Brown et al (2017) reported on a phase III trial randomizing patients to SRS or WBRT to the resection cavity after resection (total or subtotal) of brain metastases. Patients eligible included those with 1 resected brain metastasis (with a resection cavity under 5 cm) with up to an additional 3 unresected metastases (each under 3 cm). It is noted that in both groups, SRS was given to the unresected metastases. Patients were excluded if there was prior cranial radiation; leptomeningeal metastases; lesions within 5 mm of the optic chiasm or within the brain stem; or germ cell, small-cell, or lymphoma histologies. Patients were stratified according to age, duration of extracranial disease control, number of brain metastases, histology, and diameter of resection cavity and treatment center. The primary endpoints were cognitive deterioration free survival (CDFS) and OS.
+
+One hundred ninety-four (194) patients were included in the study with a median follow-up of 11.1 months. It is noted that of the 98 patients assigned to SRS, 5
+
+did not receive treatment, 1 did not have baseline testing done, 11 died prior to 3 months, 20 did not complete cognitive assessment at 3 months, 13 died between 3 and 6 months, 1 was lost to follow up between 3 and 6 months, and 16 did not complete cognitive assessment at 6 months.
+
+The authors reported that the median CDFS was longer following SRS than WBRT (3.7 months vs. 3.0 months, p &lt; 0.0001). When they conducted a stratified analysis, the median CDFS was longer following SRS than WBRT (3.7 months vs. 3.1 months, p &lt; 0.0001).
+
+Cognitive deterioration at 6 months was lower in the SRS group vs. WBRT (52% vs. 85%). However, about half of the patients enrolled (54 [SRS] and 48 [WBRT]) were available for analysis at this time.
+
+Median OS was not statistically different between the 2 groups (12.2 months for SRS vs. 11.6 months for WBRT). It is noted, however, that brain metastases was the cause of death in 87% of SRS patients vs. 73.1% in those receiving WBRT ( p value not provided).
+
+Local control and distant brain control were worse in the SRS group. For example, surgical bed control was significantly worse with SRS at 6- and 12-months (80.4% and 60.5% vs. 87.1% and 80.6% respectively). Local control was significantly worse with SRS at 3-, 6-, and 12-months (84.7%, 69.4%, and 61.8% vs. 96.7%, 92.5%, and 87.1% respectively). Distant brain control was significantly worse with SRS at 6- and 12-months (72.1% and 64.7% vs. 94.6% and 89.2% respectively). SRS was associated with a shorter time to intracranial progression as compared to WBRT (6.4 months vs. 27.5 months, p &lt; 0.0001). Twenty percent (20%) of patients in the SRS group received WBRT as salvage therapy.
+
+With respect to quality of life measurements, a clinically significant improvement was noted more frequently in the SRS group as compared to the WBRT group for physical well-being at 6 months. On the other hand, there was no difference in functional independence change from baseline at 6 months. The authors conclude that "SRS in the postoperative setting is a viable treatment option…and should be considered one of the standards of care as a less toxic alternative to WBRT."
+
+#### References
+
+1. American Society for Radiation Oncology (ASTRO) Stereotactic Body Radiation Therapy (SBRT) Model Policy. 2014.
+
+2. American Society for Radiation Oncology (ASTRO) Stereotactic Radiosurgery (SRS) Model Coverage Policy. Final Approval: 1-14-11. Updated 7-25-11.
+
+3. Andrews DW, Scott CB, Sperduto PW, et al. Whole brain radiation therapy with or without stereotactic radiosurgery boost for patients with one to three brain metastases: phase III results of the RTOG 9508 randomised trial. Lancet . 2004;363(9422):1665-1672. doi:10.1016/S0140-6736(04)16250-8
+
+4. ASTRO releases second list of five radiation oncology treatments to question, as part of national Choosing Wisely ® campaign.
+
+5. ASTRO 2014 Choosing Wisely List.
+
+6. Ayala-Peacock DN, Peiffer AM, Lucas JT, et al. A nomogram for predicting distant brain failure in patients treated with gamma knife stereotactic radiosurgery without whole brain radiotherapy. Neuro Oncol . 2014;16(9):1283-1288. doi:10.1093/neuonc/nou018
+
+7. Borgelt B, Gelber R, Kramer S, et al. The palliation of brain metastases: final results of the first two studies by the Radiation Therapy Oncology Group. Int J Radiat Oncol Biol Phys . 1980;6(1):1-9. doi:10.1016/0360-3016(80)90195-9
+
+8. Brennan C, Yang TJ, Hilden P, et al. A phase 2 trial of stereotactic radiosurgery boost after surgical resection for brain metastases. Int J Radiat Oncol Biol Phys . 2014;88(1):130-136. doi:10.1016/j.ijrobp.2013.09.051
+
+9. Brown PD, Ballman KV, Cerhan JH, et al. Postoperative stereotactic radiosurgery compared with whole brain radiotherapy for resected metastatic brain disease (NCCTG N107C/CEC-3): a multicentre, randomised, controlled, phase 3 trial. Lancet Oncol . 2017;18(8):1049-1060. doi:10.1016/S1470-2045(17)30441-2
+
+10. Brown PD, Gondi V, Pugh S, et al. Hippocampal Avoidance During Whole-Brain Radiotherapy Plus Memantine for Patients With Brain Metastases: Phase III Trial NRG Oncology CC001. J Clin Oncol . 2020;38(10):1019-1029. doi:10.1200/JCO.19.02767
+
+11. Brown PD, Jaeckle K, Ballman KV, et al. Effect of Radiosurgery Alone vs Radiosurgery With Whole Brain Radiation Therapy on Cognitive Function in Patients With 1 to 3 Brain Metastases: A Randomized Clinical Trial [published correction appears in JAMA. 2018 Aug 7;320(5):510]. JAMA . 2016;316(4):401-409. doi:10.1001/ jama.2016.9839
+
+12. Gondi V, Bauman G, Bradfield L, et al. Radiation Therapy for Brain Metastases: An ASTRO Clinical Practice Guideline. Pract Radiat Oncol . 2022;12(4):265-282. doi:10.1016/j.prro.2022.02.003
+
+13. Gondi V, Cui Y, Mehta MP, et al. Real-time pretreatment review limits unacceptable deviations on a cooperative group radiation therapy technique trial: quality assurance results of RTOG 0933. Int J Radiat Oncol Biol Phys. 2015;91(3):564-570. doi:10.1016/j.ijrobp.2014.10.054
+
+14. Gondi V, Pugh SL, Tome WA, et al. Preservation of memory with conformal avoidance of the hippocampal neural stem-cell compartment during whole-brain radiotherapy for brain metastases (RTOG 0933): a phase II multi-institutional trial. J Clin Oncol . 2014;32(34):3810-3816. doi:10.1200/JCO.2014.57.2909
+
+15. Gondi V, Pugh S, Brown PD, et al. NCOG-01. Preservation of Neurocognitive Function (NCF) With Hippocampal Avoidance During Whole-Brain Radiotherapy (WBRT) for Brain Metastases: Preliminary Results of Phase III Trial NRG Oncology CC001. Neuro Oncol . 2018;20(Suppl 6):vi172. doi:10.1093/neuonc/ noy148.716
+
+16. Gorovets D, Ayala-Peacock D, Tybor DJ, et al. Multi-institutional Nomogram Predicting Survival Free From Salvage Whole Brain Radiation After Radiosurgery in Patients With Brain Metastases. Int J Radiat Oncol Biol Phys . 2017;97(2):246-253. doi:10.1016/j.ijrobp.2016.09.043
+
+17. Hughes RT, Masters AH, McTyre ER, et al. Initial SRS for Patients With 5 to 15 Brain Metastases: Results of a Multi-Institutional Experience. Int J Radiat Oncol Biol Phys . 2019;104(5):1091-1098. doi:10.1016/ j.ijrobp.2019.03.052
+
+18. Jensen CA, Chan MD, McCoy TP, et al. Cavity-directed radiosurgery as adjuvant therapy after resection of a brain metastasis. J Neurosurg . 2011;114(6):1585-1591. doi:10.3171/2010.11.JNS10939
+
+19. Kelly PJ, Lin YB, Yu AY, et al. Stereotactic irradiation of the postoperative resection cavity for brain metastasis: a frameless linear accelerator-based case series and review of the technique. Int J Radiat Oncol Biol Phys . 2012;82(1):95-101. doi:10.1016/j.ijrobp.2010.10.043
+
+20. Kocher M, Soffietti R, Abacioglu U, et al. Adjuvant whole-brain radiotherapy versus observation after radiosurgery or surgical resection of one to three cerebral metastases: results of the EORTC 22952-26001 study. J Clin Oncol . 2011;29(2):134-141. doi:10.1200/JCO.2010.30.1655
+
+21. Kotecha R, Damico N, Miller JA, et al. Three or More Courses of Stereotactic Radiosurgery for Patients with Multiply Recurrent Brain Metastases. Neurosurgery . 2017;80(6):871-879. doi:10.1093/neuros/nyw147
+
+22. Le Péchoux C, Dunant A, Senan S, et al. Standard-dose versus higher-dose prophylactic cranial irradiation (PCI) in patients with limited-stage small-cell lung cancer in complete remission after chemotherapy and thoracic radiotherapy (PCI 99-01, EORTC 22003-08004, RTOG 0212, and IFCT 99-01): a randomised clinical trial. Lancet Oncol . 2009;10(5):467-474. doi:10.1016/S1470-2045(09)70101-9
+
+23. Liang X, Ni L, Hu W, et al. A planning study of simultaneous integrated boost with forward IMRT for multiple brain metastases. Med Dosim . 2013;38(2):115-116. doi:10.1016/j.meddos.2012.07.010
+
+24. Mahajan A, Ahmed S, McAleer MF, et al. Post-operative stereotactic radiosurgery versus observation for completely resected brain metastases: a single centre, randomised, controlled, phase 3 trial [published correction appears in Lancet Oncol. 2017 Aug;18(8):e433] [published correction appears in Lancet Oncol. 2017 Sep;18(9):e510]. Lancet Oncol . 2017;18(8):1040-1048. doi:10.1016/S1470-2045(17)30414-X
+
+25. Murray KJ, Scott C, Greenberg HM, et al. A randomized phase III study of accelerated hyperfractionation versus standard in patients with unresected brain metastases: a report of the Radiation Therapy Oncology Group (RTOG) 9104. Int J Radiat Oncol Biol Phys . 1997;39(3):571-574. doi:10.1016/s0360-3016(97)00341-6
+
+26. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2023 - March 24, 2023. Central Nervous System Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/cns.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Central Nervous System Cancers Version 1.2023. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+27. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - November 21, 2023. Small Cell Lung Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/sclc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Small Cell Lung Cancer Version 2.2024. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+28. Patchell RA, Tibbs PA, Regine WF, et al. Postoperative radiotherapy in the treatment of single metastases to the brain: a randomized trial. JAMA . 1998;280(17):1485-1489. doi:10.1001/jama.280.17.1485
+
+29. Shaw E, Scott C, Souhami L, et al. Single dose radiosurgical treatment of recurrent previously irradiated primary brain tumors and brain metastases: final report of RTOG protocol 90-05. Int J Radiat Oncol Biol Phys . 2000;47(2):291-298. doi:10.1016/s0360-3016(99)00507-6
+
+30. Soon YY, Tham IW, Lim KH, Koh WY, Lu JJ. Surgery or radiosurgery plus whole brain radiotherapy versus surgery or radiosurgery alone for brain metastases. Cochrane Database Syst Rev . 2014;2014(3):CD009454. Published 2014 Mar 1. doi:10.1002/14651858.CD009454.pub2
+
+31. Sperduto PW, Kased N, Roberge D, et al. Summary report of the graded prognostic assessment: an accurate and facile diagnosis-specific tool to estimate survival for patients with brain metastases. J Clin Oncol . 2012;30(4):419-425. doi:10.1200/JCO.2011.38.0527
+
+32. Sperduto PW, Shanley R, Luo X, et al. Secondary analysis of RTOG 9508, a phase 3 randomized trial of wholebrain radiation therapy versus WBRT plus stereotactic radiosurgery in patients with 1-3 brain metastases; poststratified by the graded prognostic assessment (GPA). Int J Radiat Oncol Biol Phys . 2014;90(3):526-531. doi:10.1016/j.ijrobp.2014.07.002
+
+33. Sperduto PW, Yang TJ, Beal K, et al. Estimating Survival in Patients With Lung Cancer and Brain Metastases: An Update of the Graded Prognostic Assessment for Lung Cancer Using Molecular Markers (Lung-molGPA). JAMA Oncol . 2017;3(6):827-831. doi:10.1001/jamaoncol.2016.3834
+
+34. Suh JH. Hippocampal-avoidance whole-brain radiation therapy: a new standard for patients with brain metastases?. J Clin Oncol . 2014;32(34):3789-3791. doi:10.1200/JCO.2014.58.4367
+
+35. Weiner JP. Neurocognitive Outcomes for Patients With Brain Metastasis in the Modern Era: Benefit of Treatment With Hippocampal Avoidance Whole-Brain Radiotherapy Plus Memantine. J Clin Oncol . 2020;38(10):1003-1005. doi:10.1200/JCO.19.03359
+
+36. Wolfson AH, Bae K, Komaki R, et al. Primary analysis of a phase II randomized trial Radiation Therapy Oncology Group (RTOG) 0212: impact of different total doses and schedules of prophylactic cranial irradiation on chronic neurotoxicity and quality of life for patients with limited-disease small-cell lung cancer. Int J Radiat Oncol Biol Phys . 2011;81(1):77-84. doi:10.1016/j.ijrobp.2010.05.013
+
+37. Yamamoto M, Serizawa T, Shuto T, et al. Stereotactic radiosurgery for patients with multiple brain metastases (JLGK0901): a multi-institutional prospective observational study. Lancet Oncol . 2014;15(4):387-395. doi:10.1016/S1470-2045(14)70061-0
+
+POLICY
+
+- I. Whole breast irradiation following breast-conserving surgery
+
+- A. The use of up to 16 fractions of three-dimensional conformal radiation therapy (3DCRT) followed by up to 5 fractions of electrons or photons as a boost to the surgical bed is considered medically necessary for radiation treatment to the whole breast with or without treatment to the low axilla.
+
+- B. The use of up to 28 fractions of 3DCRT followed by up to 8 fractions of electrons or photons as a boost to the surgical bed is considered medically necessary for ANY of the following:
+
+1. Regional lymph node radiation requiring a separate supraclavicular, axillary, and/or internal mammary node field
+
+2. Collagen vascular disease
+
+3. Breast augmentation
+
+4. Previous radiation to the breast or chest wall
+
+- C. The use of intensity-modulated radiation therapy (IMRT) for the treatment of the whole breast is considered medically necessary for EITHER of the following:
+
+1. Treatment in the curative setting which overlaps with a previously irradiated area
+
+2. An optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines ®
+
+- D. Lumpectomy bed boost
+
+1. The boost to the surgical (lumpectomy) bed is planned using either electrons (CPT ® 77321), or if using photons, a teletherapy isodose technique, complex (CPT ® 77307).
+
+2. A brachytherapy boost is considered not medically necessary.
+
+3. The use of intraoperative radiation therapy (IORT), electronic brachytherapy, and AccuBoost ® is considered not medically necessary.
+
+- II. Partial breast irradiation following breast-conserving surgery
+
+- A. Accelerated partial breast irradiation (APBI) using 10 fractions delivered twice daily or 5 fractions delivered once daily with 3DCRT, IMRT or high-dose rate (HDR) brachytherapy (intracavitary or interstitial) is considered medically necessary.
+
+- B. Partial breast irradiation (PBI) using 15 or 16 fractions delivered once daily with 3DCRT is considered medically necessary.
+
+### Breast Cancer
+
+RO.TXS.112.C v2.0.2024
+
+- C. The use of electronic brachytherapy and AccuBoost ® is considered not medically necessary.
+
+- III. Intraoperative radiation therapy (IORT)
+
+- A. The use of IORT is considered not medically necessary.
+
+- IV. Post-mastectomy radiation is considered medically necessary in an individual with positive axillary lymph node(s), a primary tumor greater than 5 cm and/or positive or close (&lt; 1 mm) surgical margins.
+
+- A. The use of up to 28 fractions of 3DCRT to the chest wall and, if needed, to regional nodes followed by up to 8 fractions of an electron boost is considered medically necessary.
+
+- B. The use of IMRT is considered medically necessary for EITHER of the following:
+
+1. Treatment in the curative setting which overlaps with a previously irradiated area
+
+2. An optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or NCCN Guidelines ®
+
+- V. Locoregional radiation therapy in an individual with metastatic disease who has no evidence of clinical disease following surgery and/or chemotherapy.
+
+- A. The use of up to 25 fractions of 3DCRT is considered medically necessary.
+
+- VI. Palliation
+
+- A. The use of up to 15 fractions of 3DCRT is considered medically necessary.
+
+#### DISCUSSION
+
+Early stage breast cancer is typically treated with mastectomy with or without radiotherapy to the chest wall, or lumpectomy followed by radiotherapy. Indications for post-mastectomy radiotherapy include the presence of multiple positive axillary lymph nodes, positive or narrow margins (&lt; 1 mm), or large primary tumor size (&gt; 5 cm). In breast-conserving therapy, radiotherapy is indicated for most women after local excision of ductal carcinoma in situ (DCIS) or invasive carcinoma. In some women over the age of 70 who have been diagnosed with invasive breast cancer, radiation therapy may be safely omitted, especially if they have comorbidities.
+
+Hypofractionated whole breast irradiation (HF-WBI)
+
+Several randomized trials have confirmed the efficacy of a hypofractionated regimen in the adjuvant treatment of breast cancer. In the Ontario trial, Whelan et al (2010) randomized 1234 women with invasive carcinoma, negative axillary nodes and negative margins to 50 Gy in 25 fractions or to 42.5 Gy in 16 fractions to the whole breast. At 10 years, the hypofractionated regimen was not inferior to standard fractionation with respect to recurrence, survival or toxicity.
+
+The START-B trial enrolled 2215 women with stage pT1-3a, pN0-1 invasive carcinoma who were randomized to 50 Gy in 25 fractions or to 40 Gy in 15 fractions. At a median follow-up of 6 years, there was no statistical difference in the rate of locoregional recurrence (LRR) between the groups (Yarnold et al, 2008). At a median follow-up of 9.9 years, there remained no difference in LRR. The hypofractionated regimen was associated with higher rates of disease-free survival (DFS) and overall survival (OS) as well as reduced rates of breast shrinkage, telangiectasia and breast edema.
+
+UK Fast-Forward
+
+Brunt et al (2020) published '3 weeks (FAST-Forward): 5-year efficacy and late normal tissue effects results from a multicentre, non-inferiority, randomized, phase 3 trial.' In this randomized phase III trial, 4096 patients with early stage invasive breast cancer (pT1-3, pN0-1, M0) who had undergone breast conservation surgery or mastectomy were randomized to receive 1 week of radiation versus 3 weeks of radiation therapy. Patients were allocated to receive 40 Gy in 15 fractions of 2.67 Gy (3 weeks); 27 Gy in 5 fractions of 5.4 Gy (1 week); or 26 Gy in 5 fractions of 5.2 Gy (1 week). For patients undergoing breast conservation, a sequential tumor boost was allowed (10 Gy or 16 Gy in 2 Gy fractions). With a median follow-up of 71.5 months, 27 Gy and 26 Gy in 5 fractions were non-inferior to 40 Gy in 15 fractions in terms of ipsilateral breast tumor relapse. The cumulative number of ipsilateral breast tumor relapse was 79 (31 in the 40 Gy group, 27 in the 27 Gy group, and 21 in the 26 Gy group). The HRs versus 40 Gy in 15 fractions were 0.86 (95% CI 0.51 to 1.44) for 27 Gy in 5 fractions and 0.67 (0.38 to 1.16) for 26 Gy in 5 fractions). There was a significant difference in late onset normal tissue effects between 40 Gy and 27 Gy ( p = 0.0003) but there was no significant difference in late normal tissue effects between 40 Gy and 26 Gy ( p = 0.17). The authors concluded that a 1 week schedule of radiation was non-inferior to a 3 week schedule of radiation in terms of ipsilateral breast tumor relapse and late onset tissue effects were similar for patients receiving 40 Gy and 26 Gy (Brunt et al, 2020).
+
+UK Fast
+
+Brunt et al (2020) reported on 5-fraction once-weekly whole breast irradiation in a phase III randomized trial. In this trial, 915 patients with node-negative invasive early breast cancer 50 years of age or older with tumors 3 cm or less were randomized to 50 Gy in 25 fractions, 30 Gy in 5 once-weekly fractions or 28.5 Gy in 5 once-weekly fractions in a 1:1:1 ratio. Primary endpoint was photographic breast appearance with secondary endpoints being physician assessment of radiation-induced breast changes and ipsilateral recurrence. Median follow-up was 9.9 years. At 5 years, 79.5% of 615 evaluable patients had no change in photogenic breast appearance, 17.7% had mild change and 2.8% had marked change. The rates of mild or marked change was attributed to the 30 Gy arm while the 28.5 Gy arm was no different than the 50 Gy arm. This theme also extended to physician assessment of late breast normal tissue effects (NTE) where, at 10 years, there was no statistical difference between the 28.5 Gy or 50 Gy arms with respect to moderate/marked breast NTE. Finally, ipsilateral breast events was low at 1.3% at 10 years.
+
+ASTRO Guideline
+
+In 2018, updated evidence-based guidelines on radiation therapy for the whole breast were published by the American Society for Radiation Oncology to provide guidance on fractionation for whole breast irradiation (Smith et al, 2018). The guideline recommends a hypofractionated regimen for all age groups and all stages, including DCIS, as long as additional fields are not used to encompass regional lymph nodes. DCIS may be included for hypofractionated regimens. The tangent fields may encompass the low axilla, as clinically necessary. The recommended dose regimens are 4000 cGy in 15 fractions or 4250 cGy in 16 fractions for the whole breast. When a tumor bed boost is being used, 1000 cGy in 4 to 5 fractions is suggested as the standard tumor bed boost. 3DCRT with field-in-field technique is recommended. The volume of breast tissue receiving greater than 105% of the dose should be kept to a minimum. The contoured tumor bed should receive a minimum of 95% of the prescribed dose. Breast size and mid-plane separation should not be determining factors as long as dosimetric homogeneity guidelines are met. The use of chemotherapy prior to radiation or the use of concurrent treatment with hormonal therapy or trastuzumab is not a contraindication to hypofractionation (Smith et al, 2018).
+
+Radiation planning techniques
+
+Whole breast
+
+The updated guideline referenced above also provided guidelines around treatment technique and planning for women receiving whole breast irradiation. The authors state that '…3-dimensional conformal treatment planning with a 'field-in-field' technique is recommended as the initial treatment planning approach.' Further, '(d)eep inspiration breath hold, prone positioning, and/or heart blocks are recommended to minimize heart dose.' They also state that '(f)or patients with significant daily positioning variations, daily imaging may be used.'
+
+Therefore, in treatment of the whole breast, the use of 3DCRT without IGRT is considered medically necessary. The use of IMRT is considered not medically necessary, though an exception will be considered if an optimized 3D conformal plan fails to meet tolerances of nearby organs at risk (OARs).
+
+Boost
+
+The guideline also discusses recommendations concerning a boost. Specifically, '… a tumor bed boost is recommended for patients with invasive breast cancer who meet any of the following criteria: age ≤ 50 years with any grade, age 51 to 70 years with high grade, or a positive margin.' They also state that '…omitting a tumor boost is suggested in patients…age &gt; 70 with hormone receptor-positive tumors of low or intermediate grade resected with widely negative (&gt; 2 mm) margins.'
+
+The dose recommended '(i)n the absence of strong risk factors for local recurrence (is)…1000 cGy in 4 to 5 fractions…(i)n the presence of strong risk factor(s) for local recurrence…a higher radiation boost dose of 1400 to 1600 cGy in 5 fractions may also be used.'
+
+With respect to timing and technique, the guideline states that a '…sequential boost is currently recommended' and that '…external beam treatment is recommended…' Given this, the use of a photon or electron boost is considered medically necessary. The use of brachytherapy, including but not limited to interstitial, intracavitary, or intraoperative, for a boost is considered not medically necessary.
+
+Low axilla
+
+Level 1 and 2 are considered the 'lower' nodes while Level 3 is considered the true apex. Level 1 is the lowest below the lower edge of the pectoralis minor. Level 2 is under the pectoralis minor. Level 3 is above the pectoralis minor.
+
+Partial breast irradiation
+
+The IMPORT LOW trial is a multicenter, randomized phase 3 trial which demonstrated non-inferiority for partial breast radiation therapy using standard external beam radiation therapy techniques (Coles et al, 2017). Between May 2007 and October 2010, 2018 women with low risk, early stage breast cancer who underwent breast conserving surgery were randomized to whole breast radiation therapy versus partial breast radiation. Patients were randomized to receive 40 Gy in 15 fractions to the whole breast, 36 Gy in 15 fractions to the whole breast, or 40 Gy in 15 fractions to the partial breast. The study required that all patients receive 3D conformal radiation therapy using forward-planned, field-in-field radiation techniques. The treatment was delivered with medial and lateral tangential beams to minimize dose to surrounding lung and heart and to ensure that the beams exit within the breasts. At a median follow-up of 72.2 months, there was no difference in the 5 year local relapse rate (whole breast 1.1% vs partial breast 0.5%, p = 0.42). The estimated 5-year absolute differences in local relapse compared with the control group were -0.38% (-0.84 to 0.90) for the partial breast group and -0.73% (-0.99 to 0.22) for the reduced-dose group. The patients in the partial breast group reported statistically significant fewer adverse cosmetic events (change in breast appearance, p = 0.007 and breast harder or firmer, p = 0.002) compared to the whole breast group. As this study used the same dose fractionation scheme for the whole breast and the partial breast group, this study concluded that partial breast radiation using standard external beam radiation therapy techniques is non-inferior to standard dose whole breast radiation therapy in terms of local relapse and resulted in a lower rate of adverse late tissue effects.
+
+Accelerated partial breast irradiation (APBI) is a technique in which the target of the radiation is only a portion of the breast with the greatest likelihood of harboring residual cancer cells after lumpectomy. The technique is called 'accelerated' because it is given twice daily for 5 days, with each fraction delivering a relatively higher dose.
+
+Correa et al (2017) recently published an update of an ASTRO evidence-based consensus statement for APBI. In this update, a 'Suitable Group' was defined as eligible for APBI. The 'Suitable Group' included those with stage T1s or T1, age 50 or greater, and with negative margins by at least 2 mm. The DCIS group now considered 'Suitable' must include all of the following: screen-detected, low to intermediate nuclear grade, no more than 2.5 cm, and have a resection margin of at least 3 mm. Definition of both the 'Cautionary' and 'Unsuitable' Groups are defined in the updated ASTRO consensus statement. These updates were accepted by the National Comprehensive Cancer Network ® (NCCN ® ) which further recommends 10 fractions twice daily using brachytherapy or external beam photon therapy. Typical doses cited in the NCCN Guidelines ® are 34 Gy in 10 fractions with twice daily treatment using brachytherapy. External beam treatment is recommended with 38.5 Gy in 10 fractions with twice daily treatment. Therefore, up to 10 fractions (whether photon or brachytherapy) for APBI is considered medically necessary.
+
+The American Brachytherapy Society issued their consensus statement for APBI in early 2018. They reviewed guidelines and consensus statements from ASTRO, GEC-ESTRO, the American Society of Breast Surgeons as well as their own previous guidelines. Seven randomized trials of APBI and 2 trials evaluating intraoperative radiation, the TARGIT-A and ELIOT clinical trials were reviewed. The new consensus statement criteria include age 45 years or older; size 3 cm or less; all invasive subtypes and DCIS; positive or negative ER status; negative surgical margins with no tumor on ink for invasive cancers and at least a 2 mm margin for DCIS; no evidence of lymphovascular space invasion and negative lymph node status. Recommendations on treatment technique with strong or moderate evidence include multicatheter interstitial brachytherapy; external beam techniques of IMRT and 3DCRT; and applicator brachytherapy. Participation in clinical trials and protocols was recommended for proton beam, intraoperative radiation therapy, and electronic brachytherapy.
+
+The American Brachytherapy Society Consensus Statement for electronic brachytherapy (EB) (Tom et al, 2019) concluded that 'it is not recommended that EB be utilized for accelerated partial breast irradiation, non-melanomatous skin cancers, or vaginal cuff brachytherapy outside prospective clinical trials…' It is further recognized that the devices that fall within the definition of electronic brachytherapy include Intrabeam ® and Xoft ® .
+
+Data from National Surgical Adjuvant Breast and Bowel Project (NSABP) B39/Radiation Therapy Oncology Group (RTOG) 0413 was presented at the 2018 SABCS conference. In this trial, 4216 patients with DCIS or stage I-II (≤ 3 cm and 0-3 positive axillary nodes) invasive adenocarcinoma were randomized to whole breast irradiation (WBI) or APBI (using MammoSite ® or 3D conformal external beam radiotherapy) after lumpectomy.
+
+The primary endpoint was rate of ipsilateral breast tumor recurrence (IBTR) while secondary endpoints included relapse free survival (RFS), distant disease free survival (DDFS) and overall survival (OS). At 10 years, 95.2% of APBI patients were IBTR-free vs. 95.9% of WBI patients. Though this was not statistically significantly different, the 'hazard ratio did not meet the statistical criteria for treatment equivalence.' Further, the 10-year RFS was statistically improved with WBI as compared to APBI (93.4% vs. 91.9%). There was no difference, however, in DDFS, DFS or OS. Given the small differences in IBTR and RFS, 'PBI may be an acceptable alternative to WBI for a proportion of women who undergo breast-conserving surgery.'
+
+At the 2019 San Antonio Breast Cancer Symposium, Meattini et al presented 'Accelerated partial breast or whole breast irradiation after breast conservation surgery for patients with early breast cancer: 10-year follow up results of the APBI IMRT Florence randomized phase 3 trial.' In the APBI IMRT Florence phase 3 trial, women with breast cancer age &gt; 40 years, pT &lt; 25 mm, and final surgical margins &gt; 5 mm were randomized to APBI using IMRT to 30 Gy in 5 fractions and to conventional fractionation whole breast irradiation (WBI) to 50 Gy in 25 fractions followed by tumor bed boost to 10 Gy in 5 fractions. At a median follow-up of 10 years, there was no significant difference in ipsilateral tumor recurrence (IBTR) in APBI vs. WBI 3.9% vs. 2.6% with the HR for APBI individuals compared with WBI individuals was 1.57 ( p = 0.39; 95% CI: 0.56-4.41). There was no significant difference between the treatment arms in overall survival or in breast cancer specific survival. The authors conclude that APBI using IMRT in 5 once daily fractions (30 Gy in 5 fractions) results in a low 10 year cumulative IBTR that is not significantly different from patients treated with WBI.
+
+AccuBoost ® Non-Invasive Image-Guided Breast Brachytherapy (NIIGBB) (Advanced Radiation Therapy, Inc., Billerica, MA) is a method of IGRT that incorporates a real-time image guidance mammography-based system to deliver noninvasive brachytherapy. The breast is immobilized using moderate compression. Digital mammography provides localization of the target volume. Custom applicators, ranging from 4 to 8 cm in diameter, are designed to deliver a highly collimated beam, which are used with an HDR remote afterloading system.The applicators are mounted on mammography paddles, centered on the target to deliver HDR IR-192 along 2 intersecting orthogonal axes sequentially. To use AccuBoost ® , the tumor bed must be visible on mammogram, the planning target volume (PTV) must be less than or equal to 8 cm, and the breast must be compressible to a plate separation less than or equal to 7 cm.
+
+There is limited clinical data on AccuBoost ® . The data is primarily dosimetric or feasibility studies. In 'Breast boost using noninvasive image-guided breast brachytherapy vs. external beam: a 2:1 matched-pair analysis,' Leonard et al (2013) provide a retrospective analysis of 47 patients treated with AccuBoost ® compared to 94 matched controls treated with standard electrons or photons. This study is limited by short follow-up (median follow-up of 13.6 months) and that it is retrospective in nature. In the publication 'The rationale, technique, and feasibility of partial breast irradiation using noninvasive image-guided breast brachytherapy,' Schuster et al (2016) report a multicenter study examining the feasibility of AccuBoost ® in 518 patients. This is a feasibility study. This study does not compare AccuBoost ® against the standard of care which is radiation therapy to the boost using photons or electrons.
+
+Sioshansi et al (2011) conducted a study of dose modeling of NIIGBB, compared with electron beam and 3DCRT partial breast radiation. This study modeled the NIIGBB dose distributions as a point source. Dose volume comparisons were evaluated in 8 patients and compared to 3DCRT and electron boost simulations. Patient eligibility required a clearly defined target cavity identified on CT, ≥ 5 mm distance between the posterior aspect of the cavity and the chest wall, and a breast that could be compressed in ≤ 8 cm. The authors reported that the NIIGBB PTVs were significantly less than those of the 3DCRT and electron boost, allowing for more normal tissue sparing. Because NIIGBB directs radiation parallel to the chest wall, there is negligible dose delivered to the chest wall and lung. NIIGBB, compared to electrons and 3DCRT, resulted in lower maximum dose to the skin (60% and 10% respectively), and chest wall/lung (70% to 90%).
+
+There is, as yet, little clinical information available on the long-term results in patients treated with this technique. A multi-institutional study showed acceptable rates of acute skin toxicity and a high rate of excellent or good cosmetic results at 6 months. In a study from Tufts Medical Center (Leonard et al, 2012), the cosmetic results and skin and subcutaneous toxicities were similar in 18 matched pairs of patients with more than 6 months follow-up treated with either AccuBoost ® or a conventional electron boost. This device has also been used for APBI, again with very limited follow-up of small numbers of patients. Hepel et al presented the results of the patient registry for APBI at the 2018 ASTRO meeting and concluded longer follow-up is needed to confirm late end points.
+
+In a subsequent publication, Hepel et al (IJROBP 2020) presented the final results of a phase II trial (BrUOG Br-251) of NIIGBB for APBI. Patients were 50 years old or older with node-negative ER-positive invasive breast cancer 2 cm or less or with DCIS that was 3 cm or less. A dose of 34 Gy in 10 fractions, either once or twice daily, was given. The primary outcomes was feasibility and late toxicity at 2- and 5-years while secondary endpoint was cosmetic outcome and ipsilateral breast tumor recurrence. At 2 years, late grade 2 toxicity was seen in 5% with no grade 3 or greater toxicity seen. 5-year toxicity was reported on 20 patients at a median follow-up of 63 months. Late grade 2 toxicity was seen in 10% with no grade 3 toxicity seen. At a median follow-up of 68 months, the 5-year freedom from IBRT was 93.3%. The authors concluded that 'continued evaluation of the NIBB APBI technique in a larger cohort is warranted.'
+
+IORT
+
+The use of IORT for the treatment of breast cancer has been evaluated in 2 prospective randomized clinical trials, TARGIT-A which utilized low-energy x-rays (using INTRABEAM ® ) and ELIOT, which utilized electrons.
+
+TARGIT-A
+
+In the TARGIT-A trial, patients 45 years or older with unifocal invasive ductal carcinoma (preferably less than 3.5 cm) were randomized to receive IORT (to the lumpectomy bed) or external beam radiation therapy (EBRT) to the whole breast (with or without a boost). Those receiving IORT were stratified by timing of the IORT (pre-pathology versus post-pathology) and by facility. For pre-pathology patients randomized to IORT, supplemental EBRT to the whole breast (without a boost) was given when pathology from the lumpectomy revealed either invasive lobular carcinoma, extensive intraductal component or another adverse criterion (ie, high-grade, lymphovascular invasion, nodal involvement). In this setting, IORT was considered the boost. The primary outcome evaluated was local control in the conserved breast.
+
+Initial results were published in 2010 at which time data was presented on 2232 patients, 862 who had a median follow-up of 4 years and 1514 who had a median follow-up of 3 years. Of the 1113 patients randomized to IORT, 996 received the allocated treatment. Of the 1119 patients randomized to EBRT, 1025 received the allocated treatment. At 4 years, there was no significant difference in the estimate of local recurrence between IORT and EBRT (1.2% versus 0.95%, p = 0.41). It is noted that in the pre-pathology IORT group, 14.2% of patients received supplemental EBRT.
+
+In a more recent update published in 2014, a total of 3451 patients randomized to IORT and 1730 patients randomized to EBRT were evaluated. Within the IORT group, 2298 were randomized prior to the lumpectomy (pre-pathology strata) and 1153 were randomized after lumpectomy (post-pathology strata). Median follow-up of the 3451 patients who had received IORT was 2 years and 5 months. 2020 patients had a median follow-up of 4 years and 1222 patients had a median follow-up of 5 years (note that only 611 patients [18%] had 5-year follow-up). At 5 years, the risk for local recurrence with IORT was significantly higher as compared to EBRT (3.3% versus 1.3%, p = 0.042). When considering the pre-pathology strata, the risk of local recurrence was 2.1% with IORT versus 1.1% ( p = 0.31). This contrasts with the post-pathology strata where the recurrence was 5.4% with IORT versus 1.7% with EBRT ( p = 0.069). Based on this data, the authors conclude that 'TARGIT concurrent with lumpectomy within a risk-adapted approach should be considered as an option for eligible patients with breast cancer carefully selected as per the TARGIT-A trial protocol, as an alternative to postoperative external beam breast radiotherapy.'
+
+In response to this publication, several authors have criticized the statistical analysis. For example, Cuzick (2014) states, '…there are several major deficiencies in the analysis…' including, '…the misuse of the non-inferiority criterion…' which '…clearly fails…' as the "…Kaplan-Meier estimates… establish a 2% superiority of external beam radiotherapy ( p = 0.04) and a CI extending beyond 2.5%.' Cuzick further states the '…protocol clearly states that the primary analysis population includes all randomized patients. However, the report concentrates on the prepathology group.'
+
+Haviland et al (2014) stated that '…assessment of local recurrence at 5 years by comparison of binomial proportions is appropriate only if 5-year follow-up is available for all patients, whereas only 611 of 3451 patients have reached this point. This analysis, including the non- inferiority test statistic, is therefore unreliable.' The authors conclude that '…the TARGIT-A trial remains inconclusive, and intraoperative radiotherapy using TARGIT remains an experimental treatment.'
+
+Finally, Silverstein et al (2014) indicated that '…the results of the TARGIT-A trial, with a median follow-up (FU) of 29 months, is still well below the median time when breast recurrences can be expected, especially since more than 90 % of TARGIT-A women were estrogen receptor positive, and at least 65% received adjuvant hormonal therapy, a treatment well-known to delay recurrences in ER+ women.' In addition, they note that '…overall breast recurrence rates in the TARGIT group also exceeded rates in the EBRT group, a difference at borderline statistical significance ( p = 0.053).' They conclude that '…with 29 months of median follow-up, the TARGIT data are still immature and risk-adapted IORT with 50-kV X-rays is still too early in follow-up to select the subset of women whose local control will be within their noninferiority criteria margin of 2.5%. Until the data are more mature, 50-kV patients should be treated under strict institutional protocols.'
+
+Vaidya et al (BMJ 2020) reported on 5-year results of immediate-IORT vs. delayed IORT. The authors found that TARGIT-IORT was non-inferior to EBRT with local recurrence of 2.11% for TARGIT-IORT vs. 0.95% for EBRT. At a median follow-up of 8.6 years, no statistical difference was found for local recurrence-free survival, mastectomyfree survival, distant DFS, OS, or breast cancer mortality.
+
+Following this publication, even greater scrutiny was paid to the results. This includes the questioning of adherence to standards and validity of analysis of the pre-pathology stratum. Others, including Bentzen (BMJ 2020), Shah (Ann Surg Oncol 2021), and Shah (JAMA Oncol 2020), have all raised additional concerns.
+
+For example, Yarnold et al (BMJ 2020) stated that 'the TARGIT-A trial was conducted outside the research governance framework described in UK Medical Research Council Guidelines for Good Clinical Practice in Clinical Trials…' One example provided was that the 'International Trial Steering Committee [comprised of] 22 individuals, all closely involved in the trial, including a past chairman drawing monthly consultancy fees from Zeiss and several Zeiss employees…' Further, 'the 2020 publications of pre-and postpathology strata as independent trials represent marked departures from previous publications and serious deviations from standard practice.'
+
+Another criticism raises the question of efficacy of IORT given that Vaidya et al reported a 3.96% local recurrence rate (similar to radiation-omission in the PRIME II trial of 4.1%) with delayed IORT. Given this, Kirby et al (BMJ 2020) assert that 'the effect of LRR if adding IORT to BCS is negligible in the post-pathology stratum of TARGIT-A.' Moreover, if the local recurrences with IORT in the delayed treatment is equal to that of 'no treatment' then it questions why IORT done up front would have any different efficacy. Kirby concluded that 'the tumour outcome in the pre-pathology stratum of the TARGIT-A trials is consistent with the outcome after IORT in the post-pathology setting; both strata support the hypothesis that IORT has no clinically meaningful effect on LRR after surgery.'
+
+In a more 'real-world' study, the results of TARGIT-R were also recently published revealing an 8% local recurrence rate (Valente Ann Surg Oncol 2021) at 5 years for the primary IORT cohort. This recurrence rate certainly differs from the 4% rate reported in the TARGIT-A trial. For this 'low-risk patient population,' the recurrence rates also stand in stark contrast to 5-year recurrence rates of '1% in patients treated with endocrine therapy and whole-breast irradiation' and '4% in patients treated with endocrine therapy alone.' (Smith and Kuerer Ann Surg Oncol 2021). This data suggests 'that the realworld effectiveness of primary IORT in the US patient population may be inferior to the efficacy of IORT reported in the TARGIT-A trial…'. The authors of the TARGIT-R conclude that 'long-term follow-up studies of patients treated with IORT in randomized controlled trials and prospective registries will provide necessary data to define the efficacy of IORT and whether it can be considered a suitable radiation treatment option.'
+
+ELIOT
+
+In the ELIOT trial, 1305 patients 48 years or older with tumors 2.5 cm or smaller were randomized to receive IORT with electrons or EBRT. Patients were stratified by tumor size (&lt; 1.0 cm vs. 1.0 to 1.4 cm vs. ≥ 1.5 cm). The primary endpoint was the occurrence of ipsilateral breast tumor recurrences (IBTR), which included true local relapse plus new ipsilateral breast tumor. Median follow-up for all patients was 5.8 years.
+
+Results revealed that there was a significantly greater occurrence of IBTR in the IORT group compared to the EBRT group at 5 years (4.4% versus 0.4%, p = 0.0001). The 5year rate of true local recurrence (occurring in the index quadrant) was also significantly higher in the IORT group compared to the EBRT group (2.5% versus 0.4%, p = 0.0003). The rate of new ipsilateral breast carcinoma was also significantly higher in the IORT group compared to the EBRT group (1.9% versus 0%, p = 0.0001). Finally, it was noted that the IORT group developed a significantly higher rate of axillary or other regional lymph node metastases (1% versus 0.3%, p = 0.03). At 5 years, overall survival did not differ between the 2 groups.
+
+In a multivariate analysis of the IORT group, tumor size greater than 2 cm, presence of 4 or more positive lymph nodes, a poorly differentiated tumor, and triple negative subtype were associated with nearly twice the risk of IBTR. The risk of IBTR at 5 years was 11.3% if any one of these unfavorable characteristics was present versus 1.5% in those without these features ( p &lt; 0.0001). It is noted that this group of patients with a low risk of IBTR is similar to that of the 'Suitable' APBI group as defined by ASTRO.
+
+However, the long-term results of ELIOT were recently published and showed a higher rate of recurrence when compared to whole breast irradiation.  At a median follow-up of 12.4 years, the IBTR was 11% with IORT vs. 2% with whole breast irradiation.
+
+ASTRO Consensus Statement
+
+ASTRO released an Evidence-Based Consensus Statement for APBI. In this statement, the authors recommend that patients '…be counseled that in 2 clinical trials the risk of IBTR was higher with IORT.'
+
+With respect to IORT using electrons, the authors state that 'ELIOT has a median of 5.8 years follow up (n = 1305). However, ELIOT patients with invasive cancer fitting the 'suitability' criteria had a very low rate of IBTR. Among these patients, the 5-year occurrence of IBTR was approximately 1.5%, pointing out the importance of patient selection.' Hence the recommendation that '…electron beam IORT should be restricted to women with invasive cancer considered 'suitable' for PBI.'
+
+With respect to IORT using low-energy x-rays, the authors recommend that '…lowenergy x-ray IORT for PBI should be used within the context of a prospective registry or clinical trial, per ASTRO Coverage with Evidence Development (CED) statement. When used, it should be restricted to women with invasive cancer considered 'suitable' for partial breast irradiation based on the data at the time of this review.'
+
+When further detailing their recommendations, the authors note that '…the five-year IBTR risk is based on the overall short follow up of the TARGIT trial, which limits precision of the five-year risk estimates. Although there was no statistically significant difference in IBTR risk for patients treated with IORT versus WBI in the TARGIT prepathology subgroup, the task force thought greater weight should be placed on evaluation of the efficacy of IORT in the prespecified primary analysis population that included all patients.' Given this and the concern of '…misuse of the noninferiority criterion…,' the authors '…felt low-energy x-ray IORT should continue to be used within the context of a prospective registry or clinical trial to ensure long-term local control and toxicity outcomes are prospectively monitored.' In addition, '…given the increased risk of IBTR, the task force advised that low-energy x-ray IORT, when used, be confined to patients with the lowest risk of IBTR, specifically those in the 'suitable' group.'
+
+In response to the Consensus Statement, Small et al (2017) reiterated that the 'TARGITA trial specified stratification between pre- and post-pathology before randomization…' and that '…the panel's recommendations regarding IORT should have acknowledged the results for the pre-specified analysis for the primary end-point of IORT treatment in the whole trial (n = 3451, a difference of 2 % p = 0.04), as well the pre-pathology stratum (n = 2298, a difference of 1% p = 0.31)."
+
+The American Brachytherapy Society Consensus Statement for IORT (Tom et al, 2019) concluded that 'IORT, as monotherapy, after breast-conserving surgery, should not be offered to patients outside of prospective clinical trials, regardless of IORT technique used.'
+
+Locoregional treatment in the metastatic setting
+
+Locoregional radiation therapy may be considered for women who initially present with metastatic disease, but after surgery and/or chemotherapy, are found to have no clinical evidence of disease. In such a scenario, the use of up to 25 fractions is considered medically necessary.
+
+Palliation
+
+Primary therapy for women with metastatic breast cancer (M1 stage) is systemic therapy. However, for symptomatic breast or chest wall disease, up to 15 fractions of radiotherapy is considered medically necessary.
+
+#### References
+
+1. American Society for Radiation Oncology (ASTRO) Intensity Modulated Radiation Therapy (IMRT) Model Policy. 2019. https://www.astro.org/ASTRO/media/ASTRO/Daily%20Practice/PDFs/IMRTMP.pdf
+
+2. ASTRO releases list of five radiation oncology treatments to question as part of national Choosing Wisely ® campaign. 2013 Sep 13.
+
+3. Bartelink H, Horiot JC, Poortmans P, et al. Recurrence rates after treatment of breast cancer with standard radiotherapy with or without additional radiation. N Engl J Med . 2001;345(19):1378-1387. doi:10.1056/ NEJMoa010874
+
+4. Bentzen SM, Haviland JS. In Regard to Vaidya JS, Bulsara M, Baum M, et al. Long term survival and local control outcomes from single dose targeted intraoperative radiotherapy during lumpectomy (TARGIT-IORT) for early breast cancer: TARGIT-A randomised clinical trial. BMJ . 2020;370:m2836. Published 2020 Aug 19. doi:10.1136/bmj.m2836
+
+5. Bhattacharjee A, Chakraborty S. In regard to Livi et al. 'Accelerated partial breast irradiation using intensitymodulated radiotherapy versus whole breast irradiation: 5 year survival analysis of a phase 3 randomised controlled trial'. Eur J Cancer . 2015;51(11):1476-1477. doi:10.1016/j.ejca.2015.04.008
+
+6. Brunt AM, Haviland JS, Sydenham M, et al. Ten-Year Results of FAST: A Randomized Controlled Trial of 5-Fraction Whole-Breast Radiotherapy for Early Breast Cancer. J Clin Oncol . 2020;38(28):3261-3272. doi:10.1200/JCO.19.02750
+
+7. Caudell JJ, De Los Santos JF, Keene KS, et al. A dosimetric comparison of electronic compensation, conventional intensity modulated radiotherapy, and tomotherapy in patients with early-stage carcinoma of the left breast. Int J Radiat Oncol Biol Phys . 2007;68(5):1505-1511. doi:10.1016/j.ijrobp.2007.04.026
+
+8. Collette S, Collette L, Budiharto T, et al. Predictors of the risk of fibrosis at 10 years after breast conserving therapy for early breast cancer: a study based on the EORTC Trial 22881-10882 'boost versus no boost' [published correction appears in Eur J Cancer. 2009 Jul;45(11):2061]. Eur J Cancer . 2008;44(17):2587-2599. doi:10.1016/j.ejca.2008.07.032
+
+9. Coles CE, Griffin CL, Kirby AM, et al. Partial-breast radiotherapy after breast conservation surgery for patients with early breast cancer (UK IMPORT LOW trial): 5-year results from a multicentre, randomised, controlled, phase 3, non-inferiority trial. Lancet . 2017;390(10099):1048-1060. doi:10.1016/S0140-6736(17)31145-5
+
+10. Correa C, Harris EE, Leonardi MC, et al. Accelerated partial breast irradiation: executive summary for the update of an ASTRO evidence-based consensus statement: Pract Radiat Oncol . 2017;7(2):73-79. doi:10.1016/ j.prro.2016.09.007
+
+11. Cuzick J. Radiotherapy for breast cancer, the TARGIT-A trial [published correction appears in Lancet. 2015 Apr 11;385(9976):1396]. Lancet . 2014;383(9930):1716. doi:10.1016/S0140-6736(14)60825-4
+
+12. Dickler A, Ivanov O, Francescatti D. Intraoperative radiation therapy in the treatment of early-stage breast cancer utilizing xoft axxent electronic brachytherapy. World J Surg Oncol . 2009;7:24. Published 2009 Mar 2. doi:10.1186/1477-7819-7-24
+
+13. Grewal AS, Freedman GM, Jones JA, Taunk NK. Hypofractionated radiation therapy for durable palliative treatment of bleeding, fungating breast cancers. Pract Radiat Oncol . 2019;9(2):73-76. doi:10.1016/ j.prro.2018.11.003
+
+14. Hamid S, Rocchio K, Arthur D, et al. A multi-institutional study of feasibility, implementation, and early clinical results with noninvasive breast brachytherapy for tumor bed boost. Int J Radiat Oncol Biol Phys . 2012;83(5):1374-1380. doi:10.1016/j.ijrobp.2011.10.016
+
+15. Harness JK, Silverstein MJ, Wazer DE, Riker AI. Radiotherapy for breast cancer, the TARGIT-A trial. Lancet . 2014;383(9930):1718-1719. doi:10.1016/S0140-6736(14)60829-1
+
+16. Haviland JS, A'Hern R, Bentzen SM, Whelan T, Bliss JM. Radiotherapy for breast cancer, the TARGIT-A trial. Lancet . 2014;383(9930): 1716-1717. doi:10.1016/S0140-6736(14)60826-6
+
+17. Hepel JT, Listo M, Leonard KL, et al. Multi-Institutional Registry Study of Accelerated Partial Breast Irradiation (APBI) Using Non-Invasive Image-Guided Breast Brachytherapy (NIBB). Int J Radiat Oncol Biol Phys . 2018;102(3)(Suppl):e576. doi:10.1016/j.ijrobp.2018.07.1593
+
+18. Hepel JT, Hiatt JR, Sha S, et al. The rationale, technique, and feasibility of partial breast irradiation using noninvasive image-guided breast brachytherapy. Brachytherapy . 2014;13(5):493-501. doi:10.1016/ j.brachy.2014.05.014
+
+19. Horst KC, Haffty BG, Harris EE, et.al. ACR Appropriateness Criteria ® Postmastectomy Radiotherapy. American College of Radiology (ACR). Date of origin: 1996. Last review date: 2012.
+
+20. Hughes KS, Schnaper LA, Berry D, et al. Lumpectomy plus tamoxifen with or without irradiation in women 70 years of age or older with early breast cancer. N Engl J Med . 2004;351(10):971-977. doi:10.1056/ NEJMoa040587
+
+21. Jacobson G, Kaidar-Person O, Haisraely O, et al. Palliative radiation therapy for symptomatic advance breast cancer. Sci Rep . 2021;11(1):5282. Published 2021 Mar 5. doi:10.1038/s41598-021-84872-9
+
+22. Kirby AM, MacKenzie M, Coles C, et al. In Regard to Vaidya JS, Bulsara M, Baum M, et al. Long term survival and local control outcomes from single dose targeted intraoperative radiotherapy during lumpectomy (TARGITIORT) for early breast cancer: TARGIT-A randomised clinical trial. BMJ . 2020;370:m2836. Published 2020 Aug 19. doi:10.1136/bmj.m2836
+
+23. Leonard KL, Wazer DE, Styczynski JR, DiPetrillo TA, Hepel JT. Breast boost using noninvasive imageguided breast brachytherapy versus en face electrons: a matched pair analysis. Int J Radiat Oncol Biol Phys . 2012;84(3)(Suppl):S226 (abstract). doi:10.1016/j.ijrobp.2012.07.588
+
+24. Livi L, Meattini I, Marrazzo L, et al. Accelerated partial breast irradiation using intensity-modulated radiotherapy versus whole breast irradiation: 5-year survival analysis of a phase 3 randomised controlled trial. Eur J Cancer . 2015;51(4):451-463. doi:10.1016/j.ejca.2014.12.013
+
+25. Mackenzie P, Fyles A, Chung C. Radiotherapy for breast cancer, the TARGIT-A trial. Lancet . 2014;383(9930):1717. doi:10.1016/S0140-6736(14)60827-8
+
+26. Meattini I, Marrazzo L, Saieva C, et al. Accelerated Partial-Breast Irradiation Compared With Whole-Breast Irradiation for Early Breast Cancer: Long-Term Results of the Randomized Phase III APBI-IMRT-Florence Trial. J Clin Oncol . 2020;38(35):4175-4183. doi:10.1200/JCO.20.00650
+
+27. Meattini I, Saieva C, Livi L. Authors reply. Eur J Cancer . 2015;51(11):1478-1479. doi:10.1016/j.ejca.2015.04.019
+
+28. Meattini I, Saieva C, Lucidi S, et al. Abstract GS4-06: Accelerated partial breast or whole breast irradiation after breast conservation surgery for patients with early breast cancer: 10-year follow up results of the APBI IMRT Florence randomized phase 3 trial. Cancer Res . 2020;80(4 Suppl):GS4-06. doi:10.1158/1538-7445.SABCS19GS4-06
+
+29. Meattini I, Saieva C, Miccinesi G, et al. Accelerated partial breast irradiation using intensity modulated radiotherapy versus whole breast irradiation: Health-related quality of life final analysis from the Florence phase 3 trial. Eur J Cancer . 2017;76:17-26. doi:10.1016/j.ejca.2017.01.023
+
+30. Moran MS, Truong PT. Intraoperative accelerated partial breast irradiation: caution still warranted. Int J Radiat Oncol Biol Phys . 2014;89(3):496-498. doi:10.1016/j.ijrobp.2014.01.034
+
+31. Murray Brunt A, Haviland JS, Wheatley DA, et al. Hypofractionated breast radiotherapy for 1 week versus 3 weeks (FAST-Forward): 5-year efficacy and late normal tissue effects results from a multicentre, non-inferiority, randomised, phase 3 trial. Lancet . 2020;395(10237):1613-1626. doi:10.1016/S0140-6736(20)30932-6
+
+32. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - March 11, 2024. Breast Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/breast.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Breast Cancer Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+33. Orecchia R, Veronesi U, Maisonneuve P, et al. Intraoperative irradiation for early breast cancer (ELIOT): longterm recurrence and survival outcomes from a single-centre, randomised, phase 3 equivalence trial. Lancet Oncol . 2021;22(5):597-608. doi:10.1016/S1470-2045(21)00080-2
+
+34. Roof K, Marks LB. Breast intensity modulated radiation therapy versus tissue compensation: what's in a name?. Pract Radiat Oncol . 2014;4(1):3-5. doi:10.1016/j.prro.2013.02.010
+
+35. Sasieni PD, Sawyer EJ. Intraoperative radiotherapy for early breast cancer - insufficient evidence to change practice. Nat Rev Clin Oncol . 2020;17(12):723-724. doi:10.1038/s41571-020-00444-2
+
+36. Schuster J, Chipko C, Kasper M, et al. Updated feasibility and reproducibility results of multi-institutional study of noninvasive breast tumor bed boost. Brachytherapy . 2016;15(6):804-811. doi: 10.1016/j.brachy.2016.09.003.
+
+37. Shah C. Intraoperative Radiation Therapy for Breast Cancer: Are We There Yet?. Ann Surg Oncol . 2021;28(1):20-21. doi:10.1245/s10434-020-09356-y
+
+38. Shah C, Wazer D, Vicini F. Targeted Intraoperative Radiotherapy for Early Breast Cancer. JAMA Oncol . 2020;6(10):1635-1636. doi:10.1001/jamaoncol.2020.2713
+
+39. Shah C, Vicini F, Shaitelman SF, et al. The American Brachytherapy Society consensus statement for accelerated partial-breast irradiation. Brachytherapy . 2018;17(1):154-170. doi:10.1016/j.brachy.2017.09.004
+
+40. Shah C, Vicini F, Wazer DE, Arthur D, Patel RR. The American Brachytherapy Society consensus statement for accelerated partial breast irradiation. Brachytherapy . 2013;12(4):267-277. doi:10.1016/j.brachy.2013.02.001
+
+41. Silverstein MJ, Fastner G, Maluta S, et al. Intraoperative radiation therapy: a critical analysis of the ELIOT and TARGIT trials. Part 1--ELIOT. Ann Surg Oncol . 2014;21(12):3787-3792. doi:10.1245/s10434-014-3998-6
+
+42. Silverstein MJ, Fastner G, Maluta S, et al. Intraoperative radiation therapy: a critical analysis of the ELIOT and TARGIT trials. Part 2--TARGIT. Ann Surg Oncol . 2014;21(12):3793-3799. doi:10.1245/s10434-014-3999-5
+
+43. Sioshansi S, Rivard MJ, Hiatt JR, Hurley AA, Lee Y, Wazer DE. Dose modeling of noninvasive image-guided breast brachytherapy in comparison to electron beam boost and three-dimensional conformal accelerated partial breast irradiation. Int J Radiat Oncol Biol Phys . 2011;80(2):410-416. doi:10.1016/j.ijrobp.2010.01.052
+
+44. Small W Jr, Thomas TO, Alvarado M, et al. Commentary on "Accelerated partial breast irradiation consensus statement: Update of an ASTRO Evidence-Based Consensus Statement". Pract Radiat Oncol . 2017;7(3):e159e163. doi:10.1016/j.prro.2017.01.016
+
+45. Smith BD, Kuerer HM. Same-Day Breast Cancer Surgery and TARGIT-IORT: Better than Selective Omission of Radiotherapy?. Ann Surg Oncol . 2021;28(5):2419-2420. doi:10.1245/s10434-021-09588-6
+
+46. Smith BD, Arthur DW, Buchholz TA, et al. Accelerated partial breast irradiation consensus statement from the American Society for Radiation Oncology (ASTRO). Int J Radiat Oncol Biol Phys . 2009;74(4):987-1001. doi:10.1016/j.ijrobp.2009.02.031
+
+47. Smith BD, Bellon JR, Blitzbau R, et al. Radiation therapy for the whole breast: Executive summary of an American Society for Radiation Oncology (ASTRO) evidence-based guideline. Pract Radiat Oncol . 2018;8(3):145-152. doi:10.1016/j.prro.2018.01.012.
+
+48. Smith BD, Bentzen SM, Correa CR, et al. Fractionation for whole breast irradiation: an American Society for Radiation Oncology (ASTRO) evidence-based guideline. Int J Radiat Oncol Biol Phys . 2011;81(1)59-68. doi:10.1016/j.ijrobp.2010.04.042
+
+49. START Trialists' Group, Bentzen SM, Agrawal RK, et al. The UK Standardisation of Breast Radiotherapy (START) Trial B of radiotherapy hypofractionation for treatment of early breast cancer: a randomised trial. Lancet . 2008;371(9618):1098-1107.doi:10.1016/S0140-6736(08)60348-7
+
+50. Syed AMN, Chang H, Schwartzberg BS, et al. Abstract P1-10-19: Two-year follow-up results of a multi-center trial of intra-operative electronic brachytherapy during breast conservation surgery for early stage breast cancer. Cancer Res . 2017;77(4 Suppl):P1-10-19. doi:10.1158/1538-7445.SABCS16-P1-10-19
+
+51. Taunk NK, Prosnitz RG. Planning comparison of intensity modulated radiation therapy delivered with 2 tangential fields versus 3-dimensional conformal radiotherapy for cardiac sparing in women with left-sided breast cancer. Pract Radiat Oncol . 2012;2(4):248-256. doi:10.1016/j.prro.2011.11.004
+
+52. Tom MC, Hepel JT, Patel R, et al. The American Brachytherapy Society consensus statement for electronic brachytherapy. Brachytherapy . 2019;18(3):292-298. doi:10.1016/j.brachy.2018.10.006
+
+53. Tom MC, Joshi N, Vicini F, et al. The American Brachytherapy Society consensus statement on intraoperative radiation therapy. Brachytherapy . 2019;18(3):242-257. doi:10.1016/j.brachy.2019.01.015
+
+54. Vaidya JS, Bulsara M, Baum M, et al. Long term survival and local control outcomes from single dose targeted intraoperative radiotherapy during lumpectomy (TARGIT-IORT) for early breast cancer: TARGIT-A randomised clinical trial. BMJ . 2020;370:m2836. Published 2020 Aug 19. doi:10.1136/bmj.m2836
+
+55. Vaidya JS, Bulsara M, Saunders C, et al. Effect of Delayed Targeted Intraoperative Radiotherapy vs WholeBreast Radiotherapy on Local Recurrence and Survival: Long-term Results From the TARGIT-A Randomized Clinical Trial in Early Breast Cancer [published correction appears in JAMA Oncol. 2020 Jul 1;6(7):1123]. JAMA Oncol . 2020;6(7):e200249. doi:10.1001/jamaoncol.2020.0249
+
+56. Vaidya JS, Joseph DJ, Tobias JS, et al. Targeted intraoperative radiotherapy versus whole breast radiotherapy for breast cancer (TARGIT-A trial): an international, prospective, randomised, non-inferiority phase 3 trial [published correction appears in Lancet. 2010 Jul 10;376(9735):90]. Lancet . 2010;376(9735):91-102. doi:10.1016/S0140-6736(10)60837-9
+
+57. Vaidya JS, Wenz F, Bulsara M, et al. Risk-adapted targeted intraoperative radiotherapy versus wholebreast radiotherapy for breast cancer: 5-year results for local control and overall survival from the TARGITA randomised trial [published correction appears in Lancet. 2014 Feb 15;383(9917):602]. Lancet . 2014;383(9917):603-613. doi:10.1016/S0140-6736(13)61950-9
+
+58. Vaidya JS, Wenz F, Bulsara M, Tobias JS, Joseph D, Baum M. Radiotherapy for breast cancer, the TARGIT-A trial - Authors' reply. Lancet . 2014;383(9930):1719-1720. doi:10.1016/S0140-6736(14)60830-8
+
+59. Valente SA, Tendulkar RD, Cherian S, et al. TARGIT-R (Retrospective): 5-Year Follow-Up Evaluation of Intraoperative Radiation Therapy (IORT) for Breast Cancer Performed in North America. Ann Surg Oncol . 2021;28(5):2512-2521. doi:10.1245/s10434-020-09432-3
+
+60. Veronesi U, Orecchia R, Maisonneuve P, et al. Intraoperative radiotherapy versus external radiotherapy for early breast cancer (ELIOT): a randomised controlled equivalence trial. Lancet Oncol . 2013;14(13):1269-1277. doi:10.1016/S1470-2045(13)70497-2
+
+61. Vicini F, Arthur D, Wazer D, et al. Limitations of the American Society of Therapeutic Radiology and Oncology Consensus Panel guidelines on the use of accelerated partial breast irradiation. Int J Radiat Oncol Biol Phys . 2011;79(4):977-984. doi:10.1016/j.ijrobp.2009.12.047
+
+62. Wazer DE. Technological Updates on Targeting Partial Breast Dose via Non-Invasive Brachytherapy. AccuBoost Webinar. 2013 Apr 23.
+
+63. Whelan TJ, Pignol JP, Levine MN, et al. Long-term results of hypofractionated radiation therapy for breast cancer. N Engl J Med . 2010;362(6):513-520. doi:10.1056/NEJMoa0906260
+
+64. Yarnold JR, Kirby A, Bentzen SM. In Regard to Vaidya JS, Bulsara M, Baum M, et al. Long term survival and local control outcomes from single dose targeted intraoperative radiotherapy during lumpectomy (TARGITIORT) for early breast cancer: TARGIT-A randomised clinical trial. BMJ . 2020;370:m2836. Published 2020 Aug 19. doi:10.1136/bmj.m2836
+
+65. Yarnold J, Offersen BV, Olivotto I, Poortmans P, Sarin R. Radiotherapy for breast cancer, the TARGIT-A trial. Lancet . 2014;383(9930):1717-1718. doi:10.1016/S0140-6736(14)60828-X
+
+POLICY
+
+- I. Stage IA1
+
+- A. Definitive external beam photon radiation therapy using 20 to 30 fractions of threedimensional conformal radiation therapy (3DCRT) to the pelvis and brachytherapy (low-dose rate [LDR] or up to 5 fractions of high-dose rate [HDR]) is considered medically necessary.
+
+- B. Brachytherapy alone is considered medically necessary for stage IA1 cervical cancer when ALL of the following conditions are met:
+
+1. Medically inoperable or surgical refusal
+
+2. Absence of lymphovascular space invasion (LVSI)
+
+- II. Stage IA2, IB1, IB2, IIA, IIB, IIIA, IIIB, or IVA
+
+- A. Definitive external beam photon radiation therapy using 25 to 35 fractions of 3DCRT or intensity-modulated radiation therapy (IMRT) to the pelvis and brachytherapy (LDR or up to 5 fractions of HDR) is considered medically necessary.
+
+- III. Stereotactic body radiation therapy (SBRT) as an alternative to brachytherapy is considered not medically necessary for the definitive treatment of cervical cancer.
+
+- IV. Adjuvant (postoperative) treatment in an individual without evidence of distant metastases
+
+- A. Up to 30 fractions of 3DCRT or IMRT and brachytherapy (LDR or up to 5 fractions of HDR) is considered medically necessary in the setting of:
+
+1. Positive surgical margins
+
+2. Positive pelvic nodes
+
+3. Positive paraaortic nodes
+
+4. Vaginal margins less than 0.5 cm
+
+5. Extensive lymphovascular or capillary involvement
+
+6. Deep stromal invasion
+
+7. Large tumor size &gt; 4cm
+
+- V. Locoregional recurrence in an individual without evidence of distant metastases
+
+- A. Up to 30 fractions of 3DCRT with up to 4 gantry angles are considered medically necessary. Up to 2 phases are considered medically necessary, with or without brachytherapy.
+
+- B. IMRT is considered medically necessary in EITHER of the following conditions:
+
+1. The paraaortic nodes will be treated
+
+### Cervical Cancer
+
+RO.TXS.113.C
+
+v2.0.2024
+
+2. The postoperative setting where the whole pelvis will be treated to 45 Gy or higher
+
+- C. Stereotactic body radiation therapy (SBRT) is considered medically necessary based on a history of previous radiation to the same or abutting region and inability to deliver therapeutic doses of radiation with other techniques.
+
+- VI. Palliation in an individual with or without evidence of distant metastases
+
+- A. In the non-curative setting and where symptoms are present, 15 fractions of palliative external beam photon radiation therapy delivered with a conventional isodose technique or 3D conformal radiation therapy (3DCRT) using up to 4 gantry angles is considered medically necessary. One phase is considered medically necessary.
+
+- B. IMRT is considered medically necessary when previous external beam radiation therapy or brachytherapy has been given to the same or abutting region.
+
+- C. Brachytherapy is considered medically necessary when previous external beam radiation therapy or brachytherapy has been given to the same or abutting region.
+
+- VII. Electronic brachytherapy is considered not medically necessary for the treatment of cervical cancer.
+
+#### DISCUSSION
+
+Within the United States in 2022, 14100 new cases of cervical cancer are projected, resulting in approximately 4280 deaths (Siegel, 2022). The prognosis of an individual with cervical cancer is markedly affected by the extent of disease at the time of diagnosis. Clinical staging of cervical cancer should be performed prior to developing an overall treatment and beginning definitive treatment.
+
+- I. IMRT in the intact cervix
+
+The routine use of IMRT is considered medically necessary for the definitive treatment of cancer of the intact cervix to decrease risk of toxicity (NCCN ® ). The uterus and cervix are mobile structures and are subject to variation in between fractions (Lim et al, 2015). In addition to the inherent movement of the uterus, the cervix is also subject to variability in position secondary to bladder and bowel filling (Mackay et al, 2015; Mahmoud et al, 2017). As the position of the cervix can move as much as 2 cm on a daily basis, studies have shown difficulty in daily reproducibility and dosimetry with IMRT planning (Lim et al, 2009; Lim et al, 2011; Lim et al, 2015; Small et al, 2008; Welsh et al, 2007). Furthermore, the significant and rapid tumor shrinkage seen in cervical cancer can also impact the IMRT dose distribution leading to the risk of underdosing the tumor or overdosing surrounding normal tissue (Beadle et al, 2009). Studies estimate that the cervix can shrink from 50%-79% during the course of treatment (Mahmoud et al, 2017). Therefore, CT-based treatment planning and image guidance must be utilized when IMRT is used in the treatment of cervical cancer.
+
+Lymph node involvement in cervical cancer is an important prognostic indicator. Therefore, evaluation of the risk of lymph node involvement plays a significant role in the management of cervical cancer. Cervical cancer typically spreads in stepwise manner first involving the obturator nodes, followed by the common iliac, and then the paraaortic lymph nodes. When regional pelvic nodes are grossly involved, the NCCN ®  recommends that doses of 60 to 65 Gy be given to the grossly involved nodes with consideration of the contribution of dose from brachytherapy. Therefore, IMRT is considered medically necessary in the definitive treatment of cervical cancer with grossly involved pelvic nodes with a planned dose of 60 Gy or higher to the pelvic nodes. Extended field radiation therapy to encompass the paraaortic nodes is indicated in the following clinical situations: 1. grossly involved paraaortic nodes on imaging or surgical staging, 2. recurrent disease without evidence of distant metastasis and 3. gross involvement of the common iliac lymph nodes. IMRT is considered medically necessary in the definitive treatment of cervical cancer when extended field radiation therapy encompassing the paraaortic lymph nodes is clinically indicated as described above.
+
+- II. Brachytherapy
+
+Brachytherapy is an important component of the curative treatment of cervical cancer. Brachytherapy may be given by either Low Dose Rate (LDR) or High Dose Rate (HDR) techniques. Dose recommendations are available in the literature of the American Brachytherapy Society. It is recognized that disease presentations and anatomic deformity may result in less than optimal dosimetry using conventional radiation applicators and supplementary interstitial brachytherapy may be required on an individual basis to achieve optimal therapeutic effect.
+
+The type of implant may include tandem and ovoids, tandem alone, ovoids only, interstitial, or vaginal cylinder only. For LDR therapy, up to 2 interstitial or intracavitary applications are considered medically appropriate. For HDR interstitial therapy, when 1 application is used, up to 5 fractions may be appropriate. When 2 applications are used, up to 3 fractions may be appropriate. For HDR tandem and ovoids, up to 6 applications may be appropriate. For HDR vaginal cylinder, up to 3 applications may be considered medically necessary.
+
+Electronic brachytherapy is considered experimental, investigational or unproven (EIU) for the treatment of cervical cancer.
+
+There is limited data on the role of stereotactic body radiation therapy as an alternative to brachytherapy in cervical cancer. The data is hampered by limited follow-up, heterogeneous patient populations, and small sample size (Mahmoud et al, 2017). Cengiz et al (2012) reported on a dosimetric comparison of SBRT and brachytherapy in 11 women with locally advanced cervical cancer. The maximum bone marrow dose was higher with the SBRT plan. They found similar dose distributions to the rectum and bladder with SBRT and brachytherapy. There was improved target coverage with SBRT. In an abstract, Mantz (2016) reports on 42 patients with cervical and endometrial cancer who received SBRT as a boost alternative following pelvic external beam radiation therapy. The study showed that SBRT was associated with no grade 3 or greater urinary or bowel toxicity with a 5 year local control rate of 78.5% (Mantz, 2016). Yanez and colleagues (2018) performed a systematic review of the use of SBRT in cervical cancer. The authors were unable to find strong evidence to support the use of SBRT as a replacement for brachytherapy in the definitive treatment of cervical cancer. Given the limited literature on SBRT in cervical cancer, SBRT as an alternative to brachytherapy is considered EIU for the definitive treatment of cervical cancer.
+
+- III. Postoperative (adjuvant) external beam radiation therapy/IMRT
+
+The role of postoperative radiation therapy in cervical cancer is dependent upon the type of surgery performed (simple or radical hysterectomy) and the surgical findings. Surgical findings associated with increased risk of recurrence include the size of the primary tumor, depth of stromal invasion, and presence of lymphovascular invasion, capillary invasion. Positive pelvic and/or para-aortic nodes, close (&lt; 0.5 cm) or positive surgical margins, and involvement of the parametrium are also associated with the increased risk for local recurrence. Postoperative radiation therapy often in combination with chemotherapy is utilized to decrease the risk of recurrence. When clinically indicated, postoperative radiation therapy typically is delivered using up to 30 fractions using either IMRT or 3DCRT. An intracavitary boost may be clinically appropriate in the setting of positive surgical findings.
+
+The use of IMRT in the treatment of postoperative cervical cancer has been evaluated as a method to decrease treatment related toxicity. The risk of severe small bowel injury after conventional radiotherapy for postoperative patients with gynecologic cancer is estimated to be between 5 and 15% (Corn et al, 1994; Gallagher et al, 1986). Multiple dosimetric studies and smaller clinical studies have demonstrated that the dose to the small bowel can be decreased using IMRT which should impact the risk of small bowel injury (Jhingran et al, 2012; Klopp et al, 2013; Salama et al, 2006). RTOG 0418 evaluated postoperative IMRT in patients with endometrial cancer and cervical cancer who received 50.4 Gy to the pelvis and vagina (Portelance et al, 2011; Klopp et al, 2013). RTOG 0418 showed that postoperative pelvic IMRT for endometrial and cervical cancer is feasible across multiple institutions with use of a detailed protocol and centralized quality assurance. The abstract of RTOG 0418 was reported by Portelance and colleagues (2011). The 2-year disease-free survival (DFS) and overall survival (OS) rates were 86.9% and 94.6%, respectively. In their analysis of RTOG 0418, Klopp and colleagues (2013) showed low rates of hematologic toxicity with IMRT when the bone marrow V40 is less than 37%. The overall survival and disease free survival compare favorably to an Intergroup postoperative study of concurrent chemoradiation with conventional RT in high risk early stage cervical cancer patients reported by Peters et al (2000) where 3-year progression-free survival (PFS) and OS were 84% and 88%, respectively. In a report of 34 patients from Memorial Sloan-Kettering Cancer Center (MSKCC) with intermediate and high-risk cervical cancer receiving postoperative chemotherapy and concurrent IMRT, Folkert and colleagues (2013) showed a 3- and 5-year OS of 91% and PFS of 91.2% with a 44-month median follow-up. There were only 2 locoregional failures, 1 vaginal and 1 pelvic (Folkert et al, 2013). These data suggest that with the tighter margins of IMRT, local control can be maintained with a decrease in toxicity.
+
+IV. Locoregional recurrence
+
+For an individual with locoregional recurrence only without evidence of distant metastatic disease, salvage radiotherapy is considered medically necessary. The usual treatment employs up to 30 fractions of 3DCRT and up to 4 gantry angles. Up to 2 phases are considered medically necessary, with or without brachytherapy. IMRT will be considered based on clinical presentation and anatomic location. IMRT will be approved when comparative 3D and IMRT plans demonstrate that a 3D plan does not meet the 'Acceptable' normal tissue constraints using standard metrics published by the RTOG/NCCN ® .
+
+V. Palliative therapy
+
+In the non-curative setting and where symptoms are present, palliative external beam photon radiation therapy may be considered medically necessary. In this scenario, treatment is delivered utilizing a conventional isodose technique or 3DCRT, up to 4 gantry angles, 1 phase, and up to 15 fractions. IMRT may be considered medically necessary when previous external beam photon radiation therapy or brachytherapy has been given. IMRT will be approved when comparative 3D and IMRT plans demonstrate that a 3D plan does not meet the 'Acceptable' normal tissue constraints using standard metrics published by the RTOG/NCCN ® .
+
+VI. Chemotherapy
+
+Randomized trials have shown an overall survival advantage for cisplatin-based therapy given concurrently with radiation therapy, while 1 trial examining this regimen demonstrated no benefit. The patient populations that benefit include International Federation of Gynecology and Obstetrics (FIGO) stages IB1 to IVA cervical cancer treated with primary radiation therapy and FIGO stages I to IIA disease with poor prognostic factors (metastatic disease in pelvic lymph nodes, parametrial disease, or positive surgical margins) at primary surgery, who then go on to receive adjuvant chemoradiation. Although the positive trials vary in terms of the stage of disease, and incorporate varying radiation treatment regimens with chemotherapy schedules of cisplatin alone or combined with fluorouracil, the trials demonstrate significant survival benefit for this combined approach. Based on these results, strong consideration should be given to the incorporation of concurrent chemotherapy with radiation therapy in women who require radiation therapy for the treatment of cervical cancer.
+
+#### References
+
+1. Amin MB, Brookland RK, Byrd DR, et al. Female Reproductive Organs, Cervix Uteri. In: Amin MB, Edge SB, Greene FL, et al, eds. AJCC Cancer Staging Manual . 8th ed. Springer International Publishing; 2017:657-668.
+
+2. ASTRO 2014 Choosing Wisely ® List.
+
+3. Beadle BM, Jhingran A, Salehpour M, Sam M, Iyer RB, Eifel PJ. Cervix regression and motion during the course of external beam chemoradiation for cervical cancer. Int J Radiat Oncol Biol Phys . 2009;73(1):235-241. doi:10.1016/j.ijrobp.2008.03.064
+
+4. Benowitz S, Saenz C, Mundt AJ, et al. Cervix moves significantly more than previously thought during radiation for cancer. UC San Diego News Center . 2009 Feb 10.
+
+5. Cengiz M, Dogan A, Ozyigit G, et al. Comparison of intracavitary brachytherapy and stereotactic body radiotherapy dose distribution for cervical cancer. Brachytherapy . 2012;11(2):125-129. doi:10.1016/ j.brachy.2011.12.001
+
+6. Corn BW, Lanciano RM, Greven KM, et al. Impact of improved irradiation technique, age, and lymph node sampling on the severe complication rate of surgically staged endometrial cancer patients: a multivariate analysis. J Clin Oncol . 1994;12(3):510-515. doi:10.1200/JCO.1994.12.3.510
+
+7. Esthappan J, Chaudhari S, Santanam L, et al. Prospective clinical trial of positron emission tomography/ computed tomography image-guided intensity-modulated radiation therapy for cervical carcinoma with positive para-aortic lymph nodes. Int J Radiat Oncol Biol Phys . 2008;72(4):1134-1139. doi:10.1016/j.ijrobp.2008.02.063
+
+8. Esthappan J, Mutic S, Malyapa RS, et al. Treatment planning guidelines regarding the use of CT/PETguided IMRT for cervical carcinoma with positive para-aortic lymph nodes. Int J Radiat Oncol Biol Phys . 2004;58(4):1289-1297. doi:10.1016/j.ijrobp.2003.09.074
+
+9. Gallagher MJ, Brereton HD, Rostock RA, et al. A prospective study of treatment techniques to minimize the volume of pelvic small bowel with reduction of acute and late effects associated with pelvic irradiation. Int J Radiat Oncol Biol Phys . 1986; 12(9):1565-1573. doi:10.1016/0360-3016(86)90279-8
+
+10. Jhingran A, Winter K, Portelance L, et al. A phase II study of intensity modulated radiation therapy to the pelvis for postoperative patients with endometrial carcinoma: radiation therapy oncology group trial 0418. Int J Radiat Oncol Biol Phys . 2012;84(1):e23-e28. doi:10.1016/j.ijrobp.2012.02.044
+
+11. Kidd EA, Siegel BA, Dehdashti F, et al. Clinical outcomes of definitive intensity-modulated radiation therapy with fluorodeoxyglucose-positron emission tomography simulation in patients with locally advanced cervical cancer. Int J Radiat Oncol Biol Phys . 2010;77(4):1085-1091. doi:10.1016/j.ijrobp.2009.06.041
+
+12. Klopp AH, Moughan J, Portelance L, et al. Hematologic toxicity on RTOG 0418: a phase II study of postoperative IMRT for gynecologic cancer. Int J Radiat Oncol Biol Phys . 2010;78(3 Suppl):S121. doi:10.1016/ j.ijrobp.2010.07.307
+
+13. Lim K, Erickson B, Jürgenliemk-Schulz IM, et al. Variability in clinical target volume delineation for intensity modulated radiation therapy in 3 challenging cervix cancer scenarios. Pract Radiat Oncol . 2015;5(6):e557e565. doi:10.1016/j.prro.2015.06.011
+
+14. Lim K, Kelly V, Stewart J, et al. Pelvic radiotherapy for cancer of the cervix: is what you plan actually what you deliver? Int J Radiat Oncol Biol Phys . 2009;74(1):304-312. doi:10.1016/j.ijrobp.2008.12.043
+
+15. Lim K, Small W Jr, Portelance L, et al. Consensus guidelines for delineation of clinical target volume for intensity-modulated pelvic radiotherapy for the definitive treatment of cervix cancer. Int J Radiat Oncol Biol Phys . 2011;79(2):348-355. doi:10.1016/j.ijrobp.2009.10.075
+
+16. Lorenz E, Strickert T, Hagen B. Cervical carcinoma: postoperative radiotherapy: fifteen-year experience in a Norwegian health region. Int J Gynecol Cancer . 2009;19(9):1595-1599. doi:10.1111/IGC.0b013e3181bed288
+
+17. Macdonald DM, Lin LL, Biehl K, Mutic S, Nantz R, Grigsby PW. Combined intensity-modulated radiation therapy and brachytherapy in the treatment of cervical cancer. Int J Radiat Oncol Biol Phys . 2008;71(2):618-624. doi:10.1016/j.ijrobp.2008.02.014
+
+18. Mackay HJ, Wenzel L, Mileshkin L. Nonsurgical management of cervical cancer: locally advanced, recurrent, and metastatic disease, survivorship, and beyond. Am Soc Clin Oncol Educ Book . 2015;e299-e309. doi:10.14694/EdBook\_AM.2015.35.e299
+
+19. Mahmoud O, Kilic S, Khan AJ, Beriwal S, Small W Jr. External beam techniques to boost cervical cancer when brachytherapy is not an option-theories and applications. Ann Transl Med . 2017;5(10):207. doi:10.21037/ atm.2017.03.102
+
+20. Mantz CA. Stereotactic Body Radiation Therapy as a Boost Alternative for Nonmetastatic Cancer of the Cervix and Endometrium: Disease Control and Quality of Life Outcomes From a Phase 2 Trial at 3 Years' Minimum Follow-up. Int J Radiat Oncol Biol Phys . 2016;96(2 Suppl):E286. doi:10.1016/j.ijrobp.2016.06.1343
+
+21. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - May 6, 2024. Cervical Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/cervical.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Cervical Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+22. Portelance L, Moughan J, Jhingran A, et al. A phase II multi-institutional study of postoperative pelvic intensity modulated radiation therapy (IMRT) with weekly cisplatin in patients with cervical carcinoma: two year efficacy results of the RTOG 0418. Int J Radiat Oncol Biol Phys . 2011;81(2):S3. doi:10.1016/j.ijrobp.2011.06.007
+
+23. Rose PG, Ali S, Watkins E, et al. Long-term follow-up of a randomized trial comparing concurrent single agent cisplatin, cisplatin-based combination chemotherapy, or hydroxyurea during pelvic irradiation for locally advanced cervical cancer: a Gynecologic Oncology Group Study. J Clin Oncol . 2007;25(19):2804-2810. doi:10.1200/JCO.2006.09.4532
+
+24. Salama JK, Mundt AJ, Roeske J, Mehta N. Preliminary outcome and toxicity report of extended-field, intensitymodulated radiation therapy for gynecologic malignancies. Int J Radiat Oncol Biol Phys . 2006;65(4):1170-1176. doi:10.1016/j.ijrobp.2006.02.041
+
+25. Sedlis A, Bundy BN, Rotman MZ, Lentz SS, Muderspach LI, Zaino RJ. A randomized trial of pelvic radiation therapy versus no further therapy in selected patients with stage IB carcinoma of the cervix after radical hysterectomy and pelvic lymphadenectomy: A Gynecologic Oncology Group Study. Gynecol Oncol . 1999;73(2):177-183. doi:10.1006/gyno.1999.5387
+
+26. Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer statistics, 2022. CA Cancer J Clin . 2022;72(1):7-33. doi:10.3322/caac.21708
+
+27. Small W Jr, Mell LK, Anderson P, et al. Consensus guidelines for delineation of clinical target volume for intensity-modulated pelvic radiotherapy in postoperative treatment of endometrial and cervical cancer. Int J Radiat Oncol Biol Phys . 2008;71(2):428-434. doi:10.1016/j.ijrobp.2007.09.042
+
+28. Viswanathan AN, Thomadsen B. American Brachytherapy Society Cervical Cancer Brachytherapy Task Group.
+
+29. Welsh JS, Mackie TR, Limmer JP. High-energy photons in IMRT: uncertainties and risks for questionable gain. Technol Cancer Res Treat . 2007;6(2):147-149. doi:10.1177/153303460700600212
+
+30. Yanez L, Ciudad AM, Mehta MP, Marsiglia H. What is the evidence for the clinical value of SBRT in cancer of the cervix?. Rep Pract Oncol Radiother . 2018;23(6):574-579. doi:10.1016/j.rpor.2018.08.005
+
+31. Zwahlen DR, Ruben JD, Jones P, Gagliardi F, Millar JL, Schneider U. Effect of intensity-modulated pelvic radiotherapy on second cancer risk in the postoperative treatment of endometrial and cervical cancer. Int J Radiat Oncol Biol Phys . 2009;74(2):539-545. doi:10.1016/j.ijrobp.2009.01.051
+
+POLICY
+
+Treatment options in a fully surgically staged individual:
+
+- I. Postoperative brachytherapy alone is considered medically necessary for ANY of the following:
+
+- A. Stage IA grades 2 or 3 without adverse risk factors
+
+- B. Stage IA grades 1-3 with adverse risk factors
+
+- C. Stage IB grades 1-3
+
+- D. Stage II grades 1-3
+
+- II. Pelvic external beam radiation therapy with or without brachytherapy alone is considered medically necessary for EITHER of the following:
+
+- A. Medically inoperable
+
+- B. Postoperative for ANY of the following:
+
+1. Stage IB grade 3
+
+2. Stage II grades 1-3
+
+3. Stage IIIA, stage IIIB, and stage IIIC
+
+4. Stage IVA
+
+- III. Radiation therapy to the primary tumor is considered medically necessary for ANY of the following:
+
+- A. Local only recurrence with no evidence of metastatic disease
+
+- B. Palliative treatment of symptoms such as pain or bleeding
+
+### Endometrial Cancer
+
+#### DOSE and TECHNIQUE
+
+- I. External beam radiation therapy
+
+- A. A dose of 45 to 50 Gy (25-28 fractions) using a three-dimensional conformal radiation therapy (3DCRT) is considered medically necessary for definitive treatment. In the post-hysterectomy setting, the use of intensity-modulated radiation therapy (IMRT) is considered medically necessary.
+
+- B. A dose of 60 to 65 Gy (30-36 fractions) is considered medically necessary in the following:
+
+1. When a boost is planned for positive lymph node(s), positive surgical margins and/or gross residual disease
+
+- C. Palliation/recurrence:
+
+RO.TXS.114.C v2.0.2024
+
+1. Pelvic external beam photon radiation therapy alone or combined with brachytherapy is considered medically necessary based on the clinical presentation.
+
+2. In the non-curative setting and where symptoms are present, palliative external beam photon radiation therapy is considered medically necessary. In this scenario, treatment is typically delivered with conventional isodose technique or three-dimensional conformal radiation therapy (3DCRT), up to 4 gantry angles, 1 phase, and up to 15 fractions.
+
+3. When salvage radiotherapy is attempted for recurrence, treatment is typically 3DCRT, up to 4 gantry angles, and up to 35 fractions. Up to 2 phases is considered medically necessary, and the use of brachytherapy is considered medically necessary in the absence of distant disease.
+
+- II. Brachytherapy
+
+- A. Preoperative stage II with gross disease:
+
+1. External beam photon radiation therapy and intrauterine brachytherapy
+
+2. Up to a total dose of 75 to 80 Gy low-dose rate (LDR) equivalent
+
+- B. Postoperative:
+
+1. High-dose rate (HDR) brachytherapy should be initiated as soon as the vaginal cuff has healed or no later than 12 weeks following surgery.
+
+2. Brachytherapy using a vaginal cylinder is generally limited to the upper vagina with the dose prescribed at the vaginal surface or to a depth of 0.5 cm.
+
+- a. In conjunction with external beam radiation, regimens of 4 to 6 Gy for 2 to 3 fractions to the vaginal mucosa is recommended.
+
+- b. When delivered as sole therapy, regimens of 7 Gy for 3 fractions or 5.5 Gy for 4 fractions prescribed to a depth of 0.5 cm from the vaginal surface or 6 Gy for 5 fractions prescribed to the vaginal surface are recommended.
+
+- C. Palliation/recurrence:
+
+1. Brachytherapy alone or as combined treatment is considered medically necessary for recurrent endometrial cancer in the absence of distant disease or palliation of symptoms when external beam radiation therapy cannot be used.
+
+- III. Electronic brachytherapy is considered not medically necessary.
+
+#### DISCUSSION
+
+Within the United States in 2022, about 65950 new cases of uterine malignancy are projected, resulting in approximately 12550 deaths. Uterine cancers represent the most common female genital tract malignancy. Endometrioid (tumors resembling the lining of the uterus; adenocarcinomas) are the most prevalent subtype. Papillary serous carcinoma, clear cell carcinoma and uterine sarcoma are not covered under this guideline.
+
+The staging definitions used in the creation of the treatment criteria may be found in the 8 th Edition of the American Joint Committee on Cancer (AJCC) Cancer Staging Manual. The treatment options for treatment of cancer of the endometrium are defined by stage of disease, grade of the cancer, completeness of surgical staging and the presence of adverse risk factors. Complete surgical staging is defined as total abdominal hysterectomy and bilateral salpingo-oophorectomy (TAHBSO), peritoneal lavage for cytology, dissection of pelvic and para-aortic lymph nodes and careful inspection and palpation of abdominal organs including but not limited to diaphragm, liver, peritoneal surfaces of the abdomen, pelvis, bowel and omentum. Adverse risk factors include advancing age, lymphovascular extension, tumor size, lower uterine involvement classified as cervical glandular involvement (newly classified as stage I). For cases that are not completely surgically staged, radiologic imaging plays an important role in selecting a treatment strategy.
+
+For surgically staged stage IA with or without adverse risk factors, all individuals regardless of pathologic grading may be observed as per National Comprehensive Cancer Network (NCCN ® ) Guidelines ® . Observation may also be employed for individuals with stage IB G1 and G2 disease without risk factors. Should treatment rather than observation be decided upon for these same groups, radiation techniques are stratified in the preceding guideline statements. With more advanced clinical state and/or radiological presentations, more extended external beam photon radiation fields with or without brachytherapy may be medically necessary.
+
+In advanced disease, the increased utilization of adjuvant chemotherapy has called into question the magnitude of the added benefit of adjuvant radiation therapy. We are awaiting the results of some recent trials that may help to answer some of these questions. Gynecologic Oncology Group (GOG) trial 249 randomized high risk earlystage patients to pelvic external beam photon radiation therapy or intravaginal external beam photon radiation therapy and chemotherapy. GOG 258 is comparing surgical stage III or IVA patients to concurrent tumor directed external beam radiation therapy/ chemotherapy to chemotherapy alone and PORTEC-3 is comparing concurrent pelvic external beam photon radiation therapy/chemotherapy to pelvic external beam photon radiation therapy alone in high risk surgical stage IB-III patients. The early-stage endometrial cancer study by Aalders et al (1980) updated by Onsrud et al (2013) of 568 patients with a median follow-up of 20.5 years suggested no statistical difference in overall survival (OS) between women treated with vaginal brachytherapy alone versus those treated with vaginal brachytherapy and external beam radiation. Patients younger than age 60 who received external beam treatment did not have a survival benefit but did suffer an increased risk of secondary cancers with subsequent increased mortality.
+
+For all other stages and those with positive radiologic imaging, surgical restaging or pathologic confirmation of more advanced disease is recommended (image directed biopsy). An individual then enters the fully surgically staged treatment recommendations with her newly assigned stage.
+
+The American Brachytherapy Society published 'The American Brachytherapy Society Consensus Statement for Electronic Brachytherapy' to serve as a guideline for the appropriate use of electronic brachytherapy (Tom et al, 2019). In the consensus statement, the authors note concerns in extrapolating data from traditional brachytherapy techniques to electronic brachytherapy regarding 'clinical outcomes, toxicity profiles, and indications.' There is limited clinical data available on the use of electronic brachytherapy in vaginal cuff brachytherapy. The consensus statement notes that there is 'paucity of data with respect to utilizing EB (electronic brachytherapy) for gynecologic cancers. It is not recommended that EB be used to deliver vaginal cuff brachytherapy outside of a clinical trial.'
+
+#### References
+
+1. Aalders J, Abeler V, Kolstad P, Onsrud M. Postoperative external irradiation and prognostic parameters in stage I endometrial carcinoma: clinical and histiopathologic study of 540 patients. Obstet Gynecol . 1980;56(4):419-427.
+
+2. ASTRO 2014 Choosing Wisely ® List.
+
+3. Carboplatin and paclitaxel with or without cisplatin and radiation therapy in treating patients with stage I, stage II, stage III, or stage IVA endometrial cancer. ClinicalTrials.gov identifier: NCT00942357. Updated October 19, 2021. Accessed April 4, 2022. https://clinicaltrials.gov/ct2/show/NCT00942357
+
+4. Corn BW, Lanciano RM, Greven KM, et al. Impact of improved irradiation technique, age, and lymph node sampling on the severe complication rate of surgically staged endometrial cancer patients: a multivariate analysis. J Clin Oncol . 1994;12(3):510-515. doi:10.1200/JCO.1994.12.3.510
+
+5. Cozad SC. Stage II adenocarcinoma of the endometrium: adjuvant radiotherapy and recurrence patterns. Int J Radiat Oncol Biol Phys . 2008;71(1):205-212. doi:10.1016/j.ijrobp.2007.09.022
+
+6. Creutzbert CL, van Putten WL, Wárlám-Rodenhuis CC, et al. Outcome of high-risk stage IC, grade 3, compared with stage I endometrial carcinoma patients: the Postoperative Radiation Therapy in Endometrial Carcinoma Trial. J Clin Oncol . 2004;22(7):1234-1241. doi:10.1200/JCO.2004.08.159
+
+7. de Boer SM, Powell ME, Mileshkin L, et al. Adjuvant chemoradiotherapy versus radiotherapy alone in women with high-risk endometrial cancer (PORTEC-3): patterns of recurrence and post-hoc survival analysis of a randomised phase 3 trial [published correction appears in Lancet Oncol. 2019 Sep;20(9):e468]. Lancet Oncol . 2019;20(9):1273-1285. doi:10.1016/S1470-2045(19)30395-X
+
+8. Gallagher MJ, Brereton HD, Rostock RA, et al. A prospective study of treatment techniques to minimize the volume of pelvic small bowel with reduction of acute and late effects associated with pelvic irradiation. Int J Radiat Oncol Biol Phys . 1986;12(9):1565-1573. doi:10.1016/0360-3016(86)90279-8
+
+9. Jhingran A, Winter K, Portelance L, et al. A phase II study of intensity modulated radiation therapy to the pelvis for postoperative patients with endometrial carcinoma: radiation therapy oncology group trial 0418. Int J Radiat Oncol Biol Phys . 2012;84(1):e23-e28. doi:10.1016/j.ijrobp.2012.02.044
+
+10. Lin LL, Grigsby PW, Powell MA, Mutch DG. Definitive radiotherapy in the management of isolated vaginal recurrences of endometrial cancer. Int J Radiat Oncol Biol Phys . 2005;63(2):500-504. doi:10.1016/ j.ijrobp.2005.02.004
+
+11. Nag S, Erickson B, Parikh S, Gupta N, Varia M, Glasgow G. The American Brachytherapy Society recommendations for high-dose-rate brachytherapy for carcinoma of the endometrium. Int J Radiat Oncol Biol Phys . 2000;48(3):779-790. doi:10.1016/s0360-3016(00)00689-1
+
+12. Nakayama K, Nagai Y, Ishikawa M, et al. Concomitant postoperative radiation and chemotherapy following surgery was associated with improved overall survival in patients with FIGO Stages III and IV endometrial cancer. Int J Clin Oncol . 2010 Oct; 15(5): 440-446
+
+13. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - March 6, 2024. Uterine Neoplasms. https://www.nccn.org/professionals/physician\_gls/pdf/uterine.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Uterine Neoplasms Version 2.2024.
+
+- © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+14. Onsrud M, Cvancarova M, Hellebust TP, Tropé CG, Kristensen GB, Lindemann K. Long-term outcomes after pelvic radiation for early-stage endometrial cancer. J Clin Oncol . 2013;31(31):3951-3956. doi:10.1200/ JCO.2013.48.8023
+
+15. Pelvic radiation therapy or vaginal implant radiation therapy, paclitaxel, and carboplatin in treating patients with high-risk stage I or stage II endometrial cancer. ClinicalTrials.gov identifier: NCT00807768. Updated March 20, 2019. Accessed April 5, 2022. https://clinicaltrials.gov/ct2/show/NCT00807768
+
+16. Powell MA, Olawaiye AB, Mutch DG, et al. Female Reproductive Organs, Corpus Uteri - Carcinoma and Carcinomosaroma. In: Amin MB, Edge SB, Greene FL, et al, eds. AJCC Cancer Staging Manual . 8th ed. Springer International Publishing; 2017:669-678.
+
+17. Scholten AN, van Putten WLJ, Beerman H, et al. Postoperative radiotherapy for stage 1 endometrial carcinoma: long-term outcome of the randomized PORTEC trial with central pathology review. Int J Radiat Oncol Biol Phys . 2005;63(3):834-838. doi:10.1016/j.ijrobp.2005.03.007
+
+18. Shih KK, Milgrom SA, Abu-Rustum NR, et al. Postoperative pelvic intensity-modulated radiotherapy in high risk endometrial cancer. Gynecol Oncol . 2013;128(3):535-539. doi:10.1016/j.ygyno.2012.11.020
+
+19. Siddiqui F, Ibrahim DR, Aref I, et al. Clinical outcome of pathologic Stage IIA endometrial adenocarcinoma after intravaginal brachytherapy alone. Brachytherapy . 2009;8(4): 396-400. doi:10.1016/j.brachy.2009.04.001
+
+20. Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer statistics, 2022. CA Cancer J Clin . 2022;72(1):7-33. doi:10.3322/caac.21708
+
+21. Small W Jr, Erickson B, Kwakwa F. American Brachytherapy Society survey regarding practice patterns of postoperative irradiation for endometrial cancer: current status of vaginal brachytherapy. Int J Radiat Oncol Biol Phys . 2005;63(5):1502-1507. doi:10.1016/j.ijrobp.2005.04.038
+
+22. Small W Jr, Beriwal S, Demanes DJ, et al. American Brachytherapy Society consensus guidelines for adjuvant vaginal cuff brachytherapy after hysterectomy. Brachytherapy . 2012;11(1):58-67. doi:10.1016/ j.brachy.2011.08.005
+
+23. Solhjem MC, Petersen IA, Haddock MG. Vaginal brachytherapy alone is sufficient adjuvant treatment of surgical stage I endometrial cancer. Int J Radiat Oncol Biol Phys . 2005;62(5):1379-1384. doi:10.1016/ j.ijrobp.2005.01.026
+
+24. Tom MC, Hepel JT, Patel R, et al. The American Brachytherapy Society consensus statement for electronic brachytherapy. Brachytherapy . 2019;18(3):292-298. doi:10.1016/j.brachy.2018.10.006
+
+25. Wortman BG, Post CCB, Powell ME, et al. Radiation Therapy Techniques and Treatment-Related Toxicity in the PORTEC-3 Trial: Comparison of 3-Dimensional Conformal Radiation Therapy Versus Intensity-Modulated Radiation Therapy. Int J Radiat Oncol Biol Phys . 2022;112(2):390-399. doi:10.1016/j.ijrobp.2021.09.042
+
+POLICY
+
+- I. Neoadjuvant treatment
+
+- A. For an individual with stage T1b node-positive or T2-T4a esophageal cancer, the use of 23 to 28 fractions of three-dimensional conformal radiation therapy (3DCRT) or intensity-modulated radiation therapy (IMRT) is considered medically necessary.
+
+- II. Adjuvant treatment (if no preoperative or prior radiation given)
+
+- A. For an individual with squamous cell carcinoma when there are positive margins or adenocarcinoma with at least pT2 or node-positive esophageal cancer, the use of 25 to 28 fractions of 3DCRT or IMRT is considered medically necessary.
+
+- III. Definitive treatment
+
+- A. For an individual with T1b node-positive or T2-T4a esophageal cancer, the use of 25 to 28 fractions of 3DCRT or IMRT is considered medically necessary.
+
+- B. For tumors located in the cervical esophagus, up to 39 fractions of 3DCRT or IMRT is considered medically necessary.
+
+- IV. Palliation
+
+- A. The use of up to 15 fractions of 3DCRT is considered medically necessary.
+
+- B. IMRT is considered medically necesary when an optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines ®
+
+### Esophageal Cancer
+
+#### DISCUSSION
+
+Historically, surgery alone has been associated with relatively high rates of recurrence and dismal rates of survival. Among the treatments investigated to improve upon these results is the use of preoperative chemoradiotherapy.
+
+One of the largest randomized controlled trials to investigate preoperative CRT was the CROSS trial. In this trial, 368 patients with resectable clinical stage T1N1 or T2-3N0-1M0 squamous cell carcinoma, adenocarcinoma or large-cell undifferentiated carcinoma of the esophagus and gastroesophageal junction (GEJ) were randomized to preoperative CRT (carbo/taxol with 41.4 Gy) followed by surgery or to surgery alone. At a median follow-up of 45.4 months, the median overall survival (OS) was 24.0 months (CRT) vs. 4.94 months (surgery alone). The OS at 1, 2, 3, and 5 years
+
+- I. Neoadjuvant chemoradiotherapy (CRT)
+
+RO.TXS.115.A
+
+v2.0.2024
+
+was 82% vs. 70%, 67% vs. 50%, 58% vs. 44% and 47% vs. 34%, respectively for preoperative CRT vs. surgery alone. Other benefits to preoperative CRT included a significantly higher R0 resection (92% vs. 69%), higher incidence of a pathological complete response (pCR) (29% vs. 23%), a lower incidence of node positivity (31% vs. 75%) and no difference in occurrence of postoperative complications.
+
+A recent analysis of CROSS I and II trials revealed a reduced rate of local-regional recurrence (LRR) with preoperative CRT (34.7% vs. 57.1%). Furthermore, the majority of these recurrences had a component of distant recurrence whereas the rate of an isolated LRR was (3.3% vs. 9.3%).
+
+Finally, a large meta-analysis revealed a significant reduction in all-cause mortality with preoperative CRT (hazard ratio [HR] 0.78) compared with surgery alone, translating into an absolute survival benefit of 8.7% at 2 years (Sjoquist et al, 2011).
+
+- II. Adjuvant chemoradiotherapy (CRT)
+
+- A. Squamous cell carcinoma
+
+There is no definitive evidence of a benefit with postoperative CRT. For example, a randomized control trial of 45 patients found no significant improvement with postoperative CRT vs. postoperative chemotherapy (Tachibana et al, 2003). It is also noted that the National Comprehensive Cancer Network ® (NCCN ® ) recommends adjuvant treatment only in the setting of a R1 or R2 resection.
+
+- B. Adenocarcinoma
+
+Postoperative CRT is indicated for an individual with stage IB-IV (M0) based on the INT 0116 study. In INT 0116, 559 patients with stage IB-IV adenocarcinoma of the stomach or GEJ (20% of patients) following R0 resection were randomized to CRT (5-FU/leucovorin before, during and concurrent with radiation to 45 Gy) or to no further treatment. In the most recent update with a 10-year median follow-up, CRT continues to show a significant improvement in OS (HR 1.32) and for relapse-free survival (RFS) (HR 1.51). This benefit extended to all T stages, N stages as well as location in the GEJ.
+
+III. Definitive chemoradiotherapy (CRT)
+
+In an individual who is not medically operable or who refuses surgery, definitive CRT remains the standard treatment. This is primarily based on data from RTOG 8501 (Herskovic et al, 1992). In this randomized stratified phase III trial, patients with T1-3, N0-1, M0 squamous cell carcinoma or adenocarcinoma (90% were squamous cell carcinoma) of the esophagus, including GEJ, were randomized to radiation alone (to 64 Gy) or CRT (50 Gy + 5-FU/cisplatin). In the most recent update, 5-year survival was 0% vs. 26% and persistence of disease was 37% vs. 25% favoring the CRT arm for both measures (Cooper et al, 1999).
+
+In an attempt to improve upon these results, INT 0123 evaluated radiation dose escalation in combination with chemotherapy (Minsky et al, 2002). Two hundred and thirty-six (236) patients with T1-4, N0-1 squamous cell carcinoma or adenocarcinoma were randomized to 50.4 Gy + 5-FU/cisplatin or 64.8 Gy + 5-FU/cisplatin. It is noted '…because of the concern that the stomach could not safely tolerate 64.8 Gy, eligibility was limited to patients whose tumors did not extend to within 2 cm of the GEJ.' This trial was stopped early due to an increase in death in the high-dose arm. Specifically, 11 deaths occurred in the high-dose arm vs. 2 in the standard-dose arm. Of these 11 deaths, 7 occurred at or below a dose of 50.4 Gy. As such, the standarddose arm was associated with a non-significant improvement in median survival (18.1 months vs. 13 months) and 2-year survival (40% vs. 31%). On the other hand, the high-dose arm was associated with a non-significant reduction in local-regional persistence or failure (50% vs. 55%) and in distant failure (9% vs. 16%). As a result of these findings, the authors conclude, '…the standard radiation dose is 50.4 Gy.'
+
+In a quality of life (QOL) analysis (Kachnic et al, 2011), the high-dose arm had a significantly lower total QOL at the end of CRT ( p = 0.02). At 8 and 12 months, the high-dose arm had a lower total QOL as compared to the standard arm, though this was not statistically significant. These results support that the high-dose arm does not improve patient QOL. The authors state, '…these results lend further weight to our previous conclusion that radiotherapy to 50.4 Gy should remain the standard of care in patients treated with definitive CRT for esophageal cancer.'
+
+IV. Treatment technique
+
+Recently published data from RTOG 0617 suggests that, on multivariate analysis cardiac volume (V), V5 and V30 predict patient survival. Though there is no indication that similar findings will be borne out of INT 0123, it underscores the importance of cardiac dose. For example, in the treatment of esophageal carcinoma, several studies have confirmed an association between cardiac dose and toxicity.
+
+Konski et al (2012) found that symptomatic cardiac toxicity correlated with the whole heart V20, V30 and V40. Symptomatic toxicity was not observed if the whole heart V20, V30 and V40 was kept below 70%, 65% or 60%, respectively. In addition, Tait et al (2013) also found a correlation of cardiac V20, V30 and V40 with toxicity whereby patients with a V20 above 71%, a V30 above 64.5% and V40 above 57% had increased odds of developing cardiac toxicity.
+
+In an attempt to reduce dose to nearby critical structures, several studies have evaluated the use of IMRT.
+
+For example, Kole et al (2012) revealed that in the treatment of 19 patients with carcinoma of the distal esophagus, IMRT significantly reduced heart dose, spared more of the right coronary artery and improved target conformity.
+
+Using a fitted multivariate inverse probability weighted-adjusted Cox model, Lin et al (2012) found that patients treated with 3DCRT had significantly greater risk of dying (72.6% vs. 52.9%) and of local regional recurrence. In addition, an increased cumulative incidence of cardiac death was also seen.
+
+IMRT should be considered with caution, however, due to the integral dose within the lungs. For example, Kumar et al (2012) found that IMRT, compared to 3DCRT, increased the lung V20 and that a V20 of &gt; 15% increased the risk of chronic pneumonitis.
+
+Other studies have also shown the effect of low-dose radiation within the lung. For example, Gergel et al (2002) found that, in the 3D treatment of esophageal cancer in 20 patients, the percent of absolute lung volume that received a total dose between 7 and 10 Gy may be significantly correlated with the percent decline of carbon monoxide diffusing capacity, total lung capacity and vital capacity.
+
+Lee et al (2003) also found an increase in postoperative pulmonary complications when the pulmonary V10 was greater than 40% and when the V15 was greater than 30%. In an update of this study, Wang et al (2006) revealed that the pulmonary V5 correlated with postoperative pulmonary complications.
+
+NCCN Guidelines ® have been updated to state that "… conformal treatment planning should be used with either 3D conformal radiation or intensity-modulated radiation therapy (IMRT)." Given this and the available data, the use of IMRT is supported for treatment of esophageal cancer.
+
+#### References
+
+1. Bradley JD, Paulus R, Komaki R, et al. Standard-dose versus high-dose conformal radiotherapy with concurrent and consolidation carboplatin plus paclitaxel with or without cetuximab for patients with stage IIIA or IIIB non-small-cell lung cancer (RTOG 0617): a randomized, two-by-two factorial phase 3 study. Lancet Oncol . 2015;16(2):187-199. doi:10.1016/S1470-2045(14)71207-0
+
+2. Cooper JS, Guo MD, Herskovic A, et al. Chemoradiotherapy of locally advanced esophageal cancer: longterm follow-up of a prospective randomized trial (RTOG 85-01). Radiation Therapy Oncology Group. JAMA . 1999;281(17):1623-1627. doi:10.1001/jama.281.17.1623
+
+3. Gergel TJ, Leichman L, Nava HR, et al. Effect of concurrent radiation therapy and chemotherapy on pulmonary function in patients with esophageal cancer: dose-volume histogram analysis. Cancer J . 2002;8(6):451-460. doi:10.1097/00130404-200211000-00009
+
+4. Herskovic A, Martz K, al-Sarraf M, et al. Combined chemotherapy and radiotherapy compared with radiotherapy alone in patients with cancer of the esophagus. N Engl J Med . 1992;326(24):1593-1598. doi:10.1056/ NEJM199206113262403
+
+5. Kachnic LA, Winter K, Wasserman T, et al. Longitudinal Quality-of-Life Analysis of RTOG 94-05 (Int 0123): A Phase III Trial of Definitive Chemoradiotherapy for Esophageal Cancer. Gastrointest Cancer Res . 2011;4(2):45-52.
+
+6. Kole TP, Aghayere O, Kwah J, Yorke ED, Goodman KA. Comparison of heart and coronary artery doses associated with intensity-modulated radiotherapy versus three-dimensional conformal radiotherapy for distal esophageal cancer. Int J Radiat Oncol Biol Phys . 2012;83(5):1580-1586. doi:10.1016/j.ijrobp.2011.10.053
+
+7. Konski A, Li T, Christensen M, et al. Symptomatic cardiac toxicity is predicted by dosimetric and patient factors rather than changes in 18F-FDG PET determination of myocardial activity after chemoradiotherapy for esophageal cancer. Radiother Oncol . 2012;104(1):72-77. doi:10.1016/j.radonc.2012.04.016
+
+8. Kumar G, Rawat S, Puri A, et al. Analysis of dose-volume parameters predicting radiation pneumonitis in patients with esophageal cancer treated with 3D-conformal radiation therapy or IMRT. Jpn J Radiol . 2012;30(1):18-24. doi:10.1007/s11604-011-0002-2
+
+9. Lee HK, Vaporciyan AA, Cox JD, et al. Postoperative pulmonary complications after preoperative chemoradiation for esophageal carcinoma: correlation with pulmonary dose-volume histogram parameters. Int J Radiat Oncol Biol Phys . 2003;57(5):1317-1322. doi:10.1016/s0360-3016(03)01373-7
+
+10. Lin SH, Wang L, Myles B, et al. Propensity score-based comparison of long-term outcomes with 3-dimensional conformal radiotherapy vs intensity-modulated radiotherapy for esophageal cancer. Int J Radiat Oncol Biol Phys . 2012;84(5):1078-1085. doi:10.1016/j.ijrobp.2012.02.015
+
+11. MacDonald JS, Smalley SR, Benedetti J, et al. Chemoradiotherapy after surgery compared with surgery alone for adenocarcinoma of the stomach or gastroesophageal junction. N Engl J Med . 2001;345(10):725-730. doi:10.1056/NEJMoa010187
+
+12. Minsky BD, Pajak TF, Ginsberg RJ, et al. INT 0123 (Radiation Therapy Oncology Group 94-05) phase III trial of combined-modality therapy for esophageal cancer: high-dose versus standard-dose radiation therapy. J Clin Oncol . 2002;20(5):1167-1174. doi:10.1200/JCO.2002.20.5.1167
+
+13. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024- April 26, 2024. Esophageal and Esophagogastric Junction Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/esophageal.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Esophageal and Esophagogastric Junction Cancers Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+14. Oppendijk V, van der Gaast A, van Lanschot JJ, et al. Patterns of recurrence after surgery alone versus preoperative chemoradiotherapy and surgery in the CROSS trials. J Clin Oncol . 2014;32(5):385-391. doi:10.1200/JCO.2013.51.2186
+
+15. Sjoquist KM, Burmeister BH, Smithers BM, et al. Survival after neoadjuvant chemotherapy or chemoradiotherapy for resectable oesophageal carcinoma: an updated meta-analysis. Lancet Oncol . 2011;12(7):681-692. doi:10.1016/S1470-2045(11)70142-5
+
+16. Smalley SR, Benedetti JK, Haller DG, et al. Updated analysis of SWOG-directed intergroup study 0116: a phase III trial of adjuvant radiochemotherapy versus observation after curative gastric cancer resection. J Clin Oncol . 2012;30(19):2327-2333. doi:10.1200/JCO.2011.36.7136
+
+17. Tachibana M, Yoshimura H, Kinugasa S, et al. Postoperative chemotherapy vs. chemoradiotherapy for thoracic esophageal cancer: a prospective randomized clinical trial. Eur J Surg Oncol . 2003;29(7):580-587. doi:10.1016/ s0748-7983(03)00111-2
+
+18. Tait LM, Meyer JE, McSpadden E, et al. Women at increased risk for cardiac toxicity following chemoradiation therapy for esophageal carcinoma. Pract Radiat Oncol . 2013;3(4):e149-155. doi:10.1016/j.prro.2013.02.001
+
+19. van Hagen P, Hulshof MC, van Lanschot JJ, et al. Preoperative chemoradiotherapy for esophageal or junctional cancer. N Engl J Med . 2012;366(22):2074-2084. doi:10.1056/NEJMoa1112088
+
+20. Wang SL, Liao Z, Vaporciyan AA, et al. Investigation of clinical and dosimetric factors associated with postoperative pulmonary complications in esophageal cancer patients treated with concurrent chemoradiotherapy followed by surgery. Int J Radiat Oncol Biol Phys . 2006;64(3):692-699. doi:10.1016/ j.ijrobp.2005.08.002
+
+POLICY
+
+- I. Neoadjuvant treatment
+
+- A. For an individual with stage T2-T4 or node-positive gastric cancer, the use of up to 28 fractions of three-dimensional conformal radiation therapy (3DCRT) or intensitymodulated radiation therapy (IMRT) is considered medically necessary.
+
+- II. Adjuvant treatment (if no preoperative or prior irradiation given)
+
+- A. For an individual with at least pT2 or node-positive gastric cancer, positive margins, microscopic or macroscopic residual disease or high-risk features such as poor differentiation, lymphovascular invasion, neural invasion, and age less than 50, the use of up to 28 fractions of 3DCRT or IMRT is considered medically necessary.
+
+- III. Definitive treatment
+
+- A. For an individual who is inoperable (ie, due to co-morbidity), the use of up to 28 fractions of 3DCRT or IMRT is considered medically necessary.
+
+- IV. Palliation
+
+- A. The use of up to 15 fractions of 3DCRT is considered medically necessary.
+
+- B. IMRT is considered medically necessary when an optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines ®
+
+### Gastric Cancer
+
+#### DISCUSSION
+
+According to the Eighth Edition of the AJCC Cancer Staging Manual, '…if a tumor involves the esophagogastric junction (EGJ) and its epicenter is ≤ 2 cm into the proximal stomach (i.e., ≤ 2 cm distal to the EGJ)…' it is classified as esophageal cancer. 'Tumors involving the EGJ with their epicenter &gt; 2 cm into the proximal stomach (i.e., &gt; 2 cm distal to the EGJ)…' are classified as gastric cancer.
+
+In the postoperative treatment of gastric carcinoma, chemoradiation is indicated for an individual with stage IB-IV (M0) based on the INT 0116 study. In INT 0116, 559 patients with stage IB-IV adenocarcinoma of the stomach or GEJ (20% of patients) following R0 resection were randomized to chemoradiotherapy (CRT) (5-FU/leucovorin before, during and concurrent with radiation to 45 Gy) or to no further treatment. In the most recent update with a 10-year median follow-up, CRT continues to show a significant improvement in overall survival (OS) (HR 1.32) and for relapse-free survival (RFS) (HR 1.51). This benefit extended to all T stages, all N stages, and location in the GEJ.
+
+RO.TXS.116.A v2.0.2024
+
+In terms of historical progression of treatment planning techniques; after the Intergroup 0116 trial, which used AP-PA field arrangement, Soyfer et al (2007) published data concluding that a non-coplanar 3D conformal approach yielded better results than APPA plans. In 2008, this same group compared IMRT to 3D conformal techniques for adjuvant management of gastric cancer and concluded that IMRT confers only marginal benefit, and should be used '…only in the small subset of patients with risk factors for kidney disease or those with preexisting nephropathy.'
+
+In 2010, the group at Stanford (Minn et al) published on sequential groups of patients treated in the adjuvant setting, initially 3DCRT (26 patients), and after 2002 with IMRT (33 patients). The 2-year OS for the 3DCRT and IMRT groups was 51% and 65%, respectively ( p = 0.5). The 2-year disease-free survival (DFS) for the 3DCRT and IMRT groups was 60% and 54%, respectively ( p = 0.8). The 2-year local control rate for the 3DCRT and IMRT groups was 83% and 81%, respectively ( p = 0.9). The Stanford group interpreted this data to show that IMRT could be delivered effectively without compromising outcome. In terms of toxicity, 3 patients required a treatment break of a median duration of 7 days due to toxicity in the 3DCRT group (range, 4 to 10 days), whereas no patient in the IMRT group required a treatment break. Grade 2 or higher acute GI toxicity was noted in 61.5% and 61.2% of patients in the 3DCRT and IMRT groups, respectively. Regarding late toxicity, among the 3DCRT patients, 1 patient died of small bowel perforation requiring surgical intervention (grade 5). Grade 3 late toxicity was experienced by 3 individuals who developed small bowel obstruction. Two patients developed grade 2 late toxicity (jaundice and esophagitis). In the IMRT group, grade 3 late toxicity was experienced by 1 patient who had a stricture requiring surgery. Grade 2 late toxicity was experienced by 3 patients: 1 with gastritis, 1 with esophagitis, and 1 with an ulcer. The conclusion of this paper was '…although locoregional control is good with adjuvant chemoradiotherapy, overall outcomes for gastric cancer remain poor. Improvements in both local and systemic therapy are required. Adjuvant chemoradiotherapy was well tolerated with either 3DCRT or IMRT, with similar acute and late toxicities reported. Despite higher doses used, IMRT provides sparing to the liver and possibly the kidneys.'
+
+National Comprehensive Cancer Network (NCCN ® ) Guidelines ® state that "…conformal treatment planning should be used with either 3D conformal radiation or intensitymodulated radiation therapy (IMRT)." When utilizing IMRT, "uncertainties from variations in stomach filling and respiratory motion should be taken into account."
+
+#### References
+
+1. Alani S, Soyfer V, Strauss N, Schifter D, Corn BW. Limited advantages of intensity-modulated radiotherapy over 3D conformal radiation therapy in the adjuvant management of gastric cancer. Int J Radiat Oncol Biol Phys . 2009;74(2):562-566. doi:10.1016/j.ijrobp.2008.09.061
+
+2. Amin MB, Brookland RK, Byrd DR, et al. Upper Gastrointestinal Tract, Stomach. In: Amin MB, Edge SB, Greene FL, et al, eds. AJCC Cancer Staging Manual . 8th ed. Springer International Publishing; 2017:203-220.
+
+3. Chakravarty T, Crane CH, Ajani JA, et al. Intensity-modulated radiation therapy with concurrent chemotherapy as preoperative treatment for localized gastric adenocarcinoma. Int J Radiat Oncol Biol Phys . 2012;83(2):581-586. doi:10.1016/j.ijrobp.2011.07.035
+
+4. Cunningham D, Allum WH, Stenning SP, et al. Perioperative chemotherapy versus surgery alone for resectable gastroesophageal cancer. N Engl J Med . 2006;355(1):11-20. doi:10.1056/NEJMoa055531
+
+5. Dikken JL, van Sandick JW, Maurits Swellengrebel HA, et al. Neo-adjuvant chemotherapy followed by surgery and chemotherapy or by surgery and chemoradiotherapy for patients with resectable gastric cancer (CRITICS). BMC Cancer . 2011;11:329. Published 2011 Aug 2. doi:10.1186/1471-2407-11-329
+
+6. Kole TP, Aghayere O, Kwah J, Yorke ED, Goodman KA. Comparison of heart and coronary artery doses associated with intensity-modulated radiotherapy versus three-dimensional conformal radiotherapy for distal esophageal cancer. Int J Radiat Oncol Biol Phys . 2012;83(5):1580-1586. doi:10.1016/j.ijrobp.2011.10.053
+
+7. Li P, Sheng LM, Deng QH, et al. Treatment of high-risk gastric cancer postoperatively using intensity-modulated radiotherapy: a single-institution experience. Hepatogastroenterology . 2012;59(113):159-163. doi:10.5754/ hge11280
+
+8. Macdonald JS, Smalley SR, Benedetti J, et al. Chemoradiotherapy after surgery compared with surgery alone for adenocarcinoma of the stomach or gastroesophageal junction. N Engl J Med . 2001;345(10):725-730. doi:10.1056/NEJMoa010187
+
+9. Minn AY, Hsu A, La T, et al. Comparison of intensity-modulated radiotherapy and 3-dimensional conformal radiotherapy as adjuvant therapy for gastric cancer. Cancer . 2010;116(16):3943-3952. doi:10.1002/cncr.25246
+
+10. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - March 07, 2024. Gastric Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/gastric.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Gastric Cancer Version 1.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+11. Smalley SR, Gunderson L, Tepper J, et al. Gastric surgical adjuvant radiotherapy consensus report: rationale and treatment implementation. Int J Radiat Oncol Biol Phys . 2002;52(2):283-293. doi:10.1016/ s0360-3016(01)02646-3
+
+12. Soyfer V, Corn BW, Melamud A, et al. Three-dimensional non-coplanar conformal radiotherapy yields better results than traditional beam arrangements for adjuvant treatment of gastric cancer. Int J Radiat Oncol Biol Phys . 2007;69(2):364-369. doi:10.1016/j.ijrobp.2007.03.032
+
+13. Yu C, Yu R, Zhu W, Song Y, Li T. Intensity-modulated radiotherapy combined with chemotherapy for the treatment of gastric cancer patients after standard D1/D2 surgery. J Cancer Res Clin Oncol . 2012;138(2):255-259. doi:10.1007/s00432-011-1085-y
+
+POLICY
+
+- I. Radiation therapy techniques
+
+- A. Three-dimensional conformal radiation therapy (3DCRT) and intensity-modulated radiation therapy (IMRT) are considered medically necessary.
+
+- B. Preoperative radiation therapy is considered medically necessary in select cases.
+
+1. Is given in up to 35 fractions in 3 phases
+
+2. Uses conventional isodose, 3DCRT, or IMRT techniques
+
+- II. Radiation therapy treatment intent/timing
+
+- A. Definitive radiation therapy
+
+1. Is considered medically necessary for selected T1-2, N0 cases as monotherapy
+
+2. Employs up to 42 fractions in a maximum of 2 phases
+
+3. Depending on the simplicity or complexity of the case, conventional isodose, 3DCRT, or IMRT techniques may be necessary.
+
+- B. Definitive radiation therapy as monotherapy
+
+1. Is considered medically necessary for selected T1N1 and T2N0-1 cases
+
+2. Radiation may be given utilizing any of several schedules including conventional daily fractionation, concomitant boost accelerated fractionation, and hyperfractionation (twice-daily radiation).
+
+3. Up to 68 fractions are medically necessary, in 2 phases.
+
+- C. Definitive concurrent chemoradiation
+
+1. Is considered medically necessary in unresected T2-4a, N0-3 cases utilizing up to 42 fractions with conventional schedule
+
+2. 3DCRT or IMRT are considered medically necessary, in up to 4 phases.
+
+- D. Postoperative radiation therapy
+
+1. Is considered medically necessary for cases that have ANY of the following high risk factors:
+
+- a. pT3 or pT4 primary tumors
+
+- b. N2 or N3 nodal disease
+
+- c. Positive nodes in levels IV or V
+
+- d. Perineural invasion
+
+- e. Vascular tumor embolism
+
+- f. Positive surgical margins or residual gross disease
+
+2. 35 fractions are considered medically necessary.
+
+### Head and Neck Cancer
+
+RO.TXS.117.C v2.0.2024
+
+3. 3DCRT or IMRT are considered medically necessary, in up to 3 phases.
+
+- III. Radiation therapy, brachytherapy
+
+- A. Low-dose rate (LDR) or high-dose rate (HDR) brachytherapy is considered medically necessary in select cases of epithelial tumors of the head and neck region. In appropriate early cases, it is considered medically necessary as monotherapy. In more advanced cases, it may be substituted for 1 phase of 3DCRT or IMRT.
+
+- IV. Radiation therapy, palliative
+
+- A. In a previously un-irradiated individual with symptomatic local head and neck cancer, conventional isodose, 3DCRT or IMRT techniques are indicated for symptom control.
+
+- B. Up to 20 fractions are considered medically necessary, in 1 phase.
+
+- V. Re-treatment for salvage after prior radiation
+
+- A. Reirradiation is indicated in cases of recurrent or persistent head and neck cancer, or for in-field new primary tumors, in cases in which there are no known distant metastases.
+
+- B. Reirradiation carries increased risk. Per the National Comprehensive Cancer Network (NCCN ® ) Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) Head and Neck Cancers, 'In general, the reirradiated population of patients with head and neck cancer described in current literature represents a diverse but highly selected group of patients treated in centers where there is a high level of expertise and systems in place for managing acute and long-term toxicities. When the goal of treatment is curative and surgery is not an option, reirradiation strategies can be considered for patients who: develop locoregional failures or second primaries at ≥ 6 months after the initial radiotherapy; can receive additional doses of radiotherapy of at least 60 Gy; and can tolerate concurrent chemotherapy. Organs at risk (OARs) for toxicity should be carefully analyzed through review of dose-volume histograms, and consideration for acceptable doses should be made on the basis of time interval since original radiotherapy, anticipated volumes to be included, and patient's life expectancy.'
+
+- C. Stereotactic body radiation therapy (SBRT) (up to 5 fractions) is medically necessary for retreatment in an individual who has no evidence of metastatic disease. SBRT, as a complete course of therapy, must be completed in 5 fractions in a single episode of care.
+
+#### DISCUSSION
+
+Based upon established criteria, assessment of peer-reviewed literature, and consensus present in established guidelines (American College of Radiology [ACR]/American Society for Radiation Oncology [ASTRO], NCCN ® ), radiation therapy is considered an integral component in the multidisciplinary management of malignancies of the head and neck region. Primary anatomic sites included in this category include paranasal sinuses (ethmoid and maxillary), salivary glands, the lip, oral cavity, oropharynx, hypopharynx, glottic larynx, supraglottic larynx, nasopharynx, and occult/unknown head and neck primary sites. The preponderance of literature addresses tumors of epithelial origin. Non-epithelial malignancies of the head and neck region (eg, tumors arising in bone, cartilage, soft tissues, and lymphomas) are not covered by this policy.
+
+Utilization of radiation therapy should be preceded by workup and staging, and planned in conjunction with the appropriate members of a multi-disciplinary team that also includes: diagnostic imaging, pathology, medical oncology, otorhinological, oral, plastic and reconstructive, neuro- and ophthalmologic surgeons, psychiatry, addiction services, audiology and speech therapy, rehabilitation and nutritional medicine, pain management, dentists, prosthodontists, xerostomia management, smoking and alcohol cessation, tracheostomy and wound management, social workers and case management.
+
+Initial management may require surgery, chemotherapy, and radiation therapy in various combinations and sequences.
+
+- I. Radiation treatment schedules
+
+Radiation therapy treatment schedules published in peer-reviewed consensus documents, such as NCCN Guidelines ® , include regimens that encompass a broad range of doses that must be customized to an individual's circumstance. These schedules are based on the extent of the primary and nodal disease as well as the treatment intent, such as definitive, preoperative or postoperative.
+
+#### References
+
+1. ACR-ABS Practice Parameter for the Performance of Low-Dose-Rate Brachytherapy. Revised 2015 (CSC/ BOC).
+
+2. ACR-ABS Practice Parameter for the Performance of Radionuclide-Based High-Dose-Rate Brachytherapy. Revised 2015 (CSC/BOC).
+
+3. Bernier J, Domenge C, Ozsahin M, et al. Postoperative irradiation with or without concomitant chemotherapy for locally advanced head and neck cancer. N Engl J Med . 2004;350(19):1945-1952. doi:10.1056/NEJMoa032641
+
+4. Bernier J, Cooper JS, Pajuk TF, et al. Defining risk levels in locally advanced head and neck cancers: a comparative analysis of concurrent postoperative radiation plus chemotherapy trials of the EORTC (#22931) and RTOG (#9501). Head Neck . 2005;27(10):843-850. doi:10.1002/hed.20279
+
+5. Cooper JS, Pajak TF, Forastiere AA, et al. Postoperative concurrent radiotherapy and chemotherapy for highrisk squamous-cell carcinoma of the head and neck. N Engl J Med . 2004;350(19):1937-1944. doi:10.1056/ NEJMoa032646
+
+6. Dogan N, King S, Emami B, et al. Assessment of different IMRT boost delivery methods on target coverage and normal-tissue sparing. Int J Radiat Oncol Biol Phys . 2003;57(5):1480-1491. doi:10.1016/ s0360-3016(03)01569-4
+
+7. Eisbruch A, Foote RL, O'Sullivan B, Beitler JJ, Vikram B. Intensity-modulated radiation therapy for head and neck cancer: emphasis on the selection and delineation of the targets. Semin Radiat Oncol . 2002;12(3):238-249. doi:10.1053/srao.2002.32435
+
+8. Lee NY, de Arruda FF, Puri DR, et al. A comparison of intensity-modulated radiation therapy and concomitant boost radiotherapy in the setting of concurrent chemotherapy for locally advanced oropharyngeal carcinoma. Int J Radiat Oncol Biol Phys . 2006;66(4):966-974. doi:10.1016/j.ijrobp.2006.06.040
+
+9. Lee NY, O'Meara W, Chan K, et al. Concurrent chemotherapy and intensity-modulated radiotherapy for locoregionally advanced laryngeal and hypopharyngeal cancers. Int J Radiat Oncol Biol Phys . 2007;69(2):459-468. doi:10.1016/j.ijrobp.2007.03.013
+
+10. Mohan R, Wu Q, Morris M, et al. 'Simultaneous Integrated Boost' (SIB) IMRT of advanced head and neck squamous cell carcinomas-dosimetric analysis. Int J Radiat Oncol Biol Phys . 2001 Nov 1; 51(3):180-181.
+
+11. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 4.2024 - May 1, 2024. Head and Neck Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/head-and-neck.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Head and Neck Cancers Version 4.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+12. O'Sullivan B, Huang SH, Siu LL, et al. Deintensification candidate subgroups in human papillomavirus-related oropharyngeal cancer according to minimal risk of distant metastasis. J Clin Oncol . 2013;31(5):543-550. doi:10.1200/JCO.2012.44.0164
+
+13. Overgaard J, Hansen HS, Specht L, et al. Five compared with six fractions per week of conventional radiotherapy of squamous-cell carcinoma of head and neck: DAHANCA 6 and 7 randomised controlled trial [published correction appears in Lancet. 2003 Nov 8;362(9395):1588]. Lancet . 2003;362(9388):933-940. doi:10.1016/s0140-6736(03)14361-9
+
+14. Schoenfeld GO, Amdur RJ, Morris CG, Li JG, Hinerman RW, Mendenhall WM. Patterns of failure and toxicity after intensity-modulated radiotherapy for head and neck cancer. Int J Radiat Oncol Biol Phys . 2008;71(2):377-385. doi:10.1016/j.ijrobp.2007.10.010
+
+15. Wolden SL, Chen WC, Pfister DG, Kraus DH, Berry SL, Zelefsky MJ. Intensity-modulated radiation therapy (IMRT) for nasopharynx cancer: update of the Memorial Sloan-Kettering experience. Int J Radiat Oncol Biol Phys . 2006;64(1):57-62. doi:10.1016/j.ijrobp.2005.03.057
+
+16. Wu Q, Manning M, Schmidt-Ullrich R, Mohan R. The potential for sparing of parotids and escalation of biologically effective dose with intensity-modulated radiation treatments of head and neck cancers: a treatment design study. Int J Radiat Oncol Biol Phys . 2000;46(1):195-205. doi:10.1016/s0360-3016(99)00304-1
+
+POLICY
+
+For treatment using selective internal radiation therapy (SIRT), please see the Selective Internal Radiation Therapy (SIRT) guideline.
+
+- I. Primary hepatocellular carcinoma (HCC)
+
+- A. Definitive treatment
+
+1. In the treatment of medically or technically unresectable localized HCC in an individual with adequate hepatic reserve
+
+- a. The use of 25 to 39 fractions of three-dimensional conformal radiation therapy (3DCRT) or intensity-modulated radiation therapy (IMRT) is considered medically necessary.
+
+- b. The use of 3 to 5 fractions of stereotactic body radiation therapy (SBRT) is considered medically necessary to treat concurrently 1 or more tumors when there is evidence of the ability to protect an adequate volume of uninvolved liver. SBRT, as a complete course of therapy, must be completed in 5 fractions in a single episode of care.
+
+- B. Palliative treatment
+
+1. In an individual with localized HCC or local HCC with minimal extrahepatic disease, up to 20 fractions of 3DCRT is considered medically necessary.
+
+- II. Intrahepatic bile duct cancer (cholangiocarcinoma)
+
+- A. Definitive treatment
+
+1. In the management of unresectable localized intrahepatic bile duct cancer
+
+- a. The use of 25 to 33 fractions of 3DCRT or IMRT is considered medically necessary.
+
+- b. The use of up to 5 fractions of SBRT is considered medically necessary.
+
+- B. Adjuvant (postoperative) treatment
+
+1. In the management of resected intrahepatic bile duct cancer with positive margins and/or positive regional lymph nodes
+
+- a. The use of 25 to 33 fractions of 3DCRT or IMRT is considered medically necessary.
+
+- C. Palliative treatment
+
+1. In an individual with unresectable localized intrahepatic bile duct cancer, up to 20 fractions of 3DCRT is considered medically necessary.
+
+- III. Extrahepatic bile duct cancer (cholangiocarcinoma)
+
+- A. Definitive treatment
+
+### Hepatobiliary Cancer
+
+RO.TXS.118.A
+
+v2.0.2024
+
+1. In the management of unresectable localized extrahepatic bile duct cancer
+
+- a. The use of 25 to 33 fractions of 3DCRT is considered medically necessary.
+
+- b. The use of SBRT is considered not medically necessary.
+
+- B. Adjuvant (postoperative) treatment
+
+1. In the management of resected extrahepatic bile duct cancer
+
+- a. The use of 25 to 33 fractions of 3DCRT is considered medically necessary.
+
+- b. The use of SBRT is considered not medically necessary.
+
+- C. Palliative treatment
+
+1. In an individual with unresectable localized extrahepatic bile duct cancer, up to 20 fractions of 3DCRT is considered medically necessary.
+
+- IV. Gallbladder cancer
+
+- A. Definitive treatment
+
+1. In the management of unresectable localized gallbladder cancer
+
+- a. The use of 25 to 33 fractions of 3DCRT is considered medically necessary.
+
+- b. The use of SBRT is considered not medically necessary.
+
+- B. Adjuvant (postoperative) treatment
+
+1. In the management of resected gallbladder cancer with positive margins and/or positive regional lymph nodes
+
+- a. The use of 25 to 33 fractions of 3DCRT is considered medically necessary.
+
+- b. The use of SBRT is considered not medically necessary.
+
+- C. Palliative treatment
+
+1. In an individual with unresectable localized gallbladder cancer, up to 20 fractions of 3DCRT is considered medically necessary.
+
+#### DISCUSSION
+
+- I. Primary liver cancer (HCC)
+
+The incidence of HCC is increasing in the United States, most notably in the population infected with hepatitis C virus that have developed cirrhosis. Cirrhosis from other causes, such as genetic hemochromatosis, also carries a high risk of developing HCC. Because of the underlying cirrhosis, the healthy liver reserve is often decreased. Screening of populations known to be at high risk for HCC has led to an increased rate of detection of HCC and often at an earlier stage amenable to local treatment.
+
+Prior to treatment, an assessment of liver health is necessary and is traditionally quantitated using the Child-Pugh classification system. The Child-Pugh score is based on laboratory and clinical measures and assigns a patient with cirrhosis into compensated (class A) or uncompensated (class B or C) status. Additional measures of liver health include factors of portal hypertension and the presence of varices. The Model for End-stage Liver Disease (MELD) includes a numerical scale that often is applied when there is consideration of liver transplantation.
+
+There are 3 types of HCC based on morphology: nodular (most commonly associated with cirrhosis), massive (most commonly in a non-cirrhotic liver), and diffuse (numerous nodules throughout the liver).
+
+Numerous staging systems have been devised for HCC; each often having its own specific applicability, such as prognosis, suitability for a given intervention, or based on HCC etiology. National Comprehensive Cancer Network ® (NCCN ® ) categories include "potentially resectable or transplantable, operable by performance status or comorbidity"; "unresectable disease"; "liver-confined disease, inoperable by performance status, comorbidity, or with minimal or uncertain extrahepatic disease"; and "metastatic disease or extensive liver tumor burden".
+
+Management of HCC depends on etiology and the underlying health of uninvolved liver. Partial hepatectomy, liver transplantation, bridge therapy while awaiting transplantation, downstaging strategies, and locoregional therapies are potentially available. Locoregional therapies include ablation (chemical, thermal, cryo) with criteria regarding tumor number, size, location, and general liver health often dictating the ideal approach. Locoregional therapy may be performed by laparoscopic, percutaneous, or open approach. Arterially directed therapy involves the selective catheter-based infusion of material that causes embolization of tumors using bland, chemotherapy-impregnated, or radioactive products.
+
+External Beam Radiation Therapy (EBRT) is a treatment option for certain cases of HCC not amenable to resection for technical or medical reasons, and can be delivered using 1 of several available highly-conformal techniques such as 3DCRT, IMRT and SBRT. Proton Beam Therapy (PBT) generally is not medically necessary but may be considered in unique clinical settings. (See Proton Beam Therapy guideline). For each technique, there must be sufficient uninvolved liver such that the technique is capable of respecting the tolerance of normal liver tissue. Several radiation schedules are available, including hypofractionation, SBRT (1 to 5 fractions), and conventional fractionation. Safety data are limited for treating other than ChildPugh class A cases. A dose modification is needed when treating Child-Pugh class B. Radiation therapy is generally not given for Child-Pugh class C cases. Combinations of several locoregional therapies may be required. Locoregional management may serve as a bridge to liver transplant.
+
+For the many cases of HCC that are advanced at the time of presentation and not amenable to locoregional therapies with intent to cure, systemic therapy has been employed. Systemic therapies include cytotoxic chemotherapy drugs and the multikinase angiogenesis inhibitor sorafenib. These are most commonly utilized in Child-Pugh class A patients, where data demonstrating a benefit in overall survival and better tolerance have been reported. While the intent of locoregional therapy is local control, EBRT may also play a role of palliation of symptoms in the liver, or distantly in cases of metastatic disease.
+
+II. Intrahepatic bile duct cancer (cholangiocarcinoma)
+
+The junction of the right and left hepatic ducts serves as the dividing location of intra-and extrahepatic bile duct cancers. Cholangiocarcinomas that occur on the hepatic side of the junction of the right and left hepatic ducts within the hepatic parenchyma are also known as intrahepatic bile duct cancers, or "peripheral cholangiocarcinomas". Those cancers that occur at or near the junction of the right and left hepatic ducts are known as Klatskin tumors and are considered extrahepatic. Early stage cancers in this location are less likely to present with biliary obstruction than their extrahepatic counterparts. Symptoms may be nonspecific, and detection may be incidental. They are typically adenocarcinomas. Surgical resection has the highest potential for cure, though surgery is often not possible due to local extent of disease or metastases. Highest surgical cure rates are seen if there is only one lesion, vascular invasion is not present, and lymph nodes are not involved.
+
+The role of adjuvant radiation therapy after resection is not firmly established, but is considered an option for adjuvant management in the post-resection R1 and R2 situations, and/or when nodes are positive, for definitive management of unresectable tumors, and for palliation. Numerous other methods of locoregional treatment, such as radiofrequency ablation, transarterial chemoembolization and photodynamic therapy are available. The use of intraluminal brachytherapy (low dose rate [LDR] or high dose rate [HDR]) has been described and may be useful in unique situations. Data are limited; the optimal approach is not established.
+
+The selection of radiation technique and the use of concurrent chemotherapy are best made in the context of a multidisciplinary approach. When radiation therapy is used, the preservation of normal liver function and respect for constraints of nearby other normal organs must be maintained. When SBRT has been employed for larger lesions, doses ≥ 80.5 Gy biologically equivalent dose (BED) have been found to be effective. When SBRT type technique is used for more than 5 fractions, it is to be reported as 3DCRT or IMRT.
+
+III. Extrahepatic bile duct cancer (cholangiocarcinoma)
+
+The junction of the right and left hepatic ducts serves as the dividing location of intra-and extrahepatic bile duct cancers. Those extrahepatic cholangiocarcinomas that arise near the right and left hepatic duct junction are known as hilar or Klatskin tumors. Those more distal may occur anywhere along the common bile duct down to near the ampulla of Vater. They are typically adenocarcinomas and are more likely to present with bile duct obstruction than their intrahepatic counterpart. Surgical resection is the only potentially curative treatment.
+
+As the incidence is low, there is no firmly established role of radiation therapy, though its use is an accepted option in postoperative cases of R0, R1, R2 margins and/or positive nodes. When radiation therapy is used, the preservation of normal liver function and respect for constraints of nearby other normal organs must be maintained, especially the small bowel, stomach, and kidneys. Data to support specific regimens are limited.
+
+The selection of radiation technique and the use of concurrent chemotherapy are best made in the context of a multidisciplinary approach. Because of the proximity to hollow viscus structures, daily doses in excess of 2.2 Gy are avoided.
+
+- IV. Gallbladder cancer
+
+Gallbladder cancers are the most common of the biliary tract cancers, tend to be very aggressive, and most commonly are adenocarcinomas. They tend to invade locally and cause both nodal and distant metastases. A common presentation of gallbladder cancer is to be diagnosed at the time of cholecystectomy for what was preoperatively thought to be cholecystitis. Complete resection provides the only realistic chance for cure, the likelihood of which decreases as the extent of surgery needs to increase to achieve clear margins.
+
+The use of adjuvant radiation therapy after resection appears to be most beneficial in patients with T2 and higher primary tumor status, or if nodes are positive, and is most commonly given concurrent with capecitabine or gemcitabine. T1a and T1b, N0 cases have not been shown to benefit from adjuvant radiation, which may be omitted. Because of the proximity to hollow viscus structures, daily doses in excess of 2.2 Gy are avoided, unless the target is within the hepatic parenchyma.
+
+Definitive radiation therapy along with fluoropyrimidine-based chemotherapy is an option for patients with unresectable gallbladder cancer that has not spread beyond a locoregional state. Such an approach often becomes a palliative exercise, and should be weighed against other means of palliation that includes biliary decompression followed by chemotherapy.
+
+#### References
+
+1. Ben-Josef E, Guthrie KA, El-Khoueiry AB, et al. SWOG S0809: A Phase II Intergroup Trial of Adjuvant Capecitabine and Gemcitabine Followed by Radiotherapy and Concurrent Capecitabine in Extrahepatic Cholangiocarcinoma and Gallbladder Carcinoma. J Clin Oncol . 2015;(33)24: 2617-2622. doi:10.1200/ JCO.2014.60.2219
+
+2. Carr BI. Introduction: hepatocellular carcinoma. Semin Oncol . 2012;39(4):367-368. doi:10.1053/ j.seminoncol.2012.06.001
+
+3. Mazloom A, Hezel AF, Katz AW. Stereotactic body radiation therapy as a bridge to transplantation and for recurrent disease in transplanted liver of a patient with hepatocellular carcinoma. Case Rep Oncol . 2014;7(1):18-22. Published 2014 Jan 10. doi:10.1159/000357801
+
+4. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - April 9, 2024. Hepatocellular Carcinoma. https://www.nccn.org/professionals/physician\_gls/pdf/hcc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Hepatocellular Carcinoma Version 1.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written
+
+permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+5. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - April 19, 2024. Biliary Tract Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/btc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Biliary Tract Cancers Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+6. National Comprehensive Cancer Network ® (NCCN ® ) Radiation Therapy Compendium ® . https://www.nccn.org/ professionals/radiation/content/.
+
+7. O'Connor JK, Trotter J, Davis GL, Dempster J, Klintmalm GB, Goldstein RM. Long-term outcomes of stereotactic body radiation therapy in the treatment of hepatocellular cancer as a bridge to transplantation. Liver Transpl . 2012;18(8):949-954. doi:10.1002/lt.23439
+
+8. Radiation Therapy Oncology Group (RTOG) Protocol 1112: Randomized Phase III Study of Sorafenib versus Stereotactic Body Radiation Therapy followed by Sorafenib in Hepatocellular Carcinoma.
+
+9. Tao R, Krishnan S, Bhosale PR, et al. Ablative Radiotherapy Doses Lead to a Substantial Prolongation of Survival in Patients With Inoperable Intrahepatic Cholangiocarcinoma: A Retrospective Dose Response Analysis [published correction appears in J Clin Oncol. 2019 Apr 10;37(11):942]. J Clin Oncol . 2016;34(3):219-226. doi:10.1200/JCO.2015.61.3778
+
+10. Wahl DR, Stenmark MH, Tao Y, et al. Outcomes After Stereotactic Body Radiotherapy or Radiofrequency Ablation for Hepatocellular Carcinoma. J Clin Oncol . 2016;34(5):452-459. doi:10.1200/JCO.2015.61.4925
+
+11. Wang SJ, Fuller CD, Kim JS, Sittig DF, Thomas CR Jr, Ravdin PM. Prediction model for estimating the survival benefit of adjuvant radiotherapy for gallbladder cancer. J Clin Oncol . 2008;26(13):2112-2117. doi:10.1200/ JCO.2007.14.7934
+
+12. Wang SJ, Lemieux A, Kalpathy-Cramer J, et al. Nomogram for predicting the benefit of adjuvant chemoradiotherapy for resected gallbladder cancer. J Clin Oncol . 2011;29(35):4627-4632. doi:10.1200/ JCO.2010.33.8020
+
+13. Welling TH, Feng M, Wan S, et al. Neoadjuvant stereotactic body radiation therapy, capecitabine, and liver transplantation for unresectable hilar cholangiocarcinoma. Liver Transpl . 2014;20(1)81-88. doi:10.1002/lt.23757
+
+POLICY
+
+- I. Definitive radiation therapy
+
+- A. Definitive radiation therapy as sole therapy is considered medically necessary for selected cases of stage I-IIA lymphocyte predominant Hodgkin lymphoma.
+
+1. Doses range from 30 to 36 Gy in up to 20 fractions in a single phase.
+
+2. Conventional isodose, three-dimensional conformal radiation therapy (3DCRT) or intensity-modulated radiation therapy (IMRT) techniques are considered medically necessary.
+
+- II. Adjuvant radiation therapy (combined modality treatment) after chemotherapy
+
+- A. Radiation treatment regimens following chemotherapy depend on clinical stage, presence or absence of bulky disease, the chemotherapy regimen used (ABVD or Stanford V), as well as the response to treatment (positron emission tomography [PET] scan Deauville 3-4).
+
+1. Doses range from 20 to 45 Gy in up to 25 fractions with conventional fractionation.
+
+2. Conventional isodose, 3DCRT, or IMRT techniques are considered medically necessary.
+
+- B. Combined modality treatment after chemotherapy is considered medically necessary in some cases of an individual with stage III-IV disease to areas of initial bulky involvement or to areas of less than a complete response (CR).
+
+1. Doses range from 20 to 45 Gy in up to 25 fractions with conventional fractionation.
+
+2. Conventional isodose, 3DCRT, or IMRT techniques are considered medically necessary, directed at up to 4 separate sites in up to 2 phases per site.
+
+- III. Salvage radiation therapy
+
+- A. Salvage radiation therapy is considered medically necessary after chemotherapy to areas of relapsed bulky involvement.
+
+1. Doses range from 20 to 45 Gy in up to 25 fractions with conventional fractionation.
+
+2. Conventional isodose, 3DCRT, or IMRT techniques are considered medically necessary, directed at up to 4 separate sites in up to 2 phases per site.
+
+- B. Salvage radiation therapy is considered medically necessary in an individual who relapses after solo chemotherapy for initial stage I/IIA Hodgkin lymphoma.
+
+### Hodgkin Lymphoma
+
+RO.TXS.119.A
+
+v2.0.2024
+
+1. Definitive radiation doses range from 30 to 45 Gy in up to 25 fractions using conventional fractionation.
+
+2. Depending on the extent of the disease, conventional isodose, 3DCRT or IMRT techniques are considered medically necessary.
+
+- a. Treatment of up to 3 sites with up to 2 phases per site.
+
+- IV. Palliative radiation therapy
+
+- A. In an individual with advanced or recurrent disease that is felt not to be curative and who has symptomatic local Hodgkin lymphoma, photon and/or electron techniques are indicated for symptom control.
+
+1. Up to 10 fractions are considered medically necessary in 1 phase.
+
+2. Conventional isodose, 3DCRT, or IMRT techniques are considered medically necessary.
+
+- V. Radiation therapy, photon and/or electron techniques
+
+- A. Conventional isodose, 3DCRT, and IMRT techniques are considered medically necessary.
+
+- B. Respiratory gating techniques and image guidance techniques may be appropriate to minimize the amount of critical tissue (such as lung) that is exposed to the full dose of radiation. Image-guided radiation therapy (IGRT) is considered medically necessary for 3D treatment in the thorax or for small volume fields elsewhere.
+
+- C. The use of photon beam and/or electron beam radiation therapy is considered medically necessary.
+
+#### DISCUSSION
+
+Based upon established criteria, assessment of peer-reviewed literature, and consensus present in established guidelines (American College of Radiology [ACR]/American Society for Radiation Oncology [ASTRO], National Comprehensive Cancer Network ® [NCCN ® ]), radiation therapy is considered an integral component in the multidisciplinary management of Hodgkin lymphoma (HL). Proper management of the disease requires the cooperation of a complex multidisciplinary team that includes experts in diagnostic imaging, pathology, radiation oncology and medical oncology. HL treatment is based on initial stage of disease as well as the medical condition of the patient, and treatment is dynamically modified based on the speed and extent of response to initial therapy. At diagnosis, areas of involvement may be supra-diaphragmatic only, sub-diaphragmatic only, or a combination of the 2 in the more advanced stages. The stage determines decisions made about the proper extent of radiation. The varied pathologic subtypes, for the most part at present, do not materially affect the dose or field decisions to be made in this disease.
+
+Treatment decisions are preceded by workup and staging, and planned in conjunction with the appropriate members of the multidisciplinary team.
+
+Initial management will usually require chemotherapy (in a variety of different acceptable regimens), followed by assessment of response, leading to an appropriate choice of doses and fields of radiation therapy. Chemotherapy alone may be appropriate for early stage non-bulky disease, with radiation therapy reserved for relapse. As mentioned in the Policy section, treatment is individualized depending on the initial clinical stage, presence or absence of bulky disease, chemotherapy regimen used, and response to chemotherapy as evaluated by repeat staging including a PET scan with results incorporating the Deauville criteria.
+
+#### References
+
+1. Abuzetun JY, Loberiza F, Vose J, et al. The Stanford V regimen is effective in patients with good risk Hodgkin lymphoma but radiotherapy is a necessary component. Br J Haematol . 2009;144(4):531-537. doi:10.1111/ j.1365-2141.2008.07500.x
+
+2. Aleman BM, Raemaekers JM, Tirelli U, et al. Involved-field radiotherapy for advanced Hodgkin's lymphoma. N Engl J Med . 2003;348(24):2396-2406. doi:10.1056/NEJMoa022628
+
+3. Aleman BM, Raemaekers JM, Tomiŝiĉ R, et al. Involved-field radiotherapy for patients in partial remission after chemotherapy for advanced Hodgkin's lymphoma. Int J Radiat Oncol Biol Phys . 2007;67(1):19-30. doi:10.1016/ j.ijrobp.2006.08.041
+
+4. Aversa SM, Salvagno L, Sorarù M, et al. Stanford V regimen plus consolidative radiotherapy is an effective therapeutic program for bulky or advanced-stage Hodgkin's disease. Acta Haematol . 2004;112(3):141-147. doi:10.1159/000079725
+
+5. Behar RA, Horning SJ, Hoppe RT. Hodgkin's disease with bulky mediastinal involvement: effective management with combined modality therapy. Int J Radiat Oncol Biol Phys . 1993; 25(5):771-776. doi:10.1016/0360-3016(93)90304-e
+
+6. Bonadonna G, Bonfante V, Viviani S, Di Russo A, Villani F, Valagussa P. ABVD plus subtotal nodal versus involved-field radiotherapy in early-stage Hodgkin's disease: long-term results. J Clin Oncol . 2004;22(14):2835-2841. doi:10.1200/JCO.2004.12.170
+
+7. Canellos GP, Abramson JS, Fisher DC, LaCasce AS. Treatment of favorable, limited-stage Hodgkin's lymphoma with chemotherapy without consolidation by radiation therapy. J Clin Oncol . 2010;28(9):1611-1615. doi:10.1200/JCO.2009.25.3260
+
+8. Cella L, Liuzzi R, Conson M, D'Avino V, Salvatore M, Pacelli R. Multivariate normal tissue complication probability modeling of heart valve dysfunction in Hodgkin lymphoma survivors. Int J Radiat Oncol Biol Phys . 2013;87(2):304-310. doi:10.1016/j.ijrobp.2013.05.049
+
+9. de Vathaire F, El-Fayech C, Ben Ayed FF, et al. Radiation dose to the pancreas and risk of diabetes mellitus in childhood cancer survivors: a retrospective cohort study. Lancet Oncol . 2012;13(10):1002-1010. doi:10.1016/ S1470-2045(12)70323-6
+
+10. Edwards-Bennett SM, Jacks LM, Moskowitz CH, et al. Stanford V program for locally extensive and advanced Hodgkin lymphoma: the Memorial Sloan-Kettering Cancer Center experience. Ann Oncol . 2010;21(3):574-581. doi:10.1093/annonc/mdp337
+
+11. Engert A, Franklin J, Eich HT, et al. Two cycles of doxorubicin, bleomycin, vinblastine, and dacarbazine plus extended-field radiotherapy is superior to radiotherapy alone in early favorable Hodgkin's lymphoma: final results of the GHSG HD7 trial. J Clin Oncol . 2007;25(23):3495-3502. doi:10.1200/JCO.2006.07.0482
+
+12. Engert A, Schiller P, Josting A, et al. Involved-field radiotherapy is equally effective and less toxic compared with extended-field radiotherapy after four cycles of chemotherapy in patients with early-stage unfavorable Hodgkin's lymphoma: results of the HD8 trial of the German Hodgkin's Lymphoma Study Group. J Clin Oncol . 2003;21(19):3601-3608. doi:10.1200/JCO.2003.03.023
+
+13. Fabian CJ, Mansfield CM, Dahlberg S, et al. Low-dose involved field radiation after chemotherapy in advanced Hodgkin disease. A Southwest Oncology Group randomized study. Ann Intern Med . 1994;120(11):903-912. doi:10.7326/0003-4819-120-11-199406010-00002
+
+14. Fermé C, Eghbali H, Meerwaldt JH, et al. Chemotherapy plus involved-field radiation in early-stage Hodgkin's disease. N Engl J Med . 2007;357(19):1916-1927. doi:10.1056/NEJMoa064601
+
+15. Fox AM, Dosoretz AP, Mauch PM, et al. Predictive factors for radiation pneumonitis in Hodgkin lymphoma patients receiving combined-modality therapy. Int J Radiat Oncol Biol Phys . 2012;83(1):277-283. doi:10.1016/ j.ijrobp.2011.05.078
+
+16. Gobbi PG, Levis A, Chisesi T, et al. ABVD versus modified stanford V versus MOPPEBVCAD with optional and limited radiotherapy in intermediate- and advanced-stage Hodgkin's lymphoma: final results of a multicenter randomized trial by the Intergruppo Italiano Linfomi. J Clin Oncol . 2005;23(36):9198-9207. doi:10.1200/ JCO.2005.02.907
+
+17. Hoppe RT. Hodgkin's lymphoma: the role of radiation in the modern combined strategies of treatment. Hematol Oncol Clin North Am . 2007;21(5):915-927. doi:10.1016/j.hoc.2007.06.013
+
+18. Horning SJ, Hoppe RT, Breslin S, Bartlett NL, Brown BW, Rosenberg SA. Stanford V and radiotherapy for locally extensive and advanced Hodgkin's disease: mature results of a prospective clinical trial. J Clin Oncol . 2002;20(3):630-637. doi:10.1200/JCO.2002.20.3.630
+
+19. Hoskin PJ, Lowry L, Horwich A, et al. Randomized comparison of the stanford V regimen and ABVD in the treatment of advanced Hodgkin's Lymphoma: United Kingdom National Cancer Research Institute Lymphoma Group Study ISRCTN 64141244. J Clin Oncol . 2009;27(32):5390-5396. doi:10.1200/JCO.2009.23.3239
+
+20. Jacobson CA, Longo DL. Management of early-stage Hodgkin's lymphoma. PPO Updates. Principles &amp; Practice of Oncology . 2011. 25(2).
+
+21. Johnson PW, Sydes MR, Hancock BW, Cullen M, Radford JA, Stenning SP. Consolidation radiotherapy in patients with advanced Hodgkin's lymphoma: survival data from the UKLG LY09 randomized controlled trial (ISRCTN97144519). J Clin Oncol . 2010;28(20):3352-3359. doi:10.1200/JCO.2009.26.0323
+
+22. Laskar S, Gupta T, Vimal S, et al. Consolidation radiation after complete remission in Hodgkin's disease following six cycles of doxorubicin, bleomycin, vinblastine, and dacarbazine chemotherapy: is there a need?. J Clin Oncol . 2004;22(1):62-68. doi:10.1200/JCO.2004.01.021
+
+23. Longo DL, Glatstein E, Duffey PL, et al. Radiation therapy versus combination chemotherapy in the treatment of early-stage Hodgkin's disease: seven-year results of a prospective randomized trial. J Clin Oncol . 1991;9(6):906-917. doi:10.1200/JCO.1991.9.6.906
+
+24. Longo DL, Russo A, Duffey PL, et al. Treatment of advanced-stage massive mediastinal Hodgkin's disease: the case for combined modality treatment. J Clin Oncol . 1991;9(2):227-235. doi:10.1200/JCO.1991.9.2.227
+
+25. Macdonald DA, Connors JM. New strategies for the treatment of early stages of Hodgkin's lymphoma. Hematol Oncol Clin North Am . 2007;21(5):871-880. doi:10.1016/j.hoc.2007.06.014
+
+26. Meyer RM, Gospodarowicz MK, Connors JM, et al. Randomized comparison of ABVD chemotherapy with a strategy that includes radiation therapy in patients with limited-stage Hodgkin's lymphoma: National Cancer Institute of Canada Clinical Trials Group and the Eastern Cooperative Oncology Group. J Clin Oncol . 2005;23(21):4634-4642. doi:10.1200/JCO.2005.09.085
+
+27. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 18, 2024. Hodgkin Lymphoma. https://www.nccn.org/professionals/physician\_gls/pdf/hodgkins.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Hodgkin Lymphoma Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+28. Press OW, LeBlanc M, Lichter AS, et al. Phase III randomized intergroup trial of subtotal lymphoid irradiation versus doxorubicin, vinblastine, and subtotal lymphoid irradiation for stage IA to IIA Hodgkin's disease. J Clin Oncol . 2001;19(22):4238-4244. doi:10.1200/JCO.2001.19.22.4238
+
+29. Rueda Domínguez A, Márquez A, Gumá J, et al. Treatment of stage I and II Hodgkin's lymphoma with ABVD chemotherapy: results after 7 years of a prospective study. Ann Oncol . 2004;15(12):1798-1804. doi:10.1093/ annonc/mdh465
+
+30. Santoro A, Bonadonna G, Valagussa P, et al. Long-term results of combined chemotherapy-radiotherapy approach in Hodgkin's disease: superiority of ABVD plus radiotherapy versus MOPP plus radiotherapy. J Clin Oncol . 1987;5(1):27-37. doi:10.1200/JCO.1987.5.1.27
+
+31. Solanki AA, LeMieux MH, Chiu BC, Mahmood U, Hasan Y, Koshy M. Long-term outcomes in patients with early stage nodular lymphocyte-predominant Hodgkin's lymphoma treated with radiotherapy. PLoS One . 2013;8(9):e75336. Published 2013 Sep 18. doi:10.1371/journal.pone.0075336
+
+32. Specht L, Yahalom J, Illidge T, et al. Modern radiation therapy for Hodgkin lymphoma: field and dose guidelines from the international lymphoma radiation oncology group (ILROG). Int J Radiat Oncol Biol Phys . 2014;89(4):854-862. doi:10.1016/j.ijrobp.2013.05.005
+
+33. Straus DJ, Portlock CS, Qin J, et al. Results of a prospective randomized clinical trial of doxorubicin, bleomycin, vinblastine, and dacarbazine (ABVD) followed by radiation therapy (RT) versus ABVD alone for stages I, II, and IIIA nonbulky Hodgkin disease. Blood . 2004;104(12):3483-3489. doi:10.1182/blood-2004-04-1311
+
+POLICY
+
+- I. Stereotactic body radiation therapy (SBRT) is considered medically necessary for inoperable individuals with stage I kidney cancer.
+
+- II. The use of three-dimensional conformal radiation therapy (3DCRT) or intensitymodulated radiation therapy (IMRT) is considered not medically necessary in the definitive treatment of kidney cancer.
+
+- III. Up to 15 fractions of 3DCRT is considered medically necessary in the palliative treatment of kidney cancer.
+
+### Kidney Cancer
+
+#### DISCUSSION
+
+Historically, the role of radiation in the treatment of renal cell carcinoma (RCC) has been limited to palliative therapy and treatment of metastatic disease. More recently, however, there have been several studies demonstrating a potential role for SBRT in the treatment of primary early-stage inoperable renal cell carcinoma.
+
+For example, Wersall et al (Radiother Oncol 2005) published the results of a retrospective study primarily evaluating the role of SBRT in metastatic RCC. In this study, however, the authors also reported on 8 patients with inoperable or locally recurrent RCC (group C) that also received SBRT. In group C, the authors reported a median survival of 58+ months and concluded that 'patients with one to three metastases and patients with inoperable primary tumors or local recurrence benefited more…' from SBRT.
+
+Since then, several other retrospective studies have shown excellent local control rates with SBRT. For example, Sun et al (Am J Roentgenol 2016) reported on 40 patients with 41 renal tumors of varying histologies. Local control, defined as less than 5 mm growth, was seen in 92.7% of tumors based on post-treatment CT or MRI imaging.
+
+Another retrospective review conducted by Chang et al (Clin Oncol 2016) reported a 100% local control rate in 16 patients at a median follow-up of 19 months.
+
+Several prospective studies have also shown the local control benefit of SBRT in this cohort of patients.
+
+Staehler et al (J Urol 2015) conducted a prospective, case-control study involving 40 patients with 45 inoperable renal tumors. Patients were treated with a single fraction of 25 Gy. At a median follow-up of 28.1 months, the 9-month local control rate was 98%.
+
+RO.TXS.120.A v2.0.2024
+
+This included 19 complete remissions with 13 more lesions having reduced at least 30% in diameter.
+
+Siva et al (BJU Int 2017) reported on 33 patients with 34 lesions at a median followup of 24 months. Freedom from local progression was 100%. Freedom from distant progression was 89% and overall survival was 92%.
+
+It is recognized, however, that these studies have reported on a small number of patients (which is understood given the small population of patients who are inoperable) with a relatively short follow-up. Further, there remains limited data on SBRT as compared to other, more mainstay, ablative techniques such as cryoablation, radiofrequency ablation or microwave ablation. In one such study, Uhlig et al (J Vasc Interv Radiol 2020) published results of a matched cohort study. In their results, SBRT was found to have inferior overall survival as compared to cryoablation ( p &lt; 0.001) and radiofrequency/microwave ablation ( p &lt; 0.001).
+
+The German S3 guideline for RCC (Muller Strahlen Onkol 2018) stated that SBRT was noted to have effectiveness that was comparable to that of cryoablation and radiofrequency ablation with a local control of approximately 94% at 2 years. However, given the significantly lower number of cases, the authors considered SBRT to still be experimental in the treatment of inoperable RCC.
+
+#### References
+
+1. Chang JH, Cheung P, Erler D, Sonier M, Korol R, Chu W. Stereotactic Ablative Body Radiotherapy for Primary Renal Cell Carcinoma in Non-surgical Candidates: Initial Clinical Experience. Clin Oncol (R Coll Radiol) . 2016;28(9):e109-e114. doi:10.1016/j.clon.2016.04.002
+
+2. Escudier B, Eisen T, Porta C, et al. Renal cell carcinoma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol . 2012;23(suppl 7):vii65-vii71. doi:10.1093/annonc/mds227
+
+3. Mourad WF, Dutcher J, Ennis RD. State-of-the-art management of renal cell carcinoma. Am J Clin Oncol . 2014;37(5):498-505. doi:10.1097/COC.0b013e31825d5522
+
+4. Miccio JA, Oladeru OT, Jun Ma S, Johung KL. Radiation Therapy for Patients with Advanced Renal Cell Carcinoma. Urol Clin North Am . 2020;47(3):399-411. doi:10.1016/j.ucl.2020.04.011
+
+5. Müller AC, van Oorschot B, Micke O, Guckenberger M. Die deutsche S3-Leitlinie zum Nierenzellkarzinom: Darstellung und Diskussion wesentlicher Aspekte für den Radioonkologen [German S3 guideline for renal cell carcinoma: Presentation and discussion of essential aspects for the radiation oncologist]. Strahlenther Onkol . 2018;194(1):1-8. doi:10.1007/s00066-017-1185-y
+
+6. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 11, 2024. Kidney Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/kidney.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Kidney Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+7. Pham D, Thompson A, Kron T, et al. Stereotactic ablative body radiation therapy for primary kidney cancer: a 3-dimensional conformal technique associated with low rates of early toxicity. Int J Radiat Oncol Biol Phys . 2014;90(5):1061-1068. doi:10.1016/j.ijrobp.2014.07.043
+
+8. Rühle A, Andratschke N, Siva S, Guckenberger M. Is there a role for stereotactic radiotherapy in the treatment of renal cell carcinoma?. Clin Transl Radiat Oncol . 2019;18:104-112. Published 2019 Apr 26. doi:10.1016/ j.ctro.2019.04.012
+
+9. Sabolch A, Else T, Griffith KA, et al. Adjuvant radiation therapy improves local control after surgical resection in patients with localized adrenocortical carcinoma. Int J Radiat Oncol Biol Phys . 2015;92(2):252-259. doi:10.1016/ j.ijrobp.2015.01.007
+
+10. Siva S, Pham D, Gill S, Corcoran NM, Foroudi F. A systematic review of stereotactic radiotherapy ablation for primary renal cell carcinoma. BJU Int . 2012;110(11 Pt B):E737-E743. doi:10.1111/j.1464-410X.2012.11550.x
+
+11. Siva S, Pham D, Kron T, et al. Stereotactic ablative body radiotherapy for inoperable primary kidney cancer: a prospective clinical trial. BJU Int . 2017;120(5):623-630. doi:10.1111/bju.13811
+
+12. Spanos WJ Jr, Clery M, Perez CA, et al. Late effect of multiple daily fraction palliation schedule for advanced pelvic malignancies (RTOG 8502). Int J Radiat Oncol Biol Phys . 1994;29(5):961-967. doi:10.1016/0360-3016(94)90389-1
+
+13. Spanos W Jr, Guse C, Perez C, Grigsby P, Doggett RL, Poulter C. Phase II study of multiple daily fractionations in the palliation of advanced pelvic malignancies: preliminary report of RTOG 8502. Int J Radiat Oncol Biol Phys . 1989;17(3):659-661. doi:10.1016/0360-3016(89)90120-x
+
+14. Staehler M, Bader M, Schlenker B, et al. Single fraction radiosurgery for the treatment of renal tumors. J Urol . 2015;193(3):771-775. doi:10.1016/j.juro.2014.08.044
+
+15. Sun MR, Brook A, Powell MF, et al. Effect of Stereotactic Body Radiotherapy on the Growth Kinetics and Enhancement Pattern of Primary Renal Tumors. AJR Am J Roentgenol . 2016;206(3):544-553. doi:10.2214/ AJR.14.14099
+
+16. Svedman C, Karlsson K, Rutkowska E, et al. Stereotactic body radiotherapy of primary and metastatic renal lesions for patients with only one functioning kidney. Acta Oncol . 2008;47(8):1578-1583. doi:10.1080/02841860802123196
+
+17. Terzolo M, Angeli A, Fassnacht M, et al. Adjuvant mitotane treatment for adrenocortical carcinoma. N Engl J Med . 2007;356(23):2372-2380. doi:10.1056/NEJMoa063360
+
+18. Tunio MA, Hashmi A, Rafi M. Need for a new trial to evaluate postoperative radiotherapy in renal cell carcinoma: a meta-analysis of randomized controlled trials. Ann Oncol . 2010;21(9):1839-1845. doi:10.1093/ annonc/mdq028
+
+19. Uhlig A, Uhlig J, Trojan L, Kim HS. Stereotactic Body Radiotherapy for Stage I Renal Cell Carcinoma: National Treatment Trends and Outcomes Compared to Partial Nephrectomy and Thermal Ablation. J Vasc Interv Radiol . 2020;31(4):564-571. doi:10.1016/j.jvir.2019.11.009
+
+20. Wersäll PJ, Blomgren H, Lax I, et al. Extracranial stereotactic radiotherapy for primary and metastatic renal cell carcinoma. Radiother Oncol . 2005;77(1):88-95. doi:10.1016/j.radonc.2005.03.022
+
+POLICY
+
+External beam photon radiation therapy is considered medically necessary for the following:
+
+- I. Solitary osseous plasmacytoma or solitary extraosseous plasmacytoma
+
+- II. As palliative treatment for multiple myeloma
+
+Fractionation
+
+- I. Plasmacytoma
+
+- A. 40 to 50 Gy in 1.8 to 2.0 Gy fractions (20-28 fractions) to involved field with or without surgery
+
+- II. Multiple myeloma
+
+- A. 10 to 30 Gy in 5 to 10 fractions for pain, impending fracture, and/or impending spinal cord compression
+
+- B. 8 Gy in a single fraction is preferred for an individual with poor prospects for survival
+
+- C. Up to 15 fractions for retreatment
+
+Techniques
+
+- I. Three-dimensional conformal radiation therapy (3DCRT) is considered medically necessary for the definitive treatment of solitary osseous or solitary extraosseous plasmacytoma.
+
+- II. Intensity-modulated radiation therapy (IMRT) is considered medically necessary for the definitive treatment of a solitary plasmacytoma presenting in the head and neck region.
+
+- III. Radiation planned using a conventional isodose technique (CPT ® 77307) is considered medically necessary for the palliative treatment for multiple myeloma.
+
+### Multiple Myeloma and Solitary Plasmacytomas
+
+#### DISCUSSION
+
+These lesions are diagnosed by a complete multiple myeloma evaluation to rule out the presence of other lesions or systemic disease. Solitary plasmacytomas of the bone generally involve the axial skeleton and account for almost 70% of clinical
+
+- I. Solitary plasmacytoma
+
+RO.TXS.121.A
+
+v2.0.2024
+
+presentations. The remaining are extramedullary lesions generally presenting in the upper aerodigestive tract.
+
+The optimal radiation dose for the treatment of these lesions is not well known, with doses ranging from 30 Gy to 60 Gy in the published literature. The largest series, with 258 patients reported, is the European Multicenter Rare Cancer Network study (Ozsahin et al, 2006) which included 206 patients with solitary plasmacytoma of bone and 52 patients with extramedullary plasmacytoma. Two hundred and fifteen patients were treated only with radiation therapy. Thirty-three were treated with a combination of radiation therapy and chemotherapy. Eight patients were treated only with surgery. One was treated with chemotherapy alone. One died before radiation therapy. The median dose of radiation administered was 40 Gy with a range of 20 to 66 Gy. At median follow-up of 56 months, 14% developed a local recurrence. Sixty percent of the patients who did not receive radiation therapy relapsed locally, while only 12% of the radiation therapy group experienced local relapse. Overall survival (OS) was 74% with disease free survival (DFS) of 50%. A 10-year probability of disease progression to multiple myeloma was 36% for extramedullary plasmacytoma and 72% for solitary plasmacytoma of bone.
+
+Considerable care must be taken in the workup of a suspected solitary plasmacytoma to ensure that other lesions and hence, a diagnosis of multiple myeloma, are not present. Following a positive biopsy of the lesion, a full multiple myeloma evaluation should be performed. Complete blood count (CBC), peripheral smear, serum blood urea nitrogen (BUN), creatinine, electrolytes, albumin, calcium, uric acid, lactate dehydrogenase (LDH) and Beta2 microglobulin are part of the basic blood workup. Serum quantitative immunoglobulins, serum protein electrophoresis (SPEP) and serum immunofixation electrophoresis should be ordered as well as a serum free light chain assay. Urine for creatinine clearance and a 24-hour urine for total protein electrophoresis (UPEP), urine immunofixation electrophoresis (UIFE) should be performed. Bone marrow aspirate and biopsy are mandatory to document the lack of clonal cells for a diagnosis of solitary plasmacytoma. A variant of solitary plasmacytoma, when there are fewer than 10% of clonal plasma cells is termed solitary plasmacytoma with minimal bone marrow involvement.
+
+In addition to the previous workup, diagnostic imaging plays an important role in securing the diagnosis. Skeletal survey or whole body low-dose Computed Tomography (CT) scan may reveal other lesions. If abnormal, Magnetic Resonance Imaging (MRI) of the spine or whole body MRI can be utilized as the clinical presentation dictates. Positron Emission Tomography (PET)/CT may be needed to distinguish between smoldering and active myeloma. It has proven helpful in finding additional lesions in approximately 30% of cases diagnosed by MRI as solitary plasmacytoma.
+
+Following confirmation of the diagnosis, surgery may play a role in certain definitive clinical presentations or is performed for clinical presentations requiring neurologic decompression or stabilization of a weight-bearing bone prior to the performance of radiation therapy. The optimal radiation dose for a solitary plasmacytoma of bone (SPB) is not known due to the lack of phase III studies with differing recommendations from the National Comprehensive Cancer Network ® (NCCN ® ) and International Lymphoma Radiation Oncology Group (ILROG). While the NCCN ® has a dose range of 40 to 50 Gy that is independent of tumor size, ILROG recommends 35 Gy to 40 Gy for a SPB &lt; 5 cm. Tumors ≥ 5 cm have a dose range of 40 to 50 Gy. For Solitary Extramedullary Plasmacytoma (SEP), ILROG recommends a dose range of 40 to 50 Gy. Lesions excised with positive margins or small, well-defined lesions may be treated with 40 Gy.
+
+Anatomic location, tumor size, surgical resection, older age at diagnosis and persistence of myeloma protein for 1 year post radiation treatment have all been postulated to be of prognostic significance but none have been definitely proven due to contrasting studies. Monoclonal protein has been noted to disappear in up to 50% of cases. The reappearance of the protein heralds recurrence.
+
+- II. Multiple myeloma
+
+The role of radiation therapy in multiple myeloma is largely palliative with use of radiation dose regimens as listed in the Policy section of this guideline. Total Body Irradiation (TBI) can be performed prior to autologous stem cell transplant, but is no longer commonly used as it has a higher toxicity profile compared to melphalan alone. Helical tomographic total marrow irradiation is currently investigational.
+
+#### References
+
+1. Hu K, Yahalom J. Radiotherapy in the management of plasma cell tumors. Oncology (Williston Park) . 2000;14(1):101-115.
+
+2. Mahindra A, Ng AK. Multiple myeloma and other plasma cell neoplasms. In: Gunderson LL, Tepper JE, eds. Clinical Radiation Oncology . 4th ed. Elsevier; 2016:1547-1555.
+
+3. Munshi NC, Anderson KC. Plasma Cell Neoplasms. In: Devita VT Jr, Lawrence TS, Rosenberg SA, eds. Devita, Hellman, and Rosenberg's Cancer Principles &amp; Practice of Oncology . 10th ed. Wolters Kluwer; 2015:1682-1719.
+
+4. Ozsahin M, Tsang RW, Poortmans P, et al. Outcomes and patterns of failure in solitary plasmacytoma: a multicenter Rare Cancer Network study of 258 patients. Int J Radiat Oncol Biol Phys . 2006;64(1):210-217. doi:10.1016/j.ijrobp.2005.06.039
+
+5. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 4.2024 - April 26, 2024. Multiple Myeloma. https://www.nccn.org/professionals/physician\_gls/pdf/myeloma.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Multiple Myeloma Version 4.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+6. Rades D, Šegedin B, Conde-Moreno AJ, et al. Radiotherapy With 4 Gy x 5 Versus 3 Gy x 10 for Metastatic Epidural Spinal Cord Compression: Final Results of the SCORE-2 Trial (ARO 2009/01). J Clin Oncol . 2016;34(6):597-602. doi:10.1200/JCO.2015.64.0862
+
+7. Tsang RW, Campbell BA, Goda JS, et al. Radiation Therapy for Solitary Plasmacytoma and Multiple Myeloma: Guidelines From the International Lymphoma Radiation Oncology Group [published correction appears in Int J Radiat Oncol Biol Phys. 2018 Dec 1;102(5):1602]. Int J Radiat Oncol Biol Phys . 2018;101(4):794-808. doi:10.1016/j.ijrobp.2018.05.009
+
+8. Tsang RW, Gospodarowicz MK, Pintilie M, et al. Solitary plasmacytoma treated with radiotherapy: impact of tumor size on outcome. Int J Radiat Oncol Biol Phys . 2001;50(1):113-120. doi:10.1016/s0360-3016(00)01572-8
+
+POLICY
+
+- I. Definitive radiation therapy is considered medically necessary for the following:
+
+Low-grade follicular lymphoma
+
+Involved-site radiation therapy (ISRT) to 24-30 Gy in 12-20 fractions using 3DCRT or conventional isodose technique for stage I-II disease
+
+Mucosa-Associated Lymphoid Tissue (MALT) lymphomas
+
+ISRT to 24-36 Gy in 12-20 fractions using 3DCRT or conventional isodose technique
+
+Mantle cell lymphoma
+
+ISRT to 24-36 Gy in 12-20 fractions using 3DCRT or conventional isodose technique for stage I or contiguous nonbulky stage II disease
+
+Diffuse large B-cell lymphoma (DLBCL)
+
+- A. Following a complete response to chemotherapy, 30-36 Gy in 15-20 fractions of 3DCRT or conventional isodose technique
+
+- B. Following a partial response to chemotherapy, 36-50 Gy in 13-28 fractions of 3DCRT or conventional isodose technique
+
+- C. For refractory disease or primary treatment in an individual not receiving chemoimmunotherapy, 40-55 Gy in 20-36 fractions of 3DCRT or conventional isodose technique
+
+- D. In combination with hematopoietic cell transplant, 20-36 Gy in 10-20 fractions of 3DCRT or conventional isodose technique
+
+- E. Prophylactic testicular irradiation, 25-30 Gy in 13-20 fractions of 3DCRT or conventional isodose technique
+
+Extranodal NK/T-cell lymphoma
+
+- A. In combination with chemotherapy, 45-56 Gy in 25-30 fractions of 3DCRT or IMRT
+
+- B. For an individual unable to be treated with chemotherapy, 50-55 Gy in 25-30 fractions of 3DCRT or IMRT
+
+Peripheral T-cell lymphoma (PTCL)
+
+- A. Following a complete response to chemotherapy, 30-36 Gy in 15-20 fractions of 3DCRT or conventional isodose technique
+
+- B. Following a partial response to chemotherapy, 40-50 Gy in 20-28 fractions of 3DCRT or conventional isodose technique
+
+### Non-Hodgkin Lymphoma
+
+RO.TXS.122.A v1.0.2025
+
+- C. For refractory disease or primary treatment in an individual not receiving chemotherapy, 40-55 Gy in 20-30 fractions of 3DCRT or IMRT
+
+- D. In combination with hematopoietic cell transplant, 20-36 Gy in 10-20 fractions of 3DCRT or conventional isodose technique
+
+- II. Palliative radiation therapy
+
+Up to 10 fractions of 3DCRT or conventional isodose technique is considered medically necessary in an individual with advanced or recurrent non-Hodgkin lymphoma that is felt not to be curative.
+
+A dose of 20-36 Gy in 5-18 fractions of 3DCRT or conventional isodose technique is considered medically necessary in an individual with advanced or recurrent Extranodal NK/T-cell lymphoma that is felt not to be curative.
+
+- III. IMRT
+
+IMRT is considered medically necessary for definitive treatment of an individual with non-Hodgkin lymphoma located above the diaphragm. In sub-diaphragmatic presentations, IMRT will be approved when comparative 3DCRT and IMRT plans demonstrate that a 3DCRT plan does not meet the "Acceptable" normal tissue constraints using standard metrics published by the Radiation Therapy Oncology Group (RTOG)/National Comprehensive Cancer Network ® (NCCN ® ). Notwithstanding the above, IMRT is considered not medically necessary for the treatment of an individual with low dose radiation (ie, 2 Gy x 2 fractions).
+
+#### DISCUSSION
+
+Based upon established criteria, assessment of peer-reviewed literature, and consensus present in established guidelines (American College of Radiology [ACR]/American Society of Radiation Oncologists [ASTRO], NCCN ® ), radiation therapy is considered an integral component in the multidisciplinary management of many subtypes of NHL. Proper management of the disease requires the cooperation of a complex multidisciplinary team that includes experts in diagnostic imaging, pathology, radiation oncology and medical oncology. Treatment decisions for NHL are based on the pathologic subtype of the disease, initial stage of disease, and the medical condition of the individual. These factors determine the appropriate choice of radiation therapy technique and dose.
+
+The spectrum of lymphomas is vast and as such, the above coverage policy addresses the more commonly encountered scenarios. For subtypes not addressed, it is advised to refer to additional guidelines including those published by NCCN ® and ILROG.
+
+#### References
+
+1. Campbell BA, Voss N, Woods R, et al. Long-term outcomes for patients with limited stage follicular lymphoma: involved regional radiotherapy versus involved node radiotherapy [published correction appears in Cancer. 2011 Mar 1;117(5):1105]. Cancer. 2010;116(16):3797-3806. doi:10.1002/cncr.25117
+
+2. Goda JS, Gospodarowicz M, Pintilie M, et al. Long-term outcome in localized extranodal mucosa-associated lymphoid tissue lymphomas treated with radiotherapy. Cancer . 2010;116(16):3815-3824. doi:10.1002/ cncr.25226
+
+3. Haas RL, Poortmans P, de Jong D, et al. High response rates and lasting remissions after low-dose involved field radiotherapy in indolent lymphomas. J Clin Oncol . 2003;21(13):2474-2480. doi:10.1200/JCO.2003.09.542
+
+4. Horning SJ, Weller E, Kim K, et al. Chemotherapy with or without radiotherapy in limited-stage diffuse aggressive non-Hodgkins lymphoma: Eastern Cooperative Oncology Group Study 1484. J Clin Oncol . 2004 Jun 21; 22(15):3032-3038.
+
+5. Illidge T, Specht L, Yahalom J, et al. Modern radiation therapy for nodal non-Hodgkin lymphoma-target definition and dose guidelines from the International Lymphoma Radiation Oncology Group. Int J Radiat Oncol Biol Phys . 2014;89(1):49-58. doi:10.1016/j.ijrobp.2014.01.006
+
+6. Miller TP, Dahlberg S, Cassady JR, et al. Chemotherapy alone compared with chemotherapy plus radiotherapy for localized intermediate- and high-grade non-Hodgkin's lymphoma. N Engl J Med . 1998;339(1):21-26. doi:10.1056/NEJM199807023390104
+
+7. Morschhauser F, Radford J, Van Hoof A, et al. Phase III trial of consolidation therapy with yttrium-90ibritumomab tiuxetan compared with no additional therapy after first remission in advanced follicular lymphoma. J Clin Oncol . 2008;26(32):5156-5164. doi:10.1200/JCO.2008.17.2015
+
+8. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 26, 2024. Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma. https://www.nccn.org/professionals/physician\_gls/ pdf/cll.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+9. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - April 30, 2024. B-Cell Lymphomas. https://www.nccn.org/professionals/physician\_gls/pdf/b-cell.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for B-Cell Lymphomas Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+10. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - May 6, 2024. Primary Cutaneous Lymphomas. https://www.nccn.org/professionals/physician\_gls/pdf/primary\_cutaneous.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Primary Cutaneous Lymphomas Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+11. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - April 11, 2024. T-Cell Lymphomas. https://www.nccn.org/professionals/physician\_gls/pdf/t-cell.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for T-Cell Lymphomas Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+12. Phan J, Mazloom A, Medeiros LJ, et al. Benefit of consolidative radiation therapy in patients with diffuse large B-cell lymphoma treated with R-CHOP chemotherapy. J Clin Oncol . 2010;28(27):4170-4176. doi:10.1200/ JCO.2009.27.3441
+
+13. Qi SN, Li YX, Specht L, et al. Modern Radiation Therapy for Extranodal Nasal-Type NK/T-cell Lymphoma: RiskAdapted Therapy, Target Volume, and Dose Guidelines from the International Lymphoma Radiation Oncology Group. Int J Radiat Oncol Biol Phys . 2021;110(4):1064-1081. doi:10.1016/j.ijrobp.2021.02.011
+
+14. Wirth A, Mikhaeel NG, Aleman BMP, et al. Involved Site Radiation Therapy in Adult Lymphomas: An Overview of International Lymphoma Radiation Oncology Group Guidelines. Int J Radiat Oncol Biol Phys . 2020;107(5):909-933. doi:10.1016/j.ijrobp.2020.03.019
+
+15. Witzig TE, Gordon LI, Cabanillas F, et al. Randomized controlled trial of yttrium-90-labeled ibritumomab tiuxetan radioimmunotherapy versus rituximab immunotherapy for patients with relapsed or refractory low-grade, follicular, or transformed B-cell non-Hodgkin's lymphoma. J Clin Oncol . 2002;20(10):2453-2463. doi:10.1200/ JCO.2002.11.076
+
+POLICY
+
+Except where noted below, the number of external beam radiation therapy fractions rarely exceeds 30 for most non-malignant disorders. Per the evidence-based criteria below, the number of fractions allowed is dependent upon the clinical course of an individual.
+
+- I. Radiation therapy is considered medically necessary for the following non-malignant disorders:
+
+- A. Choroidal hemangioma
+
+- B. Desmoid tumor
+
+- C. Dupuytren's contracture (fibromatosis)
+
+- D. Extramedullary hematopoiesis (hypersplenism)
+
+- E. Giant cell tumor of bone (osteoclastoma)
+
+- F. Gorham-Stout syndrome (disappearing bone syndrome)
+
+- G. Graves' ophthalmopathy
+
+- H. Gynecomastia
+
+- I. Hemangiomas
+
+- J. Heterotopic ossification
+
+- K. Hypersalivation of amyotropic lateral sclerosis (ALS)
+
+- L. Hyperthyroidism
+
+- M. Keloid scar
+
+- N. Langerhans cell histiocytosis (eosinophilic granuloma)
+
+- O. Lethal midline granuloma (Stewards disease)
+
+- P. Paraganglioma (chromaffin positive)
+
+- Q. Parotid adenoma
+
+- R. Peyronie's disease (morbus peronie, induratio penis plastica)
+
+- S. Pigmented villonodular synovitis (tenosynovial giant cell tumor)
+
+- T. Pinealoma (pineal parenchymal tumors)
+
+- U. Precancerous melanosis
+
+- V. Pterygium
+
+- W. Splenomegaly secondary to either a myeloproliferative disorder, cirrhosis, or leukemia
+
+- X. Steward's disease (lethal midline granuloma)
+
+### Non-Malignant Disorders
+
+RO.TXS.123.A v1.0.2025
+
+- Y. Total body irradiation used as preparation of an individual for bone marrow or stem cell transplant
+
+- II. Radiation therapy is considered medically necessary for the following non-malignant disorders when there is failure, intolerance, or contraindication to established medical therapy and surgical treatments:
+
+- A. Aneurysmal bone cyst
+
+- B. Angiofibroma of nasopharynx (juvenile nasopharyngeal angiofibroma) with extension into the orbital apex or base of skull
+
+- C. Angiomatosis retinae (von Hippel Lindau syndrome)
+
+- D. Bowen's disease (squamous cell carcinoma in situ)
+
+- E. Carcinoid tumor
+
+- F. Castleman's disease (giant lymph node hyperplasia)
+
+- G. Choroid plexus papilloma
+
+- H. Degenerative skeletal and joint disorders
+
+- I. Erythroplasia of Queyrat
+
+- J. Inverted papilloma
+
+- K. Lymphangiomas (capillary, cavernous, cystic hydromas, lymphangeal hemangiomas)
+
+- L. Non-cutaneous neurofibromas
+
+- M. Orbital myositis
+
+- N. Orbital pseudotumor
+
+- O. Rosai-Dorfman disease
+
+- P. Neurosarcoidosis
+
+- Q. Tolosa-Hunt syndrome (episodic orbital pain)
+
+- R. Total lymphoid irradiation in situations of chronic rejection
+
+- III. Radiation therapy is considered not medically necessary for all other non-malignant diagnoses including, but not limited to the following:
+
+- A. Abortion
+
+- B. Acne
+
+- C. Adamantinoma (ameloblastoma)
+
+- D. Amyloidosis
+
+- E. Ankylosing spondylitis
+
+- F. Anovulation
+
+- G. Arachnoiditis
+
+- H. Cardiac radioablation
+
+- I. Castration
+
+- J. Corneal vascularization
+
+- K. Corneal xanthogranuloma
+
+- L. Cutaneous neurofibroma
+
+- M. Fibrosclerosis (sclerosing disorders)
+
+- N. Gas gangrene
+
+- O. Herpes zoster
+
+- P. Hidradenitis suppurativa
+
+- Q. Infections (bacterial)
+
+- R. Infections (fungal and parasitic)
+
+- S. Inflammatory (acute/chronic) disorders not responsive to antibiotics (furuncles, carbuncles, sweat gland abscesses)
+
+- T. Juvenile xanthogranuloma
+
+- U. Keratitis (bullous and filamentary)
+
+- V. Macular degeneration
+
+- W. Ocular trichiasis (epilation)
+
+- X. Osteoid osteoma (osteoblastoma, giant osteoid osteoma)
+
+- Y. Otitis media
+
+- Z. Pancreatitis
+
+- AA. Parotitis
+
+- AB. Peptic ulcer disease
+
+- AC. Perifolliculitis (scalp)
+
+- AD. Persistent lymphatic fistula
+
+- AE. Plasma cell granuloma (benign)
+
+- AF. Pregnancy
+
+- AG. Psoriasis
+
+- AH. Psychiatric disorders
+
+- AI. Pyogenic granuloma
+
+- AJ. Rheumatoid arthritis
+
+- AK. Sinusitis
+
+- AL. Thyroiditis
+
+- AM. Tonsillitis
+
+- AN. Tuberculosis lymphadenitis
+
+- AO. Vernal catarrh
+
+- AP. Warts
+
+#### DISCUSSION
+
+It was not long after the discovery of x-rays in 1895 that radiation was used for therapeutic purposes. Since benign disorders do not always follow a benign course, radiation was employed for many conditions for which there was no suitable therapeutic alternative. As improvements in competing therapies have been developed, such as antibiotics, antifungals, antivirals, chemotherapies, improved surgical techniques, and immunological therapy, radiation therapy is no longer appropriate for many disorders, yet has become the preferred therapy for others. New indications have evolved over time. Where applicable, comments regarding changed indications are included in the brief discussion that follows of disorders for which radiation may have been used in the past or is presently in use. Each of the disorders listed is addressed in at least 1 of the references and, therefore, included in this policy.
+
+Disorders treatable with radiation fall into the general categories of inflammatory, degenerative, hyperproliferative, functional, or "other" in nature.
+
+Acceptance of the appropriateness of using radiation has developed using several means. Historically, a trial and error approach prevailed, not different from the empiric use of pharmacological agents and surgical procedures that satisfied logic but lacked validation by now-customary rigor of prospective trials. Current indications may be based on experience-based consensus or on higher-level evidence that has resulted from formal study. Over the past 5 decades, consensus has been measured by polling practitioners on what is considered the appropriate uses of radiation. Such surveys in the United States, Germany and the United Kingdom supplement peer-reviewed journal publications and chapters in major radiation oncology texts, the latter reporting more evidence-based guidance that is the result of clinical studies. Both necessarily serve as the foundation for this policy.
+
+As should be the case with all therapies, a decision whether to use radiation to treat a non-cancerous disorder should be based on safety, efficacy, and availability as measured against competing modalities, including the natural history of the disorder if left untreated, and must be subjected to informed consent. Consistent with that end, disorders have been grouped into categories for which radiation is considered: generally accepted; accepted if more customary therapy is unavailable, refused or has failed, or appropriate only as a last resort; or inappropriate under any circumstance. When utilized, radiation should be delivered using a technique that is not unnecessarily complex, and to the lowest dose that is sufficiently likely to achieve the desired result.
+
+The earlier (more than 50 years ago) history of the use of radiation therapy to treat noncancerous conditions is also very rich, but precedes the overview below. For a review of pre-1965 thoughts, the review by Dr. Stephen Dewing is recommended. Additional information regarding specific disorders may also be obtained from subscription services such as the Cochrane Review and UpToDate.
+
+- I. Condition
+
+- A. Abortion
+
+It is known that radiation at sufficient dose can cause an abortion. There is no support for its use in any of the references cited.
+
+B. Acne
+
+Historically, superficial x-ray therapy was used to treat acne by 41.8% of dermatologists in the U.S. Department of Health, Education, and Welfare survey report of 1977. No subsequent modern era radiation oncology review supports the use of ionizing radiation in the treatment of acne. Improved alternative treatments and the risk of radiation-induced cancer render its use obsolete for the treatment of acne.
+
+- C. Adamantinoma (ameloblastoma)
+
+These rare, locally aggressive but usually histologically benign tumors are of epithelial origin and are most commonly of jaw or tibial location. The etiology of epithelial tissue in an unusual location is the subject of debate. These tumors tend to recur and require aggressive surgery. Being rare, experience is very limited. Most references agree surgery is the treatment of choice. The use of radiation is reported historically as beneficial, but with little evidence. The 2002 text by Order and Donaldson supplies several references, each with few cases to report, and mainly of mandible or maxillary origin.
+
+- D. Amyloidosis
+
+There is only an occasional case report of the use of ionizing radiation therapy in the treatment of amyloidosis. There is no support for its use in the modern era.
+
+- E. Aneurysmal bone cyst
+
+These are relatively rare and benign osteolytic lesions of bone usually occurring in children or young adults. They are not true neoplasms, rather are a hyperplasia filled with blood-filled channels. Initial management is surgical. Interventional radiology procedures are also available. Because of the availability of alternative therapy and the typically young age of patients, the use of ionizing radiation is a last resort.
+
+- F. Angiofibroma of nasopharynx (juvenile nasopharyngeal angiofibroma)
+
+While optimum management is controversial, there is general agreement that surgery is preferred if considered safe, as in cases when there is no extension into the orbital apex or base of skull. Since the typical patient is young, regard for the long-term hazard of radiation is important. When radiation is used, the radiation dose is lower than in malignant tumors of the same location. Response to treatment tends to be slow and may take several years to be evident.
+
+- G. Angiomatosis retinae (von Hippel Lindau syndrome)
+
+Capillary hemangiomas associated with von Hippel Lindau syndrome may be single or multiple, and can severely affect vision. They may be associated with hemangiomas in the cerebellum and brainstem. Multiple therapies exist including thermal and laser photocoagulation, cryotherapy, vitreoretinal surgery, beta plaque radiation therapy, and external beam radiation therapy (EBRT). Reports have described the successful use of EBRT for salvage.
+
+- H. Ankylosing spondylitis
+
+The use of radiation therapy in the treatment of ankylosing spondylitis is of historical interest. The risk of radiation-induced cancer and other morbidity contraindicates its use and is often cited as a common example of radiation carcinogenesis in radiobiological studies.
+
+- I. Anovulation
+
+The use of radiation therapy in the treatment of anovulation is of historical interest only and is occasionally discussed in the treatment of functional pituitary adenomas.
+
+- J. Arachnoiditis
+
+In the pre-antibiotic era, the beneficial use of radiation for the treatment of arachnoiditis was described. This is obsolete in the modern era.
+
+- K. Bowen's disease (squamous cell carcinoma in situ)
+
+This entity is considered pre-malignant and may progress into invasive cancer. The term "Bowen's disease" refers to the specific anatomic locations of the shaft of the penis or the hairy skin of the inguinal or suprapubic regions. It can be mistaken for other disorders because of the features it shares with psoriasis and eczema. Earlier references include superficial radiation as a means of treatment. Evidence consists only of case reports and modest consensus in older literature. The use of superficial radiation should be limited to situations in which typical alternatives (surgery, electrodessication and curettage, topical 5FU), are not possible.
+
+- L. Carcinoid tumors
+
+These may be secretory or non-secretory. Surgical resection is the indicated initial treatment if removal is possible. For those unresectable non-secretory lesions causing symptoms such as pain, radiation may be beneficial. For secreting tumors, radiation therapy is limited to those causing symptoms that are not controllable by medical means.
+
+- M. Cardiac radioablation
+
+Cardiac radioablation (CRA) is currently being studied as a possible treatment for end-stage ventricular tachycardia (VT). This non-invasive treatment uses SBRT to ablate the 'diseased myocardium harboring the VT circuit(s) while sparing as much of the surrounding healthy cardiac tissue as possible.'
+
+The ENCORE study (Cuculich) was one such early study that evaluated the efficacy of CRA for VT. In this 2015 study, 5 patients with high-risk end-stage refractory VT were treated with CRA. Despite taking 2 antiarrhythmic drugs, there were 6577 episodes of VT in the 15 patient-months before treatment. In 3 patients, previous catheter-ablation procedures had failed. All patients had class III or IV heart-failure symptoms.
+
+Three weeks after CRA, 1 patient with a history of atrial fibrillation died of a fatal stroke. Of the 4 remaining patients, 1 restarted an antiarrhythmic drug at 9 months. At a median follow-up of 12 months and after the 6 week 'blanking period', there were only 4 episodes of VT during, equating to a 99.9% relative reduction from baseline. There were no apparent complications or adverse effects. As a result of this promising study, a phase I/II trial (ENCORE-VT) was initiated.
+
+ENCORE-VT (Robinson) was a prospective phase I/II trial that enrolled 19 patients with refractory VT (17) or cardiomyopathy related to premature ventricular contractions (PVCs) (2). Results of this trial confirmed that of the earlier ENCORE trial in that the overall number of VT events was reduced by 94% while the use of antiarrhythmic drugs was also significantly reduced. At 24 months post-treatment, 78% of patients continued to meet the primary efficacy endpoint (a reduction in number of ICD treatments or 24-hour PVC burden). Despite the encouraging results, the authors conclude that due to 'limited long-term follow-up, treatment at a single center, and limited number of patients and narrow patient selection, which prohibit generalization to a larger population…this technique remains investigational.' Further 'evaluation of the necessity or optimal patient selection for use of this modality will be important', likely necessitating 'a multicenter trial to demonstrate scalability of this approach… while refining best practices for safety and efficacy.'
+
+N. Castleman's disease (giant lymph node hyperplasia)
+
+This disorder is characterized by angiofollicular lymphoid hyperplasia and can occur in any location in the body, commonly in the orbit (orbital pseudotumor) and Waldeyer's ring. The relationship to subsequent malignant lymphoma is unclear, with malignant lymphoma reported in as many as 30% of cases. Synonyms include giant follicular lymph node hyperplasia, follicular lymphoreticuloma, angiomatous lymphoid hamartoma, and giant benign lymphoma. As described by Castleman, it is a benign condition. True lymphoma should be ruled out by biopsy to prove a polyclonal nature. Steroids are indicated as initial management. Low dose radiation therapy has been reported as effective in refractory or relapsed cases if further use of steroids is contraindicated.
+
+- O. Castration
+
+There is evidence that with sufficient dose, radiation can effectively and permanently cease gamete production and hormone production in the testes and ovaries. The indications for doing so are very limited. Surveys reported by Order and Donaldson (1998) indicated 75% of surveyed radiation oncologists would use radiation for this purpose with the appropriate indication. The U.S. Department of Health, Education, and Welfare survey report of 1977 included castration as an acceptable indication. The availability of drugs which achieve the same result has largely rendered this as obsolete.
+
+P. Choroid plexus papilloma
+
+Choroid plexus papillomas range from the very benign (World Health Organization [WHO] grade 1) to the invasive carcinomas (WHO grade III). They are more common in very young children. Surgery is the treatment of choice. Adjuvant radiation is not indicated unless there is progression that cannot be dealt with surgically.
+
+Q. Choroidal hemangioma
+
+These are rare vascular tumors and may be circumscribed or diffuse, the latter associated with Sturge-Weber syndrome. Non-radiation treatments are available (photodynamic, laser, thermotherapy.) Radiation therapy is preferable for diffuse lesions, especially if near the macula or papilla, and for those not responding to other therapeutic maneuvers. Typically, radiation therapy is given using conventional isodose technique or three-dimensional conformal external photon beam technique, or using low dose rate brachytherapy plaque.
+
+R. Corneal vascularization
+
+Radiation therapy is not indicated in the treatment of corneal neovascularization. The entity is not to be confused with pterygium.
+
+S. Corneal xanthogranuloma
+
+Corneal xanthogranulomas may develop in association with generalized juvenile xanthogranuloma and generalized histiocytosis. Reports in old literature of the treatment by contact radiation or photons do not establish any definite benefit. They commonly regress spontaneously. First line therapy, when observation is not selected, is steroid therapy or surgery.
+
+T. Degenerative skeletal disorders
+
+Radiation therapy may be used for symptomatic degenerative skeletal and joint disorders (ie, plantar fasciitis, trochanteric bursitis) that are refractory to conventional methods. For plantar fasciitis, for example, 1 Gy per week for 6 weeks was associated with a response rate approaching 80% and durable at 48 weeks. Using conventional isodose technique, up to 8 fractions is considered appropriate.
+
+- U. Desmoid tumor
+
+Also known as aggressive fibromatosis or deep musculoapeuronotic fibromatosis, a desmoid tumor is a histologically benign connective tissue tumor with a high recurrence rate after resection. Most common sites are trunk, extremity, abdominal wall, and intra-abdominal sites, including bowel and mesentery. If stable, observation is appropriate. Surgical resection with negative surgical microscopic margins is the treatment of choice for most. Radiation therapy is indicated for inoperable cases, and may be used in conjunction with surgery and chemotherapy. Typical treatment is with three-dimensional conformal radiation therapy (3DCRT) in 28 or fewer fractions. Fractionated radiation therapy in excess of 50 Gy is needed for control, which may preclude its use in those of intra-abdominal location.
+
+V. Dupuytren's contracture (fibromatosis)
+
+This may develop in the hand (Morbus Dupuytren) or foot (Morbus Ledderhose) and is a connective tissue disorder of the palmar or plantar fascia. Radiation therapy is useful, especially in the earlier stages of development, and has been demonstrated in prospective clinical trials. Typical treatment is with photon beam therapy using, at most, conventional isodose technique, or with electron beam therapy in 10 or fewer fractions.
+
+W. Erythroplasia of Queyrat
+
+This in situ form of epidermoid carcinoma involves the mucosal or mucoepidermoid areas of the prepuce or glans penis. An invasive component is not infrequent. Sometimes it is referred to as Bowen's disease of the penis. Erythroplasia of Queyrat involves the mucosal or mucoepidermoid areas of the prepuce or glans penis, whereas the term Bowen's disease refers to squamous cell carcinoma in situ involving the shaft of the penis or the hairy skin of the inguinal or suprapubic region. While radiation treatments were used in the past, as Erythroplasia of Queyrat is non-invasive, its treatment can be managed with a non-radiotherapeutic approach using topical agents.
+
+- X. Extramedullary hematopoiesis (hypersplenism)
+
+This is a myeloproliferative syndrome that most commonly involves the spleen, but can occur in the liver, lymph nodes, lungs, kidneys, GI tract, and central nervous system. Chemotherapeutic management is the initial treatment of choice. Radiation therapy is considered necessary in those cases in which medical management is ineffective or otherwise contraindicated.
+
+- Y. Fibrosclerosis (sclerosing disorders)
+
+Unifocal and multifocal episodes of sclerosis have been treated in the past using radiation therapy. Sites reported include retroperitoneum, mediastinum, bile ducts, thyroid, meninges, orbits, and others. While anecdotal reports of improvement have been reported, generally radiation therapy is regarded as ineffective and should not be used.
+
+- Z. Fungal infections (see Infections, fungal)
+
+In the 1940s and 1950s x-rays were used, not infrequently, to treat tinea capitis and other skin fungal infections. In the modern era of available pharmacologic agents for the treatment of fungal infections, the benefit of use of radiation therapy is outweighed by the risk of carcinogenesis.
+
+AA. Gas gangrene
+
+Before the discovery of antibiotics, radiation therapy was used to treat open wounds to prevent infections, and reports exist that this was of benefit. There is no benefit of the use of radiation in the era of antibiotics.
+
+AB. Giant cell tumor of bone (osteoclastoma)
+
+Once thought to be a benign disorder, these tumors are best regarded as malignant with a potential for metastasis. Surgery is the initial treatment of choice, but many osteoclastomas arise in bones (spine and pelvis) in which surgical resection would be unnecessarily debilitating. Local control with radiation is reported in the 75% to 85% range and can be administered safely using modern era equipment.
+
+AC. Gorham-Stout syndrome (disappearing bone syndrome)
+
+Also known as phantom bone, this entity is characterized by a destructive proliferation of endothelial-lined sinusoidal or capillary proliferation that may or may not be progressive, causing bone destruction most commonly in the pelvis or shoulder girdle that results in a functional deformity. Surgery is an alternative to radiation. Typical treatment is with 3DCRT in 25 or fewer fractions.
+
+- AD. Graves' ophthalmopathy
+
+This is an autoimmune disorder associated with hyperthyroidism that affects the eye musculature and retrobulbar tissues causing proptosis and visual impairment. It may be unilateral or bilateral. Carefully selected cases that do not respond to medical measures may be improved with the use of carefully administered conformal radiation. Typical treatment is with conventional isodose technique or three-dimensional conformal radiation therapy (3DCRT) in 10 fractions.
+
+AE. Gynecomastia
+
+In the older era of orchiectomy or the use of diethylstilbestrol for the treatment of metastatic or locally advanced prostate cancer, it was commonplace to irradiate the breasts on a prophylactic basis to prevent uncomfortable gynecomastia. In the modern era of chemical androgen deprivation for the treatment of prostate cancer, the use of modest doses of radiation to the breasts may arrest or prevent the resultant gynecomastia and is medically appropriate. Typically the radiation is given with electron beam therapy in 5 or fewer fractions.
+
+AF. Hemangiomas
+
+Though benign by histology, these vascular tumors that may arise in the brain, spinal cord, subglottis, glottis, liver, GI tract, urinary tract, joints and orbit may be disastrous. The use of radiation therapy is a suitable alternative to surgical or medical management. It is especially important to explore alternative therapy in pediatric cases. Depending on circumstances, the technique employed may range from simple to intensity-modulated radiation therapy (IMRT), and is usually delivered in 30 or fewer fractions.
+
+- AG. Herpes zoster
+
+Presented here only for historical perspective, the use of radiation to treat the nerve roots associated with cutaneous eruption of zoster was once employed, and even said to be sometimes acceptable in the 1977 survey of the U.S. Department of Health, Education and Welfare. More recent surveys and study have shown no benefit. The subsequent development and use of antiviral drugs is appropriate.
+
+AH. Heterotopic ossification (before or after surgery)
+
+Radiation is known to prevent the heterotopic bone formation often seen in association with trauma or joint replacement in high risk patients. The radiation is most effective if given shortly (within 4 hours) prior to surgery, or within 3 or 4 days after surgery. A radiation dose of 7 Gy to 8 Gy in a single fraction of conventional isodose planned therapy is typical.
+
+- AI. Hidradenitis suppurativa
+
+Outside of case reports, there remains very limited data on the benefits of radiation in the treatment of hidradenitis suppurativa (HS). Given the other available options (ie, topical and oral) as well as a terminated phase I trial investigating radiation in HS (NCT03040804), the use of radiation remains unproven.
+
+- AJ. Hypersalivation of amyotrophic lateral sclerosis (ALS)
+
+It is well known that radiation will decrease saliva production as a consequence of treating head and neck cancer. This phenomenon has occasionally been exploited in cases of excess saliva production in patients with ALS. While literature is scant, surveys indicate general acceptance of the use of radiation in this situation when other means of management are ineffective or impractical.
+
+- AK. Hyperthyroidism
+
+The use of systemic 131-I is an accepted alternative to surgery and/or medical management.
+
+- AL. Infections (bacterial)
+
+In the antibiotic era, there is no recognized indication for the use of radiation therapy in the treatment of bacterial infections.
+
+- AM. Infections (fungal and parasitic)
+
+The experimental use of radiation to treat unusual and rare fungal and parasitic disorders, such as ocular histoplasmosis and cerebral cisticercosis, has been reported in the literature. This is regarded as investigational.
+
+- AN. Inflammatory (acute/chronic) disorders not responsive to antibiotics (furuncles, carbuncles, sweat gland abscesses).
+
+Variations exist worldwide as to the appropriateness of using ionizing radiation for these disorders. The German review of 2002 lists them as potential indications, however elsewhere this opinion is not supported. The U.K. policy states that for a refractory case with no other alternative, low dose radiation therapy "might be worth considering".
+
+AO. Inverted papilloma
+
+The treatment of choice is surgical resection of these usually benign lesions of the nasal cavity and paranasal sinuses. However, a malignant component is found in a small percentage of cases, and radiation therapy is then indicated. In cases of incomplete resection or suspected malignant component, radiation therapy is considered medically necessary.
+
+AP. Keloid scar
+
+Data is abundant that a few fractions of a relatively small amount of radiation will reduce the chance of recurrence after a keloid is resected. This is medically necessary when other means are less appropriate or have proven ineffective. Typical radiation treatment utilizes superficial x-ray, electron beam, or conventional isodose technique photon beam therapy in 4 or fewer fractions.
+
+AQ. Keratitis (bullous and filamentary)
+
+Bullous and filamentary keratitis were listed in the 1977 U.S. Department of Health, Education and Welfare as entities for which radiation therapy was sometimes appropriate. They are not included in the more recent German and U. K. reviews. Current literature does not support the use of radiation for either form of keratitis.
+
+AR. Langerhans cell histiocytosis
+
+The literature has consistently supported the use of radiation therapy for treatment of this disorder over the time period studied. Involvement can be focal or systemic, and behavior variable. The etiology is unknown, and it may prove to be a nonbenign entity. Chemotherapy is commonly utilized when treatment is necessary, with radiation more commonly used to treat localized growths. Typical treatment is with 3DCRT in 28 or fewer fractions.
+
+AS. Lymphangiomas
+
+There are 4 types: capillary, cavernous, cystic hygromas, and lymphangeal hemangiomas. Surgery is the treatment of choice. In rare instances, radiation therapy may be appropriate for refractory lesions with repeated recurrence after resection. These may cause a chylous effusion if there is pleural involvement, in which case radiation therapy may be useful in managing chylothorax. A specific presentation of lymphangioma may be Gorham-Stout syndrome (see above).
+
+AT. Lethal midline granuloma
+
+This is a progressive, destructive process which involves the mid-facial structures. It has many synonyms depending on its anatomic presentation. It has been considered a benign entity, may mimic other lymphoproliferative processes, requires caution in diagnosis, and may be a malignant T-cell disorder. Alternative therapy may be more appropriate, but radiation therapy is considered appropriate for management of localized presentations or in conjunction with systemic therapy.
+
+AU. Macular degeneration
+
+There was great optimism that age related wet macular degeneration could be controlled by the use of radiation therapy to arrest the progression of choroidal neovascularization. Radiation was a preferred method of treatment in the USA in the 1990s and early 2000s. Subsequent multi-centered randomized trials have not proven benefit. The use of intraocular injections of anti-VEGF drugs has emerged as the first line of management. Newer approaches to the use of radiation therapy, such as epimacular brachytherapy and stereotactic radiosurgery (SRS) are being investigated as alternatives or as complementary methods so as to reduce the frequency of intraocular injections. Until the results of these studies are known, the appropriateness of using radiation is unproven.
+
+AV. Non-cutaneous neurofibromas
+
+Benign neurofibromas most commonly develop in association with von Recklinghausen disease, and may occur in central nervous system (CNS) and non-CNS locations. Radiation may be appropriate for select individuals with symptomatic non-cutaneous lesions if not amenable to resection.
+
+AW. Ocular trichiasis (epilation)
+
+Of historical interest, on occasion, to cause epilation of eyelashes, radiation has been used in dermatology or ophthalmology practices to aid in the clearance of trachoma or ocular pemphigoid. Radiation is not medically necessary for this in the modern era.
+
+AX. Orbital myositis
+
+This entity is an idiopathic inflammatory condition of the extraocular muscles and may be of autoimmune etiology. It can mimic other similar-appearing orbital inflammatory disorders. Management without radiation, usually with steroids, is first line. Failing conservative measures, radiation is given typically using 3DCRT or conventional isodose technique in 15 or fewer fractions.
+
+AY. Orbital pseudotumor (lymphoid hyperplasia)
+
+The indications for the use of radiation therapy are for those lesions which recur after surgery, or become refractory to steroids and are not amenable to other management. Typical treatment is with conventional isodose technique or 3DCRT in 10 fractions.
+
+AZ. Osteoid osteoma (osteoblastoma, giant osteoid osteoma)
+
+Osteoid osteoma, osteoblastoma, giant osteoid osteoma are synonyms. Old literature reports included anecdotes of the use of radiation to treat this entity, for which surgery is the treatment of choice.
+
+BA. Otitis media
+
+Bilateral otitis media caused by swollen lymphoid tissue in the nasopharynx was in the past sometimes treated by placement of radioactive material in the nasopharynx to reopen the eustachian tubes. The carcinogenic effect of this makes this treatment inappropriate.
+
+BB. Pancreatitis
+
+Radiation therapy has been used in the past for its anti-inflammatory effect in the treatment of pancreatitis. There is no role for its use for this purpose in the modern era.
+
+BC. Paraganglioma (chromaffin positive)
+
+As with their chromaffin negative counterparts, radiation therapy is indicated in those cases which are inaccessible by surgery, for salvage if recurrent, or as adjuvant therapy if incompletely removed. Typical treatment is with 3DCRT, SRS, or IMRT.
+
+BD. Parotid adenoma
+
+Pleomorphic adenomas of the parotid gland more commonly occur in younger persons and the use of radiation must be approached judiciously. There are indications for radiation therapy such as size &gt; 4 cm, positive margin status, and multinodularity.
+
+BE. Parotitis
+
+Although historically appropriate in the pre-antibiotic era because of a high mortality rate for post-operative suppurative parotitis, radiation is not indicated in the present era.
+
+BF. Peptic ulcer disease
+
+Subsequent to the availability of H2 blockers, radiation therapy is not indicated in the management of peptic ulcer disease despite prior evidence of its efficacy. The increased risk of carcinogenesis of the pancreas, colon, and stomach is a strong contraindication.
+
+BG. Perifolliculitis (scalp)
+
+The use of radiation to cause hair loss and allow the infection of this disease to then clear has been described in older literature. The availability of topical agents and of laser treatment has rendered obsolete the use of radiation for this purpose.
+
+BH. Persistent lymphatic fistula
+
+Lymphatic leaking, most commonly after arterial reconstruction surgery in the groin, is usually treated with additional surgery (ligation, flap construction), direct pressure, application of hemostatic healing agents, and the use of negative pressure. It is listed in the German literature as an indication for the use of radiation therapy, without reference.
+
+- BI. Peyronie's disease (Morbus Peronie, Induratio penis plastica)
+
+There is sufficient (older and current) literature support to justify the use of low doses of radiation in the treatment of this disease of the penis. Simple, conventional planned photon beam radiation, orthovoltage, or electron beam radiation in 5 or fewer fractions is typical.
+
+- BJ. Pigmented villonodular synovitis (tenosynovial giant cell tumor)
+
+Surgical resection and synovectomy or joint replacement is the treatment of choice. However, if recurrent after resection, or diffuse or bulky disease causing bone destruction is present, the use of radiation is justified. Radiation treatment with photon beam therapy using conventional isodose technique or three-dimensional conformal radiation therapy (3DCRT) planning in 28 or fewer sessions is typical.
+
+- BK. Pinealoma (pineal parenchymal tumors)
+
+Pinealoma refers to tumors that arise in the pineal gland. For the tumors at the benign end of the spectrum of such tumors, surgical resection is preferred. Postoperative radiation is appropriate for those that cannot be removed completely. For higher grades of tumor, refer to the separate guideline, Primary Craniospinal Tumors and Neurologic Conditions .
+
+- BL. Pituitary adenoma
+
+Surgical removal is the treatment of choice, with radiation therapy indicated for medically inoperable cases, recurrence after surgery, incomplete resection, or persistence of elevated hormones after resection of functional adenomas. Typical treatment is with 3DCRT, SRS, or IMRT.
+
+- BM. Plasma cell granuloma (benign)
+
+Treatment of a true benign plasma cell granuloma is surgical resection.
+
+- BN. Precancerous melanosis
+
+Precancerous melanosis may also be called lentigo maligna, Hutchinson's melanotic freckle, or circumscribed precancerous melanosis of Dubreuilh, and has lentigo maligna melanoma as an invasive counterpart. About one third of these will transform into the malignant version if left untreated. Radiation therapy is indicated for those which recur or for more extensive lesions.
+
+BO. Pregnancy
+
+Radiation therapy has been used in the past for both an attempt at improving fertility (see anovulation) and for the termination of intrauterine or tubal pregnancy (see abortion). Presently, neither indication is medically appropriate.
+
+- BP. Psoriasis
+
+Both the German and the U.K. reviews include psoriasis as a historic indication for the use of low dose radiation in the treatment of some cases. However, with the availability of topical, ultraviolet and systemic therapies and given the lack of recent supportive literature or evidence for the use of radiation, the use of radiation is not indicated.
+
+BQ. Psychiatric disorders
+
+Radiation therapy has been used to treat some psychiatric disorders in mimicry of surgical procedures with the same intent, such as SRS to achieve a ventral capsulotomy in the treatment of obsessive compulsive disorder. The use of radiation for this purpose is considered investigational and unproven.
+
+- BR. Pterygium
+
+The use of radiation to treat a pterygium is supported in the clinical references reviewed. It is usually performed with contact beta brachytherapy in 3 fractions.
+
+- BS. Pyogenic granuloma
+
+Despite 1 case report in the literature of successful treatment of a pyogenic granuloma of the middle ear with radiation, treatment of a pyogenic granuloma is surgical. There is no current support in the American or European literature.
+
+BT. Rheumatoid arthritis
+
+Attempts at treating rheumatoid arthritis with radiation have included single joint external beam radiation, intra-articular infusions of radioactive isotopes, and total lymphoid irradiation for immunosuppression. None is standard of care.
+
+BU. Rosai-Dorfman disease
+
+Rosai-Dorfman disease is a rare disorder characterized by a benign histiocyte proliferation. It can produce massive adenopathy. Treatments used have included surgery, chemotherapy, and steroids. In lesions involving the airway not responding to more conservative measures, radiation therapy has been used with success. When utilized, radiation planning using conventional isodose technique or 3DCRT and delivered in up to 22 fractions is typical.
+
+- BV. Sinusitis
+
+Sinusitis caused by infection does not have literature support for treatment by radiation therapy.
+
+BW. Splenomegaly
+
+Splenomegaly treated by radiation therapy is most commonly caused by leukemic or myeloproliferative diseases, and to a lesser extent by metastases from solid tumors. The policy for the use of radiation therapy in these malignant conditions is not covered in this guideline. However, the use of radiation therapy for the treatment of hypersplenism or splenomegaly caused by a "benign" or premalignant myelodysplastic syndrome also has a basis in the literature. Very low doses of radiation on a less than daily schedule are usually advised. Typically radiation is delivered in 10 or fewer fractions, planned using conventional isodose technique or 3DCRT.
+
+- BX. Thyroiditis
+
+Presently there is no indication for the use of radiation therapy for the treatment of thyroiditis.
+
+BY. Tolosa-hunt syndrome (episodic orbital pain)
+
+This is caused by nonspecific inflammation of the cavernous sinus or superior orbital fissure. Steroids commonly are used first. For refractory cases, drugs such as methotrexate may be used. The successful use of low dose radiation has been reported and may be used as a last resort.
+
+- BZ. Tonsillitis
+
+In the modern era of antibiotics, the use of radiation to treat inflamed or infected tonsils is obsolete.
+
+- CA. Total body irradiation
+
+For the preparation of patients for bone marrow or stem cell transplant for malignant disorders, see the guideline for the primary disease. For non-malignant, pre-malignant and quasi-benign marrow disorders such as aplastic anemia or myelodysplastic disorders, total body irradiation prior to transplant may be appropriate if chemotherapeutic preparation is not possible. The use of total body irradiation for immunosuppression as treatment of totally non-malignant disorders, such as auto-immune diseases is not medically appropriate.
+
+- CB. Total lymphoid irradiation
+
+Total lymphoid irradiation has been used for the purpose of immunosuppression in the treatment of immune-mediated disorders (eg, autoimmune disorders) and for the purpose of prevention of rejection of transplanted organs, where it has been found useful in the short term, but with decreased subsequent efficacy and the development of myelodysplasia. Further research is needed to establish its role, but it remains an option in situations of chronic rejection in which conventional antirejection treatment is no longer viable.
+
+CC. Tuberculosis lymphadenitis
+
+Prior to the availability of antibiotics for tuberculosis, lymphadenitis caused by this disease responded to therapeutic radiation. Available antibiotics obviates this disorder as an indication for radiation.
+
+CD. Vernal catarrh
+
+This disorder is characterized by inflammation of the conjunctiva associated with infiltration by eosinophils, lymphocytes, plasma cells and histiocytes. The resultant hyperplasia of the conjunctival epithelium may respond to ionizing radiation, but alternative therapy is readily available, and the use of radiation is no longer supported in any literature.
+
+- CE. Warts
+
+Older literature describes an 80% response rate in treating warts with a relatively low dose of radiation. However, with the availability of numerous topical therapeutics and given the lack of recent supportive literature or evidence for radiation, the use of radiation is not indicated.
+
+#### References
+
+1. Armstrong AW, Read C. Pathophysiology, Clinical Presentation, and Treatment of Psoriasis: A Review. JAMA . 2020;323(19):1945-1960. doi:10.1001/jama.2020.4006
+
+2. Asmussen L, Bitsch M. X-ray treatment of plantar warts and the development of skin carcinoma. Acta Derm Venereol . 2006;86(4):378-379. doi:10.2340/00015555-0103
+
+3. Assembly of Life Sciences (U.S.). Committee to Review the Use of Ionizing Radiation for the Treatment of Benign Diseases. Bureau of Radiological Health. National Academies. 1977.
+
+4. Borok TL, Bray M, Sinclair I, Plafker J, LaBirth L, Rollins C. Role of ionizing irradiation for 393 keloids. Int J Radiat Oncol Biol Phys . 1988;15(4):865-870. doi:10.1016/0360-3016(88)90119-8
+
+5. Chamseddin BH, Le LQ. Management of cutaneous neurofibroma: current therapy and future directions. Neurooncol Adv . 2019;2(Suppl 1):i107-i116. Published 2019 Dec 16. doi:10.1093/noajnl/vdz034
+
+6. Chao KS, Perez CA, Brady LW, eds. Radiation Oncology: Management Decisions . Lippincott-Raven; 1999.
+
+7. Cuculich PS, Schill MR, Kashani R, et al. Noninvasive Cardiac Radiation for Ablation of Ventricular Tachycardia. N Engl J Med . 2017;377(24):2325-2336. doi:10.1056/NEJMoa1613773
+
+8. Dewing SB. Radiotherapy of benign diseases: overview by Dr. Dewing. In: Gofman JW, O'Connor E. Preventing Breast Cancer: The Story of a Major, Proven, Preventable Cause of This Disease . 2nd ed. C.N.R. Book Division, Committee for Nuclear Responsibility, Inc; 1996:243-254.
+
+9. Elmets CA, Korman NJ, Prater EF, et al. Joint AAD-NPF Guidelines of care for the management and treatment of psoriasis with topical therapy and alternative medicine modalities for psoriasis severity measures. J Am Acad Dermatol . 2021;84(2):432-470. doi:10.1016/j.jaad.2020.07.087
+
+10. Eng TY, Boersma MK, Fuller CD, et al. The role of radiation therapy in benign diseases. Hematol Oncol Clin North Am . 2006;20(2):523-557. doi:10.1016/j.hoc.2006.01.023
+
+11. Gianni C, Rivera D, Burkhardt JD, et al. Stereotactic arrhythmia radioablation for refractory scar-related ventricular tachycardia. Heart Rhythm . 2020;17(8):1241-1248. doi:10.1016/j.hrthm.2020.02.036
+
+12. Jemec GB. Clinical practice. Hidradenitis suppurativa. N Engl J Med . 2012;366(2):158-164. doi:10.1056/ NEJMcp1014163
+
+13. Jumeau R, Ozsahin M, Schwitter J, et al. Stereotactic Radiotherapy for the Management of Refractory Ventricular Tachycardia: Promise and Future Directions. Front Cardiovasc Med . 2020;7:108. Published 2020 Jun 25. doi:10.3389/fcvm.2020.00108
+
+14. Loo BW Jr, Soltys SG, Wang L, et al. Stereotactic ablative radiotherapy for the treatment of refractory cardiac ventricular arrhythmia. Circ Arrhythm Electrophysiol . 2015;8(3):748-750. doi:10.1161/CIRCEP.115.002765
+
+15. Lydiard PGDip S, Blanck O, Hugo G, O'Brien R, Keall P. A Review of Cardiac Radioablation (CR) for Arrhythmias: Procedures, Technology, and Future Opportunities. Int J Radiat Oncol Biol Phys . 2021;109(3):783-800. doi:10.1016/j.ijrobp.2020.10.036
+
+16. McKay C, Knight KA, Wright C. Beyond cancer treatment - a review of total lymphoid irradiation for heart and lung transplant recipients. J Med Radiat Sci . 2014;61(3):202-209. doi:10.1002/jmrs.63
+
+17. Mendenhall WM, Mancuso AA, Kiorwan JM, et al. Skin. In: Halperin EC, Wazer DE, Perez CA, Brady LW, eds. Perez and Brady's Principles and Practice of Radiation Oncology . 6th ed. Lippincott Williams &amp; Wilkins; 2013:626-637.
+
+18. Menter A, Gelfand JM, Connor C, et al. Joint American Academy of Dermatology-National Psoriasis Foundation guidelines of care for the management of psoriasis with systemic nonbiologic therapies. J Am Acad Dermatol . 2020;82(6):1445-1486. doi:10.1016/j.jaad.2020.02.044
+
+19. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. J Am Acad Dermatol . 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057
+
+20. Meyer JL (ed): The Radiation Therapy of Benign Diseases. Current Indications and Techniques. Front Radiat Ther Oncol . Basel, Karger; 2001;35:1-17. doi:10.1159/0000612
+
+21. Micke O, Seegenschmiedt MH; German Working Group on Radiotherapy in Germany. Consensus guidelines for radiation therapy of benign diseases: a multicenter approach in Germany. Int J Radiat Oncol Biol Phys . 2002;52(2):496-513. doi:10.1016/s0360-3016(01)01814-4
+
+22. Order SE, Donaldson SS. Radiation Therapy of Benign Diseases: A Clinical Guide (Medical Radiology) . Springer; 2003.
+
+23. Robinson CG, Samson PP, Moore KMS, et al. Phase I/II Trial of Electrophysiology-Guided Noninvasive Cardiac Radioablation for Ventricular Tachycardia. Circulation . 2019;139(3):313-321. doi:10.1161/ CIRCULATIONAHA.118.038261
+
+24. Seegenschmiedt MH. Nonmalignant Disease. In: Gunderson LL, Tepper JE, eds. Clinical Radiation Oncology . 2nd ed. Elsevier; 2006:1551-1568.
+
+25. Seegenschmiedt MH, Micke O, Muecke R; German Cooperative Group on Radiotherapy for Non-malignant Diseases (GCG-BD). Radiotherapy for non-malignant disorders: state of the art and update of the evidencebased practice guidelines [published correction appears in Br J Radiol. 2015;88(1056):20159003]. Br J Radiol . 2015;88(1051):20150080. doi:10.1259/bjr.20150080
+
+26. The Royal College of Radiologists. Faculty of Clinical Oncology. A review of the use of radiotherapy in the UK for the treatment of benign clinical conditions and benign tumours. Clinical Oncology . 2015.
+
+27. Thompson AM, Seivright J, Atluri S, et al. Radiotherapy for Hidradenitis Suppurativa: A Systematic Review. Dermatology . 2021;237(3):357-364. doi:10.1159/000514027
+
+28. US Department of Health, Education and Welfare. Public Health Service. Food and Drug Administration. Bureau of Radiological Health. A review of the use of ionizing radiation for the treatment of benign diseases. Volume I. HEW Publication (FDA) 78-8043. September 1977.
+
+29. van der Ree MH, Blanck O, Limpens J, et al. Cardiac radioablation-A systematic review. Heart Rhythm . 2020;17(8):1381-1392. doi:10.1016/j.hrthm.2020.03.013
+
+30. Winkfield KM, Bazan JG, Gibbs IC, et al. Nonmalignant Diseases. In: Halperin EC, Wazer DE, Perez CA, Brady LW, eds. Perez and Brady's Principles and Practice of Radiation Oncology . 6th ed. Lippincott Williams &amp; Wilkins; 2013:1729-1752.
+
+31. Zei PC, Soltys S. Ablative Radiotherapy as a Noninvasive Alternative to Catheter Ablation for Cardiac Arrhythmias. Curr Cardiol Rep . 2017;19(9):79. doi:10.1007/s11886-017-0886-2
+
+32. Zei PC, Mak R. Noninvasive Stereotactic Radioablation for Ventricular Tachycardia. Circulation . 2019;139(3):322-324. doi:10.1161/CIRCULATIONAHA.118.038285
+
+POLICY
+
+- I. For stage I, node-negative stage IIA or T3N0 (T3 based on size) non-small cell lung cancer (NSCLC), the following regimens are considered medically necessary:
+
+- A. Definitive external beam radiation therapy to a dose of 60-70 Gy in 30-35 fractions using three-dimensional conformal radiation therapy (3DCRT)
+
+- B. Up to 5 fractions of stereotactic body radiation therapy (SBRT). SBRT, as a complete course of therapy, must be completed in 5 fractions in a single episode of care.
+
+- C. Hypofractionated regimen of 8-10 fractions of 3D conformal radiation therapy
+
+- D. For a non-biopsied pulmonary nodule, evidence of progressive growth on positron emission tomography (PET) scans and/or serial computed tomography (CT) scans indicating a high likelihood of malignancy is required.
+
+- II. For node-positive stage II NSCLC, definitive external beam radiation therapy to a dose of 60-70 Gy in 30-35 fractions using 3D conformal radiation therapy is considered medically necessary.
+
+- III. For stage III NSCLC, definitive external beam radiation therapy to a dose of 60-70 Gy in 30-35 fractions using 3D conformal radiation therapy or intensity-modulated radiation therapy (IMRT) is considered medically necessary.
+
+- IV. Preoperative external beam radiation therapy to a dose of 45-54 Gy in 25-30 fractions using 3D conformal radiation therapy is considered medically necessary for an individual with ANY of the following:
+
+- A. N2 disease clinically or by mediastinoscopy with planned lobectomy
+
+- B. T3 or T4 primary lesion
+
+- C. Superior sulcus tumors
+
+- V. Postoperative external beam radiation therapy using 3D conformal radiation therapy is considered medically necessary for an individual with 1 or more of the following:
+
+- A. Any mediastinal nodes positive for tumor
+
+- B. No surgical sampling of mediastinal nodes
+
+- C. Margins of the resected specimen are positive or close
+
+- D. Depending on the extent of residual disease, a dose of 50-54 Gy in 25-28 fractions (negative margins) to 60-70 Gy in 30-35 fractions (gross residual disease) is recommended.
+
+### Non-Small Cell Lung Cancer
+
+RO.TXS.124.A
+
+v2.0.2024
+
+- VI. Palliative treatment
+
+- A. The use of up to 15 fractions of 3D conformal radiation therapy is considered medically necessary.
+
+- VII. The use of IMRT for the treatment of NSCLC is considered medically necessary for EITHER of the following:
+
+- A. Treatment in the curative setting which overlaps with a previously irradiated area
+
+- B. An optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines ®
+
+#### DISCUSSION
+
+- I. Treatment of stage III non-small cell lung carcinoma
+
+Approximately one-third of individuals with non-small cell lung carcinoma present with locally advanced disease that is considered unresectable due to clinically apparent involvement of mediastinal lymph nodes or T4 disease. Until the mid-1990s, such individuals were treated with radiation therapy alone. Radiation Therapy Oncology Group (RTOG) 73-01 (Perez et al, 1987) was designed to assess the optimal dose of radiotherapy for patients with locally advanced disease, including those with poor performance status and/or significant weight loss. Local control and 2year survival were better with 60 Gy in 6 weeks compared with lower doses. The seminal study of Dillman et al from the Cancer and Leukemia Group B (CALGB) was published in 1996 and was the first study to demonstrate a survival benefit with the use of induction chemotherapy followed by external beam photon radiation therapy for patients with good performance status and weight loss of less than 5%. Cisplatin-vinblastine for 2 cycles followed by thoracic external beam photon radiation therapy to a dose of 60 Gy in 6 weeks was compared with the same external beam photon radiation therapy alone in 155 randomized patients. Induction chemotherapy improved median survival, and 3- and 7-year overall survival (OS). These results were confirmed in RTOG 88-08 (Sause et al, 2000), a study of 458 patients with stage III NSCLC randomized to the positive arm of the CALGB trial (induction vinblastine-cisplatin followed by external beam photon radiation therapy) versus hyperfractionated external beam photon radiation therapy to 69.6 Gy versus standard fractionation external beam photon radiation therapy of 60 Gy in 6 weeks. These and other trials established the use of induction chemotherapy followed by standard fractionation of external beam photon radiation therapy as superior to external beam photon radiation therapy alone, and such therapy became the standard of care in the early 1990's for inoperable patients with stage III disease and good performance status. Use of concurrent chemoradiotherapy was also evaluated. RTOG 9410 is the largest trial assessing the value of concurrent versus sequential chemoradiotherapy. In this trial, 610 patients with stage III disease were randomized to 3 arms: the positive arm of the CALGB trial reported by Dillman et al (induction cisplatin-vinblastine for 2 cycles followed by external beam photon radiation therapy to 63 Gy) versus the same chemotherapy given concurrently versus a third arm of oral etoposide and weekly cisplatin given concurrently with 69.6 Gy hyperfractionated external beam photon radiation therapy (HART). Local control was better with concurrent HART, however, the best survival was seen with concurrent cisplatinvinblastine and standard fractionated external beam photon radiation therapy. The use of concurrent external beam photon radiation therapy was associated with a significantly increased acute esophagitis as compared to sequential therapy, and concurrent HART was associated with even more frequent severe esophagitis.
+
+The use of 3DCRT techniques, which are now standard, has made possible a decrease in normal tissues receiving high doses. 3DCRT techniques allow the development of complex multiple field radiotherapy plans that decrease the amount of normal tissue exposed to high doses. Better delineation of the target volume can be achieved with F-fluorodeoxyglucose-Positron Emission Tomography (FDGPET). If FDG-PET has not been done for prior staging purposes, use of FDG-PET for staging and radiation planning is appropriate. Incorporating the information from PET/ Computed Tomography (CT) can change the target volume in a significant proportion of patients as compared with CT alone. The radiotherapy target volume can decrease (due to the ability of PET to differentiate atelectatic lung from tumor) or increase (due to FDG uptake at mediastinal lymph nodes that were not positive by CT size criteria alone). In the increasingly common situation today when elective nodal irradiation is avoided, more accurate definition of involved sites of disease with PET decreases the likelihood that tumor-bearing nodes will not be encompassed in the target volume.
+
+The use of techniques that account for mobility of the tumor with respiration takes on greater importance when 3DCRT treatment planning is utilized. By accounting for tumor motion on an individualized basis, smaller margins can be utilized thereby decreasing exposure to normal lung tissue. One approach to this problem is the use of respiratory gating or breath-hold technique. Gating the treatment with the respiratory cycle or treating with breath hold can help to reduce the planning target volume or avoid marginal miss. Another method incorporates so-called fourdimensional (4D) imaging. Use of rapid spiral CT scanning and acquisition of multiple images during breathing allows for better definition of the target volume, so that changes in the shape and location of the tumor during the breathing cycle can be taken into account in radiation delivery. With this technique, temporal changes in tumor position and anatomy are incorporated into the treatment planning process. External beam photon radiation therapy delivery that adjusts in real-time to changes in tumor and normal anatomy holds further promise to decrease the necessary tumor margin and exposure to uninvolved lung.
+
+Use of IMRT is also being studied. With this technique, the intensity of the beam is spatially varied in real time and delivery is accomplished using multiple fields at different angles or with rotational arc therapy. The primary disadvantage is that a greater volume of normal tissue gets low doses. Since the normal lung has low tolerance to even small doses, this technique is not appropriate in the majority of cases of locally advanced non-small cell carcinoma. IMRT may offer advantages in the treatment of an individual with bilateral mediastinal nodal involvement or in the treatment of an individual with definitive radiotherapy (without surgery) for superior sulcus tumors or paraspinal tumors. Recent attempts (Harris et al, 2014) to support the use of IMRT concluded that IMRT is 'as effective as' but is 'not better than' 3D.
+
+Dose and fractionation regimens are evolving in the definitive treatment of locally advanced NSCLC, but no randomized trial has shown a benefit to doses higher than 60 Gy. The results of RTOG 0617, in which patients with stage IIIA or IIIB non-small cell lung cancer were randomized to standard-dose external beam chemoradiation (60 Gy) or high-dose chemoradiation (74 Gy) revealed that OS was 28.7 months in the standard-dose population vs. 20.3 months in those receiving high-dose radiation therapy. There was a trend towards increased treatment-related deaths in the highdose population (8 vs. 3), and severe esophagitis was significantly increased in the high dose population 21% (43/207) vs. the standard-dose population 7% (16/217). The authors concluded that high-dose radiation for individuals with stage IIIA or stage IIIB non-small cell lung cancer was not better and might actually be harmful. Following publication of the official results of 0617, several additional analyses of the data emerged which have provoked controversy in the literature.
+
+The study does not include in its primary or secondary objectives a comparison of randomized IMRT and 3DCRT treatment techniques. Indeed, in the Treatment Planning section, the study states: 'IMRT is allowed as long as the participating institution is credentialed by the RTOG for intra-thoracic IMRT Treatments.' Hence, there is no formal randomization.
+
+Chun et al (2017a) published a secondary analysis of 0617 in which they compared IMRT to 3DCRT. With a follow-up time period of 2 years, they noted no difference in overall survival (OS), progression free survival (PFS), local failure, and distant metastasis-free survival between the 2 techniques. They did conclude however that IMRT produced statistically significant lower heart doses than 3DCRT and that the volume of the heart receiving 40 Gy was also statistically significant in affecting OS. They recommended continued follow-up of the IMRT cardiac effects as the time period might be too short to measure them accurately. In their evaluation of pulmonary toxicity, the authors stated no difference in survival. They noted however that IMRT patients generally had larger tumor volumes, more advanced stage, and worse socio-economic status. IMRT was associated with statistically significant fewer cases of grade 3 pneumonitis though it is noted that the lung V20 was not different between the IMRT and 3D groups. Grade 3 esophagitis, dysphagia, weight loss and cardiovascular toxicity were not different. The lung V5 was significantly larger in the IMRT cases but was not associated with grade 3 toxicity. The article concluded that IMRT should be used routinely to treat locally advanced NSCLC.
+
+Eaton et al (2016) published a review of 0617 based on institutional accrual. They noted that patients treated at High Volume Centers (HVCs) were more often treated with IMRT than 3DCRT (54.0% vs. 39.5%) with lower mean esophageal and cardiac doses. HVCs had a more statistically significant acceptability rating on Protocol review than Low Volume Centers (LVCs) as well. In acknowledging the importance of reduced cardiac dose with IMRT, the authors noted that the volume of heart receiving 50 Gy or more was an independent predictor of adverse events. In summarizing their review the authors stated: 'The differences in treatment technique, however, cannot solely account for the statistically significant longer OS demonstrated at HVCs as IMRT itself was not found to be associated with clinical outcome. Although a greater proportion of patients treated at HVCs were randomly assigned to the 60 Gy dose level, treatment at an HVC was associated with longer OS even among the subsets of patients randomly assigned to 60 Gy.' They concluded that institutional accrual volume should be considered in future clinical trials.
+
+In correspondence to the Journal of Clinical Oncology, Ball et al (2017) pointed out that there were only 2 grade 5 toxicities due to pneumonitis in 0617. In their editorial, they questioned whether the 0617 analysis was a true planned secondary evaluation and noted that interstitial lung disease, as well as other risk factors, were not taken into account. They noted institutional settings might have played a role in the determinations. For some patients and in less experienced centers the authors felt that 3DCRT might actually result in better and safer treatment. Their editorial concluded that it was premature to recommend IMRT routinely for all patients based on the 0617 paper. In their reply to Ball et al, Chun (2017b) agreed that the secondary analysis did not provide the same level of evidence as a properly randomized phase III study intentioned to address the different techniques. They stated that RTOG 0617 '…used stratified blocked randomization, with radiation technique as one of the stratification factors…' and that it has '…long been the intent to perform a secondary analysis.' They pointed out that IMRT has been adopted for other cancers without randomized studies and that the evidence provided in 0617 was sufficient to recommend the routine use of IMRT in locally advanced NSCLC.
+
+The described literature does indeed raise important questions. In the formally stated objectives of 0617, the stratification and endpoints do not necessarily support the concept of a sub-analysis, especially since IMRT was 'permitted.' Given the difference in plan acceptability between HVCs and LVCs and the better survival of patients regardless of technique at an HVC, there may indeed be an overall difference and possible unintentional bias not only in treatment but also in the supportive care and treatment of side effects. Kong and Wang (2015) reviewed the non-dosimetric risk factors for radiation-induced pulmonary toxicity. Age, sex, smoking status, pre-existing lung disease, pulmonary function, tumor location, volume stage, and biologic and genetic factors may also play a strong role in radiation treatment toxicity and possible outcomes. The 0617 study does not include all of these risk factors. Similarly, in assessing cardiac effects, current cardiac status and potential cardiac risk factors should be taken into account in trial design. As such, until additional evidence is available from properly designed studies, 3DCRT remains the usual and customary treatment for locally advanced lung cancer. However, as National Comprehensive Cancer Network ® (NCCN ® ) states that IMRT is preferred over 3DCRT for stage III, IMRT is also considered medically necessary.
+
+II. Preoperative and postoperative therapy
+
+An individual with stage IIIA disease based on ipsilateral mediastinal nodal involvement has traditionally been considered unresectable, as outcome with surgery has generally been poor when there has been clinically apparent mediastinal involvement, particularly when multiple station N2 disease is present. However, with improvements in modern staging and more generalized use of multimodality therapy, there may be subsets of individuals with clinical N2 disease who might benefit from surgery. Attempts have been made to 'downstage' individuals with preoperative chemoradiotherapy. The dose of radiation in the preoperative setting is generally 45 Gy in 25 fractions of external beam photon radiation therapy. 3DCRT techniques may be helpful, even at these lower doses, to reduce the dose to normal lung. Similarly, respiratory gating techniques may also be helpful, particularly for lower lobe primary tumors.
+
+Postoperative radiotherapy (PORT) with external beam photon radiation therapy improves locoregional control as demonstrated by an early trial conducted by the Lung Cancer Study Group; however, this did not translate into an overall survival benefit. Enthusiasm for postoperative external beam photon radiation therapy diminished after the publication of the PORT meta-analysis, which included 2128 patients with stage I to III non-small cell lung carcinoma enrolled in 9 randomized trials from 1966 to 1994. In the entire group of patients, there was a 7% absolute reduction in survival for patients who received external beam photon radiation therapy. The trials included in the meta-analysis have a variety of serious pitfalls, including the inclusion of ineligible patients, inadequate staging work-up, inclusion of node-negative patients, and techniques that today would be expected to produce deleterious outcomes. Most of the trials used higher total dose (&gt; 50 Gy) or high dose per fraction (eg, 2.5 Gy per fraction). In many of the trials, opposed off-cord lateral fields were used, which exposes a significant volume of normal lung to intolerable radiation volume, dose per fraction, and total doses. Additionally, systemic therapy was not used, and improved local control is more likely to translate into a survival benefit if effective systemic therapy is available. An individual with N2 disease is likely to achieve a significant local control benefit from postoperative external beam photon radiation therapy, and with modern techniques, the individual may accrue a survival benefit. An American Intergroup trial and a European Organisation for Research and Treatment of Cancer (EORTC) trial are presently underway to re-evaluate the role of external beam photon radiation therapy for patients with N2 disease.
+
+III. Prophylactic cranial irradiation (PCI) for NSCLC
+
+Twenty percent to 50% of patients with clinical stage III non-small cell lung carcinoma will develop brain metastases during the course of the disease and in patients who have responded to prior multimodality therapy, a significant proportion experience relapse in the brain as the first or isolated site of failure. Early trials of PCI (Russell et al, 1991) showed greater than 50% relative risk reduction in the incidence of brain metastases with PCI, however, this did not translate into a survival benefit in any of the trials. Concerns of neurocognitive morbidity from PCI are largely related to the early experience with the use of PCI for small cell carcinoma, which is associated with a significant proportion of patients having neurocognitive dysfunction prior to radiation. More modern trials (Gregor et al, 1997) that employ lower dose per fraction and avoid concurrent chemotherapy have not found any impact of PCI on neurocognitive function. The RTOG conducted a study (Gore et al, 2009) of patients with stage III non-small cell carcinoma who did not have progressive disease to evaluate the potential benefit of PCI. Patients were randomized to 30 Gy in 15 fractions versus observation after definitive local therapy. The primary endpoint was survival, and secondary endpoints were the rate of central nervous system (CNS) metastasis, quality of life, and neurocognitive effects. The trial was negative for survival, but decreased local failure. Results of effects on neuropsychological function and quality of life are not yet available. Outside of a clinical trial, PCI for NSCLC is considered not medically necessary.
+
+IV. Early stage NSCLC
+
+External beam photon radiation therapy is appropriate for curative intent treatment of an individual with stage I and II NSCLC who is medically inoperable. An individual with hilar nodal involvement should be treated with standard fractionation (eg, 60 Gy in 6 weeks), and 3DCRT techniques are preferred. For node negative stage I and stage II non-small cell lung cancer in an individual who is medically inoperable or who refuses surgery, SBRT is an appropriate option. Treatment is generally delivered in 3 to 5 fractions. SBRT is an appropriate technique for an individual with node-negative peripheral lung cancers less than 5 cm in maximum dimension. An individual with central tumors can experience excessive toxicity when higher fraction sizes and fewer fractions (eg, 3) are utilized. Use of mediastinoscopy is appropriate for staging of clinical stage T2N0 patients prior to definitive SBRT. Image-guided radiation therapy (IGRT) may also improve the therapeutic ratio. Accurate set-up of the individual with the use of radiopaque markers placed in the tumor or use of daily CT scan imaging can essentially eliminate any additional margin that might otherwise be needed for daily individual set-up variability.
+
+V. Oligometastatic presentations/genetic variants
+
+Lung cancer may present in an intermediate phase where cancer may be limited to the primary region with 3 or fewer metastatic sites that are also amenable to definitive treatment. Requests for definitive radiation treatment to the primary site will be considered on a case-by-case basis. Please see the Oligometastases clinical guideline.
+
+Similarly, a small subset of patients may present with Alk+; ROS1+ or EGFR+ mutations (exon 21, exon 19) that have longer durable responses to targeted agents despite a significant metastatic disease burden. Alk+ tumors with CNS metastases may have survival in excess of 40 months. As such, circumstances may present where a more protracted radiation therapy regimen may benefit these patients rather than a short-term palliative regimen when substantial benefit has been gained from systemic therapy. These requests will also be reviewed individually. In the case of EGFR+ mutations, it should be noted that exon 20 mutations are not associated with this benefit.
+
+Additionally, the use of anti-PD-1 and PDL-1 agents such as Pembrolizumab are now being used as first line therapy in both metastatic squamous and adenocarcinomas which have a positive test of 50% or greater for PDL-1.
+
+Please see the current NCCN Non-Small Cell Lung Cancer Guidelines ® for additional discussion.
+
+VI. Palliative treatment
+
+An individual with localized disease but with significant co-morbidities, poor performance status, or significant weight loss may be appropriate for external beam photon radiation therapy as definitive treatment with a hypofractionated schedule, use of split-course treatment, or use of more conventional fractionation alone (eg, 60 Gy in 6 weeks). In addition, external beam photon radiation therapy is effective in the palliation of symptoms due to local tumor, such as hemoptysis, cough, or imminent endobronchial obstruction. Approximately 40% of individuals with NSCLC present with stage IV disease. One multi-institutional phase III randomized study (Simpson et al, 1985) examined a variety of fractionation schemes including 40 Gy split course, 30 Gy in 10 fractions, and 40 Gy in 20 fractions. There was no difference between arms, and 60% of patients achieved symptom relief. Bezjak et al (2002) reported a phase III trial of 231 patients randomized to 20 Gy in 5 fractions versus 10 Gy in 1 fraction. Similar palliation was seen in both arms, although patients in the 20 Gy arm had longer median survival. The Medical Research Council compared 17 Gy in 2 fractions (1 per week) with 30 Gy in 10 fractions over 2 weeks. There was no difference in survival or palliation of symptoms. Hemoptysis was relieved in 86% of patients, cough in approximately 60% of patients, and pain in approximately 50% of patients. Therefore, data supports the use of short hypofractionated regimens, and there is generally no general role for more protracted schemes beyond 10 or 15
+
+fractions. Endobronchial (EBB) radiation has also been found in retrospective studies to be effective in the palliation of symptoms due to intraluminal tumor, including obstruction, dyspnea, and cough. The procedure requires bronchoscopic guidance of the brachytherapy catheter. There is no proven role for more than 3 applications. EBB will be considered medically necessary after a failed course of external beam photon radiation therapy. American Society for Radiation Oncology (ASTRO) has published an evidence-based guideline for palliative lung cancer that reviews the various dose and fractionation regimens and the role of EBB. The ASTRO guideline specifically states that there is no benefit to adding concurrent chemotherapy to external beam photon radiation therapy in the palliative setting.
+
+#### References
+
+1. Ahmed KA, Grass GD, Creelan J, et al. Abstract #10: Tolerability and safety of thoracic radiation and immune checkpoint inhibitors among patients with lung cancer. 2017 Multidisciplinary Thoracic Symposium cosponsored by the American Society for Radiation Oncology (ASTRO), the American Society of Clinical Oncology (ASCO), and The Society of Thoracic Surgeons (STS), March 16-18, 2017.
+
+2. American Society for Radiation Oncology (ASTRO) Intensity Modulated Radiation Therapy (IMRT) Model Policy. 2019. https://www.astro.org/ASTRO/media/ASTRO/Daily%20Practice/PDFs/IMRTMP.pdf
+
+3. Aupérin A, Arriagada R, Pignon JP, et al. Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission. Prophylactic Cranial Irradiation Overview Collaborative Group. N Engl J Med . 1999;341(7):476-484. doi:10.1056/NEJM199908123410703
+
+4. Ball D, Mac Manus M, Siva S, Plumridge N, Bressel M, Kron T. Routine use of intensity-modulated radiotherapy for locally advanced non-small-cell lung cancer is neither choosing wisely nor personalized medicine. J Clin Oncol . 2017;35(13):1492-1493. doi:10.1200/JCO.2016.71.3156
+
+5. Bezjak A, Dixon P, Brundage M, et al. Randomized phase III trial of single versus fractionated thoracic radiation in the palliation of patients with lung cancer (NCIC CTG SC.15). Int J Radiat Oncol Biol Phys . 2002;54(3):719-728. doi:10.1016/s0360-3016(02)02989-9
+
+6. Bogart JA, Herndon JE 2nd, Lyss AP, et al. 70 Gy thoracic radiotherapy is feasible concurrent with chemotherapy for limited-stage small-cell lung cancer: analysis of Cancer and Leukemia Group B study 39808. Int J Radiat Oncol Biol Phys . 2004;59(2):460-468. doi:10.1016/j.ijrobp.2003.10.021
+
+7. Bradley JD, Paulus R, Komaki R, et al. Standard-dose versus high-dose conformal radiotherapy with concurrent and consolidation carboplatin plus paclitaxel with or without cetuximab for patients with stage IIIA or IIIB non-small-cell-lung cancer (RTOG 0617): a randomised, two-by-two factorial phase 3 study. Lancet Oncol . 2015;16(2):187-199. doi:10.1016/S1470-2045(14)71207-0
+
+8. Bradley JD, Paulus R, Komaki R, et al. A randomized phase III comparison of standard-dose (60 Gy) versus high-dose (74 Gy) conformal chemoradiotherapy with or without cetuximab for stage III non-small cell lung cancer. J Clin Oncol . 2013 May 20; 31(15) (suppl; abstr 7501).
+
+9. Chen AB, Neville BA, Sher DJ, Chen K, Schrag D. Survival outcomes after radiation therapy for stage III non-small-cell lung cancer after adoption of computed tomography-based simulation. J Clin Oncol . 2011;29(17):2305-2311. doi:10.1200/JCO.2010.33.4466
+
+10. Chun SG, Hu C, Bradley JD. Reply to D. Ball et al. J Clin Oncol . 2017;35(13):1493-1494. doi:10.1200/ JCO.2016.71.5755
+
+11. Chun SG, Hu C, Choy H, et al. Comparison of 3-D conformal and intensity modulated radiation therapy outcomes for locally advanced non-small cell lung cancer in NRG Oncology/RTOG 0617. Int J Radiat Oncol Biol Phys . 2016 Nov 1; 93(3 supplement):S1-S2.
+
+12. Chun SG, Hu C, Choy H, et al. Impact of intensity-modulated radiation therapy technique for locally advanced non-small-cell lung cancer: a secondary analysis of the NRG Oncology RTOG 0617 randomized clinical trial. J Clin Oncol . 2017;35(1):56-62. doi:10.1200/JCO.2016.69.1378
+
+13. Curran WJ, Scott CB, Langer CJ, et al. Long-term benefit is observed in a phase III comparison of sequential vs. concurrent chemo-radiation for patients with unresected stage III NSCLC: RTOG 9410. Proc Am Soc Clin Oncol . 2003; 22:621a. Abstract 2499.
+
+14. Dillman RO, Herndon J, Seagren SL, Eaton WL Jr, Green MR. Improved survival in stage III non-small-cell lung cancer: seven-year follow-up of Cancer and Leukemia Group B (CALGB) 8433 trial. J Natl Cancer Inst . 1996;88(17):1210-1215. doi:10.1093/jnci/88.17.1210
+
+15. Eaton BR, Pugh SL, Bradley JD, et al. Institutional enrollment and survival among NSCLC patients receiving chemoradiation: NRG Oncology Radiation Therapy Oncology Group (RTOG) 0617. J Natl Cancer Inst . 2016;108(9):djw034. Published 2016 May 19. doi:10.1093/jnci/djw034
+
+16. Fried DB, Morris DE, Poole C, et al. Systematic review evaluating the timing of thoracic radiation therapy in combined modality therapy for limited-stage small-cell lung cancer [published correction appears in J Clin Oncol. 2005 Jan 1;23(1):248]. J Clin Oncol . 2004;22(23):4837-4845. doi:10.1200/JCO.2004.01.178
+
+17. Gore EM, Bae K, Wong S, et al. A phase III comparison of prophylactic cranial irradiation versus observation in patients with locally advanced non-small cell lung cancer: Initial analysis of Radiation Therapy Oncology Group 0214. J Clin Oncol . 27(15S); 2009 May 20 (suppl; abstr 7506).
+
+18. Gregor A, Cull A, Stephens RJ, et al. Prophylactic cranial irradiation is indicated following complete response to induction therapy in small cell lung cancer: results of a multicentre randomised trial. United Kingdom Coordinating Committee for Cancer Research (UKCCCR) and the European Organization for Research and Treatment of Cancer (EORTC). Eur J Cancer . 1997;33(11):1752-1758. doi:10.1016/s0959-8049(97)00135-4
+
+19. Harris JP, Murphy JD, Hanlon AL, Le QT, Loo BW Jr, Diehn M. A population-based comparative effectiveness study of radiation therapy techniques in stage III non-small cell lung cancer. Int J Radiat Oncol Biol Phys . 2014;88(4):872-884. doi:10.1016/j.ijrobp.2013.12.010
+
+20. Inoperable non-small-cell lung cancer (NSCLC): a Medical Research Council randomised trial of palliative radiotherapy with two fractions or ten fractions. Report to the Medical Research Council by its Lung Cancer Working Party. Br J Cancer . 1991;63(2):265-270. doi:10.1038/bjc.1991.62
+
+21. Kong FM, Wang S. Nondosimetric risk factors for radiation-induced lung toxicity. Semin Radiat Oncol . 2016;25(2):100-109. doi:10.1016/j.semradonc.2014.12.003
+
+22. Lagerwaard FJ, Haasbeek CJ, Smit EF, Slotman BJ, Senan S. Outcomes of risk-adapted fractionated stereotactic radiotherapy for stage I non-small-cell lung cancer. Int J Radiat Oncol Biol Phys . 2008;70(3):685-692. doi:10.1016/j.ijrobp.2007.10.053
+
+23. Lavrenkov K, Partridge M, Cook G, Brada M. Positron emission tomography for target volume definition in the treatment of non-small cell lung cancer. Radiother Oncol . 2005;77(1):1-4. doi:10.1016/j.radonc.2005.09.016
+
+24. Le Péchoux C, Hatton M, Kobierska A, et al. Randomized trial of standard dose to a higher dose prophylactic cranial irradiation (PCI) in limited-stage small cell cancer (SCLC) complete responders (CR): Primary endpoint analysis (PCI99-01, IFCT 99-01, EORTC 22003-08004, RTOG 0212). J Clin Oncol . 2008;26(15\_suppl):LBA7514. doi:10.1200/jco.2008.26.15\_suppl.lba7514.
+
+25. Le Péchoux C, Laplanche A, Faivre-Finn C, et al. Clinical neurological outcome and quality of life among patients with limited small-cell cancer treated with two different doses of prophylactic cranial irradiation in the intergroup phase III trial (PCI99-01, EORTC 22003-08004, RTOG 0212 and IFCT 99-01). Ann Oncol . 2011;22(5):1154-1163. doi:10.1093/annonc/mdq576.
+
+26. Mamon HJ, Yeap BY, Jänne PA, et al. High risk of brain metastases in surgically staged IIIA non-small-cell lung cancer patients treated with surgery, chemotherapy, and radiation. J Clin Oncol . 2005;23(7):1530-1537. doi:10.1200/JCO.2005.04.123
+
+27. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 5.2024 - April 23, 2024. Non-Small Cell Lung Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/nscl.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Non-Small Cell Lung Cancer Version 5.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+28. Nestle U, Kremp S, Grosu AL. Practical integration of [18F]-FDG-PET and PET-CT in the planning of radiotherapy for non-small cell lung cancer (NSCLC): the technical basis, ICRU-target volumes, problems, perspectives. Radiother Oncol . 2006;81(2):209-225. doi:10.1016/j.radonc.2006.09.011
+
+29. NRG Oncology. A randomized phase III comparison of standard-dose (60 Gy) versus high-dose (74 Gy) conformal radiotherapy with concurrent and consolidation carboplatin/paclitaxel +/- cetuximab (IND #103444) in patients with stage IIIA/IIIB non-small cell lung cancer. NRG Oncology Identifier: RTOG 0617/NCCTG N0628/ CALGB 30609/ECOG R0617. Updated January 19, 2016.
+
+30. Perez CA, Pajak TF, Rubin P, et al. Long-term observations of the patterns of failure in patients with unresectable non-oat cell carcinoma of the lung treated with definitive radiotherapy. Report by the Radiation Therapy Oncology Group. Cancer . 1987;59(11):1874-1881. doi:10.1002/1097-0142(19870601)59:11&lt;1874::aidcncr2820591106&gt;3.0.co;2-z
+
+31. Pignon JP, Arriagada R, Ihde DC, et al. A meta-analysis of thoracic radiotherapy for small-cell lung cancer. N Engl J Med . 1992;327(23):1618-1624. doi:10.1056/NEJM199212033272302
+
+32. Postoperative radiotherapy in non-small-cell lung cancer: systematic review and meta-analysis of individual patient data from nine randomised controlled trials. PORT Meta-analysis Trialists Group. Lancet . 1998;352(9124):257-263.
+
+33. Rodrigues G, Videtic GM, Sur R, et al. Palliative thoracic radiotherapy in lung cancer: An American Society for Radiation Oncology evidence-based clinical practice guideline. Pract Radiat Oncol . 2011;1(2):60-71. doi:10.1016/j.prro.2011.01.005
+
+34. Russell AH, Pajak TE, Selim HM, et al. Prophylactic cranial irradiation for lung cancer patients at high risk for development of cerebral metastasis: results of a prospective randomized trial conducted by the Radiation Therapy Oncology Group. Int J Radiat Oncol Biol Phys . 1991;21(3):637-643. doi:10.1016/0360-3016(91)90681s
+
+35. Sause W, Kolesar P, Taylor S IV, et al. Final results of phase III trial in regionally advanced unresectable non-small cell lung cancer: Radiation Therapy Oncology Group, Eastern Cooperative Oncology Group, and Southwest Oncology Group. Chest . 2000;117(2):358-364. doi:10.1378/chest.117.2.358
+
+36. Simpson JR, Francis ME, Perez-Tamayo R, Marks RD, Rao DV. Palliative radiotherapy for inoperable carcinoma of the lung: final report of a RTOG multi-institutional trial. Int J Radiat Oncol Biol Phys . 1985;11(4):751-758. doi:10.1016/0360-3016(85)90307-4
+
+37. Slotman B, Faivre-Finn C, Kramer G, et al. Prophylactic cranial irradiation in extensive small-cell lung cancer. N Engl J Med . 2007;357(7):664-672. doi:10.1056/NEJMoa071780
+
+38. The Lung Cancer Study Group. Effects of postoperative mediastinal radiation on completely resected stage II and stage III epidermoid cancer of the lung. N Engl J Med . 1986;315(22):1377-1381. doi:10.1056/ NEJM198611273152202
+
+39. Timmerman R, McGarry R, Yiannoutsos C, et al. Excessive toxicity when treating central tumors in a phase II study of stereotactic body radiation therapy for medically inoperable early-stage lung cancer. J Clin Oncol . 2006;24(30):4833-4839. doi:10.1200/JCO.2006.07.5937
+
+40. Turrisi AT 3rd, Kim K, Blum R, et al. Twice-daily compared to once-daily thoracic radiotherapy in limited small-cell lung cancer treated concurrently with cisplatin and etoposide. N Engl J Med . 1999;340(4):265-271. doi:10.1056/NEJM199901283400403
+
+41. Wang S, Liao Z, Wei X, et al. Analysis of clinical and dosimetric factors associated with treatment-related pneumonitis (TRP) in patients with non-small-cell lung cancer (NSCLC) treated with concurrent chemotherapy and three-dimensional conformal radiotherapy (3D-CRT) [published correction appears in Int J Radiat Oncol Biol Phys. 2007 Apr 1;67(5):1606]. Int J Radiat Oncol Biol Phys . 2006;66(5):1399-1407. doi:10.1016/ j.ijrobp.2006.07.1337
+
+POLICY
+
+All cases will require review of the consultation note and the most recent positron emission tomography (PET) scan (demonstrating no evidence of widespread metastatic disease).
+
+- I. Up to 5 fractions of stereotactic body radiotherapy (SBRT) for extra-cranial oligometastases is considered medically necessary in the following clinical situations:
+
+- A. For an individual with non-small cell lung cancer who meets ALL of the following criteria:
+
+1. Has had or will undergo curative treatment of the primary tumor (based on T and N stage)
+
+2. Has 1 to 3 metastases in the synchronous setting
+
+- B. For an individual with colorectal cancer who meets ALL of the following criteria:
+
+1. Has had or will undergo curative treatment of the primary tumor
+
+2. Presents with 1 to 3 metastases in the lung or liver in the synchronous setting
+
+3. For whom surgical resection is not possible
+
+- C. For an individual who meets the following criteria:
+
+1. A clinical presentation of 1 to 3 adrenal gland, lung, liver, lymph nodes, renal, spine or bone metastases in the metachronous setting when ALL of the following criteria are met:
+
+- a. Histology is breast, colorectal, melanoma, non-small cell lung, prostate, renal cell, or sarcoma
+
+- b. Disease free interval of &gt; 3 months from the initial diagnosis
+
+- c. Primary tumor received curative therapy and is controlled
+
+- d. All metastatic lesions for which treatment is planned will be treated concurrently in a single episode of care. Sequential treatment exceeding a total of 5 fractions for a single episode of care does not meet the definition for SBRT/CPT ® 77373
+
+- II. SBRT used to stimulate the abscopal effect is considered not medically necessary.
+
+- III. For an individual with oligoprogression (progression of a limited number of metastatic sites while other metastatic disease sites remain controlled), SBRT is considered not medically necessary.
+
+- IV. SBRT, as a complete course of therapy, must be completed in 5 fractions in a single episode of care.
+
+### Oligometastases
+
+RO.TXS.125.C
+
+v2.0.2024
+
+#### DISCUSSION
+
+- I. Definitions
+
+Guckenberger et al recently published the ESRO (European Society for Radiation Oncology) and EORTC (European Organisation for Research and Treatment of Cancer) consensus recommendation for characterization and classification of oligometastatic disease (OMD). Their classification define clear cohorts of patients with oligometastatic disease, which when used in the clinic, may help to refine the role of SBRT in each of these presentations.
+
+Genuine OMD (patients without a history of polymetastatic disease [PMD])
+
+- De-novo OMD - includes patients without a history of OMD
+
+- Synchronous OMD - ≤ 6 months between primary cancer diagnosis and OMD
+
+- Metachronous - &gt; 6 months between primary cancer diagnosis and OMD
+
+- Metachronous oligorecurrence - development of OMD when patient is not under active systemic therapy
+
+- Metachronous oligoprogression - development of OMD when patient is under active systemic therapy
+
+- Repeat OMD - includes patients with a history of OMD
+
+- Repeat oligorecurrence - development of OMD when patient is not under active systemic therapy
+
+- Repeat OMD - development of OMD when patient is under active systemic therapy
+
+- Repeat oligoprogression -progressive disease on current imaging
+
+- Repeat oligopersistence -stable disease or partial response on current imaging
+
+Induced OMD (patients with a history of polymetastatic disease [PMD])
+
+- Induced oligorecurrent disease
+
+- Development of OMD when patient is not under active systemic therapy (ie, patient has completed systemic therapy for PMD and has been off therapy at the time of recurrence)
+
+- Induced oligoprogressive disease
+
+- Development of progressive disease while on systemic therapy
+
+- Induced oligopersistent disease
+
+- Presence of persistent disease while on systemic therapy
+
+- II. Discussion
+
+Oligometastases is described as an intermediate state in the spread of cancer between early-stage localized disease and widespread metastases. Specifically, it is a malignancy that has progressed to a limited number of hematogenous metastatic sites, defined in most studies as 1 to 3 sites. Chemotherapy remains the standard of care for patients with metastatic cancer, however this is rarely curative. The concept of oligometastases has important implications for cancer treatment because it is believed that patients with limited numbers of metastases previously thought by some clinicians to be incurable, may be cured with local treatments such as radiotherapy.
+
+The data supporting the treatment of extracranial oligometastases is largely limited to single institution studies, registry studies or limited phase II randomized studies. Some of the retrospective studies have demonstrated improved outcomes compared to historical controls. There is no level 1 phase III evidence demonstrating a clear benefit to treatment of extracranial oligometastases. The data with the longest follow-up is the surgical literature examining the resection of non-small cell lung and hepatic metastases. The International Registry of Lung Metastases examined 5206 patients between 1945 and 1995 at 18 institutions and found 36% survival at 5 years (Pastorino et al, 1997). Patients with the best prognosis were those with a single resectable metastasis with a disease free interval &gt; 3 years. In metastatic colorectal cancer to the liver, hepatic resection has resulted in a 5-year survival of 28% in a well-selected population (Nordlinger et al, 1996). Similar outcomes have been demonstrated in adrenal metastasectomy for non-small cell lung cancer and pulmonary metastasectomy for osteosarcoma in children (Kager et al, 2003; Tanvetyanon et al, 2008).
+
+SBRT offers ablative doses delivered with greater precision to a limited target volume than previous radiation delivery technologies. There have been several phase I/ II studies which have demonstrated the technical feasibility of delivering SBRT for patients with non-small cell lung, liver and spine metastases (Lee et al, 2009; Milano et al, 2012; Rusthoven et al, 2009; Salama et al, 2012; Wang et al, 2012). Furthermore, there have been several reports documenting the efficacy of SBRT or hypofractionated radiation in various different histologies including non-small cell lung, breast, colon, renal, melanoma, and sarcoma (Hasselle et al, 2012; Hoyer et al, 2006; Milano et al, 2009; Ranck et al, 2013). These studies have used anywhere from 3 to 10 fractions across a range of total doses. All have demonstrated local control of the treated lesions from 70% to 90%.
+
+The major limitation of these previous studies is that they have been single arm, non-controlled, with small patient numbers and often limited to single institutions. Furthermore, they are subject to 'immortal' time bias that artificially inflates the survival of patients who underwent metastasectomy compared to those who did not. Patients included in these studies are highly selected, based on good performance status and slow pace of tumor progression. Therefore, the long-term survival achieved in these studies of treatment of oligometastases may be the result of the selection of fit patients with very slow-growing tumors rather than the result of treatment intervention. Also, the endpoints chosen or reported in these studies, such as progression free survival (PFS), interval until next systemic therapy, or local control of metastases, may not prove to be clinically relevant long term benefits. Therefore, none of these reports offers definitive clinical evidence that overall outcomes are improved with metastases directed SBRT compared to best standard therapies.
+
+Palma et al. (2019) published the results of the SABR-COMET (Stereotactic Ablative Radiation Therapy for the Comprehensive Treatment of Oligometastatic Tumors) trial. This randomized phase II trial included patients with controlled primary site and up to 5 sites of hematogenous metastasis. Inclusion criteria required histologically confirmed malignancy (of the primary or metastatic site), Eastern Cooperative Oncology Group (ECOG) status 0-1, at least 3 month interval since definitive treatment of primary without recurrence, maximum of 3 metastases in any 1 organ system, not a candidate for surgical resection at all sites, and no concurrent chemotherapy. Some important exclusions were patients with brain metastases with no disease elsewhere, malignant pleural effusion, prior radiation to a treatment site, spinal cord compression or disease within 3 mm of the spinal cord. Patients with previously treated or resected metastases were eligible if there was no evidence of recurrence at that site on imaging. This trial was designed as a randomized phase II 'screening' trial to determine possible evidence of efficacy. Additionally, this trial was designed to allow for more modest patient accrual numbers and to provide an initial, non-definitive comparison between the 2 arms. Therefore, the study used 0.20 as the two-sided p value for significance as opposed to the traditional p value of 0.05. Ninety-nine patients were accrued to the study between February 2012 and August 2016. Sixty-six patients were randomized to the SABR group and 33 patients were randomized to the control group. The study was interpreted as positive with median survival in the SABR arm of 41 months compared to 28 months for the control arm ( p = 0.09).
+
+Although the results of the SABR-COMET trial add significantly to the knowledge base for this clinical setting, there are several important limitations and observations about the study. The chosen alpha for significance of 0.20 is not the traditionally accepted level of a statistically significant difference (0.05). It is important to note that the study investigators qualify the results of this screening study as initial and non-definitive. In addition, while the study inclusion criteria specified that the primary tumor must have been treated definitively at least 3 months before enrollment with no progression, the median time from diagnosis of primary tumor to randomization was 2.3 years (1.3-4.5 years) in the control group and 2.4 years (1.6-5.3 years) in the SABR group (Loo &amp; Diehn, 2019). This suggests that the patients selected for inclusion in the study with metachronous oligometastases had a more favorable biology and were likely to have better overall prognosis. Furthermore, the study included patients from a broad spectrum of histologies including but not limited to metastatic breast, lung, colorectal, and prostate cancer. Diagnosis specific randomized control trials are needed to provide strong evidence of the benefit of SABR. Prostate cancer comprised 21% of the SABR arm but only 6% of the control arm patients which may skew results considering the long natural history and hormone-sensitivity of prostate cancer. Only 18 patients enrolled in the trial had lung cancer. Additionally, almost all patients in the study had 1-3 metastases. There were only 7 patients with 4-5 metastatic sites and no control arm patients with 5 sites, so data in that group is very limited and unreliable. It should be noted that grade &gt; 2 toxicity was significantly higher in the SABR arm (29% vs. 9%, p = .03), and there were 3 deaths in the SABR arm attributed to treatment (4.5%) with none in the control arm. At the time of progression, patients in the SABR arm were eligible for further SABR treatment, while patients in the control arm were eligible only for palliative dose radiation. As noted in the associated editorial by Loo and Diehn (2019), 'before broad adoption, a positive overall survival outcome in a phase 2 screening trial mandates support from definitive phase 3 studies, ideally in each primary tumour type.' Ongoing prospective, randomized disease specific trials are needed to define the benefit of SBRT in this population.
+
+Selection of an appropriate individual is imperative when deciding who is eligible to receive SBRT in the oligometastatic setting. One study revealed a 40% progression rate within 3 months of SBRT for 1 to 5 metastases and 80% progression at 2 years, which emphasizes the fact that the vast majority of patients have micro-metastatic disease at time of treatment (Milano et al, 2012). Furthermore, disease free survival (DFS) after SBRT is associated with time to recurrence after initial diagnosis. One analysis found 3-year survival after SBRT was 53% for patients with a disease free interval of more than 12 months vs. 19% for patients with a disease free interval of less than 12 months (Inoue et al, 2010). Another analysis found a disease free interval of more than 12 months was also associated with improved outcomes following treatment with SBRT for oligometastatic disease (Zhang et al, 2011).
+
+A. Non-small cell lung
+
+There is a population of individuals with non-small cell lung cancer presenting with oligometastatic disease that will benefit from metastases-directed ablative procedures. A recent retrospective analysis of patients with oligometastatic nonsmall cell lung cancer who underwent metastasis directed treatment (intra and extra cranial) found a 2-year survival of 38% (Griffioen et al, 2013). A recent review of the literature found that while the majority of patients progress within 12 months, there is a subset of long-term survivors (Ashworth et al, 2013). Ashworth and colleagues (2013) performed a systematic review of 49 studies including 2176 patients with 1 to 5 metastases from non-small cell lung cancer (NSCLC) who underwent surgery or radiation. 82% of patients had controlled primary disease, and 60% of studies were limited to intracranial metastasis. Median survival was 14.8 months, median time to progression was 12 months, and median 5-year overall survival (OS) was 23.3%. Control of primary disease, N stage, and diseasefree interval of at least 6- to 12- months prior to diagnosis of oligometastases were found to be prognostic on multivariable analysis.
+
+Iyengar et al. (2018) reported early results of a single institution phase II randomized study of SBRT for patients with biopsy-proven metastatic non-small cell lung cancer with stable or responsive disease after initial chemotherapy in 29 patients (14 treated with SBRT). Patients were randomized to chemotherapy alone for the control arm or to receive SBRT to up to 5 metastatic lesions plus the lung primary followed by maintenance chemotherapy. The study showed significant ( p = 0.01) reduction in progression free survival for the SBRT arm, with most progressive disease in areas of original disease in the control arm while progression in untreated areas was the only site of progression in the SBRT arm. A statistically significant OS benefit was not noted. Use of progression free survival as a primary endpoint has been criticized and improved PFS may not translate into meaningful survival benefit in such patients.
+
+Gomez et al (2019) reported a multicenter, randomized, phase II trial of patients with stage IV NSCLC with treatment for 3 or fewer metastases who had not progressed on first line chemotherapy. Patients (n = 49) were randomized to local therapy (surgery, SBRT or hypofractionated radiation, some with concurrent chemotherapy) to all disease sites or maintenance chemotherapy/observation. The results showed a median overall survival of 17.0 months with maintenance/ observation compared to 41.2 months for the treated arm ( p = .017). Potential confounding issues included that patients in either arm could get SBRT/surgery at the time of progression, so there was crossover permitted. Subgroup analysis showed that the only group with significant survival advantage were those with 0-1 metastases after initial chemotherapy, and those with 2-3 metastases had no improvement in survival.
+
+- B. Colon
+
+Surgical series have shown that selected patients with colorectal cancer undergoing resection of hepatic and/or pulmonary metastases results in a cure for a proportion of patients with a 5-year survival of 38% (Kanas et al, 2012). The European Organisation for Research and Treatment of Cancer (EORTC) conducted the only randomized phase II study in the oligometastatic setting where patients with liver metastases from colon cancer were randomized to radiofrequency ablation plus chemotherapy or chemotherapy alone (Ruers et al, 2017). The 5 year overall survival was 43% in the radiofrequency ablation arm and 30% in the control arm ( p = 0.01), with median follow-up of 9.7 years.
+
+- C. Breast
+
+An analysis of breast cancer patients who underwent treatment with SBRT for oligometastatic disease compared outcomes to other histologies. Patients who underwent SBRT for oligometastatic breast cancer had a progression free survival (PFS) at 2 years of 36% vs. 13% for non-breast histology, and overall survival (OS) at 6 years was 47% vs. 9% for non-breast histology. A review of literature by Kucharczyk et al. (2017) identified 41 studies of treatment for oligometastases from breast primary. All studies were observational cohort studies (level 2B or 4 evidence). The authors concluded that existing evidence does not provide meaningful direction on which metastatic breast cancer patients should have ablation of their residual disease due to heterogeneous reporting of disease factors, patient factors, and outcomes.
+
+- D. Sarcoma, renal, melanoma
+
+A retrospective analysis examining pulmonary metastases from sarcoma found those who received local ablative treatment had an improved median survival of 45 months vs. 12 months for those who had no local therapy to the metastases (Falk et al, 2015). Previous retrospective literature has demonstrated a survival benefit for patients with metastatic sarcoma who underwent a pulmonary metastasectomy (van Geel et al., 1996). Pulmonary resection for renal cell cancer is associated with a 5-year survival of 20% (Murthy et al, 2006). In the setting of melanoma there have also been retrospective studies demonstrating a benefit to lung resection of metastases. An analysis of melanoma in the International Registry of Lung Metastasis found a 5-year survival of 22% after complete metastasectomy.
+
+- E. Prostate cancer
+
+STOMP (Ost et al JCO 2018)
+
+This was a randomized phase 2 trial that investigated the benefit of SBRT in the treatment of oligometastatic recurrent prostate cancer in patients who have not initiated ADT. The trial enrolled 62 patients at the time for first PSA relapse and choline PET revealing ≤ 3 lesions. Patients either underwent surveillance or metastasis directed therapy (MDT) using SBRT. The primary outcome was ADTfree survival. Patients with a "PSA relapse while receiving an active systemic treatment," termed castration-resistant prostate cancer, were deemed ineligible.
+
+At a median follow-up of 3 years, the median ADT-free survival was 13 months for the control group vs. 21 months for the MDT group ( p = 0.11). This is a nonsignificant benefit.
+
+There was no difference in quality of life at 3 months and 1 year follow-up. It is noted that "30% of patients treated with MDT progressed to poly-metastatic disease within the first year."
+
+In an abstract presenting 5-year results (ASCO 2020), the authors reported improved 5-year ADT-free survival of 34% vs. 8% for the surveillance group without an improvement in overall survival.
+
+In conclusion, the results of this trial suggest a role for MDT to defer ADT initiation at the time of first PSA relapse. Given the non-significant benefit and high percentage of developing additional metastatic disease after MDT, the authors "recommend testing MDT in larger phase III studies."
+
+ORIOLE (Phillips et al 2020)
+
+This was another randomized phase 2 trial that investigated the benefit of SBRT in the treatment of hormone-sensitive oligometastatic prostate cancer in an attempt to delay initiation of ADT. The trial enrolled 54 patients in 2 years, in a 1:2 fashion, at the time of development of 1-3 asymptomatic metastases to undergo either surveillance (18 patients) or SBRT (36 patients). The primary outcome was progression at 6 months.
+
+Patients who had received "ADT or other systemic therapy… within 6 months of enrollment" and those with castration-resistant prostate cancer were deemed ineligible.
+
+At a median follow-up of 18.8 months, 19% of patients treated with SBRT exhibited progression at 6 months vs. 61% in the observation arm ( p = 0.005).
+
+In conclusion, the results of this trial suggest a possible role of MDT to potentially defer ADT initiation at the time of first PSA relapse. The question remains whether deferral of ADT is an appropriate end-point.
+
+ASTRO editorial
+
+In an editorial by ASTRO (Zietman et al PRO 2021), the subcommittee addresses this topic, stating "that evidence is lacking in prostate cancer. Thus, when metastases are found beyond the pelvis, the consensus was that systemic therapy is the cornerstone of treatment" (page 2, first paragraph).
+
+The American Society of Clinical Oncology published the "Approach to Oligometastatic Prostate Cancer" (Bernard et al, 2018). In this article, the authors note that the role for radiation therapy as a solitary therapy or in combination with systemic therapy for oligometastatic prostate cancer is "evolving" but "unproven."
+
+It is noted that there are additional studies underway to further determine the benefit of SBRT in the treatment of oligometastatic prostate cancer. These include:
+
+- PRESTO (NCT04115007)
+
+- ARTO (NCT03449719)
+
+- PILLAR (NCT03503344)
+
+- SABR-COMET-3 (NCT03862911)
+
+- Canadian PCS IX
+
+- French STEREO-OS
+
+- British CORE - no longer enrolling
+
+F. Treatment of &gt; 3 sites or nonhematogenous sites
+
+There is limited data on the survival benefit of treating multiple metastases (&gt; 3 metastases). Surgical studies have suggested that tumor burden is predictive of overall survival. In the surgical literature, the number and size of metastatic lesions (&gt; 3 hepatic metastases, hepatic metastases ≥ 5 cm, &gt; 1 lung metastasis), extrahepatic spread, poorly differentiated disease, positive resection margins, and a short disease free interval (&lt; 36 months) have been independent predictors for poor survival. Salama et al (2012) reported a longer progression free survival (PFS) in patients with 1-3 metastatic sites versus those with 4-5 metastases receiving escalating SBRT doses to all sites of disease. The toxicity of using SBRT for treating multiple metastases (&gt; 3 metastases) can be potentially significant. As demonstrated in the SABR-COMET trial, grade &gt; 2 toxicity was significantly higher in the SABR arm (29% vs 9%, p = .03), and there were 3 deaths in the SABR arm attributed to treatment (4.5%) with none in the control arm. In light of this, the Radiation Therapy Oncology Group (RTOG) is currently conducting a phase I study examining the safety of SBRT for the treatment of multiple metastases. Furthermore, SABR-COMET-10 is an ongoing randomized phase III trial evaluating SBRT in the treatment of 4-10 metastases.
+
+Based on these ongoing studies, the limitation in the number of metastases treated in most reports, and the lack of evidence of a clinically significant benefit for treatment of larger number of metastases in the limited randomized literature, SBRT to &gt; 3 sites is considered not medically necessary.
+
+G. Oligoprogression
+
+Oligoprogression is the clinical scenario where there is progression of a limited number of metastatic sites while other metastatic disease sites remain controlled. The other metastatic sites remain stable or are responding to systemic therapy while a few areas of metastatic disease progress (Cheung, 2016). There is limited published data on oligoprogression and most of the data on oligoprogression is focused on patients with non-small cell lung cancer while on targeted therapy (Cheung, 2016). Some studies have suggested that patients with actionable mutations in non-small cell lung cancer may derive a greater benefit from receiving SBRT or hypofractionated radiotherapy for oligoprogressive disease (Gan et al, 2014; Iyengar et al, 2014). Due to the limited number of patients included in these analyses, it is difficult to make definitive conclusions regarding the benefit of SBRT for oligoprogressive disease for patients with actionable mutations. There are ongoing trials to evaluate the use of SBRT for this population, such as the HALT trial in the UK and STOP-NSCLC in Canada (Cheung, 2016).
+
+H. Summary
+
+There is intense interest in the potential use of focal ablative radiation, and there are several ongoing or planned randomized trials to evaluate such treatment. At this time, the results of large well-designed randomized trials with mature follow-up data are not available. Further information from such trials will assist with determining the proper place for such therapy in the future. Based on the current available data, the use of SBRT outside of the parameters of this policy is considered not medically necessary. Current ongoing randomized trials include: NRG LU002, NRG BR002, SABR-COMET-10, ORIOLE (Prostate) and trials for oligoprogression: STOP (NCT02756793), HALT (NCT03256981).
+
+#### References
+
+1. Amini A, Verma V, Simone CB 2nd, et al. American Radium Society Appropriate Use Criteria for Radiation Therapy in Oligometastatic or Oligoprogressive Non-Small Cell Lung Cancer. Int J Radiat Oncol Biol Phys . 2022;112(2):361-375. doi:10.1016/j.ijrobp.2021.09.022
+
+2. Ashworth A, Rodrigues G, Boldt G, Palma D. Is there an oligometastatic state in non-small cell lung cancer? A systematic review of the literature. Lung Cancer . 2013;82(2):197-203. doi:10.1016/j.lungcan.2013.07.026
+
+3. American Society for Radiation Oncology Model Policies. Stereotactic Body Radiation Therapy (SBRT). 2020 June.
+
+4. ASTRO 2023 Radiation Oncology Coding Resource. American Society for Radiation Oncology (ASTRO). 2023.
+
+5. Bernard B, Gershman B, Karnes RJ, Sweeney CJ, Vapiwala N. Approach to Oligometastatic Prostate Cancer. Am Soc Clin Oncol Educ Book. 2016;35:119-129. doi:10.1200/EDBK\_159241
+
+6. Bristow RG, Alexander B, Baumann M, et al. Combining precision radiotherapy with molecular targeting and immunomodulatory agents: a guideline by the American Society for Radiation Oncology. Lancet Oncol . 2018;19(5):e240-e251. doi:10.1016/S1470-2045(18)30096-2
+
+7. Cheung P. Stereotactic body radiotherapy for oligoprogressive cancer. Br J Radiol . 2016;89(1066):20160251. doi:10.1259/bjr.20160251
+
+8. Corbin KS, Hellman S, Weichselbaum RR. Extracranial oligometastases: a subset of metastases curable with stereotactic radiotherapy. J Clin Oncol . 2013;31(11):1384-1390. doi:10.1200/JCO.2012.45.9651
+
+9. Falk AT, Moureau-Zabotto L, Ouali M, et al. Effect on survival of local ablative treatment of metastases from sarcomas: a study of the French sarcoma group. Clin Oncol (R Coll Radiol) . 2015;27(1):48-55. doi:10.1016/ j.clon.2014.09.010
+
+10. Gan GN, Weickhardt AJ, Scheier B, et al. Stereotactic radiation therapy can safely and durably control sites of extra-central nervous system oligoprogressive disease in anaplastic lymphoma kinase-positive lung cancer patients receiving crizotinib. Int J Radiat Oncol Biol Phys . 2014;88(4):892-898. doi:10.1016/j.ijrobp.2013.11.010
+
+11. Gomez DR, Tang C, Zhang J, et al. Local Consolidative Therapy Vs. Maintenance Therapy or Observation for Patients with Oligometastatic Non-Small-Cell Lung Cancer: Long-Term Results of a Multi-Institutional, Phase II, Randomized Study. J Clin Oncol . 2019;37(18):1558-1565. doi:10.1200/JCO.19.00201
+
+12. Griffioen GH, Toguri D, Dahele M, et al. Radical treatment of synchronous oligometastatic non-small cell lung carcinoma (NSCLC): patient outcomes and prognostic factors. Lung Cancer . 2013;82(1):95-102. doi:10.1016/ j.lungcan.2013.07.023
+
+13. Hasselle MD, Haraf DJ, Rusthoven KE, et al. Hypofractionated image-guided radiation therapy for patients with limited volume metastatic non-small cell lung cancer. J Thorac Oncol . 2012;7(2):376-381. doi:10.1097/ JTO.0b013e31824166a5
+
+14. Hoyer M, Roed H, Traberg Hansen A, et al. Phase II study on stereotactic body radiotherapy of colorectal metastases. Acta Oncol . 2006; 45(7):823-830. doi:10.1080/02841860600904854
+
+15. Inoue T, Katoh N, Aoyama H, et al. Clinical outcomes of stereotactic brain and/or body radiotherapy for patients with oligometastatic lesions. Jpn J Clin Oncol . 2010;40(8):788-794. doi:10.1093/jjco/hyq044
+
+16. Iyengar P, Kavanagh BD, Wardak Z, et al. Phase II trial of stereotactic body radiation therapy combined with erlotinib for patients with limited but progressive metastatic non-small-cell lung cancer. J Clin Oncol . 2014;32(34):3824-3830. doi:10.1200/JCO.2014.56.7412
+
+17. Iyengar P, Wardak Z, Gerber DE, et al. Consolidative Radiotherapy for Limited Metastatic Non-SmallCell Lung Cancer: A Phase 2 Randomized Clinical Trial. JAMA Oncol . 2018;4(1):e173501. doi:10.1001/ jamaoncol.2017.3501
+
+18. Kager L, Zoubek A, Pötschger U, et al. Primary metastatic osteosarcoma: presentation and outcome of patients treated on neoadjuvant Cooperative Osteosarcoma Study Group protocols. J Clin Oncol . 2003;21(10):2011-2018. doi:10.1200/JCO.2003.08.132
+
+19. Kanas GP, Taylor A, Primrose JN, et al. Survival after liver resection in metastatic colorectal cancer: review and meta-analysis of prognostic factors. Clin Epidemiol . 2012;4:283-301. doi:10.2147/CLEP.S34285
+
+20. Kucharczyk MJ, Parpia S, Walker-Dilks C, Banfield L, Swaminath A. Ablative Therapies in Metastatic Breast Cancer: A Systematic Review. Breast Cancer Res Treat . 2017;164(1):13-25. doi:10.1007/s10549-017-4228-2.
+
+21. Lee MT, Kim JJ, Dinniwell R, et al. Phase I study of individualized stereotactic body radiotherapy of liver metastases. J Clin Oncol . 2009;27(10):1585-1591. doi:10.1200/JCO.2008.20.0600
+
+22. Lievens Y, Guckenberger M, Gomez D, et al. Defining oligometastatic disease from a radiation oncology perspective: An ESTRO-ASTRO consensus document. Radiother Oncol . 2020;148:157-166. doi:10.1016/ j.radonc.2020.04.003
+
+23. Loo BW Jr, Diehn M. SABR-COMET: harbinger of a new cancer treatment paradigm. Lancet . 2019;393(10185):2013-2014. doi:10.1016/S0140-6736(19)30278-8
+
+24. Milano MT, Katz AW, Zhang H, Okunieff P. Oligometastases treated with stereotactic body radiotherapy: long-term follow-up of prospective study. Int J Radiat Oncol Biol Phys . 2012;83(3):878-886. doi:10.1016/ j.ijrobp.2011.08.036
+
+25. Milano MT, Zhang H, Metcalfe SK, Muhs AG, Okunieff P. Oligometastatic breast cancer treated with curativeintent stereotactic body radiation therapy. Breast Cancer Res Treat . 2009;115(3):601-608. doi:10.1007/ s10549-008-0157-4
+
+26. Murthy SC, Kim K, Rice TW, et al. Can we predict long-term survival after pulmonary metastasectomy for renal cell carcinoma? Ann Thorac Surg . 2005;79(3):996-1003. doi:10.1016/j.athoracsur.2004.08.034
+
+27. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 8, 2024. Prostate Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/prostate.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Prostate Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+28. Nordlinger B, Guiguet M, Vaillant JC, et al. Surgical resection of colorectal carcinoma metastases to the liver. A prognostic scoring system to improve case selection, based on 1568 patients. Association Française de Chirurgie. Cancer . 1996;77(7):1254-1262.
+
+29. Ost P, Reynders D, Decaestecker K, et al. Surveillance or Metastasis-Directed Therapy for Oligometastatic Prostate Cancer Recurrence: A Prospective, Randomized, Multicenter Phase II Trial. J Clin Oncol . 2018;36(5):446-453. doi:10.1200/JCO.2017.75.4853
+
+30. Palma DA, Olson R, Harrow S, et al. Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial. J Clin Oncol . 2020;38(25):2830-2838. doi:10.1200/JCO.20.00818
+
+31. Palma DA, Olson RA, Harrow S, et al. Stereotactic Ablative Radiation Therapy for the Comprehensive Treatment of Oligometastatic Tumors (SABR-COMET): Results of a Randomized Trial. Int J Radiat Oncol Biol Phys . 2018;102(3)(Suppl):S3-S4. doi:10.1016/j.ijrobp.2018.06.105
+
+32. Palma DA, Olson R, Harrow S, et al. Stereotactic ablative radiotherapy versus standard of care palliative treatment in patients with oligometastatic cancers (SABR-COMET): a randomised, phase 2, open-label trial. Lancet . 2019;393(10185):2051-2058. doi:10.1016/S0140-6736(18)32487-5
+
+33. Palma DA, Salama JK, Lo SS, et al. The oligometastatic state - separating truth from wishful thinking. Nat Rev Clin Oncol . 2014;11(9):549-557. doi:10.1038/nrclinonc.2014.96
+
+34. Pastorino U, Buyse M, Friedel G, et al. Long-term results of lung metastasectomy: prognostic analyses based on 5206 cases. J Thorac Cardiovasc Surg . 1997;113(1):37-49. doi:10.1016/s0022-5223(97)70397-0
+
+35. Ranck MC, Golden DW, Corbin KS, et al. Stereotactic body radiotherapy for the treatment of oligometastatic renal cell carcinoma. Am J Clin Oncol . 2013;36(6):589-595. doi:10.1097/COC.0b013e31825d52b2
+
+36. Ruers T, Punt C, Van Coevorden F, et al. Radiofrequency ablation combined with systemic treatment versus systemic treatment alone in patients with non-resectable colorectal liver metastases: a randomized EORTC Intergroup phase II study (EORTC 40004). Ann Oncol . 2012;23(10):2619-2626. doi:10.1093/annonc/mds053
+
+37. Rusthoven KE, Kavanagh BD, Burri SH, et al. Multi-institutional phase I/II trial of stereotactic body radiation therapy for lung metastases. J Clin Oncol . 2009;27(10):1579-1584. doi:10.1200/JCO.2008.19.6386
+
+38. Salama JK, Hasselle MD, Chmura SJ, et al. Stereotactic body radiotherapy for multisite extracranial oligometastases: final report of a dose escalation trial in patients with 1 to 5 sites of metastatic disease. Cancer . 2012;118(11):2962-2970. doi:10.1002/cncr.26611
+
+39. Tanvetyanon T, Robinson LA, Schell MJ, et al. Outcomes of adrenalectomy for isolated synchronous versus metachronous adrenal metastases in non-small-cell lung cancer: a systematic review and pooled analysis. J Clin Oncol . 2008;26(7):1142-1147. doi:10.1200/JCO.2007.14.2091
+
+40. van Geel AN, Pastorino U, Jauch KW, et al. Surgical treatment of lung metastases: The European Organization for Research and Treatment of Cancer-Soft Tissue and Bone Sarcoma Group study of 255 patients. Cancer . 1996;77(4):675-682. doi:10.1002/(sici)1097-0142(19960215)77:4&lt;675::aid-cncr13&gt;3.3.co;2-h
+
+41. Wang XS, Rhines LD, Shiu AS, et al. Stereotactic body radiation therapy for management of spinal metastases in patients without spinal cord compression: a phase 1-2 trial. Lancet Oncol . 2012;13(4):395-402. doi:10.1016/ S1470-2045(11)70384-9
+
+42. Zhang Y, Xiao JP, Zhang HZ, et al. Stereotactic body radiation therapy favors long-term overall survival in patients with lung metastases: five-year experience of a single-institution. Chin Med J (Engl) . 2011; 124(24):4132-4137.
+
+POLICY
+
+Though the majority of requests for radiation therapy are addressed by individual clinical guidelines, it is recognized that there may be requests that are not. For such requests, adjudication will be conducted on a case-by-case basis utilizing, as appropriate and applicable:
+
+- I. Evidence-based guidelines including, but not limited to:
+
+- A. National Comprehensive Cancer Network (NCCN ® ) Guidelines ®
+
+- B. American Society for Radiation Oncology (ASTRO) (ie, Evidence-Based Guidelines; Evidence-Based Consensus Statement)
+
+- C. American College of Radiology (ACR) (ie, ACR Appropriateness Criteria ® )
+
+- D. American Society of Clinical Oncology (ASCO)
+
+- E. Radiation Oncology Coding Resource
+
+- II. Peer-reviewed literature
+
+### Other Cancers
+
+#### References
+
+1. National Comprehensive Cancer Network (NCCN ® ) Guidelines ® . https://www.nccn.org/professionals/ physician\_gls/. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ). National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+2. American Society for Radiation Oncology (ASTRO) Clinical Practice Guidelines.
+
+3. American College of Radiology (ACR) ACR Appropriateness Criteria ® .
+
+4. American Society of Clinical Oncology (ASCO) Guidelines, Tools &amp; Resources.
+
+5. ASTRO 2024 Radiation Oncology Coding Resource. American Society for Radiation Oncology (ASTRO). 2024.
+
+RO.TXS.126.A
+
+v2.0.2024
+
+POLICY
+
+- I. Radiation therapy for pancreatic cancer is considered medically necessary for ANY of the following:
+
+- A. Preoperatively (neoadjuvant) when cancer is borderline resectable
+
+- B. Unresectable/locally advanced
+
+- C. Postoperatively (adjuvant)
+
+- D. Palliation
+
+- II. Radiation therapy for pancreatic cancer is considered not medically necessary when given preoperatively for disease that is otherwise fully resectable.
+
+- III. Radiation treatment techniques
+
+- A. 3DCRT or IMRT to a dose of 45-54 Gy in 25-30 fractions is considered medically necessary in the preoperative, locally advanced or postoperative settings.
+
+- B. 3DCRT or IMRT to a dose of 36 Gy in 15 fractions is also considered medically necessary in the preoperative setting.
+
+- C. If tolerances to organs at risk (OARs) are maintained, IMRT to a dose of 67.5 Gy in 15 fractions or 75 Gy in 25 fractions is also considered medically necessary in the unresectable/locally advanced setting.
+
+- D. Motion management techniques should be employed when respiration significantly impacts on stability of the target volume.
+
+- E. Stereotactic body radiation therapy (SBRT) using up to 5 fractions is considered medically necessary for curative treatment of unresectable/locally advanced cases and as preoperative treatment in borderline resectable cases.
+
+1. SBRT is considered not medically necessary in the palliative setting, postoperative setting, or for planned neoadjuvant treatment when the primary tumor is otherwise fully resectable.
+
+- F. For palliative cases, up to 15 fractions of 3DCRT is considered medically necessary.
+
+### Pancreatic Cancer
+
+#### DISCUSSION
+
+Pancreatic cancer is the fourth leading cause of cancer mortality in the United States. Surgical resection is integral to the curative management of pancreatic cancer. Unfortunately, only 20% of individuals present with resectable disease. As such, treatment paradigms have centered on the resectability of the disease, with
+
+RO.TXS.127.C
+
+v2.0.2024
+
+recommendations differing among those that are resectable, borderline resectable and unresectable.
+
+Locally advanced (unresectable)
+
+For those with unresectable, locally advanced disease, the role of radiation remains unclear. The use of chemoradiation was established by the Gastrointestinal Tumor Study Group (GITSG) trial which reported an improved median overall survival (OS) with radiation (40 Gy split-course) in combination with 5-FU vs. radiation alone to 60 Gy (8.3 months vs. 5.5 months). On the other hand, LAP-07 reported no difference in OS between those patients who were randomized (following 4 cycles of gemcitabine) to 54 Gy chemoradiation or to 2 additional months of chemotherapy. This is in contrast to the findings in a retrospective analysis (GRECOR) where, following 3 months of induction chemotherapy, patients who did not exhibit progression received either continued chemotherapy or chemoradiation (55 Gy with continuous 5-FU). In this analysis, those receiving chemoradiation had a higher OS compared to those receiving chemotherapy alone (15 vs. 11.7 months).
+
+For this group of patients, ASCO recommends for most patients 'initial systemic therapy with combination regimens...' followed by chemoradiation or SBRT for those 1) with 'local disease progression after induction chemotherapy, but without evidence of systemic spread' or 2) 'who have responded to an initial 6 months of chemotherapy or have stable disease but have developed unacceptable chemotherapy-related toxicities or show a decline in performance status, as a consequence of chemotherapy toxicity' or 3) who have a 'response or stable disease after 6 months of induction chemotherapy.'
+
+Such an approach was solidified in the recently published ASTRO Clinical Practice Guideline for Pancreatic Cancer. For example, in patients with 1) borderline resectable, 2) select locally advanced patients appropriate for downstaging prior to surgery and 3) locally advanced patients not appropriate for downstaging to eventual surgery, chemoradiation or SBRT alone was recommended following systemic chemotherapy.
+
+Postoperative (adjuvant)
+
+The underpowered but landmark GITSG study established the role of postoperative chemoradiation by demonstrating a survival benefit with this treatment strategy. The GITSG study included 43 patients, randomized to surgery alone or surgery followed by chemoradiation. This trial used a 40 Gy split course regimen that is rarely used today. Though underpowered, there was a 5-year improvement in overall survival (OS). Studies from the Mayo Clinic and Johns Hopkins have supported the use of chemoradiation following resection. The Mayo Clinic study retrospectively reviewed 472 patients. The Johns Hopkins study included 616 patients. Both studies demonstrated improved 5-year overall survival in the cohorts receiving chemoradiation. A Johns Hopkins-Mayo Clinic Collaborative Study analyzed patients receiving adjuvant chemoradiation compared with surgery alone. In a retrospective review of 1045 patients with resected pancreatic cancer, 530 patients received chemoradiation. Median and overall survivals were significantly improved in the chemoradiation group. In contrast, the heavily criticized European Organization for Research and Treatment of Cancer (EORTC) and European Study Group for Pancreatic Cancer (ESPAC) studies have not supported the use of adjuvant chemoradiation. These studies were heavily criticized for trial design, inclusion of more favorable histologies, lack of quality assurance, and use of split course radiation.
+
+In 2017, ASCO recommended 6 months of adjuvant chemotherapy for 'all patients with resected pancreatic cancer who did not receive preoperative therapy' and adjuvant chemoradiation 'to patients who did not receive preoperative therapy and present after resection with microscopically positive margins (r1) and/or node-positive disease after completion of 4 to 6 months of systemic adjuvant chemotherapy.'
+
+In the recently published Clinical Practice Guideline for Pancreatic Cancer, the authors state that 'the current literature supports a recommendation for adjuvant chemotherapy alone following R0 surgical resection for node negative patients.' For 'node positive disease following R0 surgical resection and adjuvant systemic chemotherapy with no evidence of disease recurrence on restaging, chemoradiation should be discussed'.
+
+The NCCN ® states 'in the adjuvant setting, treatment with chemotherapy is recommended; the role of radiation is being evaluated in clinical studies.' However, 'after resection, patients may receive adjuvant RT for features that portend high risk for local recurrence (eg, positive resection margins).'
+
+Preoperative (neoadjuvant)
+
+Given the limited data and varying results, the use of radiation in cases that are anatomically resectable is considered not medically necessary. In the Clinical Practice Guideline for Pancreatic Cancer, the authors state that 'based on the level of available evidence, the indications for considering anatomically resectable pancreas cancer patients for preoperative therapy are controversial' and as such 'there is not enough high-level evidence to support this recommendation outside of a registry or a clinical trial.'
+
+NCCN ®  also states that 'neoadjuvant therapy for patients with resectable tumors should ideally be conducted in a clinical trial.'
+
+On the other hand, the use of radiation is supported in cases that are borderline resectable. Several studies have confirmed the ability of radiation to improve resection rates while improving the likelihood of achieving negative margins.
+
+NCCN Guidelines ® indicate that '...data suggest that RT in the neoadjuvant setting may lead to an increased likelihood of a margin-negative resection...' and that '...it is generally recommended that patients receive neoadjuvant chemotherapy prior to RT.'
+
+SBRT
+
+While data on the use of SBRT in cancer of the pancreas continues to emerge, there is a growing consensus on its use following 2 to 3 cycles of chemotherapy. Mellon et al (2015) reported on 159 patients with borderline resectable and locally advanced disease. Patients received chemotherapy for 2 to 3 months followed by a total of 30 Gy to tumor and 40 Gy dose painted to tumor-vessel interfaces administered with 5 SBRT daily treatments. The resection and negative margin rate for borderline resectable patients who completed treatment was 51% and 96% respectively. Median survival was 34.2 months for surgically resected patients and 14.0 months for unresected patients. Locally advanced pancreas cases that received FOLFIRINOX (leucovorin calcium [folinic acid], fluorouracil, irinotecan hydrochloride, oxaliplatin) and SBRT underwent a negative margin (R0) resection with a trend towards improved survival. Grade 3 or higher possible radiation toxicity was 7%. A phase II multi-institution trial evaluating gemcitabine and SBRT in locally advanced unresectable patients by Herman et al (2015) reported a median survival of 13.9 months and freedom from disease progression at 1 year of 78%. Of the 49 patients entered, 4 patients (8%) underwent negative margin and negative lymph node resections. Both early and late gastrointestinal toxicity was reported as minimal. A single institution review of 88 patients by Moningi et al (2015) had similar findings. Of the 19 patients who underwent surgery, 79% had locally advanced disease and 84% had margin negative resections. SBRT in resected pancreatic adenocarcinoma with close or positive margins combined with post-radiation chemotherapy (Rwigema et al, 2012) achieved freedom from local progression at 6 months, 1, and 2 years of 94.7%, 66% and 44% in a series of 24 patients. Overall median survival was 26.7 months and the 1- and 2-year statistics were 80.4% and 57.2% respectively. Gastrointestinal toxicities were minor with no patients having a grade 3 or 4 toxicity. Given the available data, SBRT is supported for locally advanced and borderline resectable cases.
+
+3D vs. IMRT
+
+It is recognized that, as compared to 3D conformal radiation, IMRT inherently allows for improved conformality and a reduction in medium- to high-dose to immediately adjacent organs at risk (OARs) with the trade-off of an increased integral dose. Such results have been confirmed in several dosimetric studies (ie Chapman et al) while others' studies reported otherwise (ie Ling et al). However, it remains unclear whether such potential improvements with IMRT consistently result in clinical benefits. In the Clinical Practice Guideline for Pancreatic Cancer, the authors state that 'clinical data on associated improvement of acute and sub-acute gastrointestinal toxicities is limited. Some studies have reported lower but not statistically significant rates of anorexia, nausea, and emesis with modulated techniques' while 'retrospective data suggests equivalent clinical outcomes between patients treated with IMRT and 3-D CRT…'
+
+With this in mind, the Guideline concluded that "for treatment of localized pancreatic cancer, modulated treatment techniques such as IMRT and VMAT for planning and delivery of both conventionally fractionated and hypofractionated RT are recommended."
+
+#### References
+
+1. Brown MW, Ning H, Arora B, et al. A dosimetric analysis of dose escalation using two intensity-modulated radiation therapy techniques in locally advanced pancreatic carcinoma. Int J Radiat Oncol Biol Phys . 2006;65(1):274-283. doi:10.1016/j.ijrobp.2006.01.003
+
+2. Brunner TB, Nestle U, Grosu AL, Partridge M. SBRT in pancreatic cancer: what is the therapeutic window?. Radiother Oncol . 2015;114(1):109-116. doi:10.1016/j.radonc.2014.10.015
+
+3. Ceha HM, van Tienhoven G, Gouma DJ, et al. Feasibility and efficacy of high dose conformal radiotherapy for patients with locally advanced pancreatic carcinoma. Cancer . 2000;89(11):2222-2229. doi:10.1002/1097-0142(20001201)89:11&lt;2222::aid-cncr10&gt;3.0.co;2-v
+
+4. Chauffert B, Mornex F, Bonnetain F, et al. Phase III trial comparing intensive induction chemoradiotherapy (60 Gy, infusional 5-FU and intermittent cisplatin) followed by maintenance gemcitabine with gemcitabine alone for locally advanced unresectable pancreatic cancer. Definitive results of the 2000-01 FFCD/SFRO study. Ann Oncol . 2008;19(9):1592-1599. doi:10.1093/annonc/mdn281
+
+5. ClinicalTrials.gov.
+
+6. Corsini MM, Miller RC, Haddock MG, et al. Adjuvant radiotherapy and chemotherapy for pancreatic carcinoma: the Mayo Clinic experience (1975-2005). J Clin Oncol . 2008;26(21):3511-3516. doi:10.1200/JCO.2007.15.8782
+
+7. Further evidence of effective adjuvant combined radiation and chemotherapy following curative resection of pancreatic cancer. Gastrointestinal Tumor Study Group. Cancer . 1987;59(12):2006-2010. doi:10.1002/1097-0142(19870615)59:12&lt;2006::aid-cncr2820591206&gt;3.0.co;2-b
+
+8. Fuss M, Wong A, Fuller CD, Salter BJ, Fuss C, Thomas CR. Image-guided intensity-modulated radiotherapy for pancreatic carcinoma. Gastrointest Cancer Res . 2007;1(1):2-11.
+
+9. Goyal K, Einstein D, Ibarra RA, et al. Stereotactic body radiation therapy for nonresectable tumors of the pancreas. J Surg Res . 2012;174(2): 319-325. doi:10.1016/j.jss.2011.07.044
+
+10. Herman JM, Chang DT, Goodman KA, et al. Phase 2 multi-institutional trial evaluating gemcitabine and stereotactic body radiotherapy for patients with locally advanced unresectable pancreatic adenocarcinoma. Cancer . 2015;121(7):1128-1137. doi:10.1002/cncr.29161
+
+11. Herman JM, Swartz MJ, Hsu CC, et al. Analysis of fluorouracil-based adjuvant chemotherapy and radiation after pancreaticoduodenectomy for ductal adenocarcinoma of the pancreas: results of a large, prospectively collected database at the Johns Hopkins Hospital. J Clin Oncol . 2008;26(21):3503-3510. doi:10.1200/JCO.2007.15.8469
+
+12. Hsu CC, Herman JM, Corsini MM, et al. Adjuvant chemoradiation for pancreatic adenocarcinoma: the Johns Hopkins Hospital-Mayo Clinic collaborative study. Ann Surg Oncol . 2010;17(4):981-990. doi:10.1245/ s10434-009-0743-7
+
+13. Klinkenbijl JH, Jeekel J, Sahmoud T, et al. Adjuvant radiotherapy and 5-fluorouracil after curative resection of cancer of the pancreas and periampullary region: phase III trial of the EORTC gastrointestinal tract cancer cooperative group. Ann Surg . 1999;230(6):776-784. doi:10.1097/00000658-199912000-00006
+
+14. Komaki R, Wadler S, Peters T, et al. High-dose local irradiation plus prophylactic hepatic irradiation and chemotherapy for inoperable adenocarcinoma of the pancreas. A preliminary report of a multiinstitutional trial (Radiation Therapy Oncology Group Protocol 8801). Cancer . 1992;69(11):2807-2812. doi:10.1002/1097-0142(19920601)69:11&lt;2807::aid-cncr2820691128&gt;3.0.co;2-o
+
+15. Koong AC, Christofferson E, Le QT, et al. Phase II study to assess the efficacy of conventionally fractionated radiotherapy followed by a stereotactic radiosurgery boost in patients with locally advanced pancreatic cancer. Int J Radiat Oncol Biol Phys . 2005;63(2):320-323. doi:10.1016/j.ijrobp.2005.07.002
+
+16. Koong AC, Le QT, Ho A, et al. Phase I study of stereotactic radiosurgery in patients with locally advanced pancreatic cancer. Int J Radiat Oncol Biol Phys . 2004;58(4):1017-1021. doi:10.1016/j.ijrobp.2003.11.004
+
+17. Mahadevan A, Miksad R, Goldstein M, et al. Induction gemcitabine and stereotactic body radiotherapy for locally advanced nonmetastatic pancreas cancer. Int J Radiat Oncol Biol Phys . 2011;81(4):e615-e622. doi:10.1016/j.ijrobp.2011.04.045
+
+18. Mellon EA, Hoffe SE, Springett GM, et al. Long-term outcomes of induction chemotherapy and neoadjuvant stereotactic body radiotherapy for patients with locally advanced unresectable pancreatic adenocarcinoma. Acta Oncol . 2015;54(7):979-985.
+
+19. Moertel CG, Frytak S, Hahn RG, et al. Therapy of locally unresectable pancreatic carcinoma: a randomized comparison of high dose (6000 rads) radiation alone, moderate dose radiation (4000 rads + 5-fluorouracil), and
+
+high dose radiation + 5-fluorouracil: The Gastrointestinal Tumor Study Group. Cancer . 1981;48(8):1705-1710. doi:10.1002/1097-0142(19811015)48:8&lt;1705::aid-cncr2820480803&gt;3.0.co;2-4
+
+20. Moningi S, Dholakia AS, Raman SP, et al. The Role of Stereotactic Body Radiation Therapy for Pancreatic Cancer: A Single-Institution Experience. Ann Surg Oncol . 2015;22(7):2352-2358. doi:10.1245/ s10434-014-4274-5
+
+21. Murphy JD, Chang DT, Abelson J, et al. Cost-effectiveness of modern radiotherapy techniques in locally advanced pancreatic cancer. Cancer . 2012;118(4):1119-1129. doi:10.1002/cncr.26365
+
+22. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - April 30, 2024. Pancreatic Adenocarcinoma. https://www.nccn.org/professionals/physician\_gls/pdf/pancreatic.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Pancreatic Adenocarcinoma Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+23. Neoptolemos JP, Dunn JA, Stocken DD, et al. Adjuvant chemoradiotherapy and chemotherapy in resectable pancreatic cancer: a randomised controlled trial. Lancet . 2001;358(9293):1576-1585. doi:10.1016/ s0140-6736(01)06651-x
+
+24. Patel M, Hoffe S, Malafa M, et al. Neoadjuvant GTX chemotherapy and IMRT-based chemoradiation for borderline resectable pancreatic cancer. J Surg Oncol . 2011;104(2):155-161. doi:10.1002/jso.21954
+
+25. Pollom EL, Alagappan M, von Eyben R, et al. Single- versus multifraction stereotactic body radiation therapy for pancreatic adenocarcinoma: outcomes and toxicity. Int J Radiat Oncol Biol Phys . 2014; 90(4):918-925. doi:10.1016/j.ijrobp.2014.06.066
+
+26. Poppe MM, Narra V, Yue NJ, Zhou J, Nelson C, Jabbour SK. A comparison of helical intensity-modulated radiotherapy, intensity-modulated radiotherapy, and 3D-conformal radiation therapy for pancreatic cancer. Med Dosim . 2011;36(4):351-357. doi:10.1016/j.meddos.2010.08.003
+
+27. Rwigema JC, Heron DE, Parikh SD, et al. Adjuvant stereotactic body radiotherapy for resected pancreatic adenocarcinoma with close or positive margins. J Gastrointest Cancer . 2012;43(1):70-76. doi:10.1007/ s12029-010-9203-7
+
+28. Schellenberg D, Goodman KA, Lee F, et al. Gemcitabine chemotherapy and single-fraction stereotactic body radiotherapy for locally advanced pancreatic cancer. Int J Radiat Oncol Biol Phys . 2008;72(3):678-686. doi:10.1016/j.ijrobp.2008.01.051
+
+29. Trakul N, Koong AC, Chang DT. Stereotactic body radiotherapy in the treatment of pancreatic cancer. Semin Radiat Oncol . 2014;24(2):140-147. doi:10.1016/j.semradonc.2013.11.008
+
+30. Van Tienhoven G, Versteijne E, Suker M, et al. Preoperative chemoradiotherapy versus immediate surgery for resectable and borderline resectable pancreatic cancer (PREOPANC-1): A randomized, controlled, multicenter phase III trial. American Society of Clinical Oncology (ASCO) 2018. Presented June 4, 2018. Abstract LBA4002.
+
+31. Yang W, Fraass BA, Reznik R, et al. Adequacy of inhale/exhale breathhold CT based ITV margins and imageguided registration for free-breathing pancreas and liver SBRT. Radiat Oncol . 2014;9:11. Published 2014 Jan 9. doi:10.1186/1748-717X-9-11
+
+32. Yovino S, Poppe M, Jabbour S, et al. Intensity-modulated radiation therapy significantly improves acute gastrointestinal toxicity in pancreatic and ampullary cancers. Int J Radiat Oncol Biol Phys . 2011;79(1); 158-162. doi:10.1016/j.ijrobp.2009.10.043
+
+POLICY
+
+- I. 25-30 fractions of three-dimensional conformal radiation therapy (3DCRT) or intensity-modulated radiation therapy (IMRT) is considered medically necessary for the curative treatment of World Health Organization (WHO) grade I tumors.
+
+- II. 25-33 fractions of 3DCRT or IMRT is considered medically necessary for the curative treatment of WHO grade II tumors.
+
+- III. 30-33 fractions of 3DCRT or IMRT is considered medically necessary for the curative treatment of WHO grade III-IV tumors. For individuals with a poor performance status or those that cannot tolerate longer courses of radiation, a hypofractionated regimen utilizing 5-15 fractions is recommended.
+
+- IV. For individuals with a recurrent glioma and who have a performance status of ECOG 0-2, curative treatment using ANY of the following is considered medically necessary: A. SRS
+
+- B. Up to 5 fractions of fractionated stereotactic radiotherapy (FSRT)
+
+- C. 5-20 fractions of 3DCRT or IMRT
+
+- V. Brachytherapy is considered not medically necessary for the treatment of a malignant glioma brain tumor.
+
+- VI. For craniopspinal irradiation (CSI), up to 33 fractions of 3DCRT or IMRT is considered medically necessary in individuals with an ependymoma, adult medulloblastoma, and primitive neuroectodermal tumors (PNET).
+
+- VII. Conventional isodose technique or 3DCRT (up to 25 fractions) is considered medically necessary for the treatment of a primary central nervous system lymphoma (PCNSL) for ANY of the following:
+
+- A. A young adult with good performance status and good response to chemotherapy
+
+- B. Poor response to chemotherapy
+
+- C. Without chemotherapy in an individual with a poor performance status or who is severely immunocompromised
+
+- D. Presence of ocular disease
+
+- E. Recurrent disease
+
+- VIII. SRS, up to 5 fractions of FSRT, OR up to 30 fractions of IMRT or 3DCRT is considered medically necessary for the treatment of the following benign conditions:
+
+- A. Arteriovenous (AV) and cavernous malformations (only SRS)
+
+### Primary Craniospinal Tumors and Neurologic Conditions
+
+RO.TXS.128.A
+
+v1.0.2025
+
+- B. Benign brain tumors including ANY of the following:
+
+1. Acoustic neuroma
+
+2. Craniopharyngioma
+
+3. Glomus tumor
+
+4. Hemangioblastoma
+
+5. Meningioma
+
+6. Pineocytoma
+
+7. Pituitary adenoma
+
+8. Schwannoma
+
+- C. Please note that a maximum of 5 fractions is authorized for FSRT. For an individual being treated with more than 5 fractions, 3DCRT or IMRT should be specified as requested.
+
+- IX. SRS or up to 5 fractions of FSRT is considered medically necessary for ANY of the following neurologic diseases that are refractory to medical treatment and/or invasive neurosurgical treatment:
+
+- A. Epilepsy
+
+- B. Parkinson's disease
+
+- C. Essential tremor
+
+- D. Familial tremor classifications with major systemic disease
+
+- E. Trigeminal neuralgia
+
+- X. SRS, up to 5 fractions of FSRT, OR up to 30 fractions of IMRT or 3DCRT is considered medically necessary for the treatment of an inoperable primary spinal tumor with compression or intractable pain.
+
+#### DISCUSSION
+
+Surgical removal is recommended for most types of brain tumors in most locations, and their removal should be as complete as possible within the constraints of preservation of neurologic function. Treatment with photons has a major role in the treatment of individuals with most tumor types, as evidenced in the European Organization for Research and Treatment of Cancer (EORTC-22845) and Medical Research Council (MRC-BR04) trials, and can increase the cure rate or prolong disease-free survival. IMRT may yield better dosimetry with sparing of normal brain tissue, especially in doseescalated protocols.
+
+- I. High-grade gliomas
+
+Since the development of the Radiation Therapy Oncology Group-Recursive Partitioning Analysis (RTOG-RPA) risk classes for high-grade glioma, radiation therapy in combination with temozolomide (TMZ) has become standard care. While this combination has improved survival, the prognosis remains poor in the majority of individuals. In a phase III randomized study (Keime-Guibert et al, 2007) of glioblastoma multiforme (GBM) and anaplastic astrocytoma (AA) in the New England Journal of Medicine (NEJM), post-operative external beam photon radiation therapy in the elderly statistically significantly improved the median survival compared to observation. Another phase III randomized study (Stupp et al, 2005) of highgrade gliomas revealed temozolomide plus external beam photon radiation therapy statistically significantly increased the survival rate compared to external beam photon radiation therapy alone. For high-grade brain tumors (WHO grade III-IV), typically 33 fractions of external beam photon radiation therapy are administered post-operatively with up to 5 coplanar or non-coplanar beams using 3DCRT or IMRT.
+
+II. Low-grade gliomas (LGG)
+
+For low-grade brain tumors (WHO grade I-II), the role of postoperative radiotherapy (PORT) remains controversial. Cerebral low-grade gliomas (LGG) in adults are mostly composed of astrocytomas, oligodendrogliomas, and mixed oligoastrocytomas. An analysis using data from the EORTC 22844/22845 studies concluded that several factors portend a poor prognosis: age ≥ 40 years, astrocytoma histology, tumor size ≥ 6 cm, tumor crossing midline, and preoperative neurologic deficits. PORT may benefit individuals with high-risk features. The EORTC trial 22844 did not reveal the presence of radiotherapeutic dose-response for patients with LGG for the two dose levels investigated with this conventional setup. A phase III prospective randomized trial (Shaw et al, 2002) of low- versus high-dose radiation therapy for adults with supratentorial low-grade astrocytoma, oligodendroglioma, and oligoastrocytoma found somewhat lower survival and slightly higher incidence of radiation necrosis in the high-dose RT arm. The most important prognostic factors for survival are histologic subtype, tumor size, and age. Recently updated results of RTOG 9802 showed significant improvement in progression-free survival (PFS) when patients also received chemotherapy with procarbazine/CCNU/vincristine (PCV). Median, 5-year, and 10-year PFS improved dramatically with the combined approach from 4.0 years to 10.4 years, from 44.1% to 61.2%, and from 20.9% to 50.5% respectively. For those individuals who receive PORT, typically 30 fractions of external beam photon radiation therapy are administered with up to 5 coplanar or non-coplanar beams of 3DCRT or IMRT.
+
+III. Recurrent disease
+
+Currently, the following options for salvage may be considered: re-resection, reirradiation with either conventionally-fractionated doses, stereotactic radiation therapy (SRT), SRS, interstitial brachytherapy, or single/poly-chemotherapy schedules including new dose-intensified or alternative treatment protocols employing targeted drugs. A recent review publication (Niyazi et al, 2011) concluded that these have only modest efficacy. The relative value of each approach compared to other options is unknown as well as it remains open which sequence of modalities should be chosen. Some individuals with recurrent disease may benefit from retreatment with radiotherapy, depending on prognostic factors including grade of tumor, age, and performance status. Other factors such as corticosteroid use may be important. A study (Wong et al, 1999) of several hundred patients retreated for recurrent gliomas at MD Anderson showed that 34 (9%) had complete or partial response, whereas 80 (21%) were alive and progression-free at 6 months (APF6). The median PFS was 10 weeks and median overall survival (OS) was 30 weeks. Histology was a robust prognostic factor across all outcomes. GBM patients had significantly poorer outcomes than AA patients did. The APF6 proportion was 15% for GBM and 31% for AA, whereas the median PFS was 9 weeks for GBM and 13 weeks for AA. Results were also significantly poorer for patients with more than 2 prior surgeries or chemotherapy regimens.
+
+IV. Primary CNS lymphoma
+
+The incidence of primary CNS lymphoma dramatically increased in the last several decades, in part related to human immunodeficiency virus (HIV) infection. Primary CNS lymphoma (PCNSL) now accounts for 2% to 5% of CNS tumors. PCNSL occurs in the brain, leptomeninges, eye and spinal cord. Untreated PCNSL portends a dismal prognosis. Treatment is dependent on age, performance status, extent of disease, and HIV status. Surgery plays little role in the management of PCNSL. Continued investigation is underway to develop the optimal treatment strategy. Recommendations for individuals with good performance status include a high dose methotrexate regimen. For younger individuals, this is usually followed by radiation (24 to 45 Gy in standard fractionation). The timing of radiation is controversial; despite high response rates with a combination of the 2 modalities, increased neurotoxicity has been observed. Therefore, the recommendation for an older (non-immunesuppressed) individual is chemotherapy alone. For individuals with poor performance status, a single modality treatment is used, either radiation therapy or chemotherapy. Radiation is also indicated when there has been an incomplete or limited response to chemotherapy and in the setting of ocular or recurrent disease. For individuals with acquired immunodeficiency syndrome (AIDS) with low CD4 counts, treatment is usually palliative radiotherapy alone, 30 Gy in 10 fractions.
+
+V. SRS
+
+A. Malignant tumors
+
+In 2005, the American Society for Radiation Oncology (ASTRO) published an evidence-based review on the use of SRS for malignant glioma. ASTRO concluded that for individuals with malignant glioma, there is Level I-III evidence that the use of radiosurgery boost followed by external beam photon radiation therapy and bis-chlorethylnitrosourea (BCNU) does not confer benefit in terms of overall survival, local brain control, or quality of life as compared with external beam photon radiation therapy and BCNU. The use of radiosurgery boost is associated with increased toxicity. For an individual with malignant glioma, there is insufficient evidence regarding the benefits/harms of using radiosurgery at the time of progression or recurrence. There is also insufficient evidence regarding the benefits/harms in the use of stereotactic fractionated radiation therapy for individuals with newly diagnosed or progressive/recurrent malignant glioma. More recent publications have not provided evidence that would change these conclusions. While small, well-defined, unresectable low-grade gliomas are attractive targets for stereotactic irradiation, and fractionated stereotactic irradiation of these targets has the theoretical benefit of increased normal tissue sparing beyond that provided by the physical characteristics of SRS, no study has demonstrated its benefit compared to standard techniques. Published results from McGill (Roberge et al, 2006) which includes those of 241 patients treated in 9 other institutional series conclude that data regarding the use of SRS is limited and, in their opinion, insufficient to claim a clear therapeutic advantage to SRS in the initial management of low-grade glioma. Several small single institution retrospective studies of higher-grade malignancies have been published between 2007 and 2012, and while they claim efficacy, there is no convincing evidence that these are better than standard therapies (Cuneo et al, 2012; Ernst-Stecken et al, 2007; Fields et al, 2012).
+
+- B. Benign conditions
+
+The success and excellent safety margin of SRS in many other clinical situations has led to exploration of its use in benign tumors and neurologic conditions which are refractory to medical treatment and would otherwise require surgical procedures with significant morbidity and possible mortality. The condition to be treated must be causing severe symptoms or pose a serious threat to function or life expectancy and have an expected benefit of stabilizing or improving the clinical state. An individual with limited life expectancy and/or generally poor performance status (ECOG &gt; 2) which is not expected to improve significantly with treatment should not be considered for SRS.
+
+The delivery of stereotactic radiation therapy may take 1 to 5 treatment sessions. By definition, the performance of SRS must include:
+
+1. Patient immobilization with or without a frame
+
+2. Radiographic imaging such as computed tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET) or other radiologic modalities to localize precisely the target area
+
+3. The use of computerized image guidance to ensure precise treatment delivery. As per American Medical Association (AMA) coding guidelines, image-guided radiation therapy (IGRT) is included in the daily treatment delivery code, and may not be billed separately.
+
+4. Dedicated treatment planning and precise calculation with verification of setup and accuracy of all treatment parameters, including but not limited to, multiple isocenters, arcs, angles, number of beams (size and weight), isodose plans and calculations
+
+5. Accurate simulation and reproducibility of all treatment angles or arcs
+
+#### References
+
+Malignant tumors
+
+1. Buckner JC, Pugh SL, Shaw EG, et al. Phase III study of radiation therapy (RT) with or without procarbazine, CCNU, and vincristine (PCV) in low-grade glioma: RTOG 9802 with Alliance, ECOG, and SWOG. J Clin Oncol . 2014;32(15 suppl). Abstract 2000.
+
+2. Carson KA, Grossman SA, Fisher JD, Shaw EG. Prognostic factors for survival in adult patients with recurrent glioma enrolled onto the new approaches to brain tumor therapy CNS consortium phase I and II clinical trials. J Clin Oncol . 2007;25(18):2601-2606. doi:10.1200/JCO.2006.08.1661
+
+3. Chapman CH, Hara JH, Molinaro AM, et al. Reirradiation of recurrent high-grade glioma and development of prognostic scores for progression and survival. Neurooncol Pract . 2019;6(5):364-374. doi:10.1093/nop/npz017
+
+4. Cuneo KC, Vredenburgh JJ, Sampson JH, et al. Safety and efficacy of stereotactic radiosurgery and adjuvant bevacizumab in patients with recurrent malignant gliomas. Int J Radiat Oncol Biol Phys . 2012;82(5):2018-2024. doi:10.1016/j.ijrobp.2010.12.074
+
+5. Ernst-Stecken A, Ganslandt O, Lambrecht U, Sauer R, Grabenbauer G. Survival and quality of life after hypofractionated stereotactic radiotherapy for recurrent malignant glioma. J Neurooncol . 2007;81(3):287-294. doi:10.1007/s11060-006-9231-0
+
+6. Fields EC, Damek D, Gaspar LE, et al. Phase I dose escalation trial of vandetanib with fractionated radiosurgery in patients with recurrent malignant gliomas. Int J Radiat Oncol Biol Phys . 2012;82(1):51-57. doi:10.1016/j.ijrobp.2010.09.008
+
+7. García-Cabezas S, Rivin Del Campo E, Solivera-Vela J, Palacios-Eito A. Re-irradiation for high-grade gliomas: Has anything changed?. World J Clin Oncol . 2021;12(9):767-786. doi:10.5306/wjco.v12.i9.767
+
+8. Karim AB, Maat B, Hatlevoll R, et al. A randomized trial on dose-response in radiation therapy of low-grade cerebral glioma: European Organization for Research and Treatment of Cancer (EORTC) Study 22844. Int J Radiat Oncol Biol Phys . 1996;36(3):549-556. doi:10.1016/s0360-3016(96)00352-5
+
+9. Kazmi F, Soon YY, Leong YH, Koh WY, Vellayappan B. Re-irradiation for recurrent glioblastoma (GBM): a systematic review and meta-analysis. J Neurooncol . 2019;142(1):79-90. doi:10.1007/s11060-018-03064-0
+
+10. Keime-Guibert F, Chinot O, Taillandier L, et al. Radiotherapy for glioblastoma in the elderly. N Engl J Med . 2007;356(15):1527-1535. doi:10.1056/NEJMoa065901
+
+11. Li J, Wang M, Won M, et al. Validation and simplification of the Radiation Therapy Oncology Group recursive partitioning analysis classification for glioblastoma. Int J Radiat Oncol Biol Phys . 2011;81(3):623-630. doi:10.1016/j.ijrobp.2010.06.012
+
+12. Limentani SA, Asher A, Heafner M, Kim JW, Fraser R. A phase I trial of surgery, Gliadel wafer implantation, and immediate postoperative carboplatin in combination with radiation therapy for primary anaplastic astrocytoma or glioblastoma multiforme. J Neurooncol . 2005;72(3):241-244. doi:10.1007/s11060-004-2339-1
+
+13. MacDonald SM, Ahmad S, Kachris S, et al. Intensity modulated radiation therapy versus three-dimensional conformal radiation therapy for the treatment of high grade glioma: a dosimetric comparison. J Appl Clin Med Phys . 2007;8(2):47-60. Published 2007 Apr 19. doi:10.1120/jacmp.v8i2.2423
+
+14. Minniti G, Niyazi M, Alongi F, Navarria P, Belka C. Current status and recent advances in reirradiation of glioblastoma. Radiat Oncol . 2021;16(1):36. Published 2021 Feb 18. doi:10.1186/s13014-021-01767-9
+
+15. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2023 - March 24, 2023. Central Nervous System Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/cns.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Central Nervous System Cancers Version 1.2023. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+16. Niyazi M, Siefert A, Schwarz SB, et al. Therapeutic options for recurrent malignant glioma. Radiother Oncol . 2011;98(1):1-14. doi:10.1016/j.radonc.2010.11.006
+
+17. Roberge D, Souhami L, Olivier A, Leblanc R, Podgorsak E. Hypofractionated stereotactic radiotherapy for low grade glioma at McGill University: long-term follow-up. Technol Cancer Res Treat . 2006;5(1):1-8. doi:10.1177/153303460600500101
+
+18. Ruden E, Reardon DA, Coan AD, et al. Exercise behavior, functional capacity, and survival in adults with malignant recurrent glioma. J Clin Oncol . 2011;29(21):2918-2923. doi:10.1200/JCO.2011.34.9852
+
+19. Shaw E, Arusell R, Scheithauer B, et al. Prospective randomized trial of low- versus high-dose radiation therapy in adults with supratentorial low-grade glioma: initial report of a North Central Cancer Treatment Group/Radiation Therapy Oncology Group/Eastern Cooperative Oncology Group study. J Clin Oncol . 2002;20(9):2267-2276. doi:10.1200/JCO.2002.09.126
+
+20. Shi W, Scannell Bryan M, Gilbert MR, et al. Investigating the Effect of Reirradiation or Systemic Therapy in Patients With Glioblastoma After Tumor Progression: A Secondary Analysis of NRG Oncology/Radiation Therapy Oncology Group Trial 0525. Int J Radiat Oncol Biol Phys . 2018;100(1):38-44. doi:10.1016/ j.ijrobp.2017.08.038
+
+21. Stupp R, Mason WP, van den Bent MJ, et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. N Engl J Med . 2005;352(10):987-996. doi:10.1056/NEJMoa043330
+
+22. Suneja G, Alonso-Basanta M, Lustig R, Lee JY, Bekelman JE. Postoperative radiation therapy for low-grade glioma: patterns of care between 1998 and 2006. Cancer . 2012;118(15):3735-3742. doi:10.1002/cncr.26693
+
+23. Tsao MN, Mehta MP, Whelan TJ, et al. The American Society for Therapeutic Radiology and Oncology (ASTRO) evidence-based review of the role of radiosurgery for malignant glioma. Int J Radiat Oncol Biol Phys . 2005;63(1):47-55. doi:10.1016/j.ijrobp.2005.05.024
+
+24. Tsien C, Pugh S, Dicker A, et al. ACTR-32. NRG Oncology RTOG 1205: randomized phase II trial of concurrent bevacizumab and re-irradiation vs. bevacizumab alone as treatment for recurrent glioblastoma. Neuro Oncol . 2019;21(Suppl 6):vi20. doi:10.1093/neuonc/noz175.075
+
+25. Tsien C, Pugh S, Dicker AP, et al. Randomized phase II trial of re-irradiation and concurrent bevacizumab versus bevacizumab alone as treatment for recurrent glioblastoma (NRG Oncology/RTOG 1205): initial oucomes and RT plan quality report. Int J Radiat Oncol Biol Phys . 2019;105(1)(Suppl):S78. doi:10.1016/ j.ijrobp.2019.06.539
+
+26. Wong ET, Hess KR, Gleason MJ, et al. Outcomes and prognostic factors in recurrent glioma patients enrolled onto phase II clinical trials. J Clin Oncol . 1999;17(8):2572-2578. doi:10.1200/JCO.1999.17.8.2572
+
+27. Wu W, Lamborn KR, Buckner JC, et al. Joint NCCTG and NABTC prognostic factors analysis for high-grade recurrent glioma. Neuro Oncol . 2010;12(2):164-172. doi:10.1093/neuonc/nop019
+
+Benign conditions
+
+1. Andrews DW, Suarez O, Goldman HW, et al. Stereotactic radiosurgery and fractionated stereotactic radiotherapy for the treatment of acoustic schwannomas: comparative observations of 125 patients treated at one institution. Int J Radiat Oncol Biol Phys . 2001;50(5):1265-1278. doi:10.1016/s0360-3016(01)01559-0
+
+2. Bledsoe JM, Link MJ, Stafford SL, Park PJ, Pollock BE. Radiosurgery for large-volume (&gt; 10 cm3) benign meningiomas. J Neurosurg . 2010;112(5):951-956. doi:10.3171/2009.8.JNS09703
+
+3. Castinetti F, Brue T. Gamma Knife radiosurgery in pituitary adenomas: Why, who, and how to treat?. Discov Med . 2010;10(51):107-111.
+
+4. Chang SD, Gibbs IC, Sakamoto GT, Lee E, Oyelese A, Adler JR Jr. Staged stereotactic irradiation for acoustic neuroma. Neurosurgery . 2005;56(6):1254-1263. doi:10.1227/01.neu.0000159650.79833.2b
+
+5. De Braganca KC, Packer RJ. Treatment options for medulloblastoma and CNS primitive neuroectodermal tumor (PNET). Curr Treat Options Neurol . 2013;15(5):593-606. doi:10.1007/s11940-013-0255-4
+
+6. Elaimy AL, Arthurs BJ, Lamoreaux WT, et al. Gamma knife radiosurgery for movement disorders: a concise review of the literature. World J Surg Oncol . 2010;8:61. Published 2010 Jul 21. doi:10.1186/1477-7819-8-61
+
+7. Elaimy AL, Demakas JJ, Arthurs BJ, et al. Gamma knife radiosurgery for essential tremor: a case report and review of the literature. World J Surg Oncol . 2010;8:20. Published 2010 Mar 22. doi:10.1186/1477-7819-8-20
+
+8. Engenhart R, Kimmig B, Höver KH, et al. Stereotactic single high dose radiation therapy for benign tumors of the brain. Int J Radiat Oncol Biol Phys . 1989;17(S1):95.
+
+9. Flickinger JC, Niranjan A. Stereotactic radiosurgery and radiotherapy. In: Halperin EC, Wazer DE, Perez CA, Brady LW, eds. Perez and Brady's Principles and Practice of Radiation Oncology . 6th ed. Lippincott Williams &amp; Wilkins; 2013:351-361.
+
+10. Hasagawa T, McInerney J, Kondziolka D, Lee JY, Flickinger JC, Lunsford LD. Long-term results after stereotactic radiosurgery for patients with cavernous malformations. Neurosurgery . 2002;50(6):1190-1198. doi:10.1097/00006123-200206000-00003
+
+11. Henson CF, Goldman HW, Rosenwasser RH, et al. Glycerol rhizotomy versus gamma knife radiosurgery for the treatment of trigeminal neuralgia: an analysis of patients treated at one institution. Int J Radiat Oncol Biol Phys . 2005;63(1):82-90. doi:10.1016/j.ijrobp.2005.01.033
+
+12. Kelly R, Conte A, Nair MN, et al. Arteriovenous Malformations Treated With Frameless Robotic Radiosurgery Using Non-Invasive Angiography: Long-Term Outcomes of a Single Center Pilot Study. Front Oncol . 2020;10:570782. Published 2020 Nov 30. doi:10.3389/fonc.2020.570782
+
+13. Kondziolka D. Gamma knife thalamotomy for disabling tremor. Arch Neurol . 200;59(10):1660-1664. doi:10.1001/ archneur.59.10.1660
+
+14. Kondziolka D, Lunsford LD, Flickinger JC. Stereotactic radiosurgery for the treatment of trigeminal neuralgia. Clin J Pain . 2002;18(1):42-47. doi:10.1097/00002508-200201000-00007
+
+15. Kondziolka D, Nathoo N, Flickinger JC, Niranjan A, Maitz AH, Lunsford LD. Long-term results after radiosurgery for benign intracranial tumors. Neurosurgery . 2003;53(4):815-822. doi:10.1093/neurosurgery/53.4.815
+
+16. MacNally SP, Rutherford SA, Ramsden RT, Evans DG, King AT. Trigeminal schwannomas. Br J Neurosurg . 2008;22(6):729-738. doi:10.1080/02688690802272172
+
+17. Malmström A, Grønberg BH, Marosi C, et al. Temozolomide versus standard 6-week radiotherapy versus hypofractionated radiotherapy in patients older than 60 years with glioblastoma: the Nordic randomised, phase 3 trial. Lancet Oncol . 2012;13(9):916-926. doi:10.1016/S1470-2045(12)70265-6
+
+18. Onodera S, Aoyama H, Katoh N, et al. Long-term outcomes of fractionated stereotactic radiotherapy for intracranial skull base benign meningiomas in single institution. Jpn J Clin Oncol . 2011;41(4):462-468. doi:10.1093/jjco/hyq231
+
+19. Portnow LH, Scott M, Morris CG, Mendenhall WM, Marcus RB Jr, Indelicato DJ. Fractionated radiotherapy in the management of benign vascular tumors. Am J Clin Oncol . 2012;35(6):557-561. doi:10.1097/ COC.0b013e31821f847f
+
+20. Roa W, Brasher PM, Bauman G, et al. Abbreviated course of radiation therapy in older patients with glioblastoma multiforme: a prospective randomized clinical trial. J Clin Oncol . 2004;22(9):1583-1588. doi:10.1200/JCO.2004.06.082
+
+21. Saraceni C, Ashman JB, Harrop JS. Extracranial radiosurgery--applications in the management of benign intradural spinal neoplasms. Neurosurg Rev . 2009;32(2):133-141. doi:10.1007/s10143-008-0183-z
+
+22. Sonier M, Gete E, Herbert C, McKenzie M, Murphy J, Moiseenko V. Intensity-modulated stereotactic radiosurgery for arteriovenous malformations: guidance for treatment planning. Radiat Oncol . 2014;9:73. Published 2014 Mar 10. doi:10.1186/1748-717X-9-73
+
+23. Yap L, Kouyialis A, Varma TR. Stereotactic neurosurgery for disabling tremor in multiple sclerosis: thalamotomy or deep brain stimulation?. Brit J Neurosurg . 2007;21(4):349-354. doi:10.1080/02688690701544002
+
+24. Young RF, Jacques S, Mark R, et al. Gamma knife thalamotomy for treatment of tremor: long-term results. J Neurosurg . 2000; 93(Suppl 3):128-135. doi:10.3171/jns.2000.93.supplement
+
+POLICY
+
+For Proton Beam coverage, please refer to the separate Proton Beam Therapy clinical guideline.
+
+- I. Low-risk prostate cancer
+
+- A. Low-risk prostate cancer is defined as having ALL of the following:
+
+1. Stage T1 to T2a
+
+2. Gleason score (GS) ≤ 6
+
+3. Prostate specific antigen (PSA) &lt; 10 ng/mL
+
+- B. The following treatments are considered medically necessary for treatment of lowrisk prostate cancer:
+
+1. Hypofractionation - 20-28 fractions of intensity-modulated radiation therapy (IMRT) in up to 2 phases
+
+2. Up to 5 fractions of stereotactic body radiation therapy (SBRT) alone (ie, not as a boost)
+
+3. Low-dose rate (LDR) brachytherapy (ie, seed implant) alone
+
+4. High-dose rate (HDR) brachytherapy alone in 2-4 fractions
+
+- II. Intermediate-risk prostate cancer
+
+- A. Intermediate-risk prostate cancer is defined as having ANY of the following:
+
+1. Stage T2b to T2c
+
+2. GS 7
+
+3. PSA 10-20 ng/mL
+
+4. Favorable intermediate risk is defined as having ALL of the following: 1 intermediate risk factor (IRF)*, Grade Group 1 or 2, and &lt; 50% biopsy cores positive.
+
+5. Unfavorable intermediate risk is defined as having 1 or more of the following: 2 or 3 IRFs*, Grade Group 3, and/or ≥ 50% biopsy cores positive.
+
+- *IRF include 1) cT2b-T2c disease, 2) Grade group 2 or 3, and 3) PSA 10-20 ng/mL
+
+- B. The following treatments are considered medically necessary for treatment of intermediate-risk prostate cancer:
+
+1. Hypofractionation - 20-28 fractions of IMRT in up to 2 phases
+
+2. Up to 5 fractions of SBRT alone (ie, not as a boost)
+
+3. LDR brachytherapy (ie, seed implant) alone for favorable intermediaterisk prostate cancer or for unfavorable intermediate-risk prostate cancer in
+
+### Prostate Cancer
+
+RO.TXS.129.C v2.0.2024
+
+- combination with 25-28 fractions of three-dimensional conformal radiation therapy (3DCRT) or IMRT
+
+4. For favorable intermediate-risk prostate cancer, HDR brachytherapy alone in 2-4 fractions
+
+5. For unfavorable intermediate-risk prostate cancer, HDR brachytherapy in 1-2 fractions in combination with 25 to 28 fractions of 3DCRT or IMRT
+
+- III. High-risk prostate cancer
+
+- A. High-risk prostate cancer is defined as having ANY of the following:
+
+1. Stage ≥ T3a
+
+2. GS ≥ 8
+
+3. PSA &gt; 20ng/mL
+
+- B. The following treatments are considered medically necessary for treatment of highrisk prostate cancer when not treating the pelvic lymph nodes:
+
+1. Hypofractionation - 20-28 fractions of IMRT in up to 2 phases
+
+2. Up to 5 fractions of SBRT alone (ie, not as a boost)
+
+3. LDR brachytherapy (ie, seed implant) in combination with 25-28 fractions of 3DCRT or IMRT
+
+4. 1-2 fractions of HDR brachytherapy in combination with 25-28 fractions of 3DCRT or IMRT
+
+- IV. Treatment of the pelvic lymph nodes
+
+- A. The following treatments are considered medically necessary for the treatment of prostate cancer when treating the pelvic lymph nodes (ie, for high-risk or nodepositive prostate cancer):
+
+1. Conventional fractionation - when delivering 1.8 to 2.0 Gy/fraction, 36-45 fractions of IMRT in up to 3 phases
+
+2. Hypofractionation - 20-28 fractions of IMRT in up to 2 phases
+
+3. LDR brachytherapy (ie, seed implant) in combination with 25-28 fractions of 3DCRT or IMRT
+
+4. HDR brachytherapy in combination with 25-28 fractions of 3DCRT or IMRT
+
+- V. Up to 45 fractions of IMRT for localized prostate cancer is considered medically necessary for ANY of the following:
+
+- A. For high-risk or node-positive prostate cancer when the pelvic nodes will be treated
+
+- B. Inflammatory bowel disease, Crohns and ulcerative colitis
+
+- C. Previous pelvic radiation therapy
+
+- D. History of rectal, urinary bladder, or urethral fistula or abscess
+
+- E. History of anorectal surgery, including but not limited to coloanal anastomosis
+
+- F. Prior local treatment including cryotherapy or high-intensity focused ultrasound (HIFU)
+
+- G. Prior transurethral resection of prostate (TURP)
+
+- VI. For adjuvant (postoperative) or salvage radiation therapy, a dose of 64-72 Gy in 32-40 fractions of IMRT is considered medically necessary in ANY of the following settings:
+
+- A. Positive surgical margins
+
+- B. Extracapsular extension
+
+- C. Seminal vesicle involvement
+
+- D. Positive lymph nodes
+
+- E. Detectable or rising postoperative PSA level
+
+- VII. Metastatic disease
+
+- A. Low-volume metastatic disease
+
+1. In an individual with castration naïve metastatic prostate cancer with 3 or fewer bone metastases and no visceral disease, IMRT to a dose of 55 Gy in 20 fractions or 36 Gy in 6 fractions to the prostate in conjunction with androgen deprivation therapy (ADT) is considered medically necessary.
+
+- B. Radiation to the prostate is considered not medically necessary for high-volume disease.
+
+- VIII. Palliative
+
+- A. For treatment of obstructive symptoms or hematuria due to tumor, a dose of 30 Gy in 10 fractions or 37.5 Gy using 3DCRT in 15 fractions is considered medically necessary.
+
+- IX. SBRT, as a complete course of therapy, must be completed in 5 fractions in a single episode of care.
+
+For metastasis-directed therapy (MDT) in prostate cancer, please refer to the Oligometastases policy.
+
+#### DISCUSSION
+
+- I. External beam radiation therapy
+
+The American Society for Radiation Oncology (ASTRO), American Society of Clinical Oncology (ASCO), and the American Urological Association (AUA) published an evidence-based guideline for the performance of hypofractionated radiation therapy. Moderate hypofractionation was defined as a radiation fraction size between 240 cGy and 340 cGy. Ultra-hypofractionation was defined as a radiation fraction size greater than or equal to 500 cGy. For an individual with localized prostate cancer who declines active surveillance, an individual with intermediate-risk prostate cancer, or an individual with high-risk prostate cancer in whom the pelvic lymph nodes are not being treated, hypofractionation radiation therapy received a strong recommendation based on high quality evidence. The recommendation was made regardless of whether the seminal vesicles are included in the treatment field, patient age, comorbidities, anatomy, and/or urinary function. These recommendations were based on reviews of large multi-center clinical trials, including the Conventional or Hypofractionated High-Dose Intensity-Modulated Radiotherapy (CHHiP) trial, Prostate Fractionated Irradiation Trial (PROFIT), Radiation Therapy Oncology Group (RTOG) 0415 trial, and the Dutch Hypofractionated versus Conventionally Fractionated Radiotherapy for Patients with Prostate Cancer (HYPRO) trial. Regimens of 6000 cGy in 20 radiation treatment fractions and 7000 cGy in 28 radiation treatment fractions are suggested by the guideline based on their review of the largest database. This recommendation has a consensus of 100%, but the quality of evidence was noted as moderate, and the recommendation strength was noted as conditional. The panel stated that most of the published fractionation schedules have not been studied in comparative clinical trials, thus, an optimal regimen has not yet been determined.
+
+Based on this data, NCCN Guidelines ® have stated that moderate hypofractionation (ie, 20-28 fractions) is preferred for the treatment of low-, intermediate-, and high-risk disease.
+
+UK CHHiP
+
+In this phase III multicenter, non-inferiority trial, 3216 patients were randomized to conventional fractionation (74 Gy in 37 fractions) or to 1 of 2 moderate hypofractionation arms (60 Gy in 20 fractions or 59 Gy in 19 fractions). Most patients included in this trial had low- or intermediate-risk disease. The primary outcome was time to biochemical or clinical failure. At a median follow-up of 62.6 months, the 5year biochemical or clinical failure-free rates was 88.3%, 90.6% and 85.9% in the conventional, 60 Gy and 57 Gy arms respectively. However, only the 60 Gy arm was statistically non-inferior to the 74 Gy arm. There was no difference in overall survival among the groups. At 5-years, the frequency of clinician- or patient-reported late GI, GU or sexual toxicity was also similar among the groups.
+
+At 8-years and a median follow-up of 9.2 years, the 60 Gy arm remained non-inferior to the 74 Gy arm while clinical assessments of late toxicity also remained the same across all groups. The authors concluded that moderate hypofractionation remained the 'standard of care for men with localized PCa'.
+
+RTOG 0415
+
+In another phase III non-inferiority trial, 1115 patients were randomized to conventional fractionation (73.8 Gy in 41 fractions) or to hypofractionation (70 Gy in 28 fractions). Only men with low-risk disease were enrolled and none received hormonal therapy. It is noted that approximately 21% of both arms were treated using a 3D conformal technique. The primary outcome was disease-free survival (DFS). At a median follow-up of 5.8 years, the 5-year DFS was 86.3% vs. 85.3% in the hypofrac vs. conventional arms respectively confirming non-inferiority of hypofractionation ( p &lt; 0.001). Further, with respect to biochemical recurrence and overall survival at 5
+
+years, the hypofractionated arm was also statistically non-inferior ( p &lt; 0.001 and p = 0.008). Though there were no differences in early GI or GU toxicity, hypofractionated radiation was associated with a significant increase in maximum grade 2 late GI (18.3% vs. 11.4%) and GU (26.2% vs. 20.5%) toxicity.
+
+In a separate publication reporting on the QOL (Bruner et al), the authors confirmed that statistical non-inferiority of hypofractionated radiation as compared to conventional radiation in patient-reported urinary symptoms scores and bowelsymptoms scores at 6, 24 and 60 months. At 12 months, hypofractionated radiation had a significant decline in the bowel domain score though this difference did not meet the prior threshold for clinical significance.
+
+PROFIT
+
+In this phase III multicenter non-inferiority trial of intermediate-risk prostate cancer, 1206 patients were randomized to conventional fractionation (78 Gy in 39 fractions) or to hypofractionation (60 Gy in 20 fractions). The use of hormonal therapy was not allowed. The primary outcome was biochemical-clinical failure (BCF). At a median follow-up of 6.0 years, the 5-year BCF disease-free survival was 85% in both arms confirming non-inferiority of the hypofractionated arm. There was no difference in overall survival or in late grade 3 or greater GI or GU toxicity. It is noted, however, that there was a significant increase in acute grade 2 or greater GI toxicity in the hypofractionated arm ( p = 0.003) with a significant increase in late grade 2 or greater GI toxicity in the conventional arm ( p = 0.006).
+
+Dutch HYPRO
+
+Eight hundred twenty patients with intermediate- or high-risk disease were randomized in this multicenter phase III trial to either hypofractionation (64.6 Gy in 19 fractions) or to conventional fractionation (78 Gy in 39 fractions), and 67% of patients received concurrent androgen deprivation therapy. The primary outcome was relapse free survival (RFS). At a median follow-up of 89 months, 7-year RFS was 71.7% in the hypofractionated arm vs. 67.6% in the conventional arm ( p = 0.47). There was no difference in overall survival. In a separate publication reporting on quality of life (QOL) at 3 years, the incidence of urinary and GI symptoms were similar among both groups, though non-inferiority of the hypofractionated arm could not be statistically confirmed.
+
+Regina Elena National Cancer Institute
+
+In another randomized study evaluating high-risk patients, 168 patients were randomized to hypofractionation (62 Gy in 20 fractions) or to conventional fractionation (80 Gy in 40 fractions). The hypothesis was that hypofractionation would lower rates of late complications; hence the primary outcome was late toxicity. It is noted that patients were treated with 3D conformal radiation and all received 9 months of ADT. At a median follow-up of 9 years, there was no significant difference in late G2 or greater GI or GU toxicity. Improvements in freedom from biochemical failure favored hypofractionation, though not statistically significant.
+
+MDACC
+
+In this single institution dose-escalated randomized trial, 222 men were randomized to hypofractionation (72 Gy in 30 fractions) or to conventional fractionation (75.6 Gy in 42 fractions). At a median follow-up of 8.5 years, in an intent-to-treat analysis, time to failure was improved with hypofractionation ( p = 0.01). Among men who did not receive ADT, hypofractionation was less likely to develop failure ( p = 0.033). Among men with a PSA of 10 or under, hypofractionation was associated with fewer failures at 8 years ( p = 0.042). There was no difference in survival. The 8-year incidence of late grade 2 or 3 GI or GU toxicity was not statistically different between both groups (12.6% hypofractionation vs. 5% conventional); it is noted that with a rectal V65 of 15% or under, late grade 2-3 GI toxicity was lowered further to 8.6% at 8-years.
+
+Cleveland Clinic
+
+In another single institution study, 854 consecutive patients with localized prostate cancer were treated with hypofractionation. At a median follow-up of 11.3 years, 10year control rates for low- and intermediate-risk were similar to conventional rates. The authors note that high-risk patients 'had relatively poorer biochemical control' though this could have been overcome with longer ADT and/or with elective nodal irradiation. Grade 3 or greater late GU and GI toxicity was 2% and 1% respectively.
+
+Fox Chase
+
+In this single institution study, 303 men with low-, intermediate- and high-risk disease were randomized to hypofractionation (70.2 Gy in 26 fractions) vs. conventional fractionation (76 Gy in 38 fractions). At a median follow-up of 122.9 months, the 10year incidence of biochemical and/or clinical disease failure (BDCF) was 25.9% in the conventional arm and 30.6% in the hypofractionated arm ( p = 0.25). There was also no statistical difference between the arms with respect to local recurrence, prostatecancer specific mortality and overall mortality. The rate of distant metastases at 10 years was 6.4% conventional fractionation vs. 14.3% with hypofractionation ( p = 0.08) with the rate difference of 7.8% considered statistically significant.
+
+Long-term toxicity with hypofractionation remains low as described by Lieng et al. In a single institution study of 96 men evaluating 2 different hypofractionated regimens (66 Gy and 60 Gy in 20 fractions), the authors reported 5- and 8-year incidence of late grade 2 or greater GI toxicity of 4% and 4% vs. 21% and 21% in the 60 Gy and 66 Gy arms respectively ( p &lt; 0.01). Grade 2 or greater GU toxicity at 5 and 8 years was 9% and 12% vs. 4% and 4% in the 60 Gy and 66 Gy arms respectively ( p = 0.68).
+
+COVID-19 pandemic of 2020
+
+The use of hypofractionation has taken an even greater role during the pandemic of 2020. Recently published guidelines for the treatment of prostate cancer recommend that for definitive therapy, 'the shortest fractionation schedule that has evidence of safety and efficacy should be adopted.' This includes the use of SBRT or a 20fraction regimen to a dose of 60-62 Gy.
+
+Given the recommendations made by ASTRO and the NCCN Guidelines ® and the wealth of data supporting the use of hypofractionation for localized prostate cancer, only hypofractionated regimens (ie, 20-28 fractions) will be considered medically necessary. Conventional fractionation will be considered not medically necessary.
+
+II. Combination therapy (external beam and brachytherapy)
+
+For individuals with intermediate- or high-risk disease, combination external beam combined with brachytherapy is considered medically necessary. Combination therapy is considered not medically necessary for individuals with low-risk disease. Guidelines on prostate cancer from the NCCN ® indicate that an external beam dose of up to 50.4 Gy is recommended. Therefore, up to 28 fractions will be considered medically necessary.
+
+Recently, the American Society for Radiation Oncology (ASTRO), American Society of Clinical Oncology (ASCO), and the American Urological Association (AUA) published an evidence-based guideline for the performance of hypofractionated radiation therapy. Moderate hypofractionation was defined as a radiation fraction size between 240 cGy and 340 cGy. Ultra-hypofractionation was defined as a radiation fraction size greater or equal to 500 cGy. For an individual with localized prostate cancer who declines active surveillance, an individual with intermediate-risk prostate cancer, or an individual with high-risk prostate cancer in whom the pelvic lymph nodes are not being treated, hypofractionation radiation therapy received a strong recommendation based on high quality evidence. The recommendation was made regardless of whether the seminal vesicles are included in the treatment field, patient age, comorbidities, anatomy, and/or urinary function. These recommendations were based on reviews of large multi-center clinical trials, including the Conventional or Hypofractionated High Dose Intensity Modulated Radiotherapy (CHHiP) trial, Prostate Fractionated Irradiation Trial (PROFIT), Radiation Therapy Oncology Group (RTOG) 0415 trial, and the Dutch Hypofractionated versus Conventionally Fractionated Radiotherapy for Patients with Prostate Cancer (HYPRO) trial. Regimens of 6000 cGy in 20 radiation treatment fractions and 7000 cGy in 28 radiation treatment fractions are suggested by the guideline based on their review of the largest database. This recommendation has a consensus of 100%, but the quality of evidence was noted as moderate, and the recommendation strength was noted as conditional. The panel stated that most of the published fractionation schedules have not been studied in comparative clinical trials, thus, an optimal regimen has not yet been determined.
+
+III. SBRT
+
+In addition to the recommendations noted for hypofractionation, the new guideline reviewed SBRT, also called ultra-hypofractionation. In men with low-risk prostate cancer who declined active surveillance, ultra-hypofractionation was suggested as an alternative to conventional fractionation with a conditional recommendation based on a moderate quality of evidence. For an individual with intermediate-risk prostate cancer, the consensus also suggested that ultra-hypofractionation could be used as an alternative to conventional fractionation, but strongly encouraged that these individuals be treated as part of a clinical trial or a multi-institutional registry. The strength of the recommendation was conditional and was based on a low quality of evidence. For an individual with high-risk prostate cancer, it was suggested that ultra-hypofractionation not be offered outside of a clinical trial or a multi-institutional registry as data was lacking on a comparative basis. The quality of evidence was felt to be low for this conditional recommendation. On the other hand, NCCN Guidelines ® considers ultra-hypofractionation as an acceptable regimen for high-risk disease. As such, SBRT is considered medically necessary for low-, intermediate-, and high-risk prostate cancer when not irradiating the pelvic lymph nodes. It should be noted that SBRT (ultra-hypofractionation) is defined as an entire treatment course consisting of 5 or fewer fractions. Thus, SBRT cannot be billed as a boost.
+
+- IV. Postoperative radiation therapy
+
+In the setting of postoperative prostate cancer,external beam photon radiation therapy may be beneficial in the setting of positive margins, extracapsular extension, seminal vesicle involvement, lymph node involvement, or prostate cut-through. In addition, an individual with a detectable or rising postoperative PSA level may benefit from postoperative radiotherapy. In the postoperative setting, a dose of 64 to 72 Gy (ie up to 40 fractions) is recommended by the NCCN ® .
+
+A retrospective review of 112 patients evaluating the role of hypofractionation was recently published. In this study, the authors reported the 10-year results of 52.5 Gy in 20 fractions using 3D conformal radiation. The authors concluded that hypofractionation provided results comparable to conventional regimens. Further, early salvage radiation (at or before a PSA 0.2 ng/mL) yielded improved disease control. Specifically, the freedom from biochemical failure (FFBF) was 81% (vs. 66%) at 5 years and 68% (vs. 49%) at 10 years. These results have led to recommendations to use hypofractionation during the COVID-19 pandemic by the NCCN ®  risk group.
+
+- V. Palliative radiation therapy
+
+A dose of 30 Gy in 10 fractions or 37.5 Gy in 15 fractions is recommended for treatment of the prostate to palliate pain, obstructive symptoms and/or hematuria (Cameron et al, 2015).
+
+- VI. Metastatic prostate cancer and radiation therapy
+
+In castration-naïve metastatic prostate cancer, the current standard of care is systemic therapy with androgen deprivation therapy (ADT) usually in combination with docetaxel or abiraterone with prednisone (Morris et al, 2018). There has been debate in the scientific literature on the role of local therapy to the prostate gland in the setting of metastatic disease with some studies suggesting a benefit while other studies have not found a similar benefit (Rusthoven et al, 2016; Steuber et al, 2017). There is particular interest in the role of local therapy in patients with low metastatic burden. Recent randomized trials have been published evaluating the role of local treatment to the prostate in the setting of metastatic disease.
+
+In 2018, Bouve et al reported the results of the HORRAD trial which is a multiinstitution randomized controlled trial evaluating the role of definitive radiation therapy to the prostate in combination with androgen deprivation therapy for patients with metastatic prostate cancer. Four hundred thirty-two men with newly diagnosed, previously untreated prostate cancer with bone metastases were randomized to ADT alone or ADT with radiation therapy. Participants received 70 Gy in 35 fractions or 57.76 Gy in 19 fractions to the prostate with or without the seminal vesicles. There was no statistically significant difference in median overall survival between the ADT alone arm (43 months) vs. the ADT with radiation therapy arm (45 months) p = 0.4. There was no significant difference in overall survival when stratified by number of bone metastases: &lt; 5 bone metastases (HR 0.68; 95% CI: 0.42-1.10) vs. &gt; 5 bone metastases (HR 1.06; 95% CI: 0.80-1.39). As this trial did not demonstrate an overall survival benefit to adding radiation therapy to the prostate gland to androgen deprivation therapy, the authors conclude that local therapy to the prostate gland in patients with metastatic prostate cancer at diagnosis should not be performed outside of a clinical trial.
+
+The STAMPEDE trial, a multi-institutional randomized phase III trial, randomized 2061 men with newly diagnosed metastatic prostate cancer with no previous treatment to standard of care (androgen deprivation therapy with or without docetaxel) or standard of care and radiotherapy between January 2013 and September 2016 (Parker et al, 2018). Radiation therapy was delivered to the prostate gland as 36 Gy in 6 fractions weekly or 55 Gy in 20 fractions daily. In May 2018, the authors decided to do a prespecified subgroup analysis for survival by metastatic burden. Low metastatic burden was defined as 3 or fewer bone metastases. High metastatic burden was defined as 4 or more bone metastases with 1 or more outside the vertebral bodies or pelvis, or visceral metastases, or both. While there was a difference in failure free survival, there was no difference in overall survival with the addition of radiation therapy. When analyzing the data by metastatic burden, the authors found an improvement in overall survival in patients with a low metastatic burden (HR 0.68, 95% CI 0.52-0.90; p = 0.007; 3-year survival 73% with control vs. 81% with radiotherapy). There was an improvement in failure free survival with the addition of radiation therapy for patients with low metastatic burden (HR 0.76, 95% CI 0.68-0.84; p &lt; 0.0001). The authors concluded that while radiation therapy to the prostate did not improve overall survival to unselected patients with newly diagnosed prostate cancer, there was an improvement in overall survival in patients with low metastatic burden in a prespecified subgroup analysis. In this cohort of low-volume metastatic prostate cancer, the use of radiation therapy to the primary is considered medically necessary.
+
+Furthermore, as noted by the authors in the STAMPEDE trial, the systemic therapy regimens used in treatment of metastatic prostate cancer have evolved. Currently, most patients with metastatic prostate cancer are usually treated upfront with androgen deprivation therapy (ADT) in combination with docetaxel or in combination with abiraterone with prednisone. Most patients in the STAMPEDE trial received upfront treatment with androgen deprivation therapy alone. Only 18% of patients received androgen deprivation therapy and docetaxel. The value of radiation therapy to the prostate in men with metastatic prostate cancer receiving abiraterone is unknown. The benefit of local radiation therapy in the setting of more modern systemic therapy regimens is being evaluated in the PEACE1 trial (NCT01957436). The PEACE1 trial (NCT01957436) is an ongoing multi-center phase III study evaluating the clinical benefit of androgen deprivation therapy (+ docetaxel) with or without local radiotherapy with or without abiraterone acetate and prednisone in patients with metastatic hormone-naïve prostate cancer.
+
+#### References
+
+1. Abu-Gheida I, Reddy CA, Kotecha R, et al. Ten-Year Outcomes of Moderately Hypofractionated (70 Gy in 28 fractions) Intensity Modulated Radiation Therapy for Localized Prostate Cancer. Int J Radiat Oncol Biol Phys . 2019;104(2):325-333. doi:10.1016/j.ijrobp.2019.01.091
+
+2. Agazaryan N, Tenn S, Chow P, et al. Volumetric modulated arc therapy treatment protocol for hypo-fractionated stereotactic body radiotherapy for localized prostate cancer. Int J Clin Oncol Biol Phys . 2010;78(3):S844. Abstract 3431.
+
+3. Aluwini S, van Rooji P, Hoogeman M, et al. CyberKnife stereotactic radiotherapy as monotherapy for low- to intermediate-stage prostate cancer: early experience, feasibility, and tolerance. J Endourol . 2010;24(5):865-869. doi:10.1089/end.2009.0438
+
+4. American Society for Radiation Oncology (ASTRO) Stereotactic Body Radiation Therapy (SBRT) Model Policy. 2020.
+
+5. Arcangeli G, Saracino B, Arcangeli S, et al. Moderate Hypofractionation in High-Risk, Organ-Confined Prostate Cancer: Final Results of a Phase III Randomized Trial. J Clin Oncol . 2017;35(17):1891-1897. doi:10.1200/ JCO.2016.70.4189
+
+6. Avkshtol V, Ruth KJ, Ross EA, et al. Ten-Year Update of a Randomized, Prospective Trial of Conventional Fractionated Versus Moderate Hypofractionated Radiation Therapy for Localized Prostate Cancer [published correction appears in J Clin Oncol. 2021 Jan 20;39(3):258]. J Clin Oncol . 2020;38(15):1676-1684. doi:10.1200/ JCO.19.01485
+
+7. Bekelman JE, Rumble RB, Chen RC, et al. Clinically Localized Prostate Cancer: ASCO Clinical Practice Guideline Endorsement of an American Urological Association/American Society for Radiation Oncology/ Society of Urologic Oncology Guideline. J Clin Oncol . 2018;36(32):3251-3258. doi:10.1200/JCO.18.00606
+
+8. Boeri L. Sharma V, Karnes RJ. Radiotherapy for newly diagnosed oligometastatic prostate cancer. Lancet . 2018;392(10162):2327-2328. doi:10.1016/S0140-6736(18)32598-4
+
+9. Boevé LMS, Hulshof MCCM, Vis AN, et al. Effect on Survival of Androgen Deprivation Therapy Alone Compared to Androgen Deprivation Therapy Combined with Concurrent Radiation Therapy to the Prostate in Patients with Primary Bone Metastatic Prostate Cancer in a Prospective Randomised Clinical Trial: Data from the HORRAD Trial. Eur Urol . 2019;75(3):410-418. doi:10.1016/j.eururo.2018.09.008
+
+10. Boike TP, Lotan Y, Cho LC, et al. Phase I dose-escalation study of stereotactic body radiation therapy for lowand intermediate-risk prostate cancer. J Clin Oncol . 2011;29(15):2020-2026. doi:10.1200/JCO.2010.31.4377
+
+11. Bolzicco G, Favretto MS, Scremin E, Tambone C, Tasca A, Guglielmi R. Image-guided stereotactic body radiation therapy for clinically localized prostate cancer: preliminary clinical results. Technol Cancer Res Treat . 2010;9(5):473-477. doi:10.1177/153303461000900505
+
+12. Bruner DW, Pugh SL, Lee WR, et al. Quality of Life in Patients With Low-Risk Prostate Cancer Treated With Hypofractionated vs Conventional Radiotherapy: A Phase 3 Randomized Clinical Trial [published correction appears in JAMA Oncol. 2019 Apr 4;:]. JAMA Oncol . 2019;5(5):664-670. doi:10.1001/jamaoncol.2018.6752
+
+13. Buyyounouski MK, Price RA Jr, Harris EE, et al. Stereotactic body radiotherapy for primary management of early stage, low- to intermediate-risk prostate cancer: report of the American Society for Therapeutic Radiology and Oncology Emerging Technology Committee. Int J Radiat Oncol Biol Phys . 2010;76(5):1297-1304. doi:10.1016/j.ijrobp.2009.09.078
+
+14. Cameron MG, Kersten C, Vistad I, et al. Palliative pelvic radiotherapy for symptomatic incurable prostate cancer - A prospective multicenter study. Radiother Oncol . 2015;115(3):314-320. doi:10.1016/j.radonc.2015.05.021
+
+15. Catton CN, Lukka H, Gu CS, et al. Randomized Trial of a Hypofractionated Radiation Regimen for the Treatment of Localized Prostate Cancer. J Clin Oncol . 2017;35(17):1884-1890. doi: 10.1200/JCO.2016.71.7397
+
+16. Chin S, Fatimilehin A, Walshaw R, et al. Ten-Year Outcomes of Moderately Hypofractionated Salvage Postprostatectomy Radiation Therapy and External Validation of a Contemporary Multivariable Nomogram for Biochemical Failure. Int J Radiat Oncol Biol Phys . 2020;107(2):288-296. doi:10.1016/j.ijrobp.2020.01.008
+
+17. Copp H, Bissonette EA, Theodorescu D. Tumor control outcomes of patients treated with trimodality therapy for locally advanced prostate cancer. Urology . 2005;65(6):1146-1151.
+
+18. D'Amico AV, Cote K, Loffredo M, Renshaw AA, Schultz D. Determinants of prostate cancer-specific survival after radiation therapy for patients with clinically localized prostate cancer. J Clin Oncol . 2002;20(23):4567-4573. doi:10.1200/JCO.2002.03.061
+
+19. D'Amico AV, Whittington R, Malkowicz SB, et al. Biochemical outcome after radical prostatectomy, external beam radiation therapy, or interstitial radiation therapy for clinically localized prostate cancer. JAMA . 1998;280(11):969-974. doi:10.1001/jama.280.11.969
+
+20. Davis BJ, Taira AV, Nguyen PL, et al. ACR Appropriateness Criteria ® Permanent source brachytherapy for prostate cancer. Brachytherapy . 2017;16(2):266-276. doi:10.1016/j.brachy.2016.10.002
+
+21. Dearnaley DP, Griffin C, Syndikus I, et al. Eight-year outcomes of a phase III randomized trial of conventional versus hypofractionated high-dose intensity modulated radiotherapy for prostate cancer (CRUK/06/016): Update from the CHHiP trial. J Clin Oncol . 2020;38(Suppl 6):325-325. doi:10.1200/JCO.2020.38.6\_suppl.325
+
+22. Dearnaley D, Syndikus I, Mossop H, et al. Conventional versus hypofractionated high-dose intensity-modulated radiotherapy for prostate cancer: 5-year outcomes of the randomised, non-inferiority, phase 3 CHHiP trial [published correction appears in Lancet Oncol. 2016 Aug;17(8):e321]. Lancet Oncol . 2016;17(8):1047-1060. doi:10.1016/S1470-2045(16)30102-4
+
+23. Demanes DJ, Rodriguez RR, Schour L, Brandt D, Altieri G. High-dose-rate intensity-modulated brachytherapy with external beam radiotherapy for prostate cancer: California endocurietherapy's 10-year results. Int J Radiat Oncol Biol Phys . 2005;61(5):1306-1316. doi:10.1016/j.ijrobp.2004.08.014
+
+24. de Vries KC, Wortel RC, Oomen-de-Hoop E, Heemsbergen WD, Pos FJ, Incrocci L. Hypofractionated versus conventionally fractionated radiation therapy for patients with intermediate- or high-risk, localized, prostate cancer: 7-year outcomes for the randomized, multicenter, open-label, phase 3 HYPRO trial. Int J Radiat Oncol Biol Phys . 2020;106(1):108-115. doi:10.1016/j.ijrobp.2019.09.007
+
+25. Expert Panel on Radiation Oncology-Prostate:, Zaorsky NG, Showalter TN, et al. ACR Appropriateness Criteria ® external beam radiation therapy treatment planning for clinically localized prostate cancer, part I of II. Adv Radiat Oncol . 2016;2(1):62-84. Published 2016 Oct 20. doi:10.1016/j.adro.2016.10.002
+
+26. Expert Panel on Urologic Imaging:, Coakley FV, Oto A, et al. ACR Appropriateness Criteria ® Prostate CancerPretreatment Detection, Surveillance, and Staging. J Am Coll Radiol . 2017;14(5S):S245-S257. doi:10.1016/ j.jacr.2017.02.026
+
+27. Freeman DE, King CR. Stereotactic body radiotherapy for low-risk prostate cancer: five-year outcomes. Radiat Oncol . 2011;6:3. Published 2011 Jan 10. doi:10.1186/1748-717X-6-3
+
+28. Friedland JL, Freeman DE, Masterson-McGary ME, Spellberg DM. Stereotactic body radiotherapy: an emerging treatment approach for localized prostate cancer. Technol Cancer Res Treat . 2009;8(5):387-392. doi:10.1177/153303460900800509
+
+29. Fuller DB, Mardirossian G, Wong D, et al. Prospective evaluation of stereotactic body radiation therapy for lowand intermediate-risk prostate cancer: emulating high-dose-rate brachytherapy dose distribution. Int J Radiat Oncol Biol Phys . 2012;84(3):S149. Abstract 368. doi:10.1016/j.ijrobp.2012.07.384
+
+30. Galalae RM, Martinez A, Mate T, et al. Long-term outcome by risk factors using conformal high-dose-rate brachytherapy (HDR-BT) boost with or without neoadjuvant androgen suppression for localized prostate cancer. Int J Radiat Oncol Biol Phys . 2004;58(4):1048-1055. doi:10.1016/j.ijrobp.2003.08.003
+
+31. Gustafson GS, Nguyen PL, Assimos DG, et al. ACR Appropriateness Criteria ® Postradical prostatectomy irradiation in prostate cancer. Oncology (Williston Park) . 2014;28(12):1125-1136.
+
+32. Hoffman KE, Voong KR, Levy LB, et al. Randomized Trial of Hypofractionated, Dose-Escalated, IntensityModulated Radiation Therapy (IMRT) Versus Conventionally Fractionated IMRT for Localized Prostate Cancer. J Clin Oncol . 2018;36(29):2943-2949. doi:10.1200/JCO.2018.77.9868
+
+33. Hossain S, Xia P, Huang K, et al. Dose gradient near target-normal structure interface for nonisocentric CyberKnife and isocentric intensity-modulated body radiotherapy for prostate cancer. Int J Radiat Oncol Biol Phys . 2010;78(1):58-63. doi:10.1016/j.ijrobp.2009.07.1752
+
+34. Hsu IC, Yamada Y, Assimos DG, et al. ACR Appropriateness Criteria ® high-dose-rate brachytherapy for prostate cancer. Brachytherapy . 2014;13(1):27-31. doi:10.1016/j.brachy.2013.11.007
+
+35. Jabbari S, Weinberg VK, Kaprealian T, et al. Stereotactic body radiotherapy as monotherapy or post-external beam radiotherapy boost for prostate cancer: technique, early toxicity, and PSA response. Int J Radiat Oncol Biol Phys . 2012;82(1):228-234. doi:10.1016/j.ijrobp.2010.10.026
+
+36. Kang JK, Cho CK, Choi CW, et al. Image-guided stereotactic body radiation therapy for localized prostate cancer. Tumori . 2011;97(1):43-48. doi:10.1177/030089161109700109
+
+37. Katz AJ. CyberKnife radiosurgery for prostate cancer. Technol Cancer Res Treat . 2010;9(5):463-472. doi:10.1177/153303461000900504
+
+38. Katz AJ, Kang J. Quality of Life and Toxicity After SBRT for Organ-Confined Prostate Cancer, a 7-Year Study. Front Oncol . 2014;4:301. Published 2014 Oct 28. doi:10.3389/fonc.2014.00301
+
+39. Katz AJ, Kang J. Stereotactic body radiotherapy with or without external beam radiation as treatment for organ confined high-risk prostate carcinoma: a six year study. Radiat Oncol . 2014;9:1. Published 2014 Jan 1. doi:10.1186/1748-717X-9-1
+
+40. Katz AJ, Santoro M. Quality of life and efficacy for stereotactic body radiotherapy for treatment of organ confined prostate cancer. Int J Radiat Oncol Biol Phys . 2010;78(3):S58. Abstract 123.
+
+41. Katz AJ, Santoro M, Ashley R, Diblasio F, Witten M. Stereotactic body radiotherapy for organ-confined prostate cancer. BMC Urol . 2010;10:1. Published 2010 Feb 1. doi:10.1186/1471-2490-10-1
+
+42. King CR, Brooks JD, Gill H, Presti JC Jr. Long-term outcomes from a prospective trial of stereotactic body radiotherapy for low-risk prostate cancer. Int J Radiat Oncol Biol Phys . 2012;82(2):877-882. doi:10.1016/ j.ijrobp.2010.11.054
+
+43. King CR, Brooks JD, Gill H, Pawlicki T, Cotrutz C, Presti JC Jr. Stereotactic body radiotherapy for localized prostate cancer: interim results of a prospective phase II clinical trial. Int J Radiat Oncol Biol Phys . 2009;73(4):1043-1048. doi:10.1016/j.ijrobp.2008.05.059
+
+44. King CR, Freeman D, Kaplan I, et al. Stereotactic body radiotherapy for localized prostate cancer: pooled analysis from a multi-institutional consortium of prospective phase II trials. Radiother Oncol . 2013;109(2):217-221. doi:10.1016/j.radonc.2013.08.030
+
+45. Lee WR, Dignam JJ, Amin MB, et al. Randomized Phase III Noninferiority Study Comparing Two Radiotherapy Fractionation Schedules in Patients With Low-Risk Prostate Cancer. J Clin Oncol . 2016;34(20):2325-2332. doi:10.1200/JCO.2016.67.0448
+
+46. Lin YW, Lin LC, and Lin KL. The early result of whole pelvic radiotherapy and stereotactic body radiotherapy boost for high-risk localized prostate cancer. Front Oncol . 2014;4:278. Published 2014 Oct 31. doi:10.3389/ fonc.2014.00278
+
+47. Michalski J, Pisansky TM, Lawton CA, et al. Prostate cancer. In: Gunderson LL, Tepper JE, eds. Clinical Radiation Oncology . 3rd ed. Elsevier Inc; 2012:1037-1097.
+
+48. Mantz CA, Fernandez E, Zucker I, Harrison S. A phase II trial of real-time target tracking SBRT for lowrisk prostate cancer utilizing the Calypso 4D localization system: patient reported health-related quality of life and toxicity outcomes. Int J Radiat Oncol Biol Phys . 2010;78(3):S57-S58. Abstract 121. doi:10.1016/ j.ijrobp.2010.07.167
+
+49. Martinez AA, Gustafson G, Gonzalez J, et al. Dose escalation using conformal high-dose-rate brachytherapy improves outcome in unfavorable prostate cancer. Int J Radiat Oncol Biol Phys . 2002;53(2):316-327. doi:10.1016/s0360-3016(02)02733-5
+
+50. Martinez A, Gonzalez J, Spencer W, et al. Conformal high dose rate brachytherapy improves biochemical control and cause specific survival in patients with prostate cancer and poor prognostic factors. J Urol . 2003;169(3):974-980. doi:10.1097/01.ju.0000052720.62999.a9
+
+51. McLaughlin PW, Liss AL, Nguyen PL, et al. ACR Appropriateness Criteria ® Locally Advanced, High-Risk Prostate Cancer. Am J Clin Oncol . 2017;40(1):1-10. doi:10.1097/COC.0000000000000354
+
+52. Meier R, Beckman A, Kaplan I, et al. Stereotactic radiotherapy for organ-confined prostate cancer: early toxicity and quality of life outcomes from a multi-institutional trial. Int J Radiat Oncol Biol Phys . 2010;78(3):S57. Abstract 120. doi:10.1016/j.ijrobp.2010.07.166
+
+53. Meier R, Mark R, St Royal L, Tran L, Colburn G, Parker R. Postoperative radiation therapy after radical prostatectomy for prostate carcinoma. Cancer . 1992;70(7):1960-1966. doi:10.1002/1097-0142(19921001)70:7&lt;1960::aid-cncr2820700725&gt;3.0.co;2-w
+
+54. Merrick GS, Wallner KE, Butler WM. Permanent interstitial brachytherapy in the management of carcinoma of the prostate gland. J Urol . 2003;169(5):1643-1652. doi:10.1097/01.ju.0000035544.25483.61
+
+55. Merrick GS, Wallner KE, Butler WM. Minimizing prostate brachytherapy-related morbidity. Urology . 2003;62(5):786-792. doi:10.1016/s0090-4295(03)00558-2
+
+56. Morgan SC, Hoffman K, Loblaw DA, et al. Hypofractionated Radiation Therapy for Localized Prostate Cancer: Executive Summary of an ASTRO, ASCO, and AUA Evidence-Based Guideline. Pract Radiat Oncol . 2018;8(6):354-360. doi:10.1016/j.prro.2018.08.002
+
+57. Morgan SC, Hoffman K, Loblaw DA, et al. Hypofractionated Radiation Therapy for Localized Prostate Cancer: An ASTRO, ASCO, and AUA Evidence-Based Guideline [published online ahead of print, 2018 Oct 11]. J Clin Oncol . 2018;36(34):JCO1801097. doi:10.1200/JCO.18.01097
+
+58. Morris MJ, Rumble RB, Basch E, et al. Optimizing Anticancer Therapy in Metastatic Non-Castrate Prostate Cancer: American Society of Clinical Oncology Clinical Practice Guideline. J Clin Oncol . 2018;36(15):1521-1539. doi:10.1200/JCO.2018.78.0619
+
+59. Mroz P, Martin JM, DiPetrillo TA, et al. Analysis of potential cost benefits using reported hypofractionated radiation therapy regimens in prostate cancer in the United States. Int J Radiat Oncol Biol Phys . 2010;78(3):S341-S342. Abstract 2309.
+
+60. Naismith OF, Griffin C, Syndikus I, et al. Forward- and Inverse-Planned Intensity-Modulated Radiotherapy in the CHHiP Trial: A Comparison of Dosimetry and Normal Tissue Toxicity. Clin Oncol (R Coll Radiol) . 2019;31(9):600-610. doi:10.1016/j.clon.2019.05.002
+
+61. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 8, 2024. Prostate Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/prostate.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Prostate Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+62. Nguyen PL, Aizer A, Assimos DG, et al. ACR Appropriateness Criteria ® Definitive External-Beam Irradiation in Stage T1 and T2 Prostate Cancer. Am J Clin Oncol . 2014;37(3):278-288. doi:10.1097/COC.0000000000000049
+
+63. Parker CC, James ND, Brawley CD, et al. Radiotherapy to the primary tumour for newly diagnosed, metastatic prostate cancer (STAMPEDE): a randomised controlled phase 3 trial. Lancet . 2018;392(10162):2353-2366. doi:10.1016/S0140-6736(18)32486-3
+
+64. Pham HT, Song G, Badiozamani K, et al. Five-year outcome of stereotactic hypofractionated accurate radiotherapy of the prostate (SHARP) for patients with low-risk prostate cancer. Int J Radiat Oncol Biol Phys . 2010;78(3):S58. Abstract 122.
+
+65. Rusthoven CG, Jones BL, Flaig TW, et al. Improved Survival With Prostate Radiation in Addition to Androgen Deprivation Therapy for Men With Newly Diagnosed Metastatic Prostate Cancer. J Clin Oncol . 2016;34(24):2835-2842. doi:10.1200/JCO.2016.67.4788
+
+66. Sathya JR, Davis IR, Julian JA, et al. Randomized trial comparing iridium implant plus external-beam radiation therapy with external-beam radiation therapy alone in node-negative locally advanced cancer of the prostate. J Clin Oncol . 2005;23(6):1192-1199. doi:10.1200/JCO.2005.06.154
+
+67. Steuber T, Berg KD, Røder MA, et al. Does cytoreductive prostatectomy really have an impact on prognosis in prostate cancer patients with low-volume bone metastasis? Results from a prospective case-control study. Eur Urol Focus . 2017;3(6):646-649. doi:10.1016/j.euf.2017.06.016
+
+68. Stock RG, Cahlon O, Cesaretti JA, Kollmeier MA, Stone NN. Combined modality treatment in the management of high-risk prostate cancer. Int J Radiat Oncol Biol Phys . 2004;59(5):1352-1359. doi:10.1016/ j.ijrobp.2004.01.023
+
+69. Thor M, Deasy JO, Paulus R, et al. Tolerance doses for late adverse events after hypofractionated radiotherapy for prostate cancer on trial NRG Oncology/RTOG 0415. Radiother Oncol . 2019;135:19-24. doi:10.1016/ j.radonc.2019.02.014
+
+70. Townsend NC, Huth BJ, Ding W, et al. Acute toxicity after cyberknife-delivered hypofractionated radiotherapy for treatment of prostate cancer. Am J Clin Oncol . 2011;34(1):6-10. doi:10.1097/COC.0b013e3181c4c7c4
+
+71. Trabulsi EJ, Valicenti RK, Hanlon AL, et al. A multi-institutional matched-control analysis of adjuvant and salvage postoperative radiation therapy for pT3-4N0 prostate cancer. Urology . 2008;72(6):1298-1304. doi:10.1016/j.urology.2008.05.057
+
+72. Van der Kwast TH, Bolla M, Van Poppel H, et al. Identification of patients with prostate cancer who benefit from immediate postoperative radiotherapy EORTC 22911. J Clin Oncol . 2007;25(27):4178-4186. doi:10.1200/ JCO.2006.10.4067
+
+73. Wiegner EA, King CR. Sexual function after stereotactic body radiotherapy for prostate cancer: results of a prospective clinical trial. Int J Radiat Oncol Biol Phys . 2010;78(2):442-448. doi:10.1016/j.ijrobp.2009.07.1748
+
+74. Wortel RC, Oomen-de-Hoop E, Heemsbergen WD, Pos FJ, Incrocci L. Moderate hypofractionation in intermediate- and high-risk, localized prostate cancer: Health-related quality of life from the randomized, phase 3 HYPRO trial. Int J Radiat Oncol Biol Phys . 2019;103(4):823-833. doi: 10.1016/j.ijrobp.2018.11.020
+
+75. Yu JB, Soulos PR, Herrin J, et al. Proton versus intensity-modulated radiotherapy for prostate cancer: patterns of care and early toxicity. J Natl Cancer Inst . 2013;105(1):25-32. doi:10.1093/jnci/djs463
+
+76. Zaorsky NG, Showalter TN, Ezzell GA, et al. ACR Appropriateness Criteria ® for external beam radiation therapy treatment planning for clinically localized prostate cancer, part II of II. Adv Radiat Oncol . 2017;2(3):437-454. Published 2017 Mar 20. doi:10.1016/j.adro.2017.03.003
+
+77. Zaorsky NG, Yu JB, McBride SM, et al. Prostate Cancer Radiation Therapy Recommendations in Response to COVID-19. Adv Radiat Oncol . 2020;5(4):659-665. Published 2020 Apr 1. doi:10.1016/j.adro.2020.03.010
+
+POLICY
+
+- I. Preoperative (neoadjuvant)
+
+- A. In an individual with cT3-T4 and/or node-positive rectal cancer, EITHER of the following regimens are considered medically necessary:
+
+1. 5 fractions of three-dimensional conformal radiation therapy (3DCRT)
+
+2. 25-28 fractions of 3DCRT
+
+- II. Postoperative (adjuvant)
+
+- A. Following local excision, EITHER 5 fractions (hypofractionation) or 25-30 fractions of 3DCRT are considered medically necessary in an individual with EITHER of the following:
+
+1. pT2 rectal cancer
+
+2. pT1 rectal cancer with high-risk features (ie, positive margins, grade III tumor, lymphovascular invasion [LVI])
+
+- B. Following abdominal resection, EITHER 5 fractions (hypofractionation) or 25-30 fractions of 3DCRT are considered medically necessary in an individual with pT3T4 and/or node-positive rectal cancer.
+
+- III. Medically inoperable
+
+- A. 25-33 fractions of 3DCRT are considered medically necessary.
+
+- IV. Local recurrence or salvage therapy without evidence of metastases
+
+- A. 25-30 fractions of 3DCRT are considered medically necessary.
+
+- V. For treatment of the primary in the setting of synchronous oligometastatic rectal cancer (when curative treatment to the metastases is planned), EITHER of the following regimens are considered medically necessary:
+
+- A. 5 fractions of 3DCRT
+
+- B. 25-28 fractions of 3DCRT
+
+- VI. Intensity-modulated radiation therapy (IMRT) for the curative treatment of rectal cancer is considered medically necessary for EACH of the following when accompanied by supporting documentation:
+
+- A. Extension of tumor to involve the anal canal requiring coverage of the inguinal nodes
+
+- B. A dose of greater than 54 Gy is planned in the non-metastatic, medically inoperable setting
+
+- C. Previous pelvic radiation
+
+- D. Treatment which overlaps with a previously irradiated area
+
+### Rectal Cancer
+
+RO.TXS.130.A v2.0.2024
+
+- E. An optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network ® (NCCN ® ) Guidelines
+
+- VII. For palliative radiation therapy, up to 15 fractions of 3DCRT is considered medically necessary.
+
+#### DISCUSSION
+
+Radiation is a key component in the curative treatment of rectal cancer. The benefit of radiation has been documented both in the adjuvant and neoadjuvant settings.
+
+For example, in the Swedish Rectal Cancer trial (NEJM 1997; Folkesson et al JCO 2005), 908 patients undergoing curative surgery were randomized to either surgery or surgery after preoperative radiation (25 Gy in 5 fractions). At a median follow-up of 13 years, the use of preoperative radiation significantly reduced the local recurrence rate and improved the overall survival.
+
+The benefit of preoperative therapy over postoperative therapy was shown in the seminal German CAO/ARO/AIO-94 randomized phase III trial (Sauer et al NEJM 2004; Sauer et al JCO 2012). In this study, 799 eligible patients with cT3-4 disease or nodepositive disease were randomized to preoperative or postoperative chemoradiation (CRT; 50.4 Gy in 28 fractions). The 10-year incidence of local relapse was significantly lower in the preoperative arm (7.1% vs. 10.1%, p = 0.048). However, there was no difference in overall survival, disease-free survival (DFS) or incidence of distant metastases at 10 years. Additionally, of 194 patients determined to require an abdominoperineal resection (APR), those receiving preoperative CRT were twice as likely to undergo sphincter-sparing surgery (39% vs. 19%, p = 0.004; NEJM 2004 Table 4).
+
+In a trial that closed early due to poor accrual, NSABP R-03 (Roh et al JCO 2009) reported on 254 patients with T3-4 or node-positive rectal cancer. The study demonstrated that preoperative CRT as compared to postoperative CRT was associated with a significantly higher 5-year DFS (64.7% vs. 53.4%) with a trend towards improved survival (75% vs. 66%, p = 0.065). A complete pathologic response was also seen in 15% of patients receiving preoperative CRT.
+
+The role of IMRT
+
+Radiation Therapy Oncology Group (RTOG) 0822 (Hong et al IJROBP 2015) was a phase II trial 'initiated to determine whether the use of IMRT could … decrease the rate of GI toxicity…'. This trial accrued 79 patients with T3-4N0-2 rectal cancer with a primary endpoint of grade ≥ 2 or greater preoperative treatment-related GI adverse events (AEs). The dose planned was 45 Gy to the rectum and pelvis using IMRT followed by a 5.4 Gy boost to the gross disease using 3D conformal technique. The authors reported a 51.5% rate of grade ≥ 2 AEs 'which substantially exceeded not just the target rate of 28% but also the observed rate of 40% in RTOG 0247.' In addition, the authors reported 48.5% grade ≥ 3 nonhematologic AEs preoperatively. The authors concluded that 'the role of IMRT in rectal cancer remains undetermined.'
+
+A meta-analysis (Wee et al Jap J Clin Oncol 2018), on the other hand, reported on 6 studies and 859 patients receiving IMRT and 3D. The authors found that IMRT significantly reduced grade ≥ 2 acute overall GI toxicity, diarrhea and proctitis ( p &lt; 0.05) as well as grade ≥ 3 proctitis. The authors acknowledge that the 'number of studies included in meta-analysis for each endpoint was small…' Further, the authors state that 'it cannot be justified to reduce mild toxicity at the cost of significantly compromised oncologic outcomes, and therefore recommendation of IMRT routinely in all LARC patients cannot be concluded with the existing data.'
+
+Sun et al (J Gastrointest Surg 2016) conducted a National Cancer Data Base analysis of 7386 patients with stage II and III rectal cancer receiving preoperative CRT, 45% of whom received IMRT and 55% of whom received 3D conformal radiation. These patients received a dose of 45-54 Gy. The primary outcome was overall survival. The authors reported that patients receiving IMRT had higher odds of sphincter loss surgery ( p &lt; 0.001) and positive resection margin ( p &lt; 0.001) with no difference in overall survival at 5-years. The authors concluded that 'IMRT is not associated with benefits in perioperative outcomes or long-term survival' and that 'caution should be exercised when using IMRT in lieu of traditional 3D-CRT for rectal cancer.'
+
+National Comprehensive Cancer Network (NCCN ® ) Guidelines ® state that 'IMRT is preferred for reirradiation of previously treated patients with recurrent disease, patients treated postoperatively due to increased acute or later toxicity, or in unique anatomical situations (eg, coverage of external iliac lymph nodes for T4 tumors invading anterior pelvic organs or inguinal lymph nodes for low-lying tumors involving the anal canal or avoidance of small bowel).'
+
+Hypofractionation
+
+Hypofractionated regimens have been used in the above noted Swedish Rectal Cancer trial as well as in the Dutch and MRC/NCIC trials. However, this regimen was compared to surgery alone.
+
+In the Trans-Tasman Radiation Oncology Group (TROG) 01.04 trial, 326 patients with T3 rectal cancer were randomized to preoperative hypofractionation alone (25 Gy in 5 fractions) vs. chemoradiation using a conventional fractionation regimen (50.4 Gy in 28 fractions). At a median follow-up of 5.9 years, there was no difference in the local recurrence rates, distant recurrence, or overall survival. Late toxicity was also similar between both groups.
+
+More recently, the results of RAPIDO were published (Bahadoer et al Lancet Oncol 2021). In this phase III trial, 912 patients with locally advanced rectal cancer (ie, stage T4 or N2 disease) were randomized to receive hypofractionation (25 Gy in 5 fractions) followed by chemotherapy (6 cycles of CAPOX) vs. concurrent chemotherapy (twicedaily oral capecitabine) and radiation (50-50.4 Gy). Median follow-up was 4.6 years. The authors reported a 3-year cumulative probability of disease-related treatment failure of 23.7% vs. 30.4% in the hypofractionated vs. conventionally fractionated arms respectively ( p = 0.019). This was thought to be, in part, due to a lower rate of distant metastases in the hypofractionated arm (20% vs. 26.8%). The pathologic complete response rate was also doubled in the hypofractionated arm (28%) perhaps in part due to the addition of chemotherapy. Compliance was also noted to be higher in the hypofractionated arm. There was no difference in overall survival.
+
+With respect to toxicity, preoperative grade ≥ 3 AEs occurred in 48% of the hypofractionated arm (ie, during radiation or chemotherapy) vs. 25% in the conventional arm; no statistical significance was provided. The authors state that this increase was 'probably due to preoperative treatment with CAPOX.' Serious AEs, such as a life-threatening event, admission to a hospital or a clinically significant disability or incapacity, was seen in 38% vs. 34% of the hypofractionated vs. conventionally fractionated arms respectively; no statistical significance was provided.
+
+In the recently published American Society for Radiation Oncology (ASTRO) Clinical Practice Guideline (Wo et al PRO 2020), the authors state 'conventionally fractionated chemoradiation or short-course RT are recommended equally, given high-quality evidence that either approach improves local control, and randomized studies suggesting similar efficacy and patient reported QoL outcomes for either treatment.'
+
+Palliative therapy
+
+The goal in palliative therapy is to maximize palliation while minimizing patient inconvenience. Hypofractionated regimens such as those outlined above meet these goals. For example, Bisschop et al (Ann Surg Oncol 2017) reported on the use of 25 Gy in 5 fractions followed by chemotherapy in a phase 2 trial of 50 patients. At a median follow-up of 8.1 years, only 2 patients experienced a local recurrence. Median overall survival was 3.8 years with a 5-year survival of 38%.
+
+#### References
+
+1. Abdel-Rahman O, Elhalawani HM, Allen PK, Holliday EB. Utilization of short-course radiation therapy for patients with nonmetastatic rectal adenocarcinoma in the United States. Adv Radiat Oncol . 2018;3(4):611-620. Published 2018 Aug 6. doi:10.1016/j.adro.2018.07.007
+
+2. Bahadoer RR, Dijkstra EA, van Etten B, et al. Short-course radiotherapy followed by chemotherapy before total mesorectal excision (TME) versus preoperative chemoradiotherapy, TME, and optional adjuvant chemotherapy in locally advanced rectal cancer (RAPIDO): a randomised, open-label, phase 3 trial [published correction appears in Lancet Oncol. 2021 Feb;22(2):e42]. Lancet Oncol . 2021;22(1):29-42. doi:10.1016/ S1470-2045(20)30555-6
+
+3. Folkesson J, Birgisson H, Pahlman L, Cedermark B, Glimelius B, Gunnarsson U. Swedish Rectal Cancer Trial: long lasting benefits from radiotherapy on survival and local recurrence rate. J Clin Oncol . 2005;23(24):5644-5650. doi:10.1200/JCO.2005.08.144
+
+4. Goodman KA, Milgrom SA, Herman JM, et al. ACR Appropriateness Criteria ® rectal cancer: metastatic disease at presentation. Oncology (Williston Park) . 2014;28(10):867-878.
+
+5. Hong TS, Moughan J, Garofalo MC, et al. NRG Oncology Radiation Therapy Oncology Group 0822: A Phase 2 Study of Preoperative Chemoradiation Therapy Using Intensity Modulated Radiation Therapy in Combination With Capecitabine and Oxaliplatin for Patients With Locally Advanced Rectal Cancer. Int J Radiat Oncol Biol Phys . 2015;93(1):29-36. doi:10.1016/j.ijrobp.2015.05.005
+
+6. Konski AA, Herman JM, Abdel-Wahab M, et al. ACR Appropriateness Criteria ® recurrent rectal cancer. Date of origin: 1998. Last review date: 2014.
+
+7. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - April 30, 2024. Rectal Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/rectal.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Rectal Cancer Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+8. Ngan SY, Burmeister B, Fisher RJ, et al. Randomized trial of short-course radiotherapy versus long-course chemoradiation comparing rates of local recurrence in patients with T3 rectal cancer: Trans-Tasman Radiation Oncology Group trial 01.04 [published correction appears in J Clin Oncol. 2013 Jan 20;31(3):399]. J Clin Oncol . 2012;30(31):3827-3833. doi:10.1200/JCO.2012.42.9597
+
+9. NIH consensus conference. Adjuvant therapy for patients with colon and rectal cancer. JAMA . 1990;264(11):1444-1450.
+
+10. Peeters KC, van de Velde CJ, Leer JW, et al. Late side effects of short-course preoperative radiotherapy combined with total mesorectal excision for rectal cancer: increased bowel dysfunction in irradiated patients--a Dutch colorectal cancer group study. J Clin Oncol . 2005;23(25):6199-6206. doi:10.1200/JCO.2005.14.779
+
+11. Randomised trial of surgery alone versus radiotherapy followed by surgery for potentially operable locally advanced rectal cancer. Medical Research Council Rectal Cancer Working Party. Lancet . 1996;348(9042):1605-1610.
+
+12. Reyngold M, Niland J, Ter Veer A, et al. Trends in intensity modulated radiation therapy use for locally advanced rectal cancer at National Comprehensive Cancer Network centers. Adv Radiat Oncol . 2017;3(1):34-41. Published 2017 Oct 12. doi:10.1016/j.adro.2017.10.001
+
+13. Roh MS, Colangelo LH, O'Connell MJ, et al. Preoperative multimodality therapy improves disease-free survival in patients with carcinoma of the rectum: NSABP R-03. J Clin Oncol . 2009;27(31):5124-5130. doi:10.1200/ JCO.2009.22.0467
+
+14. Russo S, Blackstock AW, Herman JM, et al. ACR Appropriateness Criteria ® Local Excision in Early Stage Rectal Cancer. Am J Clin Oncol . 2015;38(5):520-525. doi:10.1097/COC.0000000000000197
+
+15. Sauer R, Becker H, Hohenberger W, et al. Preoperative versus postoperative chemoradiotherapy for rectal cancer. N Engl J Med . 2004;351(17):1731-1740. doi:10.1056/NEJMoa040694
+
+16. Sauer R, Liersch T, Merkel S, et al. Preoperative versus postoperative chemoradiotherapy for locally advanced rectal cancer: results of the German CAO/ARO/AIO-94 randomized phase III trial after a median follow-up of 11 years. J Clin Oncol . 2012;30(16):1926-1933. doi:10.1200/JCO.2011.40.1836
+
+17. Spanos WJ Jr, Clery M, Perez CA, et al. Late effect of multiple daily fraction palliation schedule for advanced pelvic malignancies (RTOG 8502). Int J Radiat Oncol Biol Phys .1994;29(5):961-967. doi:10.1016/0360-3016(94)90389-1
+
+18. Spanos W Jr, Guse C, Perez C, Grigsby P, Doggett RL, Poulter C. Phase II study of multiple daily fractionations in the palliation of advanced pelvic malignancies: preliminary report of RTOG 8502. Int J Radiat Oncol Biol Phys . 1989;17(3):659-661. doi:10.1016/0360-3016(89)90120-x
+
+19. Sun Z, Adam MA, Kim J, Czito B, Mantyh C, Migaly J. Intensity-Modulated Radiation Therapy Is Not Associated with Perioperative or Survival Benefit over 3D-Conformal Radiotherapy for Rectal Cancer. J Gastrointest Surg . 2017;21(1):106-111. doi:10.1007/s11605-016-3242-8
+
+20. Swedish Rectal Cancer Trial, Cedermark B, Dahlberg M, et al. Improved survival with preoperative radiotherapy in resectable rectal cancer [published correction appears in N Engl J Med 1997 May 22;336(21):1539]. N Engl J Med . 1997;336(14):980-987. doi:10.1056/NEJM199704033361402
+
+21. Wo JY, Anker CJ, Ashman JB, et al. Radiation Therapy for Rectal Cancer: Executive Summary of an ASTRO Clinical Practice Guideline. Pract Radiat Oncol . 2021;11(1):13-25. doi:10.1016/j.prro.2020.08.004
+
+POLICY
+
+- I. Technique
+
+- A. Electron beam and/or superficial photon radiation is considered medically necessary in the treatment of localized malignant melanoma for ANY of the following:
+
+1. Definitive treatment
+
+- a. When an individual is inoperable or declines surgical resection
+
+- b. When surgery would result in functional compromise
+
+2. Postoperative treatment for EITHER of the following:
+
+- a. A primary deep desmoplastic melanoma with close margins
+
+- b. Presence of extensive neurotropism
+
+3. Locally recurrent melanoma
+
+- B. Three-dimensional conformal radiation therapy (3DCRT) is considered medically necessary when treating regional adenopathy when ANY of the following risk factors for recurrence are present (as defined by the National Comprehensive Cancer Network ® [NCCN ® ]):
+
+1. Extranodal extension
+
+2. One or more involved parotid lymph nodes of any size
+
+3. Two or more involved cervical or axillary lymph nodes of any size
+
+4. Three or more inguinofemoral nodes of any size
+
+5. A cervical or axillary node that is 3 cm or larger
+
+6. An inguinofemoral node that is 4 cm or larger
+
+- C. Electron beam and/or superficial photon radiation is considered medically necessary to palliate unresectable nodal, satellite, or in-transit disease.
+
+- D. Electronic brachytherapy for the treatment of melanoma is considered not medically necessary.
+
+- E. 3D conformal radiation therapy is considered medically necessary to palliate symptomatic visceral metastatic lesions. For treatment of bone or brain metastases from melanoma, please refer to the respective guideline.
+
+- F. The use of stereotactic body radiotherapy (SBRT) to induce the abscopal effect is considered not medically necessary.
+
+- II. Fractionation
+
+- A. Up to 35 fractions is considered medically necessary for definitive radiation therapy.
+
+### Skin Cancer- Melanoma
+
+RO.TXS.131.C v2.0.2024
+
+- B. Up to 33 fractions is considered medically necessary for adjuvant therapy.
+
+- C. Up to 10 fractions is considered medically necessary for palliative radiation therapy.
+
+#### DISCUSSION
+
+Overview
+
+Malignant melanoma is increasing in incidence in the United States at a rate more rapidly for men than any other malignancy, and more rapidly for women for all malignancies except lung cancer. There are over 75000 new cases of melanoma in the USA annually, and it accounts for over 10000 deaths each year. The incidence may be even higher, skewed by under-reporting of superficial and in situ cases. Like the nonmelanoma skin cancers, excess sun exposure poses an increased risk of developing it, along with skin type, positive personal or family history, and environmental factors. Yet it can also occur in persons without substantial sun exposure and in any ethnic group or any color of skin. Survival is strongly inversely correlated with degree/depth of invasion, and decreases 50% with lymph node involvement. Some cases of melanoma take an indolent course while others are biologically much more aggressive.
+
+Melanoma can arise outside of the skin, wherever melanocytes exist. Mucosal melanoma represents a spectrum of clinical entities depending on site of origin, and most commonly arises in the head and neck sinuses, the oral cavity, the anorectum, vagina, and mucosa of the GI and GU tracts. There are specific genetic alterations in distinct clinical subtypes of melanoma, often correlated with degree of sun damage. BRAF mutation is seen in roughly half of the non-CSD (non-chronic sun damaged) skin melanomas, whereas KIT gene aberrations are rare in that group. Non-mucosal, noncutaneous melanomas also occur, such as in the uveal tract, and represent distinct presentations. Non-cutaneous melanoma cases (ie, mucosal melanomas and those of the eye) are addressed in other sections of this clinical guideline, such as the Head and Neck clinical guideline for melanomas of the sinuses, or the Proton Beam Therapy clinical guideline on proton beam therapy for uveal melanomas.
+
+The natural history of cutaneous melanoma is one of local invasion, lymphatic metastases, and hematologic dissemination. The risk of all 3 may be greater than that of a non-melanoma skin cancer in the same location. Surgery is the primary therapy for cutaneous melanoma. A preoperative evaluation should include a careful physical examination of the primary site, the regional lymphatics, and the entire skin surface. Equivocal findings on physical examination of the regional lymphatics may trigger an ultrasound exam of the area. If symptomatic, cross-sectional imaging is indicated, otherwise not routinely to be performed for early stage (0, I, II) cases. Sentinel lymph node evaluation is recommended for thicker lesions, but rarely needed with lesions less than 0.75 mm thick. As stage advances higher, baseline imaging is appropriate, or if there is clinical evidence of adenopathy or symptoms are present that suggest nerve or bone invasion. Clinically positive nodes should be confirmed with fine needle aspiration (FNA) or core biopsy. If there is clinical or radiographic evidence of distant metastases, confirmation by FNA or core biopsy is recommended, as is imaging of the brain. Patients with minimal signs or symptoms of central nervous system (CNS) involvement should undergo a brain magnetic resonance imaging (MRI) scan due to the high risk of brain metastases.
+
+The optimal degree of clear margin necessary to minimize the risk of local recurrence is dependent on tumor thickness. For thin (&lt; 2 mm) lesions it appears a margin of 1 cm is adequate. For thicker lesions, a 2 cm margin is currently recommended. Lentigo maligna and melanoma in situ present unique features because of possible lateral subclinical extension, for which imiquimod is an option. Radiation therapy has also been used in such cases, with complete clearance rates in the 85% to 90% range. For a melanoma that has undergone adequate wide local excision and there is no adenopathy on clinical and/or sentinel node examination, adjuvant radiation therapy is rarely indicated, the possible exception being desmoplastic neurotropic melanoma. If regional adenopathy is clinically present, a complete therapeutic node dissection should be included with wide excision of the primary tumor. If melanoma is found in sentinel nodes but was not clinically suspicious, current recommendations include offering a complete node dissection, though its impact on disease control and survival is not well established and is the focus of current study. Following wide excision and nodal dissection, radiation therapy to the nodal basin is to be considered in high risk cases, based on location, size, and number of positive nodes, and the presence or absence of extranodal extension of melanoma.
+
+Radiation therapy is 1 option for the treatment of in-transit disease (metastases within lymphatics or satellite locations without metastatic nodes) for which resection is not feasible. Alternatives include intralesional injections, local ablation therapy, and topical imiquimod.
+
+The radiation prescription is to be made by a qualified radiation oncologist who is familiar with the nuances of the dose deposition that accompany the physical characteristics of the radiation beams and techniques. Dose prescription for electrons is at the 90% isodose line, and for superficial or orthovoltage radiation at the Dmax. When sophisticated conventional photon, 3D, or IMRT treatments are used, attention is to be paid to the skin dose, and may require the use of bolus. As noted by the National Comprehensive Cancer Network ® , there is insufficient evidence to support the use of electronic surface brachytherapy as a treatment option for primary cutaneous Melanoma (NCCN ® , 2024).
+
+#### References
+
+1. Agrawal S, Kane JM 3rd, Guadagnolo BA, Kraybill WG, Ballo MT. The benefits of adjuvant radiation therapy after therapeutic lymphadenectomy for clinically advanced, high-risk, lymph node-metastatic melanoma. Cancer . 2009;115(24):5836-5844. doi:10.1002/cncr.24627
+
+2. Burmeister BH, Henderson MA, Ainslie J, et al. Adjuvant radiotherapy versus observation alone for patients at risk of lymph-node field relapse after therapeutic lymphadenectomy for melanoma: a randomised trial. Lancet Oncol . 2012;13(6):589-597. doi:10.1016/S1470-2045(12)70138-9
+
+3. Chang DT, Amdur RJ, Morris CG, Mendenhall WM. Adjuvant radiotherapy for cutaneous melanoma: comparing hypofractionation to conventional fractionation. Int J Radiat Oncol Biol Phys . 2006;66(4):1051-1055. doi:10.1016/j.ijrobp.2006.05.056
+
+4. Devlin PM, Gaspar LE, Buzurovic I, et al. American College of Radiology - American Brachytherapy Society practice parameter for electronically generated low-energy radiation sources. Brachytherapy . 2017;16(6):1083-1090. doi:10.1016/j.brachy.2017.08.002
+
+5. Eggermont AM, Chiarion-Sileni V, Grob JJ, et al. Adjuvant ipilimumab versus placebo after complete resection of high-risk stage III melanoma (EORTC 18071): a randomised, double-blind, phase 3 trial [published correction appears in Lancet Oncol. 2015 Jun;16(6):e262] [published correction appears in Lancet Oncol. 2016 Jun;17(6):e223]. Lancet Oncol . 2015;16(5):522-530. doi:10.1016/S1470-2045(15)70122-1
+
+6. Guadagnolo BA, Prieto V, Weber R, Ross MI, Zagars GK. The role of adjuvant radiotherapy in the local management of desmoplastic melanoma. Cancer . 2014;120(9):1361-1368. doi:10.1002/cncr.28415
+
+7. Lee RJ, Gibbs JF, Proulx GM, Kollmorgen DR, Jia C, Kraybill WG. Nodal basin recurrence following lymph node dissection for melanoma: implications for adjuvant radiotherapy. Int J Radiat Oncol Biol Phys . 2000;46(2):467-474. doi:10.1016/s0360-3016(99)00431-9
+
+8. Olivier KR, Schild SE, Morris CG, Brown PD, Markovic SN. A higher radiotherapy dose is associated with more durable palliation and longer survival in patients with metastatic melanoma. Cancer . 2007;110(8):1791-1795. doi:10.1002/cncr.22988
+
+9. Mendenhall WM, Mancuso AA, Kiorwan JM, et al. Skin. In: Halperin EC, Wazer DE, Perez CA, Brady LW, eds. Perez and Brady's Principles and Practice of Radiation Oncology . 6th ed. Lippincott Williams &amp; Wilkins; 2013:626-637.
+
+10. Miller AJ, Mihm MC Jr. Melanoma. N Engl J Med . 2006;355(1):51-65. doi:10.1056/NEJMra052166
+
+11. National Comprehensive Cancer Network (NCCN) Radiation Therapy Compendium ® .
+
+12. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - April 3, 2024. Melanoma: Cutaneous. https://www.nccn.org/professionals/physician\_gls/pdf/cutaneous\_melanoma.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Melanoma: Cutaneous Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+13. Sause WT, Cooper JS, Rush S, et al. Fraction size in external beam radiation therapy in the treatment of melanoma. Int J Radiat Oncol Biol Phys . 1991;20(3):429-432. doi:10.1016/0360-3016(91)90053-7
+
+14. Strom T, Caudell JJ, Han D, et al. Radiotherapy influences local control in patients with desmoplastic melanoma. Cancer . 2014;120(9):1369-1378. doi:10.1002/cncr.28412
+
+15. Tom MC, Hepel JT, Patel R, et al. The American Brachytherapy Society consensus statement for electronic brachytherapy. Brachytherapy . 2019;18(3):292-298. doi:10.1016/j.brachy.2018.10.006
+
+POLICY
+
+- I. Technique
+
+- A. Electron beam, superficial photon radiation or high-dose rate (HDR) brachytherapy is considered medically necessary for the treatment of localized nonmelanomatous skin cancers including basal cell, squamous cell, and merkel cell carcinoma for ANY of the following indications:
+
+1. Definitive treatment
+
+- a. When an individual is inoperable or declines surgical resection
+
+- b. When surgery would be disfiguring or result in functional compromise
+
+2. Postoperative treatment in the setting of
+
+- a. Close or positive margins
+
+- b. Gross perineural or large-nerve involvement
+
+- c. Recurrent or T3-4 squamous cell carcinoma of the skin
+
+- B. Multiple skin cancers treated concurrently with radiation therapy, rather than sequentially, is considered medically necessary.
+
+- C. The use of three-dimensional conformal radiation therapy (3DCRT) is considered medically necessary when treating regional adenopathy.
+
+- D. Electronic brachytherapy for the treatment of basal cell, squamous cell, and merkel cell cancers of the skin is considered not medically necessary.
+
+- E. The use of image-guided radiation therapy (IGRT), including the use of ultrasound, is considered not medically necessary.
+
+- II. Dose
+
+- A. Treatment schedules should be matched to the clinical circumstance, including size and depth of the lesion, histology, and risk of damage to underlying structures.
+
+- B. In the treatment of localized disease, both conventional and hypofractionated regimens are utilized.
+
+1. Hypofractionation - examples of regimens considered medically necessary include, but are not limited to:
+
+- a. 30 Gy in 5 fractions (ie, for tumors &lt; 2 cm in diameter)
+
+- b. 40 Gy in 8 fractions
+
+- c. 45 Gy in 15 fractions
+
+- d. 50 Gy in 20 fractions
+
+2. Conventional fractionation - a dose of 60-70 Gy (30-35 fractions) is considered medically necessary.
+
+### Skin Cancer- Non-Melanoma
+
+RO.TXS.132.C v2.0.2024
+
+- C. For an individual with nodal involvement, a dose of 50-70 Gy (25-35 fractions) is considered medically necessary depending on the margin status and the presence of extranodal extension.
+
+Kaposi Sarcoma (KS)
+
+- A. The use of up to 30 Gy in 15 fractions of electron beam or superficial radiation therapy is considered medically necessary.
+
+Mycosis Fungoides (MF)
+
+- A. For the definitive treatment of unilesional (ie, solitary/limited) MF, up to 30 Gy in 20 fractions of electron beam or superficial radiation therapy is considered medically necessary.
+
+- B. For the palliation of individual lesions, up to 12 Gy in 5 fractions of electron beam or superficial radiation therapy is considered medically necessary.
+
+- C. Total skin electron beam therapy (TSEBT)
+
+1. Up to 36 Gy in 24 fractions of electron beam radiation is considered medically necessary.
+
+2. A boost of up to 12 Gy in 6 fractions of electron beam therapy is considered medically necessary.
+
+Extramammary Paget Disease (EMPD)
+
+- A. For the curative treatment of EMPD in the inoperable or postoperative setting, up to 33 fractions of electron beam or superficial radiation therapy is considered medically necessary.
+
+- B. 3D conformal radiation is considered medically necessary when irradiating the regional lymph nodes.
+
+- C. Intensity-modulated radiation therapy (IMRT) is considered medically necessary when irradiating the inguinal lymph nodes.
+
+- D. For the palliative treatment of EMPD, up to 15 fractions of electron beam or superficial radiation therapy is considered medically necessary.
+
+#### DISCUSSION
+
+Overview
+
+In the United States, the incidence of skin cancers outnumbers all other cancers combined, and basal cell cancers are twice as common as squamous cell skin cancers. While the 2 types share many characteristics, risk factors for local recurrence and for regional or distant metastases differ somewhat. Both types tend to occur in skin exposed to sunlight, and share the head and neck region as the area having the greatest risk for recurrence. Both occur more frequently and are more aggressive in immunocompromised transplant patients. In general, it is the squamous cell cancers that tend to be more aggressive, with a greater propensity to metastasize or to recur locoregionally. A squamous cell cancer is more likely to possess 1 or more high risk factors.
+
+Risk factors for recurrence, as outlined by the National Comprehensive Cancer Network ® (NCCN ® ), vary according to several factors including histology, presence of perineural involvement, location, size, quality of the borders, presence of immunosuppression and whether the lesion is recurrent. Classification of low- vs. highrisk according to these variables is further defined in the NCCN Guideline ® .
+
+Management
+
+Treatment should be customized, taking into account specific factors and also patient preferences. The primary goal is to completely remove the tumor and to maximize functional preservation. Surgery is usually the most efficient and effective means to achieve these goals. Radiation therapy may be selected when functional outcome with surgery is expected to be inferior. In very low risk, superficial cancers, topical agents may be sufficient and cautiously used. When surgery is utilized, margin assessment using Mohs micrographic technique should include examining vertical sections of the specimen to assess deep margin and stage/depth of invasion.
+
+The American Society for Radiation Oncology (ASTRO) Clinical Practice Guideline on definitive and postoperative radiation therapy for basal and squamous cell cancers of the skin discourages the use of definitive radiation 'in patients with genetic conditions predisposing them to heightened radiosensitivity, such as ataxia telangiectasia, nevoid basal cell carcinoma syndrome (Gorlin syndrome), or Li-Fraumeni syndrome.' In addition, 'poorly controlled connective tissue disorders are a relative contraindication to treatment.'
+
+Electronic brachytherapy
+
+The American Brachytherapy Society published 'The American Brachytherapy Society Consensus Statement for Electronic Brachytherapy' to serve as a guideline for the appropriate use of electronic brachytherapy (Tom et al, 2019). In the consensus statement, the authors note concerns in extrapolating data from traditional brachytherapy techniques to electronic brachytherapy regarding 'clinical outcomes, toxicity profiles, and indications.' The consensus statement notes that there has been a rapid adoption of electronic brachytherapy in the treatment of nonmelanomatous skin cancers without meaningful comparison to standard radiation therapy techniques and without long term outcome data. The consensus statement recommends that until long term data from large prospective studies are available, treatment with electronic brachytherapy for nonmelanomatous skin cancers should be performed on a clinical registry or trial. NCCN ® also states that 'there are insufficient long-term efficacy and safety data to support the routine use of electronic surface brachytherapy.'
+
+IGRT
+
+The American Society for Radiation Oncology published 'Definitive and Postoperative Radiation Therapy for Basal and Squamous Cell Cancers of the Skin: Executive Summary of an American Society for Radiation Oncology Clinical Practice Guideline' (Likhacheva et al, 2020). The guidelines state that 'Daily imaging is neither necessary nor useful when treating with electron beam, low-energy radiation sources, or skin surface brachytherapy.' As noted by the guidelines, localization of the target can be achieved by 'regular and frequent visual confirmation of surface coverage… (ie, biweekly 'see-on-table' verification)' (Likhacheva et al, 2020). Further, the 2022 Coding Resource published by ASTRO states that "superficial treatment of skin cancers" is an example "of when guidance and tracking are not indicated."
+
+Merkel cell
+
+As noted by NCCN ® , dosing regimens and recommendations for merkel cell carcinoma are based on evidence from other types of skin cancer. Recommendations for radiation therapy in the management of merkel cell carcinoma are based on clinical evidence and best practices from NCCN ® member institutions.
+
+Kaposi Sarcoma (KS)
+
+Radiation is an effective modality in the treatment of Kaposi Sarcoma. For example, Hauerstock et al (J Cut Med Surg 2009) published a retrospective review of 16 patients, most of whom received 30 Gy in 15 fractions. The authors reported an 88% complete response rate and a 12% partial response rate.
+
+Caccialanza published a retrospective review of 1482 classic and human immunodeficiency virus (HIV)-related lesions treated with radiation. The authors reported a 10-year cure rate of 98.7% for classic KS and a 91.4% complete response rate in those with HIV-related KS. Though various radiation techniques and fractionation regimens were used (ie, contact x-ray therapy, half-deep x-ray therapy, soft x-ray therapy), the mean dose delivered was 29 Gy.
+
+Kirova et al also reported on 643 patients with acquired immunodeficiency syndrome (AIDS)-related epidemic KS. The recommended dose was 30 Gy for cutaneous lesions, 15 Gy for oral lesions, and 20 Gy for lesions involving the eyelid, conjunctiva, lips and genitals. These regimens were typically split-course. At a mean follow-up of 8.2 months, the authors observed a 92% complete and partial response rate.
+
+Mycosis Fungoides (MF)
+
+Guidelines from the International Lymphoma Radiation Oncology Group provide guidance in the treatment of MF (Specht et al IJROBP 2015). For example, in the palliative treatment, a dose of 8-12 Gy is recommended. Eight Gy in 1 fraction may be considered though fractionation may be necessary depending on the 'basis of the normal tissue complication probability, considering the irradiated volume, the condition of the skin, prior RT to the site, and whether TSEBT is considered.' For those with unilesional (ie, solitary or limited) MF, a dose of 25-30 Gy is recommended. When indicated, total skin electron beam therapy (TSEBT) may be delivered to a dose of 12-36 Gy. A subsequent boost may be required to treat discrete lesions.
+
+Extramammary Paget Disease (EMPD)
+
+EMPD is a malignancy of the apocrine glands and mimics that of skin cancer. This cancer has a predilection for women particularly in the vulvar area. Surgery remains the main stay of treatment with radiation reserved for inoperable situations or in the postoperative setting. Typically, doses of up to 60 Gy in 30 fractions are utilized depending on the presentation.
+
+#### References
+
+1. Abbas M, Kalia S. Trends in Non-Melanoma Skin Cancer (Basal Cell Carcinoma and Squamous Cell Carcinoma) in Canada: A Descriptive Analysis of Available Data. J Cutan Med Surg . 2016;20(2):166-175. doi:10.1177/1203475415610106
+
+2. Alam M, Nanda S, Mittal BB, Kim NA, Yoo S. The use of brachytherapy in the treatment of nonmelanoma skin cancer: a review. J Am Acad Dermatol . 2011;65(2):377-388. doi:10.1016/j.jaad.2010.03.027
+
+3. Ali MA, Babaiah M, Mariappan P, et al. A Rare Case of Recurrent Paget's Disease of the Vulva and Gluteal Region Treated with Radiation Therapy. Appl Rad Oncol . 2020;9(1):44-47.
+
+4. American Cancer Society: Skin cancer: Basal and Squamous Cell Skin Cancer.
+
+5. ASTRO 2023 Radiation Oncology Coding Resource. American Society for Radiation Oncology (ASTRO). 2023.
+
+6. Bhatnagar A. Clinical outcomes and patient-reported outcomes following electronic brachytherapy for the treatment of non-melanoma skin cancer. J Radiat Oncol Biol Phys . 2016;96(2 Suppl):E713.
+
+7. Caccialanza M, Marca S, Piccinno R, Eulisse G. Radiotherapy of classic and human immunodeficiency virus-related Kaposi's sarcoma: results in 1482 lesions. J Eur Acad Dermatol Venereol . 2008;22(3):297-302. doi:10.1111/j.1468-3083.2007.02405.x
+
+8. Devlin PM, Gaspar LE, Buzurovic I, et al. American College of Radiology - American Brachytherapy Society practice parameter for electronically generated low-energy radiation sources. Brachytherapy . 2017;16(6):1083-1090. doi:10.1016/j.brachy.2017.08.002
+
+9. Hata M, Koike I, Wada H, et al. Radiation therapy for extramammary Paget's disease: treatment outcomes and prognostic factors. Ann Oncol . 2014;25(1):291-297. doi:10.1093/annonc/mdt478
+
+10. Hauerstock D, Gerstein W, Vuong T. Results of radiation therapy for treatment of classic Kaposi sarcoma. J Cutan Med Surg . 2009;13(1):18-21. doi:10.2310/7750.2008.07076
+
+11. Kirova YM, Belembaogo E, Frikha H, et al. Radiotherapy in the management of epidemic Kaposi's sarcoma: a retrospective study of 643 cases. Radiother Oncol . 1998;46(1):19-22. doi:10.1016/s0167-8140(97)00147-3
+
+12. Likhacheva A, Awan M, Barker CA, et al. Definitive and Postoperative Radiation Therapy for Basal and Squamous Cell Cancers of the Skin: Executive Summary of an American Society for Radiation Oncology Clinical Practice Guideline. Pract Radiat Oncol . 2020;10(1):8-20. doi:10.1016/j.prro.2019.10.014
+
+13. Mendenhall WM, Mancuso AA, Kiorwan JM, et al. Skin. In: Halperin EC, Wazer DE, Perez CA, Brady LW, eds. Perez and Brady's Principles and Practice of Radiation Oncology . 6th ed. Lippincott Williams &amp; Wilkins; 2013:626-637.
+
+14. National Comprehensive Cancer Network (NCCN) Radiation Therapy Compendium ® .
+
+15. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 1, 2024. Basal Cell Skin Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/nmsc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Basal Cell Skin Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+16. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - November 7, 2023. Kaposi Sarcoma. https://www.nccn.org/professionals/physician\_gls/pdf/kaposi.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Kaposi Sarcoma Version 1.2024. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+17. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - November 22, 2023. Merkel Cell Carcinoma. https://www.nccn.org/professionals/physician\_gls/pdf/mcc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Merkel Cell Carcinoma Version 1.2024. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+18. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - May 6, 2024. Primary Cutaneous Lymphomas. https://www.nccn.org/professionals/physician\_gls/pdf/primary\_cutaneous.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Primary Cutaneous Lymphomas Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+19. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - November 9, 2023. Squamous Cell Skin Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/squamous.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Squamous Cell Skin Cancer Version 1.2024. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+20. Patel R, Strimling R, Doggett S, et al. Comparison of electronic brachytherapy and Mohs micrographic surgery for the treatment of early-stage non-melanoma skin cancer: a matched pair cohort study. J Contemp Brachytherapy . 2017;9(4):338-344. doi:10.5114/jcb.2017.68480
+
+21. Seegenschmiedt MH, Tepper JE, Gunderson LL. Benign Diseases. In: Gunderson LL, Tepper JE, eds. Clinical Radiation Oncology . 3rd ed. Elsevier Inc; 2012:1400.
+
+22. Shah C, Ouhib Z, Kamrava M, et al. The American Brachytherapy Society consensus statement for skin brachytherapy. Brachytherapy . 2020;19(4):415-426. doi:10.1016/j.brachy.2020.04.004
+
+23. Specht L, Dabaja B, Illidge T, Wilson LD, Hoppe RT; International Lymphoma Radiation Oncology Group. Modern radiation therapy for primary cutaneous lymphomas: field and dose guidelines from the International Lymphoma Radiation Oncology Group. Int J Radiat Oncol Biol Phys . 2015;92(1):32-39. doi:10.1016/ j.ijrobp.2015.01.008
+
+24. Tagliaferri L, Casà C, Macchia G, et al. The Role of Radiotherapy in Extramammary Paget Disease: A Systematic Review. Int J Gynecol Cancer . 2018;28(4):829-839. doi:10.1097/IGC.0000000000001237
+
+25. Tom MC, Hepel JT, Patel R, et al. The American Brachytherapy Society consensus statement for electronic brachytherapy. Brachytherapy . 2019;18(3):292-298. doi:10.1016/j.brachy.2018.10.006
+
+POLICY
+
+- I. For stage I or node-negative stage IIA limited-stage small-cell lung cancer (LSSCLC), the following regimens are considered medically necessary:
+
+- A. 3D conformal radiation therapy (3DCRT) to a dose of 60-70 Gy in 30-35 fractions or 45 Gy delivered twice daily
+
+- B. Up to 5 fractions of stereotactic body radiation therapy (SBRT). SBRT, as a complete course of therapy, must be completed in 5 fractions in a single episode of care.
+
+- C. Hypofractionated regimen of 8-15 fractions of 3DCRT
+
+- D. Intensity modulated radiation therapy to a dose of 60-70 Gy in 30-35 fractions or 45 Gy delivered twice daily when an optimized 3D conformal radiation therapy plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines
+
+- II. For stage I or node-negative stage IIA LS-SCLC status post lobectomy with positive margins, gross residual disease, or N2 disease, postoperative radiation to a dose of 45-54 Gy in 25-30 fractions is considered medically necessary. The following radiation therapy techniques are considered medically necessary:
+
+- A. 3DCRT
+
+- B. IMRT when an optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines
+
+- III. For stage IIB LS-SCLC, a dose of 60-70 Gy in 30-35 fractions or 45 Gy delivered twice daily in 30 fractions is considered medically necessary. The following radiation therapy techniques are considered medically necessary:
+
+- A. 3DCRT
+
+- B. IMRT when an optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines
+
+- IV. For stage III, 3D conformal radiation therapy or intensity-modulated radiation therapy (IMRT) to a dose of 60-70 Gy in 30-35 fractions or 45 Gy delivered twice daily in 30 fractions is considered medically necessary.
+
+- V. For extensive stage (ES) disease in which all systemic disease (including metastases) has achieved complete or near-complete resolution with systemic therapy, consolidative thoracic external beam radiation therapy to a dose of 30 Gy
+
+### Small Cell Lung Cancer
+
+RO.TXS.133.C
+
+v2.0.2024
+
+in 10 fractions, 45 Gy in 15 fractions or 60 Gy in 30 fractions using a 3D conformal technique is considered medically necessary.
+
+- VI. Palliative treatment
+
+- A. The use of up to 10 fractions of 3D conformal radiation therapy is considered medically necessary.
+
+Prophylactic Cranial Irradiation (PCI)
+
+- VII. PCI to a dose of 25 Gy in 10 fractions using conventional isodose planning or 3D conformal is considered medically necessary in
+
+- A. LS-SCLC individuals with a KPS of a least 70 achieving a complete or partial response to chemoradiation
+
+- B. ES-SCLC individuals with a KPS of at least 70 achieving a complete or partial response to chemoradiation
+
+VIII. Hippocampal-avoidance PCI (HA-PCI) is considered not medically necessary.
+
+#### DISCUSSION
+
+Limited stage
+
+Concurrent chemoradiation has been the mainstay of therapy for limited-stage small-cell lung cancer (LS-SCLC). However, for early-stage (ie, stage I-IIA) disease with negative mediastinal staging, lobectomy may be considered (a preferred regimen per NCCN).
+
+Postoperative radiation
+
+For patients having undergone lobectomy, postoperative radiation is indicated in patients with positive margins, residual disease, or pN2 disease. For patients with N0-N1 disease, however, the 2020 ASTRO Clinical Practice Guideline does not recommend postoperative radiation. For N1 patients, NCCN indicates that postoperative radiation "may be considered".
+
+SBRT
+
+In early-stage patients not undergoing surgery, SBRT can be considered. In a retrospective review, Verma at al reported on 74 patients with T1-T2N0 small cell lung cancer treated from 24 different institutions. The median, 1-year, and 3-year diseasespecific survival was 52.3 months, 84.5%, and 64.4% respectively. The median, 1-year, and 3-year overall survival was 17.8 months, 69.9%, and 34% respectively. It was also noted that patients receiving chemotherapy were found to have a statistically significant increased median disease free survival and overall survival. Given these findings, the authors concluded that SBRT with chemotherapy should be considered a standard option.
+
+In a review of the National Cancer Database (NCDB), Verma at al also reported on 2107 patients who underwent SBRT and chemotherapy compared to concurrent chemoradiation. The authors found median survival was statistically equivalent as the radiotherapeutic technique was not associated with overall survival.
+
+Definitive chemoradiation
+
+In the curative treatment of LS-SCLC, concurrent chemotherapy and radiation remains the standard approach. Further, initiating radiation with cycle 1 or 2 of chemotherapy is recommended. Standard external beam photon radiation therapy fractionation consists of 45 Gy given at 1.5 Gy twice daily for a total of 30 fractions. When delivering a conventionally fractionated regimen, a dose of 60-70 Gy is recommended by ASTRO while NCCN recommends a dose of 66-70 Gy.
+
+Extensive stage
+
+In patients with ES-SCLC treated with chemotherapy and achieving a complete or partial response (ie, complete response systemically with at least a partial response at the thorax), consolidative thoracic radiation can be considered. Doses of 30 Gy in 10 fractions as well as 45 Gy in 15 fractions should be considered. NCCN also recommends a dose of up to 60 Gy in 30 fractions. If delivering PCI, thoracic radiation should be given simultaneously.
+
+Interestingly, in a secondary analysis of Chest Radiotherapy Extensive-Stage Trial (CREST), Slotman found overall survival (OS) and progression-free survival (PFS) were improved in patients receiving thoracic radiation who had 2 or fewer metastases while OS was worse in patients with liver and/or bone metastases.
+
+The role of consolidative thoracic radiation in patients receiving immunotherapy together with chemotherapy is unknown. NCCN states that "...consolidative thoracic RT after chemoimmunotherapy can be considered for selected patients…during or before maintenance immunotherapy (there are no data on optimal sequencing or safety)." ASTRO guidelines conditionally recommend palliative thoracic radiation (30 Gy in 10 fractions) based on expert opinion.
+
+PCI
+
+In patients with LS-SCLC who respond to chemoradiation treatment, PCI is recommended for those who achieve a complete or partial response. A dose of 25 Gy in 10 fractions is recommended. ASTRO guidelines conditionally do not recommend PCI for stage I patients. NCCN also states that "the benefit of PCI is unclear in patients who have undergone definitive therapy for pathologic stage I (T1-2a, N0, M0) SCLC".
+
+In patients with extensive-stage SCLC (ES-SCLC), the role of PCI is not clear. Though Slotman et al demonstrated a reduction in incidence of brain metastases while improving disease-free survival (DFS) and OS, in a more recent study where MRIs were obtained prior to randomization, Takahashi et al found no benefit to overall survival. Various meta-analyses also have shown conflicting results. That said, NCCN recommends consideration of PCI in patients with a good performance status after a complete or partial response. The ASTRO guideline states that "for patients who can adhere to the schedule, MRI surveillance can be considered an alternative to PCI. The task force recommends consultation with a radiation oncologist regarding the benefits and risks of PCI versus MRI surveillance." Given this, PCI should be cautioned against in patients who have impaired neurocognition and/or those age 60 years or older.
+
+HA-PCI
+
+The results of 2 randomized clinical trials were recently published evaluating the role of hippocampal avoidance PCI for small cell lung cancer.
+
+In the GICOR-GOECP-SEOR trial, de Dios et al reported on 150 patients with SCLC randomized to HA-PCI or PCI. The primary endpoint was the delayed free recall (DFR) on the Free and Cued Selective Reminding Test at 3 months. At a median follow-up of 40.4 months, HA-PCI was associated with a lower decline in DFR at 3 months as compared to PCI (5.8% vs. 23.5%, p = 0.003). The incidence of brain metastases, overall survival and quality of life were not, however, statistically different.
+
+In another phase III randomized trial, Belderbos reported on 168 patients randomized to HA-PCI or PCI. The primary endpoint was total recall at 4 months on the Hopkins Verbal Learning Test-Revised (HVLT-R). At a median follow-up of 26.6 months, the decline at 4 months was not significantly different between the groups (29% vs. 28%, p = 1.000). Additionally, the incidence of brain metastases and overall survival was also not significantly different.
+
+Given the conflicting results, the role of HA is not clear. NRG-CC003 is an ongoing larger randomized trial that should help to define the benefit, if any, of HA.
+
+#### References
+
+1. American Society for Radiation Oncology (ASTRO) Intensity Modulated Radiation Therapy (IMRT) Model Policy. 2019. https://www.astro.org/ASTRO/media/ASTRO/Daily%20Practice/PDFs/IMRTMP.pdf
+
+2. Aupérin A, Arriagada R, Pignon JP, et al. Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission. Prophylactic Cranial Irradiation Overview Collaborative Group. N Engl J Med . 1999;341(7):476-484. doi:10.1056/NEJM199908123410703
+
+3. Belderbos JSA, De Ruysscher DKM, De Jaeger K, et al. Phase 3 Randomized Trial of Prophylactic Cranial Irradiation With or Without Hippocampus Avoidance in SCLC (NCT01780675). J Thorac Oncol . 2021;16(5):840-849. doi:10.1016/j.jtho.2020.12.024
+
+4. Belderbos J, De Ruysscher D, De Jaeger K, et al. Phase III trial of Prophylactic Cranial Irradiation with or without Hippocampus Avoidance in SCLC. Radiother Oncol . 2019;133(Suppl 1):S259[OC-0503]. doi:10.1016/ s0167-8140(19)30923-5
+
+5. Bogart JA, Herndon JE 2nd, Lyss AP, et al. 70 Gy thoracic radiotherapy is feasible concurrent with chemotherapy for limited-stage small-cell lung cancer: analysis of Cancer and Leukemia Group B study 39808. Int J Radiat Oncol Biol Phys . 2004;59(2):460-468. doi:10.1016/j.ijrobp.2003.10.021
+
+6. Brown PD, Parsons MW, Rusthoven CG, Gondi V. Hippocampal Avoidance Prophylactic Cranial Irradiation: A New Standard of Care?. J Clin Oncol . 2021;39(28):3093-3096. doi:10.1200/JCO.21.01632
+
+7. De Ruysscher D, Pijls-Johannesma M, Bentzen SM, et al. Time between the first day of chemotherapy and the last day of chest radiation is the most important predictor of survival in limited-disease small-cell lung cancer. J Clin Oncol . 2006;24(7):1057-1063. doi:10.1200/JCO.2005.02.9793
+
+8. Faivre-Finn C, Snee M, Ashcroft L, et al. Concurrent once-daily versus twice-daily chemoradiotherapy in patients with limited-stage small-cell lung cancer (CONVERT): an open-label, phase 3, randomised, superiority trial. Lancet Oncol . 2017;18(8):1116-1125. doi:10.1016/S1470-2045(17)30318-2
+
+9. Fried DB, Morris DE, Poole C, et al. Systematic review evaluating the timing of thoracic radiation therapy in combined modality therapy for limited-stage small-cell lung cancer [published correction appears in J Clin Oncol. 2005 Jan 1;23(1):248]. J Clin Oncol . 2004;22(23):4837-4845. doi:10.1200/JCO.2004.01.178
+
+10. Gore EM, Hu C, Sun AY, et al. Randomized Phase II Study Comparing Prophylactic Cranial Irradiation Alone to Prophylactic Cranial Irradiation and Consolidative Extracranial Irradiation for Extensive-Disease Small Cell Lung Cancer (ED SCLC): NRG Oncology RTOG 0937. J Thorac Oncol . 2017;12(10):1561-1570. doi:10.1016/ j.jtho.2017.06.015
+
+11. Gregor A, Cull A, Stephens RJ, et al. Prophylactic cranial irradiation is indicated following complete response to induction therapy in small cell lung cancer: results of a multicentre randomised trial. United Kingdom Coordinating Committee for Cancer Research (UKCCCR) and the European Organization for Research and Treatment of Cancer (EORTC). Eur J Cancer . 1997;33(11):1752-1758. doi:10.1016/s0959-8049(97)00135-4
+
+12. Grønberg BH, Halvorsen TO, Fløtten Ø, et al. Randomized phase II trial comparing twice daily hyperfractionated with once daily hypofractionated thoracic radiotherapy in limited disease small cell lung cancer. Acta Oncol . 2016;55(5):591-597. doi:10.3109/0284186X.2015.1092584
+
+13. Jeremic B, Shibamoto Y, Nikolic N, et al. Role of radiation therapy in the combined-modality treatment of patients with extensive disease small-cell lung cancer: A randomized study. J Clin Oncol . 1999;17(7):2092-2099. doi:10.1200/JCO.1999.17.7.2092
+
+14. Kong FM, Wang S. Nondosimetric risk factors for radiation-induced lung toxicity. Semin Radiat Oncol . 2015;25(2):100-109. doi:10.1016/j.semradonc.2014.12.003
+
+15. Le Péchoux C, Hatton M, Kobierska A, et al. Randomized trial of standard dose to a higher dose prophylactic cranial irradiation (PCI) in limited-stage small cell cancer (SCLC) complete responders (CR): Primary endpoint analysis (PCI99-01, IFCT 99-01, EORTC 22003-08004, RTOG 0212). J Clin Oncol . 2008;26(Suppl 15):LBA7514. doi:10.1200/jco.2008.26.15\_suppl.Iba7514
+
+16. Le Péchoux C, Laplanche A, Faivre-Finn C, et al. Clinical neurological outcome and quality of life among patients with limited small-cell cancer treated with two different doses of prophylactic cranial irradiation in the intergroup phase III trial (PCI99-01, EORTC 22003-08004, RTOG 0212 and IFCT 99-01). Ann Oncol . 2011;22(5):1154-1163. doi:10.1093/annonc/mdq576
+
+17. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - November 21, 2023. Small Cell Lung Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/sclc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Small Cell Lung Cancer Version 2.2024. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+18. Pignon JP, Arriagada R, Ihde DC, et al. A meta-analysis of thoracic radiotherapy for small-cell lung cancer. N Engl J Med . 1992;327(23):1618-1624. doi:10.1056/NEJM199212033272302
+
+19. Rimner A, Wu AJ, Grills IS. What Is the Impact of Hippocampus Avoidance-Prophylactic Cranial Irradiation on Neurocognitive Preservation?. J Thorac Oncol . 2021;16(5):722-724. doi:10.1016/j.jtho.2021.02.026
+
+20. Rodrigues G, Videtic GM, Sur R, et al. Palliative thoracic radiotherapy in lung cancer: An American Society for Radiation Oncology evidence-based clinical practice guideline. Pract Radiat Oncol . 2011;1(2):60-71. doi:10.1016/j.prro.2011.01.005
+
+21. Rodríguez de Dios N, Couñago F, Murcia-Mejía M, et al. Randomized Phase III Trial of Prophylactic Cranial Irradiation With or Without Hippocampal Avoidance for Small-Cell Lung Cancer (PREMER): A GICOR-GOECPSEOR Study. J Clin Oncol . 2021;39(28):3118-3127. doi:10.1200/JCO.21.00639
+
+22. Shioyama Y, Onishi H, Takayama K, et al. Stereotactic Body Radiation Therapy for Stage I Small Cell Lung Cancer: Clinical Outcomes in a Japanese Multi-institutional Retrospective Study. Int J Radiat Oncol Biol Phys . 2013;87(2)(Suppl):S522. doi:10.1016/j.ijrobp.2013.06.1381
+
+23. Shioyama Y, Nagata Y, Komiyama T, et al. Multi-institutional Retrospective Study of Stereotactic Body Radiation Therapy for Stage I Small Cell Lung Cancer: Japan Radiation Oncology Study Group (JROSG). Int J Radiat Oncol Biol Phys . 2015;93(3)(Suppl):S101. doi:10.1016/j.ijrobp.2015.07.243
+
+24. Simpson JR, Francis ME, Perez-Tamayo R, Marks RD, Rao DV. Palliative radiotherapy for inoperable carcinoma of the lung: final report of a RTOG multi-institutional trial. Int J Radiat Oncol Biol Phys . 1985;11(4): 751-758. doi:10.1016/0360-3016(85)90307-4
+
+25. Slotman B, Faivre-Finn C, Kramer G, et al. Prophylactic cranial irradiation in extensive small-cell lung cancer. N Engl J Med . 2007;357(7):664-672. doi:10.1056/NEJMoa071780
+
+26. Slotman BJ, Mauer ME, Bottomley A, et al. Prophylactic cranial irradiation in extensive disease small-cell lung cancer: short-term health-related quality of life and patient reported symptoms: results of an international Phase III randomized controlled trial by the EORTC Radiation Oncology and Lung Cancer Groups [published correction appears in J Clin Oncol. 2009 Feb 20;27(6):1002]. J Clin Oncol . 2009;27(1):78-84. doi:10.1200/ JCO.2008.17.0746
+
+27. Slotman BJ, van Tinteren H, Praag JO, et al. Use of thoracic radiotherapy for extensive stage small-cell lung cancer: a phase 3 randomised controlled trial [published correction appears in Lancet. 2015 Jan 3;385(9962):28]. Lancet . 2015;385(9962):36-42. doi:10.1016/S0140-6736(14)61085-0
+
+28. Slotman BJ, Faivre-Finn C, van Tinteren H, et al. Which patients with ES-SCLC are most likely to benefit from more aggressive radiotherapy: A secondary analysis of the Phase III CREST trial. Lung Cancer . 2017;108:150-153. doi:10.1016/j.lungcan.2017.03.007
+
+29. Stahl JM, Corso CD, Verma V, et al. Trends in stereotactic body radiation therapy for stage I small cell lung cancer. Lung Cancer . 2017;103:11-16. doi:10.1016/j.lungcan.2016.11.009
+
+30. Takahashi T, Yamanaka T, Seto T, et al. Prophylactic cranial irradiation versus observation in patients with extensive-disease small-cell lung cancer: a multicentre, randomised, open-label, phase 3 trial. Lancet Oncol . 2017;18(5):663-671. doi:10.1016/S1470-2045(17)30230-9
+
+31. Turgeon GA, Souhami L, Kopek N, Hirsh V, Ofiara L, Faria SL. Thoracic irradiation in 3 weeks for limitedstage small cell lung cancer: Is twice a day fractionation really needed?. Cancer Radiother . 2017;21(2):89-98. doi:10.1016/j.canrad.2016.09.015
+
+32. Turrisi AT 3rd, Kim K, Blum R, et al. Twice-daily compared to once-daily thoracic radiotherapy in limited smallcell lung cancer treated concurrently with cisplatin and etoposide. N Engl J Med . 1999;340(4): 265-271. doi:10.1056/NEJM199901283400403
+
+33. Verma V, Simone CB 2nd, Allen PK, et al. Multi-Institutional Experience of Stereotactic Ablative Radiation Therapy for Stage I Small Cell Lung Cancer. Int J Radiat Oncol Biol Phys . 2017;97(2):362-371. doi:10.1016/ j.ijrobp.2016.10.041
+
+34. Verma V, Hasan S, Wegner RE, Abel S, Colonias A. Stereotactic ablative radiation therapy versus conventionally fractionated radiation therapy for stage I small cell lung cancer. Radiother Oncol . 2019;131:145-149. doi:10.1016/j.radonc.2018.12.006
+
+35. Videtic GM, Stephans KL, Woody NM, et al. Stereotactic body radiation therapy-based treatment model for stage I medically inoperable small cell lung cancer. Pract Radiat Oncol . 2013;3(4):301-306. doi:10.1016/ j.prro.2012.10.003
+
+36. Warde P, Payne D. Does thoracic irradiation improve survival and local control in limited-stage small-cell carcinoma of the lung? A meta-analysis. J Clin Oncol . 1992;10(6):890-895. doi:10.1200/JCO.1992.10.6.890
+
+POLICY
+
+- I. Extremity, trunk and head and neck sarcoma
+
+- A. In individuals with stage I tumors
+
+1. Who undergo complete surgical resection with negative margins, radiation is considered not medically necessary.
+
+2. For stage IB tumors with positive margins, postoperative radiation to a dose of 60-66 Gy in 30-33 fractions using 3DCRT is considered medically necessary.
+
+- B. In individuals with stage II-III and non-metastatic stage IV tumors
+
+1. 3DCRT to a dose of 50 Gy in 25-28 fractions is considered medically necessary in the preoperative setting.
+
+2. 3DCRT to a dose of 60 to 66 Gy in 30-33 fractions is considered medically necessary in the postoperative setting with negative margins.
+
+3. 3DCRT to a dose of 66 Gy in 33 fractions is considered medically necessary in the postoperative setting with microscopic positive margins.
+
+4. 3DCRT or IMRT to a dose of 70-76 Gy in 35-38 fractions is considered medically necessary in the postoperative setting with gross residual disease.
+
+5. 3DCRT or IMRT to a dose of 70-80 Gy in 35-44 fractions is considered medically necessary for tumors that are unresectable.
+
+- C. For extremity sarcomas located within the proximal lower extremity (ie, thigh, groin), IMRT is considered medically necessary.
+
+- D. In individuals with oligometastatic stage IV tumors, treatment to the primary in accordance with the above is considered medically necessary when definitive treatment to the metastatic lesions is also planned.
+
+- II. Retroperitoneal sarcoma (RPS)
+
+- A. 3DCRT and IMRT up to a dose of 50 Gy in 25 fractions or 50.4 Gy in 28 fractions is considered medically necessary in the preoperative setting.
+
+Brachytherapy
+
+The use of LDR (low-dose rate) as monotherapy or as a boost is considered medically necessary in the curative treatment of soft tissue sarcomas (STS).
+
+HDR (high-dose rate) can be used as monotherapy or as a boost in the curative treatment of STS.
+
+- A. When used as monotherapy, 8-14 total treatments delivered twice daily is considered medically necessary.
+
+### Soft Tissue Sarcomas
+
+RO.TXS.134.A
+
+v2.0.2024
+
+- B. When used as a boost, 4-6 total treatments delivered twice daily is considered medically necessary.
+
+SBRT
+
+Up to 5 fractions of SBRT is considered medically necessary in the treatment of recurrent sarcoma located within a previously irradiated area.
+
+Palliation
+
+3DCRT up to 15 fractions is considered medically necessary in the palliative setting.
+
+IORT (intraoperative radiation therapy)
+
+IORT in the treatment of sarcomas is useful in certain scenarios particularly when positive margins and/or residual disease is anticipated. However, as IORT for STS is generally conducted as an in-patient, prior authorization is out of scope.
+
+#### DISCUSSION
+
+Approximately two-thirds of adult STS occur in the extremity with the remaining cases often arising in the retroperitoneum or head and neck region.
+
+Extremity
+
+For patients with stage I low-grade tumor STS who undergo complete surgical resection, radiation is not recommended. In the setting of close or positive margins and when reresection is not feasible, postoperative radiation may be given.
+
+For high-grade STS, radiation has been shown to improve local control and, in 1 large retrospective analysis, overall survival (Koshy). Preoperative and postoperative doses of radiation are typically 50 Gy with a postoperative boost indicated for close or positive margins or gross residual disease.
+
+When radiation is indicated, preoperative or postoperative radiation can be utilized. Each has its particular benefits and risks. For example, preoperative radiation is associated with higher rates of acute toxicity which is generally self-limiting. Preoperative radiation is also associated with lower incidence of late toxicity (ie, fibrosis, edema, diminished range of motion). Thus, the use of preoperative radiation is preferred as outlined in the NCCN guidelines and the ASTRO Clinical Practice Guideline.
+
+There is limited data on the role of IMRT in the treatment of extremity sarcomas. Folkert reported on 319 patients with extremity STS treated with IMRT or 3DCRT. The authors reported a lower risk of local recurrence with IMRT. As the dose delivered to PTV was the same irrespective of techniques, it is not clear what drove the lower recurrence rates. One consideration provided was that IMRT provided homogeneous coverage including adequate coverage of the periphery. Nonetheless, the authors stated that this reduction "should only be considered an association, rather than proof of its superiority." Interestingly, the authors also found a 50% reduction in the risk of fractures with IMRT.
+
+The reduction in risk of femoral fractures was again reported by Folkert et al in a comparison to predicted risk from a nomogram. In this study, 6.5% of 92 patients treated with IMRT (14% preoperative and 86% postoperative) experienced femoral fractures. This compares to a predicted 25.6% as calculated from predictive nomogram.
+
+Casey et al reported a less than 2% risk of femoral fractures after IMRT for STS of the thigh and groin when specific dose constraints were adhered to. These included bone V40 &lt; 64%, maximum dose to the femur of &lt; 59 Gy, and mean dose of &lt; 37 Gy.
+
+The ASTRO clinical practice guideline for treatment of STS in adults states that "for patients with primary, localized extremity and truncal STS, IMRT, including VMAT, is recommended to minimize dose to OARs and reduce toxicity." Further, "3-D CRT may be preferred in certain clinical scenarios to better spare OARs or reduce integral dose." In their discussion, the authors state that "while use of IMRT has not consistently been shown to significantly reduce acute wound complications for patients receiving preoperative RT, it does reduce the risk of long-term toxicities." This latter point, however, is supported by a single publication, the Folkert study discussed above. Specifically, the authors state that IMRT "results in a lower than expected risk of femoral fracture." Given the data and ASTRO position, IMRT is considered medically necessary for STS located in the weight-bearing proximal extremity. For the distal extremity, 3DCRT will remain medically necessary as the authors indicate that this location "may be well-suited to a 3-D CRT technique due to advantages of using the block edge for maximal dose avoidance."
+
+Retroperitoneal sarcoma (RPS)
+
+Surgery remains the primary treatment for RPS with radiation reserved for patients felt to be at a high risk for local recurrence. When indicated, radiation is recommended to be delivered preoperatively to a dose of 50 Gy or 50.4 Gy. NCCN guidelines further state that "IMRT would be preferred to optimize sparing of nearby critical structures." In patients having undergone surgery, NCCN discourages the routine use of adjuvant radiation "with the exception of highly selected patients and unless local recurrence would cause undue morbidity." In such cases of known or suspective positive margins, intra-operative radiation should instead be considered at the time of surgery.
+
+#### References
+
+1. Al Yami A, Griffin AM, Ferguson PC, et al. Positive surgical margins in soft tissue sarcoma treated with preoperative radiation: is a postoperative boost necessary?. Int J Radiat Oncol Biol Phys . 2010;77(4):1191-1197. doi:10.1016/j.ijrobp.2009.06.074
+
+2. Alektiar KM, Brennan MF, Healey JH, Singer S. Impact of intensity-modulated radiation therapy on local control in primary soft-tissue sarcoma of the extremity. J Clin Oncol . 2008;26(20):3440-3444. doi:10.1200/ JCO.2008.16.6249
+
+3. Amin MB. Brookland RK, Byrd DR, et al. Soft Tissue Sarcoma. In: Amin MB, Edge SB, Greene FL, et al, eds. AJCC Cancer Staging Manual . 8th ed. Springer International Publishing; 2017:489-548.
+
+4. Baldini EH. Soft Tissue Sarcoma (Excluding Retroperitoneum). In: Halperin EC, Wazer DE, Perez CA, Brady LW, eds. Perez and Brady's Principles and Practice of Radiation Oncology . 6th ed. Lippincott Williams &amp; Wilkins; 2013:1617-1631.
+
+5. Campbell SR, Shah C, Scott JG, et al. American Brachytherapy Society (ABS) consensus statement for softtissue sarcoma brachytherapy. Brachytherapy . 2021;20(6):1200-1218. doi:10.1016/j.brachy.2021.05.011
+
+6. Casey DL, Berry SL, Crago A, Fabbri N, Singer S, Alektiar KM. Femoral Fracture in Primary Soft Tissue Sarcoma Treated with Intensity-Modulated Radiation Therapy With and Without Dose Constraints. Ann Surg Oncol . 2021;28(5):2700-2704. doi:10.1245/s10434-020-09213-y
+
+7. Catton C, Davis A, Bell R, et al. Soft tissue sarcoma of the extremity. Limb salvage after failure of combined conservative therapy. Radiother Oncol . 1996;41(3):209-214. doi:10.1016/s0167-8140(96)01856-7
+
+8. Chung CS, Trofimov A, Adams J, et al. A comparison of 3D conformal radiation therapy, intensity modulated proton therapy, and intensity modulated photon therapy for retroperitoneal sarcomas. Int J Radiat Oncol Biol Phys . 2006;66(3S):S116. Abstract 207.
+
+9. Folkert MR, Casey DL, Berry SL, et al. Femoral Fracture in Primary Soft-Tissue Sarcoma of the Thigh and Groin Treated with Intensity-Modulated Radiation Therapy: Observed versus Expected Risk. Ann Surg Oncol . 2019;26(5):1326-1331. doi:10.1245/s10434-019-07182-5
+
+10. Folkert MR, Singer S, Brennan MF, et al. Comparison of local recurrence with conventional and intensity-modulated radiation therapy for primary soft-tissue sarcomas of the extremity. J Clin Oncol . 2014;32(29):3236-3241. doi:10.1200/JCO.2013.53.9452
+
+11. Haas RL, Delaney TF, O'Sullivan B, et al. Radiotherapy for management of extremity soft tissue sarcomas: why, when, and where?. Int J Radiat Oncol Biol Phys . 2012;84(3):572-580. doi:10.1016/j.ijrobp.2012.01.062
+
+12. Koshy M, Rich SE, Mohiuddin MM. Improved survival with radiation therapy in high-grade soft tissue sarcomas of the extremities: a SEER analysis. Int J Radiat Oncol Biol Phys . 2010;77(1):203-209. doi:10.1016/ j.ijrobp.2009.04.051
+
+13. Kraybill WG, Harris J, Spiro IJ, et al. Phase II study of neoadjuvant chemotherapy and radiation therapy in the management of high-risk, high-grade, soft tissue sarcomas of the extremities and body wall: Radiation Therapy Oncology Group Trial 9514. J Clin Oncol . 2006;24(4):619-625. doi:10.1200/JCO.2005.02.5577
+
+14. Marks LB, Yorke ED, Jackson A, et al. Use of normal tissue complication probability models in the clinic. Int J Radiat Oncol Biol Phys . 2010;76(3Suppl):S10-S19. doi:10.1016/j.ijrobp.2009.07.1754
+
+15. Musat E, Kantor G, Caron J, et al. Etude théorique d'une radiothérapie postopératoire avec modulation d'intensité d'un sarcome rétropéritonéal [Comparison of intensity-modulated postoperative radiotherapy with conventional postoperative conformal radiotherapy for retroperitoneal sarcoma]. Cancer Radiother . 2004;8(4):255-261. doi:10.1016/j.canrad.2004.05.001
+
+16. Nag S, Shasha D, Janjan N, Petersen I, Zaider M; American Brachytherapy Society. The American Brachytherapy Society recommendations for brachytherapy of soft tissue sarcomas. Int J Radiat Oncol Biol Phys . 2001;49(4):1033-1041. doi:10.1016/s0360-3016(00)01534-0
+
+17. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - April 26, 2024. Soft Tissue Sarcoma. https://www.nccn.org/professionals/physician\_gls/pdf/sarcoma.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Soft Tissue Sarcoma Version 1.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+18. Naghavi AO, Fernandez DC, Mesko N, et al. American Brachytherapy Society consensus statement for soft tissue sarcoma brachytherapy. Brachytherapy . 2017;16(3):466-489. doi:10.1016/j.brachy.2017.02.004
+
+19. Salerno KE, Alektiar KM, Baldini EH, et al. Radiation Therapy for Treatment of Soft Tissue Sarcoma in Adults: An ASTRO Clinical Practice Guideline. Pract Radiat Oncol . 2021:1-53.
+
+20. Salerno KE, Alektiar KM, Baldini EH, et al. Radiation Therapy for Treatment of Soft Tissue Sarcoma in Adults: Executive Summary of an ASTRO Clinical Practice Guideline. Pract Radiat Oncol . 2021;11(5):339-351. doi:10.1016/j.prro.2021.04.005
+
+21. Torres MA, Ballo MT, Butler CE, et al. Management of locally recurrent soft-tissue sarcoma after prior surgery and radiation therapy. Int J Radiat Oncol Biol Phys . 2007;67(4):1124-1129. doi:10.1016/j.ijrobp.2006.10.036
+
+22. von Mehren M, Randall RL, Benjamin RS, et al. Soft tissue sarcoma, version 2.2014. J Natl Compr Canc Netw . 2014;12(4):473-483. doi:10.6004/jnccn.2014.0053
+
+POLICY
+
+External beam photon radiation therapy is considered medically necessary for the following:
+
+- I. Stage IA, IB, IIA, and IIB testicular seminoma
+
+Fractionation
+
+- I. For seminoma stages IA-IB in the adjuvant setting, regimens of 20 Gy in 10 fractions or 25.5 Gy in 17 fractions are considered medically necessary.
+
+- II. For seminoma stages IIA-IIB in the adjuvant setting, up to 18 fractions are considered medically necessary.
+
+Technique
+
+- I. External beam photon radiation therapy with three-dimensional conformal radiation therapy (3DCRT) is considered medically necessary in the treatment of seminoma.
+
+In stages IA-IB, the treatment prescription is to the para-aortic nodes to a dose of 20 Gy in 10 fractions delivered with an anteroposterior-posteroanterior (AP-PA) field arrangement.
+
+In stages IIA-IIB, the initial treatment prescription is to a modified dog-leg field to 20 Gy in 10 fractions followed by a boost of 10 to 16 Gy in 5 to 8 fractions with an AP-PA field arrangement, in 2 phases.
+
+### Testicular Cancer
+
+#### DISCUSSION
+
+In an individual with stage I seminoma, radical orchiectomy serves as the initial treatment for testicular malignancies (Groll et al, 2007). Following orchiectomy, the management of the individual is dependent on the histologic type and whether residual disease is present.
+
+Treatment options for those who have a pure seminoma with no sign of residual disease (stage I) include active surveillance, radiation therapy to the paraaortic lymph nodes or single agent carboplatin (Bernard et al, 2015). Cure rates with orchiectomy alone approach 85% (Mortensen et al, 2014). Furthermore, salvage therapies for seminoma are very effective and administered with curative intent. Therefore, active surveillance is the recommended treatment option in an
+
+- I. Seminoma
+
+RO.TXS.135.A
+
+v2.0.2024
+
+individual with stage I seminoma because it avoids unnecessary treatment and the treatment-related side effects that are associated with radiation and chemotherapy (Kollmannsberger et al, 2015).
+
+For an individual who refuses active surveillance, chemotherapy or radiation therapy is a treatment option. A phase III trial studied both treatment approaches in 1477 patients with stage I seminoma and found similar relapse free rates with 1 cycle of carboplatin vs. radiation (94.7% vs. 96%, respectively) (Oliver et al, 2011). Radiation therapy may be associated with worse long term complications including an increased risk of secondary malignancies and increased risk for cardiovascular disease. In an individual who refuses active surveillance and chemotherapy, radiation can be administered to a dose of 20 Gy to the para-aortic lymph nodes (Jones et al, 2005).
+
+For an individual with stage II seminoma, radiation therapy can be effective in the treatment of stage IIA and non-bulky IIB disease (nodes &lt; 3 cm) (Classen et al, 2003). Chemotherapy is recommended for an individual with bulky nodal disease. Studies in patients with IIA and non-bulky IIB seminoma show 5-year disease free results of greater than 90%. Treatment with radiation consists of 20 Gy in 10 fractions to the para-aortic and superior ipsilateral pelvis followed by a boost of 10 to 16 Gy in 5 to 8 fractions to the involved nodal areas, in 2 phases (Schmoll et al, 2004).
+
+An individual receiving radiation therapy for seminoma should be treated with a scrotal shield and with an AP-PA technique to limit the dose to the kidneys, liver and small bowel. Intensity-modulated radiation therapy is not medically necessary because it increases the amount of tissue receiving a low dose of radiation which may increase the risk of second cancers relative to an AP-PA beam arrangement.
+
+- II. Nonseminoma
+
+Nonseminomatous germ cell tumors are primarily managed with surgery and chemotherapy (Kollmannsberger et al, 2010). Men at low risk of relapse can be managed with an orchiectomy alone. Those with a higher risk of relapse are managed with chemotherapy. In general, there is no established role for the routine use of radiation therapy in the management of nonseminomatous germ cell tumors.
+
+#### References
+
+1. Bernard B, Sweeney CJ. Diagnosis and Treatment of Testicular Cancer: A Clinician's Perspective. Surg Pathol Clin . 2015;8(4):717-723. doi:10.1016/j.path.2015.07.006
+
+2. Classen J, Schmidberger H, Meisner C, et al. Radiotherapy for stages IIA/B testicular seminoma: final report of a prospective multicenter clinical trial. J Clin Oncol . 2003;21(6):1101-1106. doi:10.1200/JCO.2003.06.065
+
+3. Groll RJ, Warde P, Jewett MA. A comprehensive systematic review of testicular germ cell tumor surveillance. Crit Rev Oncol Hematol . 2007;64(3):182-197. doi:10.1016/j.critrevonc.2007.04.014
+
+4. Jones WG, Fossa SD, Mead GM, et al. Randomized trial of 30 versus 20 Gy in the adjuvant treatment of stage I Testicular Seminoma: a report on Medical Research Council Trial TE18, European Organisation for the Research and Treatment of Cancer Trial 30942 (ISRCTN18525328). J Clin Oncol . 2005;23(6):1200-1208. doi:10.1200/JCO.2005.08.003
+
+5. Kollmannsberger C, Moore C, Chi KN, et al. Non-risk-adapted surveillance for patients with stage I nonseminomatous testicular germ-cell tumors: diminishing treatment-related morbidity while maintaining efficacy. Ann Oncol . 2010;21(6):1296-1301. doi:10.1093/annonc/mdp473
+
+6. Kollmannsberger C, Tandstad T, Bedard PL, et al. Patterns of relapse in patients with clinical stage I testicular cancer managed with active surveillance. J Clin Oncol . 2015;33(1):51-57. doi:10.1200/JCO.2014.56.2116
+
+7. Mortensen MS, Lauritsen J, Gundgaard MG, et al. A nationwide cohort study of stage I seminoma patients followed on a surveillance program. Eur Urol . 2014;66(6):1172-1178. doi:10.1016/j.eururo.2014.07.001
+
+8. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - March 15, 2024 Testicular Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/testicular.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Testicular Cancer Version 1.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+9. Oliver RT, Mead GM, Rustin GJ, et al. Randomized trial of carboplatin versus radiotherapy for stage I seminoma: mature results on relapse and contralateral testis cancer rates in MRC TE19/EORTC 30982 study (ISRCTN27163214). J Clin Oncol . 2011;29(8):957-962. doi:10.1200/JCO.2009.26.4655
+
+10. Schmoll HJ, Souchon R, Krege S, et al. European consensus on diagnosis and treatment of germ cell cancer: a report of the European Germ Cell Cancer Consensus Group (EGCCCG). Ann Oncol . 2004;15(9):1377-1399. doi:10.1093/annonc/mdh301
+
+POLICY
+
+External beam photon radiation therapy is considered medically necessary:
+
+- I. In the postoperative treatment of
+
+- A. Stage IIB-IVA thymoma and thymic carcinoma with negative surgical margins to a dose of 45 to 50 Gy using 25-28 fractions of 3D conformal radiation therapy (3DCRT) or intensity-modulated radiation therapy (IMRT)
+
+- B. Stage I-IVA thymoma and thymic carcinoma with microscopic positive surgical margins to a dose of 54 Gy using 30 fractions of 3DCRT or IMRT
+
+- C. Stage I-IVA thymoma and thymic carcinoma with macroscopic positive surgical margins or gross residual disease to a dose of 60-70 Gy using 30-35 fractions of 3DCRT or IMRT
+
+- II. In the definitive treatment of unresectable disease to a dose of 60-70 Gy using 30-35 fractions of 3DCRT or IMRT
+
+- III. In the definitive treatment of an isolated local recurrence without distant metastatic disease to a dose of 60-70 Gy using 30-35 fractions of 3DCRT or IMRT
+
+- IV. For palliation using up to 15 fractions of 3DCRT
+
+- V. The use of IMRT for the treatment of thymoma and thymic carcinoma is considered medically necessary for EITHER of the following:
+
+- A. Treatment which overlaps with a previously irradiated area
+
+- B. An optimized 3D conformal plan exceeds the tolerances for organs at risk (OARs) as outlined by either QUANTEC or National Comprehensive Cancer Network (NCCN ® ) Guidelines ®
+
+- *Note staging is using Masaoka-Koga staging system
+
+### Thymoma and Thymic Cancer
+
+#### DISCUSSION
+
+For individuals with thymic malignancies, surgery with total thymectomy with en bloc removal of contiguous and noncontiguous disease is the treatment of choice. The use of radiation therapy following surgical resection is guided by the stage and degree of resection. The radiation treatment volume includes the tumor or the tumor bed plus a margin (Komaki and Gomez, 2013). As the rate of lymph node involvement is low, elective nodal irradiation is not routinely utilized (Komaki and Gomez, 2013).
+
+RO.TXS.136.A v2.0.2024
+
+Postoperative radiation
+
+For individuals with stage I disease who undergo a complete resection, adjuvant radiation therapy is not recommended (Komaki and Gomez, 2013; Zhang et al, 1999). A randomized trial evaluating the use of postoperative radiation therapy in patients with stage I thymoma found no significant difference in survival for those who received surgery alone versus surgery and radiation therapy (Zhang et al, 1999). The 10 year survival rate with surgery alone was &gt; 90% (Zhang et al, 1999).
+
+The role of postoperative radiation therapy in the management of thymoma is controversial. There are studies indicating a benefit to postoperative radiation therapy while other studies have not shown a clear advantage.
+
+In an analysis of 2001 patients from the National Cancer Database, Jackson and colleagues (2017) found that postoperative radiation therapy was associated with improved overall survival in patients with Masaoka-Koga stage IIB thymoma, stage III thymoma, and in the setting of positive margins.
+
+A Surveillance, Epidemiology, and End Results Program (SEER) analysis of 1334 patients with thymic malignancies found adjuvant radiation therapy did not improve overall survival (OS) for patients with stage I or IIA disease, but was associated with increased survival for those with stage III or IV disease. Those with stage IIB exhibited a non-significant trend towards improved OS ( p = 0.09). (Fernandes et al, 2010).
+
+In an analysis of 1263 stage II and III thymoma patients from the International Thymic Malignancy Interest Group (ITMIG) database who underwent complete resection, postoperative radiation therapy was associated with improved 10-year overall survival compared with surgery alone (86% vs. 79%, p = 0.002) (Rimner et al, 2016).
+
+A retrospective review of 146 patients with stage I-IVA thymic carcinoma or stage III or IV thymoma found that patients with stage III disease had improved OS with radiation therapy combined with surgical resection and chemotherapy compared to single modality therapy (Modh et al, 2016).
+
+Tateishe et al conducted a meta-analysis to determine the role of postoperative radiation therapy (PORT) in stage II and III thymomas. Of 4746 patients, 2408 patients received PORT which was associated with a significantly better overall survival (primary endpoint), though disease-free survival (secondary endpoint) was not improved.
+
+Preoperative therapy
+
+In the setting of locally advanced disease, preoperative therapy can be considered for the purposes of downstaging to allow for resection. Such therapy typically consists of chemotherapy with radiation reserved as postoperative treatment as recommended by NCCN.
+
+Unresectable disease
+
+Concurrent chemotherapy and radiation remains the primary treatment approach for locally advanced disease that is deemed unresectable or inoperable.
+
+For example, Loehrer et al (1997) reported on a prospective study of 23 patients with unresectable thymoma or thymic carcinoma. Median survival was 93 months with a 5-year survival of 52.5%. The authors concluded that "combined-modality therapy is feasible and associated with prolonged progressive-free survival" and that "…combinedmodality therapy over radiation alone is suggested for patients with unresectable thymoma."
+
+Wang and colleagues (2016) conducted a retrospective review of 42 patients with thymoma with unresectable stage III or stage IV (limited to an adjacent pleural implant or lymph node) disease. The median dose of radiation was 60 Gy (34 to 70 Gy). This study found combined chemoradiation therapy resulted in a higher overall response rate (ORR) (87.5% vs. 43.8%, p = 0.009) and an increased 5 year OS (61.9% vs. 30%, p = 0.01) compared to radiation therapy alone.
+
+#### References
+
+1. Ahmad U, Yao X, Detterbeck F, et al. Thymic carcinoma outcomes and prognosis: results of an international analysis [published correction appears in J Thorac Cardiovasc Surg. 2016 Apr;151(4):1220]. J Thorac Cardiovasc Surg . 2015;149(1):95-101.e1012. doi:10.1016/j.jtcvs.2014.09.124
+
+2. American Society for Radiation Oncology (ASTRO) Intensity Modulated Radiation Therapy (IMRT) Model Policy. 2019. https://www.astro.org/ASTRO/media/ASTRO/Daily%20Practice/PDFs/IMRTMP.pdf
+
+3. Detterbeck FC, Nicholson AG, Kondo K, Van Schil P, Moran C. The Masaoka-Koga stage classification for thymic malignancies: clarification and definition of terms. J Thorac Oncol . 2011;6(7 Suppl 3):S1710-S1716. doi:10.1097/JTO.0b013e31821e8cff
+
+4. Falkson CB. Postoperative Radiation for Completely Resected Stage II/III Thymoma: What Do We Know in 2021?. J Thorac Oncol . 2021;16(4):515. doi:10.1016/j.jtho.2021.02.015
+
+5. Fan C, Feng Q, Chen Y, et al. Postoperative radiotherapy for completely resected Masaoka stage III thymoma: a retrospective study of 65 cases from a single institution. Radiat Oncol . 2013;8:199. Published 2013 Aug 13. doi:10.1186/1748-717X-8-199
+
+6. Fernandes AT, Shinohara ET, Guo M, et al. The role of radiation therapy in malignant thymoma: a Surveillance, Epidemiology, and End Results database analysis. J Thorac Oncol . 2010;5(9):1454-1460. doi:10.1097/ JTO.0b013e3181e8f345
+
+7. Jackson MW, Palma DA, Camidge DR, et al. The Impact of Postoperative Radiotherapy for Thymoma and Thymic Carcinoma. J Thorac Oncol . 2017;12(4):734-744. doi:10.1016/j.jtho.2017.01.002
+
+8. Komaki R, Gomez DR. Radiotherapy for thymic carcinoma: adjuvant, inductive, and definitive. Front Oncol . 2014;3:330. Published 2014 Jan 10. doi:10.3389/fonc.2013.00330
+
+9. Korst RJ, Bezjak A, Blackmon S, et al. Neoadjuvant chemoradiotherapy for locally advanced thymic tumors: a phase II, multi-institutional clinical trial. J Thorac Cardiovasc Surg . 2014;147(1):36-46.e1. doi:10.1016/ j.jtcvs.2013.08.061
+
+10. Kundel Y, Yellin A, Popovtzer A, et al. Adjuvant radiotherapy for thymic epithelial tumor: treatment results and prognostic factors. Am J Clin Oncol . 2007;30(4):389-394. doi:10.1097/COC.0b013e318042d566
+
+11. Loehrer PJ Sr, Chen M, Kim K, et al. Cisplatin, doxorubicin, and cyclophosphamide plus thoracic radiation therapy for limited-stage unresectable thymoma: an intergroup trial. J Clin Oncol . 1997;15(9):3093-3099. doi:10.1200/JCO.1997.15.9.3093
+
+12. Modh A, Rimner A, Allen PK, et al. Treatment Modalities and Outcomes in Patients With Advanced Invasive Thymoma or Thymic Carcinoma: A Retrospective Multicenter Study. Am J Clin Oncol . 2016;39(2):120-125. doi:10.1097/COC.0000000000000024
+
+13. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024- November 21, 2023. Thymomas and Thymic Carcinomas. https://www.nccn.org/professionals/physician\_gls/pdf/thymic.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Thymomas and Thymic Carcinomas Version 1.2024. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+14. Rimner A, Yao X, Huang J, et al. Postoperative Radiation Therapy Is Associated with Longer Overall Survival in Completely Resected Stage II and III Thymoma-An Analysis of the International Thymic Malignancies Interest Group Retrospective Database. J Thorac Oncol . 2016;11(10):1785-1792. doi:10.1016/j.jtho.2016.06.011
+
+15. Ruffini E, Mancuso M, Oliaro A, et al. Recurrence of thymoma: analysis of clinicopathologic features, treatment, and outcome. J Thorac Cardiovasc Surg . 1997;113(1):55-63. doi:10.1016/S0022-5223(97)70399-4
+
+16. Tateishi Y, Horita N, Namkoong H, Enomoto T, Takeda A, Kaneko T. Postoperative Radiotherapy for Completely Resected Masaoka/Masaoka-Koga Stage II/III Thymoma Improves Overall Survival: An Updated Meta-Analysis of 4746 Patients. J Thorac Oncol . 2021;16(4):677-685. doi:10.1016/j.jtho.2020.12.023
+
+17. Wang CL, Gao LT, Lv CX, Zhu L, Fang WT. Outcome of nonsurgical treatment for locally advanced thymic tumors. J Thorac Dis . 2016;8(4):705-710. doi:10.21037/jtd.2016.01.79
+
+18. Willmann J, Rimner A. The expanding role of radiation therapy for thymic malignancies. J Thorac Dis . 2018;10(Suppl 21):S2555-S2564. doi:10.21037/jtd.2018.01.154
+
+19. Zhang H, Lu N, Wang M, Gu X, Zhang D. Postoperative radiotherapy for stage I thymoma: a prospective randomized trial in 29 cases. Chin Med J (Engl) . 1999;112(2):136-138.
+
+20. Zhu G, He S, Fu X, Jiang G, Liu T. Radiotherapy and prognostic factors for thymoma: a retrospective study of 175 patients. Int J Radiat Oncol Biol Phys . 2004;60(4):1113-1119. doi:10.1016/j.ijrobp.2004.05.013
+
+POLICY
+
+Urethral cancer
+
+- I. In the postoperative setting, the following fractions using 3DCRT or IMRT are considered medically necessary:
+
+- A. 33-39 fractions for individuals with gross residual disease
+
+- B. 30-33 fractions for individuals with positive margins and/or extranodal extension
+
+- C. 25-28 fractions all others
+
+- II. For curative treatment of inoperable T2-T4 or node-positive disease, 33-39 fractions of 3DCRT or IMRT is considered medically necessary.
+
+- III. Up to 15 fractions of 3DCRT is considered medically necessary for palliation.
+
+Cancers of the ureter and renal pelvis
+
+- I. 25-33 fractions of 3DCRT is considered medically necessary for the postoperative treatment of T3-T4 disease, positive lymph nodes, or positive surgical margins.
+
+- II. Up to 15 fractions of 3DCRT is considered medically necessary for palliation.
+
+### Urethral Cancer and Cancers of the Ureter and Renal Pelvis
+
+#### DISCUSSION
+
+Treatment for urethral cancer is dependent on gender, tumor location, and tumor size (Dayyani, 2014). In males, surgical options include a distal urethrectomy, partial penectomy, or a urethrectomy with a cystoprostatectomy. In females, surgical options include a urethrectomy with or without a cystectomy.
+
+Adjuvant radiation can be delivered for an individual with a high risk of recurrence including one with positive nodes, positive margins or T3-T4 disease.
+
+In an individual who refuses surgery or one with advanced disease, concurrent chemoradiation can be used (Gakis, 2013; Grivas, 2012). Often the draining lymphatics will include the pelvic and inguinal lymph nodes, and appropriate techniques include 3DCRT or IMRT. Brachytherapy can also be utilized and will be considered on a caseby-case basis.
+
+Although the literature is relatively scant on the use of radiation therapy for the treatment of upper genitourinary tract tumors, there are some studies that suggest a survival advantage in an individual with T3-T4 disease of the renal pelvis or ureter receiving
+
+RO.TXS.137.A
+
+v2.0.2024
+
+postoperative treatment with a median dose of 50 Gy to the tumor bed. Treatment may be considered for an individual with positive surgical margins, positive lymph nodes, or high grade tumors following nephroureterectomy. There is no data, however, to suggest that radiation therapy alone is helpful in the preoperative setting. As these tumors are responsive to chemotherapy, neoadjuvant chemotherapy may instead be considered in select patients.
+
+#### References
+
+1. Dayyani F, Hoffman K, Eifel P, et al. Management of advanced primary urethral carcinomas. BJU Int . 2014;114(1):25-31. doi:10.1111/bju.12630
+
+2. Gakis G, Witjes JA, Compérat E, et al. EAU guidelines on primary urethral carcinoma. Eur Urol . 2013;64(5):823-830. doi:10.1016/j.eururo.2013.03.044
+
+3. Grivas PD, Daignault S, Tagawa ST, et al. Double-blind, randomized, phase 2 trial of maintenance sunitinib versus placebo after response to chemotherapy in patients with advanced urothelial carcinoma. Cancer . 2014;120(5):692-701. doi:10.1002/cncr.28477
+
+4. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - April 16, 2024. Bladder Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/bladder.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Bladder Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ) All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+5. Spanos WJ Jr, Clery M, Perez CA, et al. Late effect of multiple daily fraction palliation schedule for advanced pelvic malignancies (RTOG 8502). Int J Radiat Oncol Biol Phys . 1994;29(5):961-967. doi:10.1016/0360-3016(94)90389-1
+
+6. Spanos W Jr, Guse C, Perez C, Grigsby P, Doggett RL, Poulter C. Phase II study of multiple daily fractionations in the palliation of advanced pelvic malignancies: preliminary report of RTOG 8502. Int J Radiat Oncol Biol Phys . 1989;17(3):659-661. doi:10.1016/0360-3016(89)90120-x
+
+### Vulvar Cancer
+
+RO.TXS.138.A
+
+v2.0.2024
+
+- I. External beam radiation therapy (EBRT) is considered medically necessary for the following indications:
+
+- A. Adjuvant therapy following initial surgery
+
+- B. Preoperative therapy for locally advanced disease
+
+- C. Definitive therapy
+
+- D. Recurrent vulvar cancer without evidence of distant spread of disease
+
+- E. Palliation of disease
+
+- II. Fractionation
+
+- A. For resectable disease, 45-64.8 Gy in 25-36 fractions is considered medically necessary when ANY of the following risk factors are present:
+
+1. Close or positive margins
+
+2. Involved lymph nodes
+
+3. Lymphovascular invasion, extracapsular extension
+
+4. Deep invasion, large tumor
+
+- B. For unresectable disease or gross residual disease involving the primary or inguinal nodes following surgery, 60-70 Gy in 33-39 total fractions is considered medically necessary.
+
+- C. For isolated local recurrence with a curative intent, 60-70 Gy in 33-39 total fractions is considered medically necessary.
+
+- D. For palliation, up to 15 fractions is considered medically necessary.
+
+- III. T echnique
+
+- A. External beam photon radiation therapy using three-dimensional conformal radiation therapy (3DCRT) or intensity-modulated radiation therapy (IMRT) is considered medically necessary for definitive therapy.
+
+- B. 3DCRT is considered medically necessary for palliation.
+
+- IV. Brachytherapy
+
+- A. Low-dose rate (LDR) or High-dose rate (HDR) brachytherapy is considered medically necessary for recurrent vulvar cancer or as a boost to conventional fractionation in the definitive setting.
+
+#### DISCUSSION
+
+Vulvar cancer comprises 5% of all gynecologic malignancies. The majority of vulvar cancers present at an early stage with localized disease and no lymph node involvement
+
+(Gaffney et al, 2016). Given the low incidence of vulvar cancer, there is limited randomized data to guide treatment recommendations. When there is no evidence of distant disease spread, radiation therapy can be utilized in the preoperative, postoperative, or definitive setting for the management of vulvar cancer.
+
+- I. Indications for radiation
+
+Vulvar cancer patients with early stage disease are generally managed with surgical excision of the primary (wide local excision or modified radical vulvectomy) combined with lymph node evaluation (sentinel lymph node biopsy or lymph node dissection) (Jolly et al, 2015). The role for radiation therapy in the postoperative setting is guided by pathologic evaluation of the primary tumor and the lymph nodes. For patients with early stage cancer with wide negative margins, uninvolved groin nodes, and no adverse risk factors, radiation therapy is generally not recommended (Jolly et al, 2015). The Gynecologic Cancer Intergroup patterns of care study on vulvar cancer found that the most common indications for postoperative radiation therapy are positive margins and involved nodes (Gaffney et al, 2009). In a retrospective study of 135 vulvar cancer patients, Heaps et al (1990) identified the following factors as predictive of increased risk of local vulvar recurrence: close margins, tumor thickness &gt; 1 cm. The presence of these variables are associated with increased risk of local vulvar recurrence and provide the foundation for recommending adjuvant radiation therapy following surgery. For these patients with good prognosis, postoperative radiation therapy to the primary/pelvis is recommended based on the Heaps criteria: positive or close margins, lymphovascular space invasion, lesions &gt; 5 mm deep (Heaps et al, 1990). Viswanathan et al (2013) performed a retrospective review of 205 patients with vulvar cancer and concluded that close and positive margins were associated with increased rates of vulvar recurrence. As failure in the groin strongly impacts prognosis in vulvar cancer, postoperative radiation therapy to the inguinal nodes/pelvis is recommended in the setting of positive lymph nodes or nodal extracapsular extension (Homesley et al, 1986; Nooj et al, 2016). Homesely et al (1993) reported on Gynecologic Oncology Group (GOG) 37 which randomized 114 vulvar patients who had positive groin nodes after radical vulvectomy and bilateral groin lymphadenectomy to either radiation therapy or additional surgical resection and found a survival benefit with the addition of radiation. Based on GOG 37 and retrospective studies examining risk factors for groin recurrence.
+
+Vulvar cancer patients with locally advanced or unresectable disease are increasingly being treated with definitive chemoradiation therapy (Stroup et al, 2008). GOG 205 examined the clinical and pathologic response of 58 unresectable vulvar cancer patients with T3 or T4 lesions who received chemoradiation therapy (Moore et al, 2012). These patients all received radiation therapy to 57.6 Gy in 33 fractions combined with weekly cisplatin (Moore et al, 2012). This study found a 64% complete clinical response rate and a 78% pathologic response rate with a radiation dose of 57.6 Gy. The authors concluded that radiation therapy combined with chemotherapy resulted in high clinical and pathologic response rates for patients with locally advanced vulvar cancer (Moore et al, 2012). In a retrospective analysis of 2046 women with vulvar cancer in the National Cancer Database, Natesan et al (2017) found that definitive treatment with a dose of 55 Gy or greater combined with chemotherapy was associated with similar survival as preoperative radiation/ chemoradiation therapy followed by surgery.
+
+II. Technique
+
+There is no consensus on the optimal radiation therapy volume to include when treating vulvar cancer. GOG 37 which demonstrated a survival benefit with postoperative radiation therapy only included the nodes in the pelvis and inguinal region and excluded the vulva (Homesley et al, 1986). GOG 37 randomized 114 vulvar patients who had positive groin nodes after radical vulvectomy and bilateral groin lymphadenectomy to either radiation therapy or additional surgical resection with an ipsilateral pelvic lymph node dissection. Postoperative radiation therapy was delivered to the bilateral pelvic and inguinal lymph nodes and excluded the vulva and was associated with improved 2 year overall survival compared to surgical resection (68% vs 54%, p = 0.03) (Homesley et al, 1986). This study demonstrated a vulvar failure rate of 7%-9% with the omission of radiation directly to the vulva (Homesley et al, 1986). In contrast, in a retrospective review of 27 vulvar cancer patients who received surgery followed by radiation directed only at the inguinal and pelvic nodes and using a midline vulvar block, there was a 48% vulvar recurrence rate associated with the use of the midline vulvar block. (Dusenbery et al, 1994). The Consensus Recommendations for Radiation Therapy Contouring and Treatment of Vulvar Carcinoma committee recommends a conservative approach in treating vulvar cancer with the inclusion of the vulva, inguinal, and pelvic nodes in the treatment volume for the majority of definitive cases (Gaffney et al, 2016). The National Comprehensive Cancer Network (NCCN ® ) Guidelines ® for vulvar cancer note that there are very select cases where superficial treatment to the vulva alone with electrons may be used.
+
+There are no prospective studies evaluating the use of IMRT in vulvar cancer. Based on conclusions from the treatment of anal cancer in Radiation Therapy Oncology Group (RTOG) 0529, Intensity Modulated Radiation Therapy (IMRT) is accepted in the management of vulvar cancer (Kachnic et al, 2013). There are several retrospective studies evaluating the use of IMRT in vulvar cancer. In a retrospective review of 39 vulvar cancer patients treated with IMRT, Rao et al (2017) found a 3 year locoregional control rate of 89% for patients receiving postoperative IMRT and 42% for patients receiving definitive IMRT. GOG 0279 is an ongoing phase II trial evaluating the efficacy of IMRT combined with cisplatin and gemcitabine in locally advanced vulvar cancer patients.
+
+III. Dose
+
+There is limited prospective data detailing the ideal dose response relationship in vulvar cancer. Based on GOG 37, 45-50 Gy to the pelvis and groin is recommended for postoperative treatment in vulvar cancer (Homesley et al, 1986). Postoperative radiation therapy employing 45-50 Gy was associated with an improved 2 year overall survival compared to surgical resection (68% vs 54%, p = 0.03) (Homesley et al, 1986). In a retrospective review of 205 patients with vulvar cancer, radiation doses of &gt; 56 Gy were associated with decreased risk of vulvar recurrence compared to those who received &lt; 50.4 Gy (Viswanathan et al, 2013). Perez et al (1998) found that 60-70 Gy was associated with 75%-80% local control rate in the setting of N2 or N3 disease. The Consensus Recommendations for Radiation Therapy Contouring and Treatment of Vulvar Carcinoma committee recommends 60-70 Gy for gross disease.
+
+BRACHYTHERAPY
+
+In an analysis of Surveillance, Epidemiology, and End Results (SEER) data, Rao et al (2017) note that the use of brachytherapy after external beam radiation therapy (EBRT) for treatment of vulvar cancer is declining in the United States. In the SEER database, there was no benefit to EBRT combined with brachytherapy followed by brachytherapy alone. There was no benefit in disease free survival or overall survival. The SEER data suggest that brachytherapy after external beam radiation therapy was associated with improved disease specific survival in patients with stage IVA disease, tumor &gt; 4cm, or node positive disease. There are several single institution reports of the feasibility of brachytherapy in recurrent disease associated with an acceptable toxicity profile (Castelnau-Marchand et al, 2017; Kellas-Ślęczka S et al, 2016; Mahantshetty et al, 2017). Brachytherapy may be considered as a boost to conventional fractionation or for recurrent disease.
+
+#### References
+
+1. Castelnau-Marchand P, Escande A, Mazeron R, et al. Brachytherapy as part of the conservative treatment for primary and recurrent vulvar carcinoma. Brachytherapy . 2017;16(3):518-525. doi:10.1016/j.brachy.2017.01.005
+
+2. Dusenbery KE, Carlson JW, LaPorte RM, et al. Radical vulvectomy with postoperative irradiation for vulvar cancer: therapeutic implications of a central block. Int J Radiat Oncol Biol Phys . 1994;29(5):989-998. doi:10.1016/0360-3016(94)90393-x
+
+3. Gaffney DK, Du Bois A, Narayan K, et al. Patterns of care for radiotherapy in vulvar cancer: a Gynecologic Cancer Intergroup study. Int J Gynecol Cancer . 2009;19(1):163-167. doi:10.1111/IGC.0b013e3181996ac3
+
+4. Gaffney DK, King B, Viswanathan AN, et al. Consensus Recommendations for Radiation Therapy Contouring and Treatment of Vulvar Carcinoma. Int J Radiat Oncol Biol Phys . 2016;95(4):1191-1200. doi:10.1016/ j.ijrobp.2016.02.043
+
+5. Heaps JM, Fu YS, Montz FJ, Hacker NF, Berek JS. Surgical-pathologic variables predictive of local recurrence in squamous cell carcinoma of the vulva. Gynecol Oncol . 1990;38(3):309-314. doi:10.1016/0090-8258(90)90064-r
+
+6. Homesley HD, Bundy BN, Sedlis A, Adcock L. Radiation therapy versus pelvic node resection for carcinoma of the vulva with positive groin nodes. Obstet Gynecol . 1986;68(6):733-740.
+
+7. Homesley HD, Bundy BN, Sedlis A, et al. Prognostic factors for groin node metastasis in squamous cell carcinoma of the vulva (a Gynecologic Oncology Group study). Gynecol Oncol . 1993;49(3):279-283. doi:10.1006/gyno.1993.1127
+
+8. Jolly S, Soni P, Gaffney DK, et al. ACR Appropriateness Criteria ® Adjuvant Therapy in Vulvar Cancer. Oncology (Williston Park) . 2015;29(11):867-875.
+
+9. Kachnic LA, Winter K, Myerson RJ, et al. RTOG 0529: a phase 2 evaluation of dose-painted intensity modulated radiation therapy in combination with 5-fluorouracil and mitomycin-C for the reduction of acute morbidity in carcinoma of the anal canal. Int J Radiat Oncol Biol Phys . 2013;86(1):27-33. doi:10.1016/j.ijrobp.2012.09.023
+
+10. Kellas-Ślęczka S, Białas B, Fijałkowski M, et al. Interstitial high-dose-rate brachytherapy in locally advanced and recurrent vulvar cancer. J Contemp Brachytherapy . 2016;8(1):32-40. doi:10.5114/jcb.2016.58081
+
+11. Mahantshetty U, Naga P, Engineer R, et al. Clinical outcome of high-dose-rate interstitial brachytherapy in vulvar cancer: A single institutional experience. Brachytherapy . 2017;16(1):153-160. doi:10.1016/ j.brachy.2016.10.003
+
+12. Mitra S, Sharma MK, Kaur I, et al. Vulvar carcinoma: dilemma, debates, and decisions. Cancer Manag Res . 2018;10:61-68. Published 2018 Jan 9. doi:10.2147/CMAR.S143316.
+
+13. Moore DH, Ali S, Koh WJ, et al. A phase II trial of radiation therapy and weekly cisplatin chemotherapy for the treatment of locally-advanced squamous cell carcinoma of the vulva: a gynecologic oncology group study. Gynecol Oncol . 2012;124(3):529-533. doi:10.1016/j.ygyno.2011.11.003
+
+14. Natesan D, Hong JC, Foote J, Sosa JA, Havrilesky L, Chino J. Primary Versus Preoperative Radiation for Locally Advanced Vulvar Cancer. Int J Gynecol Cancer . 2017;27(4):794-804. doi:10.1097/ IGC.0000000000000938.
+
+15. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 4.2024- May 1, 2024. Vulvar Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/vulvar.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Vulvar Cancer Version 4.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+16. Nooij LS, Brand FA, Gaarenstroom KN, Creutzberg CL, de Hullu JA, van Poelgeest MI. Risk factors and treatment for recurrent vulvar squamous cell carcinoma. Crit Rev Oncol Hematol . 2016;106:1-13. doi:10.1016/ j.critrevonc.2016.07.007
+
+17. Perez CA, Grigsby PW, Chao C, et al. Irradiation in carcinoma of the vulva: factors affecting outcome. Int J Radiat Oncol Biol Phys . 1998;42(2):335-344. doi:10.1016/s0360-3016(98)00238-7
+
+18. Radiation therapy, gemcitabine hydrochloride, and cisplatin in treating patients with locally advanced squamous cell cancer of the vulva. ClinicalTrials.gov identifier: NCT01595061. Updated December 29, 2021. https:// clinicaltrials.gov/ct2/show/NCT01595061
+
+19. Rao YJ, Chundury A, Schwarz JK, et al. Intensity modulated radiation therapy for squamous cell carcinoma of the vulva: Treatment technique and outcomes. Adv Radiat Oncol . 2017;2(2):148-158. Published 2017 Feb 28. doi:10.1016/j.adro.2017.02.006
+
+20. Rao YJ, Hui C, Chundury A, et al. Which patients with inoperable vulvar cancer may benefit from brachytherapy in addition to external beam radiation? A Surveillance, Epidemiology, and End Results analysis. Brachytherapy . 2017;16(4):831-840. doi:10.1016/j.brachy.2017.03.012
+
+21. Stroup AM, Harlan LC, Trimble EL. Demographic, clinical, and treatment trends among women diagnosed with vulvar cancer in the United States. Gynecol Oncol . 2008;108(3):577-583. doi:10.1016/j.ygyno.2007.11.011
+
+22. Viswanathan AN, Pinto AP, Schultz D, Berkowitz R, Crum CP. Relationship of margin status and radiation dose to recurrence in post-operative vulvar carcinoma. Gynecol Oncol . 2013;130(3):545-549. doi:10.1016/ j.ygyno.2013.05.036
+
+## Radiation Oncology Guidelines For Radiopharmaceuticals
+
+POLICY
+
+- I. Indications
+
+- A. Azedra ® is considered medically necessary for the treatment of an individual aged 12 years and older with iobenguane scan positivity who has inoperable locally advanced or metastatic pheochromocytoma or paraganglioma requiring systemic treatment.
+
+- II. Submission requirements
+
+- A. Official pathology report documenting pheochromocytoma or paraganglioma
+
+- B. Official radiology report of positive iobenguane scan
+
+- C. In the absence of metastatic disease, a surgical or medical consult documenting the reason for inoperability
+
+- III. Contraindications
+
+- A. Creatinine clearance &lt; 30 mL/minute
+
+- B. Platelet count &lt; 80,000
+
+- C. Absolute neutrophil count &lt; 1200/mcL
+
+- D. Liver dysfunction with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) ≥ 2.5 times the upper limit of normal or total bilirubin &gt; 1.5 times the upper limit of normal
+
+- E. History of hepatitis or chronic alcohol abuse
+
+- F. History of external beam radiation to &gt; 25% of the bone marrow
+
+- G. History of systemic radiotherapy resulting in myelosuppression within 3 months of proposed Azedra ® administration
+
+- IV. Precautions and warnings
+
+- A. The official manufacturer's prescribing information, precautions and radiation safety instructions packaged with the medication should be fully reviewed and understood before using Azedra ® .
+
+- B. This radiopharmaceutical should be used by or under the supervision of physicians with specific training in the use of radiopharmaceuticals who have been authorized and approved by the appropriate governmental agency.
+
+- C. Concerns about the use of this radiopharmaceutical include but are not limited to:
+
+1. Radiation safety in handling the preparation
+
+### Azedra ® (iobenguane I-131)
+
+RO.RX.139.A
+
+v2.0.2024
+
+2. Pregnancy, lactation and precautions for both women and men of reproductive potential on appropriate contraception methods including embryo-fetal toxicity and risks of infertility
+
+3. Risk from radiation exposure
+
+4. Myelosuppression
+
+5. Leukemia and secondary myelodysplastic syndrome
+
+6. Renal toxicity including use with renal impairment
+
+7. Hepatic toxicity including use with hepatic impairment
+
+8. Hypothyroidism
+
+9. Pneumonitis
+
+10. Hypertension
+
+11. Pediatric and geriatric use
+
+- V. Usage
+
+- A. Users should read the manufacturer's insert for all specific instructions as they could change as more experience is gained in the patient population.
+
+1. The current recommended dose of Azedra ® is dependent on body weight. The drug is administered as a dosimetric dose followed by 2 therapeutic doses administered 90 days apart.
+
+2. Users should familiarize themselves with the therapeutic dose adjustments that may be necessary based on the dosimetry results and reactions to treatment.
+
+3. Particular attention should be given to the manufacturer's instructions on the use of drugs that reduce catecholamine uptake or deplete catecholamine stores, mandatory thyroid blockade prior to treatment, as well as antiemetic and hydration requirements.
+
+#### DISCUSSION
+
+Recently, the Food and Drug Administration (FDA) announced approval of Azedra ® for adults and pediatric patients 12 years and older with iobenguane scan positivity who have inoperable locally advanced or metastatic pheochromocytoma or paraganglioma requiring systemic treatment. The approval is based on Study IB12B open-label, single arm multicenter trial (NCT00874614). The required dosimetric dose was administered to 74 patients. Sixty-eight (68) patients subsequently received at least 1 therapeutic dose. Of this group, 50 patients received 2 therapeutic doses 90 days apart. Thirtyfive (35) of the 68 patients had prior surgery and systemic therapy (I-131 MIBG and/ or chemotherapy) for pheochromocytoma or paraganglioma. Fifty percent (50%) had previous external beam radiation therapy. Lung and/or liver metastases were present at baseline in 32 of 64 evaluable patients. Sixty-one percent (61%) had bone metastases. The primary endpoint specified in the study was the proportion of patients with at least 50% reduction of all anti-hypertensive medications for a minimum of 6 months during the efficacy period of 1 year. Overall tumor response was evaluated by Response Evaluation Criteria in Solid Tumors (RECIST). After 1 year, patients entered 4 additional years of planned follow-up. The primary endpoint was met by 25% (95% CI 16% to 37%) of those receiving 1 therapeutic dose and 32% (95% CI 21% to 46%) of patients who received 2 therapeutic doses, achieving pre-specified success criteria. For objective tumor response, 23% of 1 dose and 30% of 2 dose patients' populations achieved partial response (PR). The 12-month overall survival (OS) was 91% in 1 dose patients. Median OS was 36.7 months (95% CI 29.9 to 49.1), and median survival appeared similar in patients with and without lung/liver metastasis at baseline (42.6 and 41.1 months, respectively). The most common (≥ 50%) treatment-emergent adverse events were myelosuppression, nausea, and fatigue. No acute drug-related hypertensive events were observed. On the basis of this data, FDA approval was given for the indications listed.
+
+#### References
+
+1. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2023 - August 2, 2023. Neuroendocrine and Adrenal Tumors. https://www.nccn.org/professionals/physician\_gls/pdf/neuroendocrine.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Neuroendocrine and Adrenal Tumors Version 1.2023. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+2. Azedra. Prescribing information. Progenics Pharmaceuticals, Inc; 2018 (revised 7/2018). https:// www.accessdata.fda.gov/drugsatfda\_docs/label/2018/209607s000lbl.pdf
+
+3. van Hulsteijn LT, Niemeijer ND, Dekkers OM, Corssmit EP. (131)I-MIBG therapy for malignant paraganglioma and phaeochromocytoma: systematic review and meta-analysis. Clin Endocrinol (Oxf) . 2014;80(4):487-501. doi:10.1111/cen.12341
+
+POLICY
+
+- I. Indications
+
+- 177 Lu-dotatate is considered medically necessary in the treatment of individuals with low- (G1), intermediate- (G2) or high-grade (G3) well-differentiated neuroendocrine tumors who have progressed on somatastatin-anlaogs (SSA) in EITHER of the following:
+
+- A. Inoperable or metastatic somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors (GEP-NETs) of the pancreas, foregut, midgut and hindgut
+
+- B. Inoperable or metastatic somatostatin receptor-positive bronchopulmonary or thymic tumors or pheochromocytomas and paragangliomas
+
+When ALL of the following criteria are met:
+
+- A. For well-differentiated G1 or G2 neuroendocrine tumors with a Ki-67 &lt; 20% OR well-differentiated G3 neuroendocrine tumors with a Ki-67 &lt; 55%
+
+- B. Positive somatostatin receptor scintigraphy with correlative magnetic resonance imaging (MRI) or computed tomography (CT) imaging of metastatic measurable disease or 68-Ga-dotatate positron emission tomography (PET) scan positive for metastatic disease
+
+- C. In the absence of metastatic disease, a surgical or medical consult documenting the reason for inoperability
+
+- D. Progression of disease following treatment with SSA therapy
+
+- II. 177 Lu-dotatate is considered not medically necessary for poorly-differentiated tumors and for G3 well-differentiated tumors with a Ki-67 of ≥ 55%.
+
+- III. 177 Lu-dotatate is considered not medically necessary in the treatment of all other tumors.
+
+- IV. Contraindications
+
+- A. Serum creatinine: ≥ 1.7 mg per deciliter or creatinine clearance of ≤ 50 ml/minute
+
+- B. Hgb: ≤ 8.0 g/dl; WBC &lt; 2000/mm 3 ; platelets &lt; 75,000 mm 3
+
+- V. Precautions and warnings
+
+- A. The official manufacturer's prescribing information, precautions and radiation safety instructions packaged with the medication should be fully reviewed and understood before using 177 Lu-dotatate.
+
+### 177 Lu-dotatate (Lutathera ® )
+
+RO.RX.140.C v2.0.2024
+
+)
+
+- B. This radiopharmaceutical should be used by or under the supervision of physicians with specific training in the use of radiopharmaceuticals who have been authorized and approved by the appropriate governmental agency.
+
+- C. Concerns about the use of this radiopharmaceutical include but are not limited to:
+
+1. Radiation safety in handling the preparation
+
+2. Pregnancy, lactation and precautions for both women and men of reproductive potential on appropriate contraception methods including embryo-fetal toxicity and risks of infertility
+
+3. Risk from radiation exposure
+
+4. Myelosuppression
+
+5. Leukemia and secondary myelodysplastic syndrome
+
+6. Renal toxicity including use with renal impairment
+
+7. Hepatic Toxicity including use with hepatic impairment
+
+8. Neuroendocrine hormonal crisis: flushing, diarrhea, bronchospasm, bronchoconstriction, hypotension, and other symptoms
+
+9. Pediatric and geriatric use
+
+- VI. Usage
+
+- A. Users should read the manufacturer's insert for all specific instructions as they could change as more experience is gained in the patient population.
+
+1. The current recommended dose of Lutathera ® is 7.4 GBq (200 mCi) every 8 weeks for a total of 4 doses.
+
+2. Users should familiarize themselves with the restrictions and usage of long and short acting octreotide agents before, during, and after Lutathera ® treatment as well as the manufacturer's recommended use of anti-emetics and a specialized amino acid solution.
+
+3. Users should be aware of detailed manufacturer's instructions on dosing or withholding of treatment for circumstances including, but not limited to, thrombocytopenia, anemia, neutropenia, renal toxicity, hepatotoxicity, and possible other non-hematologic toxicities.
+
+#### DISCUSSION
+
+Neuroendocrine tumors are relatively rare but appear to be rising in the U.S. with an incidence reported from 5.25 to 7.0 per 100,000 people. It is unclear as to whether this is a true increase or a better recognition of the entity or combination of these factors. They are classified by site of origin, stage, grade, and histologic classification. There appears to be a correlation between mitotic count and Ki-67 proliferation. Additionally, these tumors may be classified as being functional or non-functional depending on their ability to secrete hormones or other peptides which are responsible for hypertension, flushing, diarrhea as documented in the carcinoid syndrome, or hyperinsulinemia and other associated syndromes.
+
+Gastrointestinal Tumors: Over 60% of carcinoid tumors arise in gastrointestinal tract sites such as the stomach, small intestine, appendix and rectum which secrete serotonin, histamine and other substances. The portal circulation and its hepatic enzymes however rapidly metabolize most of these products. As such, only up to 25% of these tumors are responsible for the classic carcinoid and related syndromes, with the symptoms most likely due to liver metastases entering the circulatory system via the hepatic veins or other remote disease. Other common sites of metastases include the mesentery and peritoneum. Patients with non-secreting tumors usually are discovered at surgery after presenting with symptoms secondary to the presence of a mass lesion. Systemic treatment for metastatic disease has been with a somatostatin medication for control of tumor growth and hormonal secretion. Non-functioning tumors have few systemic options such as everolimus or trials of chemotherapy.
+
+Pancreatic Neuroendocrine Tumors: There is an annual incidence of 1.8 per million in women and 2.6 per million in men. Approximately 60% are functioning tumors. Most pancreatic neuroendocrine tumors are sporadic. They are reported in several familial syndromes including, but not limited to, MEN1, MEN2, VHL, neurofibromatosis type 1, tuberous sclerosis, and Carney Complex. Pancreatic tumors occurring in MEN1 often have multiple tumors and require different management. Surgery is the mainstay for local and regional treatment. Debulking surgery has proven helpful in the management of more advanced disease. Systemic treatment options are similar to those mentioned above for gastrointestinal neuroendocrine disease. Systemic syndrome management and evaluation and treatment of inherited syndromes are best guided under current National Comprehensive Cancer Network (NCCN ® ) Guidelines ® .
+
+Recently, the Food and Drug Administration (FDA) announced approval of Lutathera ® for treatment of neuroendocrine tumors arising from the foregut, midgut, hindgut and pancreas. The approval for this agent was based on 2 published studies, NETTER 1 and the Erasmus Study.
+
+In addition to the contraindications and precautions listed above, the use of Lutathera ® requires that long acting somatostatin analogs such as octreotide be discontinued for at least 4 weeks prior to the commencement of Lutathera ® treatment. Short-acting octreotide may be administered as needed but must be discontinued at least 24 hours before each Lutathera ® treatment. Currently, the prescribing information states that following Lutathera ® treatment, long-acting octreotide 30 mg intramuscularly, should be given every 4 weeks until disease progression or for up to 18 months following the commencement of Lutathera ® . The treating physician should be familiar with the prescribing information accompanying the Lutathera ® medication as information is subject to change by the manufacturer.
+
+Additional prescribing information includes pre-medication with antiemetics and the use of a specialized amino acid infusion to significantly reduce the dose of radiation to the kidneys. Details of the time and method of administration, components, volume, and osmolarity may be found in the manufacturer's prescribing information. The manufacturer has cautioned that this infusion should not be changed if the dose of Lutathera ® is reduced.
+
+The FDA approval for the use of Lutathera ® is based on the results of 2 published studies. NETTER 1 compared treatment with Lutathera ® to octreotide in patients with inoperable, progressive somatostatin receptor-positive midgut carcinoid tumors. The study participants had tumors that had metastasized or were inoperable, and showed disease progression on either CT or MRI during treatment with LAR over the course of a period of 3 years during treatment with octreotide LAR. Eligibility included a Ki-67 index of 20% or lower, OctreoScan uptake greater than or equal to that of the normal liver, creatinine clearance of 50 mL/min or greater, no prior treatment with Peptide Receptor Radionuclide Therapy (PRRT), and no prior external radiation therapy to more than 25% of the bone marrow. The primary outcome was progression free survival (PFS). A total of 229 patients were randomized to Lutathera ® 200 mCi for 4 infusions every 8 weeks concurrently with long-acting octreotide (30 mg) or high-dose octreotide alone (60 mg). Baseline characteristics were balanced between the groups. It was noted that 74% of patients had an ileal primary and 96% had metastatic disease in the liver.
+
+At the data-cutoff date for the primary analysis, PFS at 20 months was 65.2% in the 177-Lu arm vs. 10.8% in the control group. The response rate was 18% in the 177-Lu group vs. 3% in the control group. In an updated analysis, progressive disease was seen in 23% of the 177-Lu group and 69% of the control group. Median PFS was not reached for the experimental group and was 8.5 months for the control group. Median overall survival (OS) was also not reached in the experimental group and was 27.4 months in the control arm. The authors concluded that for patients with progressive midgut neuroendocrine tumors, treatment with 177 Lu-dotatate resulted in a significantly longer progression-free survival and a significantly higher response rate than treatment with high dose octreotide LAR.
+
+The ERASMUS study included 1214 patients who received Lutathera ® , 610 of whom were treated with a cumulative dose of at least 100 mCi for safety analysis. Another subgroup of 443 Dutch patients were treated with a cumulative dose of at least 600 mCi. The objective response rate (ORR) of the combined group was 39%. Stable disease was seen in 43%. PFS was 29 months. OS was 63 months. The group included not only gastrointestinal tumors but also pancreatic and bronchial neuroendocrine tumors. Toxicity included acute leukemia in 0.7% and myelodysplastic syndrome in 1.5%.
+
+Pheochromocytoma/Paragangliomas
+
+These tumors also express somatostatin receptors, and as such, consideration has been given to the use of 177 Lu-dotatate in the metastatic setting.  The evidence supporting the use of 177 Lu-dotatate is limited but favorable with NCCN guidelines supporting consideration of 177 Lu-dotatate for SSR-positive pheochromocytomas or paragangliomas with distant metastasis.  Given this, 177 Lu-dotatate is considered medically necessary for treatment of pheochromocytomas or paragangliomas.
+
+#### References
+
+1. A study comparing treatment with 177Lu-DOTA0-Tyr3-Octreotate to octreotide LAR in patients with inoperable, progressive, somatostatin receptor positive midgut carcinoid tumours (NETTER-1). ClinicalTrials.gov identifier: NCT01578239. Updated April 4, 2022. https://clinicaltrials.gov/ct2/show/NCT01578239
+
+2. Bodei L, Ćwikla JB, Kidd M, Modlin IM. The role of peptide receptor radionuclide therapy in advanced/metastatic thoracic neuroendocrine tumors. J Thorac Dis . 2017;9(Suppl 15):S1511-S1523. doi:10.21037/jtd.2017.09.82.
+
+3. Brabander T, van der Zwan WA, Teunissen JJM, et al. Long-Term Efficacy, Survival and Safety of [ 177 LuDOTA 0 ,Tyr 3 ]octreotate in Patients with Gastroenteropancreatic and Bronchial Neuroendocrine Tumors. Clin Cancer Res . 2017;23(16):4617-4624. doi:10.1158/1078-0432.CCR-16-2743
+
+4. Carlsen EA, Fazio N, Granberg D, et al. Peptide receptor radionuclide therapy in gastroenteropancreatic NEN G3: a multicenter cohort study. Endocr Relat Cancer . 2019;26(2):227-239. doi:10.1530/ERC-18-0424
+
+5. Cecchin D, Schiavi F, Fanti S, et al. Peptide receptor radionuclide therapy in a case of multiple spinal canal and cranial paragangliomas. J Clin Oncol . 2011;29(7):e171-e174. doi:10.1200/JCO.2010.31.7131
+
+6. FDA approves new treatment for certain digestive tract cancers. News release. U.S. Food and Drug Administration. January 26, 2018. https://www.fda.gov/news-events/press-announcements/fda-approves-newtreatment-certain-digestive-tract-cancers
+
+7. Garcia-Carbonero R, Sorbye H, Baudin E, et al. ENETS Consensus Guidelines for High-Grade Gastroenteropancreatic Neuroendocrine Tumors and Neuroendocrine Carcinomas. Neuroendocrinology . 2016;103(2):186-194. doi:10.1159/000443172
+
+8. Lutathera. Prescribing Information. Advanced Accelerator Applications; 2018.
+
+9. Ianniello A, Sansovini M, Severi S, et al. Peptide receptor radionuclide therapy with (177)Lu-DOTATATE in advanced bronchial carcinoids: prognostic role of thyroid transcription factor 1 and (18)F-FDG PET. Eur J Nucl Med Mol Imaging . 2016;43(6):1040-1046. doi:10.1007/s00259-015-3262-8
+
+10. Lo Russo G, Pusceddu S, Prinzi N, et al. Peptide receptor radionuclide therapy: focus on bronchial neuroendocrine tumors. Tumour Biol . 2016;37(10):12991-13003. doi:10.1007/s13277-016-5258-9
+
+11. Mariniello A, Bodei L, Tinelli C, et al. Long-term results of PRRT in advanced bronchopulmonary carcinoid. Eur J Nucl Med Mol Imaging . 2016;43(3):441-452. doi:10.1007/s00259-015-3190-7
+
+12. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2023 - August 2, 2023. Neuroendocrine and Adrenal Tumors. https://www.nccn.org/professionals/physician\_gls/pdf/neuroendocrine.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Neuroendocrine and Adrenal Tumors Version 1.2023. © 2023 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+13. Nicolini S, Severi S, Ianniello A, et al. Investigation of receptor radionuclide therapy with 177 Lu-DOTATATE in patients with GEP-NEN and a high Ki-67 proliferation index. Eur J Nucl Med Mol Imaging . 2018;45(6):923-930. doi:10.1007/s00259-017-3925-8
+
+14. Pavel M, O'Toole D, Costa F, et al. ENETS Consensus Guidelines Update for the Management of Distant Metastatic Disease of Intestinal, Pancreatic, Bronchial Neuroendocrine Neoplasms (NEN) and NEN of Unknown Primary Site. Neuroendocrinology . 2016;103(2):172-185. doi:10.1159/000443167
+
+15. Prasad V, Zachert C, Schuchardt C, Wortmann R, Baum R. Peptide receptor radionuclide therapy (PRRT) for progressive, somatostatin receptor positive pheochromocytoma/paraganglioma. J Nucl Med . 2008;49(Suppl 1):101.
+
+16. Satapathy S, Mittal BR, Bhansali A. 'Peptide receptor radionuclide therapy in the management of advanced pheochromocytoma and paraganglioma: A systematic review and meta-analysis'. Clin Endocrinol (Oxf) . 2019;91(6):718-727. doi:10.1111/cen.14106
+
+17. Sorbye H, Kong G, Grozinsky-Glasberg S. PRRT in high-grade gastroenteropancreatic neuroendocrine neoplasms (WHO G3). Endocr Relat Cancer . 2020;27(3):R67-R77. doi:10.1530/ERC-19-0400
+
+18. Strosberg J, El-Haddad G, Wolin E, et al. Phase 3 Trial of 177 Lu-Dotate for Midgut Neuroendocrine Tumors. N Engl J Med . 2017;376(2):125-135. doi:10.1056/NEJMoa1607427
+
+19. Thang SP, Lung MS, Kong G, et al. Peptide receptor radionuclide therapy (PRRT) in European Neuroendocrine Tumour Society (ENETS) grade 3 (G3) neuroendocrine neoplasia (NEN) - a single-institution retrospective analysis [published correction appears in Eur J Nucl Med Mol Imaging. 2017 Nov 20;:]. Eur J Nucl Med Mol Imaging . 2018;45(2):262-277. doi:10.1007/s00259-017-3821-2
+
+20. van Essen M, Krenning EP, Kooij PP, et al. Effects of therapy with [177Lu-DOTA0, Tyr3]octreotate in patients with paraganglioma, meningioma, small cell lung carcinoma, and melanoma. J Nucl Med . 2006;47(10):1599-1606.
+
+21. van Vliet El, Krenning EP, Teunissen JJ, et al. Comparison of response evaluation in patients with gastropancreatic and thoracic neuroendocrine tumors after treatment with [ 177 Lu-DOTA 0 ,Tyr 3 ]octreotate. J Nucl Med . 2013 Oct;54(10):1689-1696.
+
+22. Vyakaranam AR, Crona J, Norlén O, et al. Favorable Outcome in Patients with Pheochromocytoma and Paraganglioma Treated with 177 Lu-DOTATATE. Cancers (Basel) . 2019;11(7):909. Published 2019 Jun 28. doi:10.3390/cancers11070909
+
+23. Zhang J, Kulkarni HR, Singh A, Niepsch K, Müller D, Baum RP. Peptide Receptor Radionuclide Therapy in Grade 3 Neuroendocrine Neoplasms: Safety and Survival Analysis in 69 Patients. J Nucl Med . 2019;60(3):377-385. doi:10.2967/jnumed.118.215848
+
+)
+
+POLICY
+
+- I. Indications
+
+Selective internal radiation therapy (SIRT), using radioactive Yttrium-90 ( 90 Y) microspheres, is considered medically necessary when ALL of the following criteria are met:
+
+- A. Unresectable and/or medically inoperable primary or metastatic liver malignancies from ANY of the following:
+
+1. Unresectable liver only or liver dominant metastases from neuroendocrine tumors (eg, carcinoids, pancreatic islet cell tumors, endocrine tumors)
+
+2. Unresectable primary hepatocellular carcinoma (HCC)
+
+3. Unresectable metastatic liver tumors from primary colorectal cancer
+
+4. Treatment of unresectable liver metastases from breast carcinoma, ocular melanoma, cutaneous melanoma, or intrahepatic cholangiocarcinoma in the absence of available systemic or liver-directed treatment options to relieve symptoms and/or possibly extend life expectancy
+
+- B. The tumor burden should be liver dominant, not necessarily exclusive to the liver.
+
+- C. Eastern Cooperative Oncology Group (ECOG) performance status should be 0 or 1 or Karnofsky performance status (KPS) of 70 or more
+
+- D. Life expectancy should be at least 3 months
+
+- E. Radioactive Yttrium-90 ( 90 Y) microspheres treatment is allowed only in the outpatient setting unless the documentation supports the medical necessity of inpatient treatment.
+
+- II. Repeat radioembolization is considered medically necessary for new or progressive primary or metastatic liver cancers when ALL of the following criteria are met:
+
+- A. The individual has had a previous satisfactory response to an initial radioembolization treatment as evidenced on results of a computed tomography (CT) scan or positron emission tomography (PET)/CT scan performed 3 months following the previous procedure. Response should be graded according to the revised Response Evaluation Criteria in Solid Tumors (RECIST) guideline (Version 1.1).
+
+- B. The disease still must be liver dominant.
+
+- C. Life expectancy of at least 3 months
+
+### Selective Internal Radiation Therapy (SIRT)
+
+RO.RX.141.C v2.0.2024
+
+- D. ECOG performance status no greater than 2 or KPS of 70 or more
+
+- E. There are no other effective systemic or liver-directed treatment options.
+
+- F. An individual has compensated liver function tests (LFTs).
+
+- G. Estimated lung dose and combined lung dose from previous embolizations are within acceptable dose volume constraints. Exclude an individual with lung shunting in which the lung radiation dose is greater than 25 to 30 Gy per treatment or greater than 50 Gy cumulatively for all treatments.
+
+- H. Treatment should be given to a targeted tumor volume.
+
+- III. Repeat whole liver irradiation is considered not medically necessary and will not be certified.
+
+- IV. A third radioembolization treatment is considered not medically necessary.
+
+#### DISCUSSION
+
+Selective internal radiation therapy (SIRT), also known as radioembolization with microsphere brachytherapy device (RMBD) and transarterial radioembolization (TARE), is a form of arterially directed therapy for primary and secondary liver cancer. The treatment involves catheter-based injection of radioactive Yttrium-90 ( 90 Y) microspheres, in either glass or resin form, through the arterial branch feeding the affected portion of the liver. Although radioembolization with Yttrium-90 ( 90 Y) microspheres involves some level of particle-induced vascular occlusion, it has been proposed that such occlusion is more likely to be microvascular than macrovascular, and that the resulting tumor necrosis is more likely to be induced by radiation rather than ischemia.
+
+Radioembolization with Yttrium-90 microspheres has proven safe and effective in palliation of symptoms as well as possible increase in survival in selected cancer patients. Given this proven effect, consideration is now being given to repeating the procedure in an individual who has responded well previously, has good performance status, and has liver dominant disease without other treatment options. In their series of 148 patients diagnosed with neuroendocrine tumor metastases to the liver treated with Yttrium-90 microspheres, Vyleta et al (2011) noted a subgroup of 33 patients who were retreated to the same liver lobe with very low toxicity and no evidence of radiation-induced liver disease (RILD). They also commented on other published studies in which a few patients even received a third treatment. In their analysis, increased duration of tumor responses was noted and most deaths were attributed to progression of extrahepatic disease. Similarly, Lewandowski et al (2006) noted further palliation and prolongation of survival in individuals retreated for viable residual or recurrent liver metastases. Favorable prognostic indicators for longer survival in their entire series of 82 initial and retreated patients included a lower pretreatment level of alpha-fetoprotein (AFP) and a higher tumor to baseline uptake ratio.
+
+Lam et al (2013) attempted to correlate the occurrence of RILD in a population of 247 patients treated to a targeted area with Yttrium-90 microspheres within univariate analyses of multiple variables. This population included 8 patients who were retreated. Two of these patients received a second treatment to the whole liver and died shortly after the second treatment with signs and symptoms of RILD. Cumulative doses of 3.08 and 2.66 GBq were noted respectively. The remaining 6 patients experienced minor side effects with cumulative doses of 2.41 to 3.88 GBq. Objective responses were noted in all patients. Risk factor analysis disclosed repeat radioactive remobilization, serum total bilirubin and baseline serum aspartate aminotransferase as significant factors in the development of RILD, but only repeat radioembolization proved to be an independent indicator. The authors noted objective tumor responses but commented on the need for improved safety limits, which will require better dosimetric measurement.
+
+At this time, requests for a second radioembolization treatment will be considered on a case-by-case basis. Third treatment requests will not be certified nor will requests for a second radioembolization procedure to the whole liver.
+
+- I. Absolute contraindications
+
+- A. Inability to catheterize the hepatic artery
+
+- B. Fulminant liver failure (Childs-Pugh status late B or C)
+
+- C. 99m Technetium-Albumin Macroaggregates ( 99m Tc-MAA) hepatic arterial perfusion scintigraphy demonstrating significant reflux or non-target deposition to the gastrointestinal organs that cannot be corrected by angiographic techniques. It is important that liver injection of 99m Tc-MAA is delivered with flow rates and catheter position that mimic the anticipated 90 Y infusion rate catheter position
+
+- D. 99m Tc-MAA hepatic arterial perfusion scintigraphy demonstrating the potential &gt; 30 Gy radiation exposure to the lung
+
+- II. Relative contraindications
+
+- A. Excessive tumor burden in the liver with greater than 70% of the parenchyma replaced by tumor
+
+- B. Prior extensive liver resection
+
+- C. Total bilirubin greater than 2 mg/dL in the absence of reversible cause (eg, obstruction), which indicates severe liver function impairment. Nonobstructive bilirubin elevations generally indicate that liver metastases have caused liver impairment to a degree at which risks outweigh benefits for this therapy. In contrast, patients with hepatocellular carcinoma (HCC) and elevated bilirubin may be treated with radioembolization if a segmental or subsegmental infusion can be performed
+
+- D. Prior radiation therapy to the liver or upper abdomen that included a significant volume of the liver (clinical judgment by the authorized user required). Based on a study by Lam et al (2013), the fraction of liver exposed to ≥ 30 Gy (V30) is the strongest predictor of hepatotoxicity. All patients with V30 &gt; 13% experienced hepatotoxicity
+
+- E. Concurrent or prior capecitabine chemotherapy (within the previous 2 months)
+
+- F. If the patient is known to be pregnant, the potential radiation risks to the fetus and clinical benefits of the procedure required before, during, and after RMBD, and any scatter radiation from the hepatic implant should be considered before proceeding with treatment
+
+- G. Portal vein thrombosis (PVT):Tsai et al (2010) suggests 90 Y microspheres are tolerated in patients with HCC and major PVT. Kulik et al (2008) reported more grade 3/4 adverse events in patients with main portal vein thrombosis. Schwartz et al (2010) states 90 Y is a safe microembolization treatment that can be used as an alternative to TACE in patients in case of PVT
+
+- III. Chemotherapy (adjuvant or concurrent) for case-by-case requests
+
+- A. Requests submitted on a case-by-case basis for the use of SIRT as a debulking agent will not be certified. There are currently no national guidelines, such as those of the National Comprehensive Cancer Network ® (NCCN ® ), for the use of SIRT in this manner. As both the clinical effectiveness and toxicity of combined treatment is not known, treatment in this setting is considered EIU. Results from the phase III SIRFLOX trial (van Hazel, 2016) showed no difference in PFS. A prolonged liver response was demonstrated in the FOLFOX/Y-90 arm 20.5 months vs. 12.6 months for chemotherapy alone. As data fail to show an impact on survival, current NCCN Guidelines ® recommend SIRT as an option in carefully selected chemotherapy-resistant or refractory disease in patients with predominant liver metastases.
+
+- IV. Treatment target planning
+
+- A. Treating multiple tumors within the entire liver in a single treatment session is termed whole liver delivery. Treating the entire liver by first treating 1 lobe and then the other in separate sessions is termed sequential delivery; both are described in the literature. Treatment to a single lobe only is termed lobar delivery. In the sequential treatment, a 30 to 45 day interval between sessions is the generally accepted practice.
+
+- B. Treatment to additional lobes may be done if a positive response of the first is achieved as evidenced by any of the following:
+
+1. Stability in tumor size
+
+2. Tumor shrinkage
+
+3. Necrosis within the tumor with or without shrinkage
+
+4. Improvement in liver function test results
+
+5. Improvement in performance status or pain
+
+Repeat treatment of a lobe/segment may be necessary in a previously treated vascular bed (lobe), such as recurrent disease or incompletely treated disease. A 90-day interval before retreatment of the PTV is recommended for adequate hepatic healing.
+
+#### References
+
+1. Bruix J, Sherman M. Management of hepatocellular carcinoma: an update. American Association for Study of Liver Disease (AASLD) Practice Guideline. Hepatology . 2011;53(3):1020-1022.
+
+2. Cheng AL, Kang YK, Chen Z, et al. Efficacy and safety of sorafenib in patients in the Asia-Pacific region with advanced hepatocellular carcinoma: a phase III randomised, double-blind, placebo-controlled trial. Lancet Oncol . 2009;10(1):25-34. doi:10.1016/S1470-2045(08)70285-7
+
+3. Chua TC, Bester L, Saxena A, Morris DL. Radioembolization and systemic chemotherapy improves response and survival for unresectable colorectal liver metastases. J Cancer Res Clin Oncol . 2011;137(5):865-873. doi:10.1007/s00432-010-0948-y
+
+4. Coldwell D, Sangro B, Salem R, Wasan H, Kennedy A. Radioembolization in the treatment of unresectable liver tumors: experience across a range of primary cancers. Am J Clin Oncol . 2012;35(2):167-177. doi:10.1097/ COC.0b013e3181f47923
+
+5. Deleporte A, Flamen P, Hendlisz A. State of the art: radiolabeled microspheres treatment for liver malignancies. Expert Opin Pharmacother . 2010;11(4):579-586. doi:10.1517/14656560903520916
+
+6. Gray B, Van Hazel G, Hope M, et al. Randomized trial of SIR-Spheres plus chemotherapy vs. chemotherapy alone for treating patients with liver metastases from primary large bowel cancer. Ann Oncol . 2001;12(12):1711-1720. doi:10.1023/a:1013569329846
+
+7. Hendlisz A, Van den Eynde M, Peeters M, et al. Phase III trial comparing protracted intravenous fluorouracil infusion alone or with yttrium-90 resin microspheres radioembolization for liver-limited metastatic colorectal cancer refractory to standard chemotherapy. J Clin Oncol . 2010;28(23):3687-3694. doi:10.1200/ JCO.2010.28.5643
+
+8. Hong K, Akinwande O, Bodei L, et al. ACR-ABS-ACNM-ASTRO-SIR-SNMMI practice parameter for selective internal radiation therapy or radioembolization for treatment of liver malignancies. Brachytherapy . 2021;20(3):497-511. doi:10.1016/j.brachy.2021.01.006
+
+9. Kennedy AS, Dezarn WA, McNeillie P, et al. Radioembolization for unresectable neuroendocrine hepatic metastases using resin 90Y-microspheres: early results in 148 patients. Am J Clin Oncol . 2008;31(3):271-279. doi:10.1097/COC.0b013e31815e4557
+
+10. Kennedy A, Nag S, Salem R, et al. Recommendations for radioembolization of hepatic malignancies using yttrium-90 microsphere brachytherapy: a consensus panel report from the radioembolization brachytherapy oncology consortium. Int J Radiat Oncol Biol Phys . 2007;68(1):13-23. doi:10.1016/j.ijrobp.2006.11.060
+
+11. King J, Quinn R, Glenn DM, et al. Radioembolization with selective internal radiation microspheres for neuroendocrine liver metastases. Cancer . 2008;113(5):921-929. doi:10.1002/cncr.23685
+
+12. Kouri BE, Abrams RA, Al-Refaie WB, et al. ACR Appropriateness Criteria ® radiologic management of hepatic malignancy. J Am Coll Radiol . 2016;13(3):265-273. doi:10.1016/j.jacr.2015.12.001
+
+13. Kulik LM, Atassi B, van Holsbeeck L, et al. Yttrium-90 microspheres (TheraSphere) treatment of unresectable hepatocellular carcinoma: downstaging to resection, RFA and bridge to transplantation. J Surg Oncol . 2006;94(7):572-586. doi:10.1002/jso.20609
+
+14. Kulick LM, Carr BI, Mulcahy MF, et al. Safety and efficacy of 90Y radiotherapy for hepatocellular carcinoma with and without portal vein thrombosis. Hepatology . 2008;47(1):71-81. doi:10.1002/hep.21980
+
+15. Lam MG, Abdelmaksoud MH, Chang DT, et al. Safety of 90Y radioembolization in patients who have undergone previous external beam radiation therapy. Int J Radiat Oncol Biol Phys . 2013;87(2):323-329. doi:10.1016/ j.ijrobp.2013.05.041
+
+16. Lau WY, Kennedy AS, Kim YH, et al. Patient selection and activity planning guide for selective internal radiotherapy with yttrium-90 resin microspheres. Int. J Radiat Oncol Biol Phys . 2012;82(1):401-407. doi:10.1016/j.ijrobp.2010.08.015
+
+17. Lau WY, Lai EC, Leung TW. Current role of selective internal irradiation with yttrium-90 microspheres in the management of hepatocellular carcinoma: a systematic review. Int J Radiat Oncol Biol Phys . 2011;81(2):460-467. doi:10.1016/j.ijrobp.2010.06.010
+
+18. Lewandowski RJ, Kulik LM, Riaz A, et al. A comparative analysis of transarterial downstaging for hepatocellular carcinoma: chemoembolization versus radioembolization. Am J Transplant . 2009;9(8):1920-1928. doi:10.1111/ j.1600-6143.2009.02695.x
+
+19. Llovet JM, Di Bisceglie AM, Bruix J, et al. Design and endpoints of clinical trials in hepatocellular carcinoma. J Natl Cancer Inst . 2008;100(10):698-711. doi:10.1093/jnci/djn134
+
+20. Llovet JM, Ricci S, Mazzaferro V, et al. Sorafenib in advanced hepatocellular carcinoma. N Engl J Med . 2008;359(4):378-390.
+
+21. Mazzaferro V, Regalia E, Doci R, et al. Liver transplantation for the treatment of small hepatocellular carcinomas in patients with cirrhosis. N Engl J Med . 1996;334(11):693-699. doi:10.1056/NEJM199603143341104
+
+22. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 1.2024 - April 9, 2024. Hepatocellular Carcinoma. https://www.nccn.org/professionals/physician\_gls/pdf/hcc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Hepatocellular Carcinoma Version 1.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+23. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - April 19, 2024. Biliary Tract Cancers. https://www.nccn.org/professionals/physician\_gls/pdf/btc.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Biliary Tract Cancers Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+24. Nichols EM, Grabowski S, Hanlon A, et al. Performance status (PS), number of lesions and interval from metastatic diagnosis treatment (IMDTT) predict for overall survival (OS) in patients treated with hepatic transarterial radioembolization (TARE) with Yttrium-90 (Y90) microspheres. Int J Radiat Oncol Biol Phys . 2011;81(suppl 2):S346-S347. Abstract 2281.
+
+25. Salem R, Lewandowski RJ, Mulcahy MF, et al. Radioembolization for hepatocellular carcinoma using Yttrium-90 microspheres: a comprehensive report of long-term outcomes. Gastroenterology . 2010;138(1):52-64. doi:10.1053/j.gastro.2009.09.006
+
+26. Salem R, Thurston KG. Radioembolization with 90Yttrium microspheres: a state-of-the-art brachytherapy treatment for primary and secondary liver malignancies. Part 1: Technical and methodological considerations [published correction appears in J Vasc Interv Radiol. 2006 Oct;17(10):1594]. J Vasc Interv Radiol . 2006;17(8):1251-1278. doi:10.1097/01.RVI.0000233785.75257.9A
+
+27. Salem R, Thurston KG. Radioembolization with 90Yttrium microspheres: a state-of-the-art brachytherapy treatment for primary and secondary liver malignancies. Part 2: special topics. J Vasc Interv Radiol . 2006;17(9):1425-1439. doi:10.1097/01.RVI.0000235779.88652.53
+
+28. Sangro B, Bilbao JI, Boan J, et al. Radioembolization using 90Y-resin microspheres for patients with advanced hepatocellular carcinoma. Int J Radiat Oncol Biol Phys . 2006;66(3):792-800. doi:10.1016/j.ijrobp.2006.05.065
+
+29. Saxena A, Bester L, Shan L, et al. A systematic review on the safety and efficacy of yttrium-90 radioembolization for unresectable, chemorefractory colorectal cancer liver metastases. J Cancer Res Clin Oncol . 2014;140(4):537-547.doi:10.1007/s00432-013-1564-4
+
+30. Schwarz RE, Abou-Alfa GK, Geschwind JF, et al. Nonoperative therapies for combined modality treatment of hepatocellular cancer: expert consensus statement. HPB (Oxford) . 2010;12(5):313-320. doi:10.1111/ j.1477-2574.2010.00183.x
+
+31. SIR-Spheres ® (Yttrium-90 Microspheres). Package insert. Sirtex Medical Inc. Updated January 23, 2003.
+
+32. TheraSphere ® Yttrium-90 Glass Microspheres. Package insert. MDS Nordion Inc. Updated January 4, 2000.
+
+33. Tsai AL, Burke CT, Kennedy AS, et al. Use of yttrium-90 microspheres in patients with advanced hepatocellular carcinoma and portal vein thrombosis. J Vasc Interv Radiol . 2010;21(9):1377-1384. doi:10.1016/ j.jvir.2010.04.027
+
+34. U. S. Food and Drug Administration (FDA) Center for Devices and Radiological Health (CDRH). Medical Device Reporting. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/Search.cfm
+
+35. U.S. Food and Drug Administration (FDA). Summary and Effectiveness Data, Radioactive Implant (Yttrium-90 microspheres). SIR-Spheres ® Issued March 5, 2002. https://www.accessdata.fda.gov/cdrh\_docs/pdf/ p990065b.pdf
+
+36. U.S. Food and Drug Administration (FDA). Summary of Safety and Probably Benefit, Yttrium-90 Glass Microsphere, TheraSphere ® Issued December 10, 1999. https://www.accessdata.fda.gov/cdrh\_docs/pdf/ H980006b.pdf
+
+37. Van Hazel G, Blackwell A, Anderson J, et al. Randomized phase 2 trial of SIR-Spheres plus fluorouracil/ leucovorin chemotherapy versus fluorouracil/leucovorin chemotherapy alone in advanced colorectal cancer. J Surg Oncol . 2004;88(2):78-85. doi:10.1002/jso.20141
+
+38. van Hazel GA, Heinemann V, Sharma NK, et al. SIRFLOX: Randomized Phase III Trial Comparing First-Line mFOLFOX6 (Plus or Minus Bevacizumab) Versus mFOLFOX6 (Plus or Minus Bevacizumab) Plus Selective Internal Radiation Therapy in Patients With Metastatic Colorectal Cancer [published correction appears in J Clin Oncol. 2016 Nov 20;34(33):4059]. J Clin Oncol . 2016;34(15):1723-1731. doi:10.1200/JCO.2015.66.1181
+
+POLICY
+
+- I. 177 Lu-PSMA given every 6 weeks for 4-6 cycles is considered medically necessary for individuals with progressive metastatic castration-resistant prostate cancer who meet ALL of the following conditions:
+
+- A. Have been treated with 1 or more androgen-receptor pathway inhibitors (ie, enzalutamide and/or abiraterone)
+
+- B. Have been treated with 1 or 2 taxane-based regimens
+
+- C. Have at least 1 PSMA-positive metastatic lesion and no PSMA-negative lesions on 68 Ga-PSMA-11 OR F-18 piflufolastat PSMA PET/CT scan
+
+1. PSMA negative lesions are defined as metastatic disease that lacks PSMA uptake including bone with soft tissue components ≥ 1.0 cm, lymph nodes ≥ 2.5 cm in short axis, solid organ metastases ≥ 1.0 cm in size.
+
+### Pluvicto ® (lutetium Lu 177 vipivotide tetraxetan)
+
+#### DISCUSSION
+
+The high expression of PSMA (prostate-specific membrane antigen) on prostate cancer cells has recently been leveraged for diagnostic and therapeutic purposes. Within the therapeutic realm, radioligand therapy using lutetium 177 was evaluated in the VISION trial.
+
+In this trial, 831 patients with metastatic castration-resistant prostate cancer (mCRPC) exhibiting disease progression after treatment with 1) one or more androgen-receptor (AR) pathway inhibitors and 2) one or two taxane regimens were randomized to either standard care plus 177 Lu-PSMA-617 (every 6 weeks for 4-6 cycles) or standard care alone in a 2:1 ratio. It is noted that patients who had received only 1 taxane were ineligible if they were deemed at baseline to be a candidate for receiving a second taxane. Patients must have had at least 1 PSMA-positive metastatic lesion and no PSMA-negative lesions as determined using a 68 Ga-PSMA-11 PET/CT. PSMA negative lesions were defined as metastatic disease that lacked "PSMA uptake including bone with soft tissue components &gt; 1.0 cm, lymph nodes &gt; 2.5 cm in short axis, solid organ metastases &gt; 1.0 cm in size". Standard care therapies included hormonal treatment (ie, abiraterone and enzalutamide), bisphosphonates, radiation therapy, denosumab or glucocorticoids and excluded chemotherapy, radioisotopes and immunotherapy.
+
+RO.RX.144.A
+
+v2.0.2024
+
+Alternate primary endpoints included radiographic progression-free survival (rPFS) and overall survival (OS).
+
+At a median follow-up of 20.9 months, rPFS was 8.7 months in the 177 Lu-PSMA-617 group vs. 3.4 months in the control group ( p &lt; 0.001). Median OS was 15.3 months in the 177 Lu-PSMA-617 group vs. 11.3 months in the control group ( p &lt; 0.001). Median time to the first symptomatic skeletal event or death (a secondary endpoint) was 11.5 months in the 177 Lu-PSMA-617 group vs. 6.8 months in the control group ( p &lt; 0.001).
+
+With respect to toxicity, the incidence of grade 3 or higher toxicity was greater in the 177 Lu-PSMA-617 group 52.7% vs. 38.0% in the control group driven by fatigue, anemia, thrombocytopenia, lymphopenia and leukopenia.
+
+Based on this data, on March 23 2022, Pluvicto ® (lutetium Lu 177 vipivotide tetraxetan) was FDA approved for the treatment of adult patients with PSMA-positive mCRPC who have been treated with AR pathway inhibition and taxane-based chemotherapy.
+
+#### References
+
+1. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 8, 2024. Prostate Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/prostate.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Prostate Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+2. Pluvicto. Prescribing Information. Advanced Accelerator Applications; 2022.
+
+3. Sartor O, de Bono J, Chi KN, et al. Lutetium-177-PSMA-617 for Metastatic Castration-Resistant Prostate Cancer. N Engl J Med . 2021;385(12):1091-1103. doi:10.1056/NEJMoa2107322
+
+4. Sartor O, de Bono J, Chi KN, et al. VISION: An International, Prospective, Open-Label, Multicenter, Randomized Phase 3 study of 177 Lu-PSMA-617 in the Treatment of Patients With Progressive PSMA-Positive Metastatic Castration-Resistant Prostate Cancer (MCRPC). Clinical Protocol Number PSMA-617-01 (version 1.0); 2018.
+
+POLICY
+
+- I. Radium-223 (Xofigo ® ) is considered medically necessary for the treatment of castration-resistant prostate cancer for an individual with ALL of the following:
+
+- A. Symptomatic skeletal (bone) metastases
+
+- B. No evidence of visceral metastases or bulky regional lymph nodes greater than 3 cm on imaging performed within the past 30 days
+
+- C. Who has received and exhausted all medical- or surgical-ablative hormonal treatments. An individual may be kept on his ablative hormonal treatment to maintain a castrate level in accordance with National Comprehensive Cancer Network (NCCN ® ) Guidelines ® .
+
+- D. Medically- or surgically-castration resistant prostate cancer, as defined by
+
+1. A serum testosterone level of less than 50 ng/dL and EITHER
+
+- a. Sequential rise of prostate specific antigen (PSA) levels or
+
+- b. Worsening of existing bone metastases or development of new bone metastases on a bone scan performed within the past 60 days despite androgen-deprivation treatment
+
+- II. The combination of Xofigo ® and gonadotropin-releasing hormone analogues, denosumab or zoledronic acid is considered medically necessary.
+
+- III. The combination of Xofigo ® and all other agents, including concurrent chemotherapy is considered not medically necessary.
+
+### Xofigo ® (Radium-223)
+
+#### DISCUSSION
+
+Radium-223 (Xofigo ® ) is an alpha emitter that targets areas of increased bone turnover in osteoblastic or sclerotic metastases. Xofigo ® is administered intravenously once a month for 6 months.
+
+A phase III study examined patients with castration resistant prostate cancer with 2 or more bone metastases and no visceral metastases and randomized them to Radium-223 or matching placebo. It found improved overall survival (OS) for patients who received Radium-223 with a survival of 14.9 months vs. 11.3 months ( p &lt; 0.001) in those who received best standard of care. The targeted nature of Radium-223 with alpha particles of short range minimizes myelosuppression and has limited effects on the normal tissue. Based on these results, Radium-223 is medically necessary for the
+
+RO.RX.142.C v2.0.2024
+
+treatment of castration resistant prostate cancer with bone metastases but no visceral metastases and is administered intravenously once a month for 6 months.
+
+**Please be aware that a new warning and precaution was identified by the company. Specifically, "Xofigo ® is not recommended for use in combination with abiraterone acetate plus prednisone/prednisolone outside of clinical trials". Bayer conducted the phase 3 (ERA-223) study that evaluated concurrent initiation of Xofigo in combination with abiraterone acetate plus prednisone/prednisolone in 806 asymptomatic or mildly symptomatic mCRPC patients. "At the primary analysis, an increased incidence of fractures (28.6% vs 11.4%) and deaths (38.5% vs 35.5%) have been observed in patients who received Xofigo in combination with abiraterone acetate plus prednisone/ prednisolone compared to patients who received placebo in combination with abiraterone acetate plus prednisone/prednisolone. Safety and efficacy with the combination of Xofigo and agents other than gonadotropin-releasing hormone analogues have not been established." (Bayer, 2018).
+
+#### References
+
+1. Hoskin P, Sartor O, O'Sullivan JM, et al. Efficacy and safety of radium-223 dichloride in patients with castrationresistant prostate cancer and symptomatic bone metastases, with or without previous docetaxel use: a prespecified subgroup analysis from the randomised, double-blind, phase 3 ALSYMPCA trial. Lancet Oncol . 2014;15(12):1397-1406. doi:10.1016/S1470-2045(14)70474-7
+
+2. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 8, 2024. Prostate Cancer. https://www.nccn.org/professionals/physician\_gls/pdf/prostate.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Prostate Cancer Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+3. Parker C, Nilsson S, Heinrich D, et al. Alpha emitter radium-223 and survival in metastatic prostate cancer. N Engl J Med . 2013;369(3):213-223. doi:10.1056/NEJMoa1213755
+
+4. Vapiwala N, Glatstein E. Fighting prostate cancer with radium-223--not your Madame's isotope. N Engl J Med . 2013;369(3):276-278. doi:10.1056/NEJMe1304041
+
+5. Xofigo. Prescribing information. Bayer HealthCare Pharmaceuticals Inc; 2013 (revised 12/2019). https:// www.accessdata.fda.gov/drugsatfda\_docs/label/2019/203971s016lbl.pdf
+
+POLICY
+
+- I. Indications
+
+- A. Radioimmunotherapy (RIT) with Zevalin ® is considered medically necessary for an individual with ANY of the following:
+
+1. Relapsed low grade B-cell CD20-positive follicular non-Hodgkin lymphomas (NHLs)
+
+2. Refractory low grade B-cell CD20-positive follicular NHLs
+
+3. Newly diagnosed (consolidation after chemotherapy) low grade B-cell CD20positive NHLs after at least a partial response (PR) to therapy
+
+4. Newly diagnosed (initial treatment) low grade B-cell CD20-positive follicular NHLs for the elderly or infirm when no other option is expected to be tolerated
+
+5. Transformed B-cell follicular NHLs that are CD20-positive
+
+- II. Dosage
+
+- A. The administered activity for Zevalin ® is based on weight (0.4 mCi/kg for a platelet count ≥ 150,000; 0.3 mCi/kg for a platelet count of 100,000 to 149,000). The maximum dose should not exceed 32 mCi (1,184 MBq). An individual is required to have an absolute neutrophil count (ANC) ≥ 1,500 and a bone marrow biopsy that reveals &lt; 25% involvement with lymphoma.
+
+### Zevalin ®
+
+#### DISCUSSION
+
+Currently, there is 1 Food and Drug Administration (FDA) approved RIT agent in the United States (US), 90 Y ibritumomab tiuxetan (Zevalin ® ). Tositumomab (Bexxar™) was withdrawn permanently from the US market in February 2014. Zevalin ® has FDA approval for relapsed or refractory CD20 positive follicular NHL and as a frontline adjuvant agent for CD20 positive follicular NHL achieving a complete response (CR) or partial response (PR) to induction chemotherapy (consolidation after chemotherapy). It contains murine Immunoglobulin-G (IgG) monoclonal antibodies (mAbs) that target the CD20 surface antigen on CD20 positive follicular NHL.
+
+Zevalin ® utilizes 90 Y, a pure β -particle emitter with a physical half-life of 2.7 days. The β -particle has an energy of 2.3 megaelectronvolts (MeV) and a maximum tissue penetration of approximately 12.0 mm (R90 = 5.2 mm). As such, physical contact
+
+- I. Agent
+
+RO.RX.143.C v2.0.2024
+
+with loved ones after administration is not limited except that sexual intercourse and kissing should be avoided in the first 24 hours. Tiuxetan is a DTPA-type chelate that attaches 90 Y to the mAb, ibritumomab. Because there is no gamma emission in the spectrum of this isotope, it is not visualized by gamma camera scans. As a result, a biodistribution assessment cannot be performed. Therefore, a surrogate imaging radionuclide that emits gamma radiation ( 111 In) is required.
+
+The treatment is delivered over 1 to 2 weeks. On day 1, an infusion of nonradioactive (cold) rituximab is delivered. This is designed to saturate the CD20 antigen sink (depletion of peripheral B-cells and the binding of nonspecific sites in the liver and spleen) and provide antibody mass, which improves biodistribution and tumor targeting.
+
+The administered activity for Zevalin ® is based on weight (0.4 mCi/kg for a platelet count ≥ 150,000; 0.3 mCi/kg for a platelet count of 100,000 to 149,000; maximum of 32 mCi). A single gamma scan ( 111 In ibritumomab tiuxetan) is used to confirm a normal biodistribution on days 3 to 4. A review of the Zevalin ® imaging registry reveals that only 0.6% of scans exhibited an altered biodistribution. An eligible individual is also required to have an absolute neutrophil count (ANC) ≥ 1500 and a bone marrow biopsy that reveals &lt; 25% involvement with lymphoma.
+
+- II. Discussion of indications
+
+- A. Relapsed or refractory setting
+
+There is no standard therapy for an individual with relapsed or refractory FL, and practice varies widely; as such, an individual should be encouraged to participate in clinical trials whenever possible.
+
+The main treatment options for an individual with relapsed or refractory FL include:
+
+1. Clinical trials of new agents or new combinations of existing agents
+
+2. Immunotherapy either with single agent rituximab or rituximab plus chemotherapy
+
+3. RIT with radiolabeled antibodies
+
+4. Re-challenge of original therapy
+
+5. High dose chemotherapy with autologous hematopoietic cell transplantation (HCT) rescue
+
+6. Allogeneic HCT
+
+RIT has demonstrated response rates of approximately 60% to 80%. However, RIT is not recommended for an individual with poor bone marrow reserve or high tumor burden in the bone marrow and requires coordination with physicians trained in the safe use of radionucleotides.
+
+Prospective trials of RIT demonstrate response rates of 60% to 80% in previously treated disease (Buchegger et al, 2006; Davies et al, 2004; Davis et al, 2004;
+
+Fisher et al, 2005; Horning et al, 2005; Leahy et al, 2006; Vose et al, 2000; Wiseman et al, 2002). Median progression-free survival (PFS) is less than 1 year, but an individual who achieves a complete response has a median time to progression of close to 4 years (Gordon et al, 2004; Witzig et al, 2007).
+
+A phase III study comparing Zevalin ® versus rituximab for patients with relapsed or refractory low-grade follicular B-cell NHL or transformed NHL was performed (Witzig et al, 2002). Patients were randomized to either a single intravenous (IV) dose of Zevalin ® 0.4 mCi/kg (n = 73) or IV rituximab 375 mg/m 2 weekly for 4 doses (n = 70). The RIT group was pre-treated with 2 rituximab doses (250 mg/m 2 ) to improve biodistribution and tumor targeting. After the first rituximab dose on day 1, 111 In ibritumomab tiuxetan was administered to assess biodistribution and to aide in dosimetry. No patients received the therapeutic dose of Zevalin ® if &gt; 20 Gy or 3 Gy was calculated to any non-tumor organ or the red marrow, respectively. Zevalin ® was administered after the second rituximab dose approximately 1 week (days 7 to 9) after the first dose of rituximab and 111 In ibritumomab tiuxetan. The administered activity of Zevalin ® was capped at 32 mCi. Patients in both arms of the study received 2 prior chemotherapy regimens. The overall response rate (ORR) was 80% for Zevalin ® and 56% for rituximab ( p = 0.002). The CR rates were 30% and 16% ( p = 0.04), respectively, in the Zevalin ® and rituximab group. Durable responses ≥ 6 months were 64% versus 47% ( p = 0.030) for Zevalin ® versus rituximab. The conclusion of the study was that RIT with Zevalin ® was well tolerated and resulted in statistically significant and clinically significant higher ORRs and CRs than rituximab alone.
+
+In a pivotal, nonrandomized, phase III multicenter trial (Kaminski et al, 2001), patients with relapsed, refractory, or transformed follicular B-cell NHL were treated with Bexxar™ (n = 60). A single dose resulted in an overall response rate of 65% (20% CR). Eligible patients were required to have been treated with at least 2 prior protocol-specific chemotherapy regimens (median of 4 regimens in the study) and to either have not responded or progressed within 6 months of therapy. A PR or CR was observed in 39 patients (65%) after Bexxar™ compared to 17 patients (28%) after last qualifying chemotherapy (LQC) ( p &lt; 0.001). The median duration of response was 6.5 months for Bexxar™ and 3.5 months for the LQC group ( p &lt;0.001). The CR rate was 20% for Bexxar™ and 3% for the LQC group ( p &lt; 0.001). The conclusion of the study was that a single dose of Bexxar™ was significantly more efficacious than the LQC received by heavily pre-treated patients with relapse or refractory follicular B-cell NHL.
+
+Early evidence suggests that an individual relapsing following treatment with RIT may tolerate other treatment approaches including chemotherapy, external beam radiation therapy (EBRT) with photons and/or electrons, and autologous HCT.
+
+- B. Frontline therapy
+
+Seventy to 85 percent of individuals present with advanced stage disease. Individuals with advanced stage disease are usually not cured with conventional treatment. While remissions can be attained, repeated relapses are common. Treatment focuses on the alleviation of symptoms, reversal of cytopenias, and improvement of quality of life. The disease course is variable with some individuals demonstrating stable disease for years and others progressing more rapidly. Rarely, individuals may have spontaneous remissions lasting longer than 1 year.
+
+Considering the concerns about RIT for treating large bulky tumors (tumor penetration, overall required dose, non-uniform dose distribution), it would appear that bringing RIT into a frontline therapeutic setting after induction chemotherapy and maximum cyto-reduction would be the next logical direction.
+
+A phase III first-line indolent trial (FIT) of consolidation with Zevalin ® compared to no additional therapy after first remission was reported for follicular B-cell NHL (Morschhauser et al, 2013; Morschhauser et al, 2008).
+
+Patients with CD20+ stage III/IV follicular B-cell NHL who achieved a PR or CR to induction chemotherapy were randomized to Zevalin ® (n = 208) or to the control arm, representing no further treatment (n = 206). After a median follow-up of 7.3 years, consolidation with Zevalin ® resulted in an estimated 8-year PFS advantage of 41% versus 22% in the control arm ( p &lt; 0.0001). The median PFS was 4.1 years vs. 1.1 years, respectively ( p &lt; 0.001). No significant difference in overall survival (84% vs. 81%) was observed between treatment arms. The incidence of secondary malignancies was higher in the RIT arm, but the difference was not statistically significant (13% vs. 7%). Incidence of myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML) was significantly higher in RIT arm with an actuarial 8-year incidence rate of 4.2% vs. 0.6% ( p &lt; 0.042). Only 14% of patients in this study received rituximab in combination with chemotherapy as induction. The estimated 8-year PFS advantage was 56% versus 45% in the control arm. The median PFS was 7.9 years vs. 4.9 years, respectively. The difference in PFS outcomes was not significant in this subgroup; however, the trial was not statistically powered to detect differences in subgroups based on induction therapies. Since only a small portion of patients enrolled in the FIT trial received rituximab-containing induction therapy, the effects of RIT consolidation following rituximab-containing regimens cannot be fully evaluated.
+
+The phase III randomized intergroup study by the Southwest Oncology Group (SWOG)/Cancer and Leukemia Group B (CALGB) (S0016) evaluated the role of RIT consolidation following R-CHOP. In this study, 554 patients with newly diagnosed FL were randomly assigned to chemoimmunotherapy alone (RCHOP for 6 cycles) or to chemotherapy plus a radioimmunoconjugate (CHOP for 6 cycles followed by 131 I). When compared with R-CHOP, CHOP plus Bexxar™ resulted in similar rates of overall (84% each) and complete (45% vs. 40%) remissions.
+
+Severe (grade 3/4) thrombocytopenia was greater (18% vs. 2%) among those who received a radioimmunoconjugate. At a median follow-up of 4.9 years, chemoimmunotherapy alone resulted in similar rates of PFS (76% vs. 80%) and OS (97% vs. 93%) at 2 years.
+
+These trials suggest that consolidation with a radioimmunoconjugate may be able to improve the quality of remission by converting PRs into CRs. Indication of RIT in relapsed or refractory disease as well as consolidation in frontline therapy when chemotherapy alone has been used for induction is well supported in literature. However, it is not known whether the addition of an anti-CD20 radioimmunoconjugate improves outcomes of an individual already receiving chemoimmunotherapy. The role in the frontline setting is under investigation.
+
+In frontline setting, RIT is also indicated for the elderly or infirm when no other option is expected to be tolerated.
+
+- C. Off-label use of radioimmunoconjugates as single-agent therapy for the management of previously untreated disease
+
+Nonrandomized trials support use of radioimmunoconjugates as single-agent therapy for the management of previously untreated disease. While initial reports suggest good response rates and tolerability, long-term follow-up of such an approach is limited. The following describes the largest phase II trials evaluating RIT for initial management of advanced stage FL:
+
+In an international phase II trial (Scholz et al, 2013) of 59 older patients (&gt; 50) with stage II to IV FL, Zevalin ® was used as first line therapy and resulted in an ORR of 87% at 6 months with 56% of patients achieving a CR. After a median follow-up of 31 months, the median PFS was 26 months and the median overall survival had not been reached. Rates of PFS at 1 and 2 years were 77% and 54%, respectively. Severe (grade 3/4) thrombocytopenia, leukopenia, neutropenia, and lymphopenia were seen in approximately 48%, 34%, 32%, and 20%. Non-hematologic toxicities were mostly mild to moderate and included infections (20%) and gastrointestinal toxicities (10 %).
+
+In an international phase II trial (Illidge et al, 2014), 74 patients with previously untreated FL (78% advanced stage) received 2 cycles of Zevalin ® . Patients with &gt; 20% bone marrow infiltration were pretreated with 4 cycles of rituximab. The overall response rate was 94% (CR/complete response unconfirmed [CRu] 58%). At a median follow-up of 3 years, the estimated rates of PFS and OS at 3 years were 58% and 95%, respectively. Median PFS was 40 months. Toxicity was mild with the most common side effects being lethargy and gastrointestinal side effects.
+
+In another phase II trial evaluating Bexxar™ (Kaminski et al, 2005) in 76 patients with stage III or IV FL requiring therapy, the ORR was 95% with 75% CRs.
+
+The median PFS was 6 years and the 10-year PFS rate was 40%. One patient developed MDS 8 years after treatment.
+
+- D. Histologic transformation of follicular lymphoma
+
+The most commonly employed treatment regimens for an individual with histologic transformation (HT) includes conventional chemotherapy with immunotherapy (eg, CHOP), RIT, and high-dose therapy followed by autologous HCT. An individual who is not a candidate for HCT may be considered for RIT.
+
+An individual with HT of FL who is resistant to initial therapy or who relapses following initial therapy, is expected to do poorly. Available treatment options include enrollment in a clinical trial, use of chemotherapy regimens similar to that employed in relapsed/resistant diffuse large B cell lymphoma (DLBCL), or RIT. An individual with disease that responds to treatment may be a candidate for autologous or allogeneic HCT.
+
+There are no prospective trials evaluating the use of RIT as consolidation in individuals with chemotherapy sensitive HT or DLBCL. Some clinicians offer the off-label use of RIT as consolidation in individuals with chemotherapy sensitive HT who have received extensive prior therapy and who are not candidates for autologous HCT. Given the paucity of data regarding this approach, RIT should be used in the context of a clinical trial.
+
+- E. Preparative regimens for HCT - (experimental, investigational or unproven [EIU])
+
+The maximally tolerated dose of total body irradiation (TBI) is approximately 15 Gy. A randomized trial comparing 12 and 16 Gy found that the higher dose was associated with a lower relapse rate (12% vs. 35% at 3 years in patients with acute myeloid leukemia) (Clift et al, 1991). One approach to achieving this goal has been the administration of mAbs radiolabeled with high energy emitting radioisotope. This would permit targeting of the radiation dose to the tumor cells and marrow with potential reduction in dose to other organs, such as the liver, lungs and kidneys.
+
+RIT has been added to standard preparative regimens in the autologous setting for the treatment of patients with B cell NHL, with encouraging preliminary results and tolerable toxicity profiles (Gopal et al, 2007; Gopal et al, 2011; Krishnan et al, 2008). A randomized trial comparing Bexxar™-BEAM with BEAM has been conducted by the Bone Marrow Transplantation Clinical Trials Network (BMTCTN 0401). Patient accrual has been completed, but results have not yet been released.
+
+- F. Toxicities
+
+The most profound side effects of RIT are potentially prolonged and significant cytopenias with cell count nadirs ranging from 4 to 9 weeks post-therapy with recovery 1 to 4 weeks post-nadir. The most common cytopenias are leucopenia and thrombocytopenia, which are easily managed in the majority of individuals. RIT causes a transient depletion of B cells for approximately 6 to 9 months, but has not been associated with significant increases in severe infections or hospitalizations. RIT can be associated with an infusion reaction similar to that seen with other monoclonal antibodies.
+
+Although initial reports suggested a possible risk of treatment-related MDS (t-MDS) and acute myeloid leukemia (t-AML), the rate of t-MDS and t-AML does not appear to be increased. An evaluation of 746 patients treated for NHL with Zevalin ® found that the rates of t-MDS and t-AML were not increased compared with historic rates in those who had received multiple chemotherapeutic regimens (Czuczman et al, 2007).
+
+A bilateral bone marrow biopsy is required prior to the initiation of RIT to assess bone marrow involvement. RIT is not recommended in an individual with inadequate marrow reserve (ie, platelet count &lt; 100,000/microL, absolute neutrophil count &lt; 1,500/microL, bone marrow cellularity &lt; 15%), lymphoma bone marrow involvement &gt; 25%, or previous radiation to &gt; 25% of active marrow sites. Due to the risk of delayed hematologic toxicity, an individual should have blood count monitoring at least weekly following treatment until hematologic recovery.
+
+- III. Contraindications
+
+- A. Poor bone marrow reserve (platelet count &lt; 100,000/microL, absolute neutrophil count &lt; 1,500/microL, bone marrow cellularity &lt; 15%)
+
+- B. High tumor burden in the bone marrow (lymphoma bone marrow involvement &gt; 25%). Bilateral cores are recommended and the pathologist should provide the percent of cellular elements involved in the marrow. Cytogenetics +/- fluorescence in situ hybridization (FISH) for known myelodysplastic syndrome (MDS) markers. A trend towards an increased risk of MDS with RIT has been suggested.
+
+- C. Previous radiation to &gt; 25% of active marrow sites
+
+- D. In an individual with prior autologous stem cell rescue, referral to a tertiary care center is highly recommended.
+
+- E. An individual who is pregnant
+
+- IV. Investigational
+
+- A. Newly diagnosed (consolidation after chemoimmunotherapy)
+
+1. It is not known whether the addition of RIT improves the outcome of the individual receiving chemoimmunotherapy. The role in the frontline setting is under investigation.
+
+- B. RIT as single-agent (initial therapy/previously untreated disease)
+
+- C. Preparative regimens for hematopoietic cell transplantation (HCT)
+
+- D. Any type of NHL other than mentioned above
+
+- E. Solid tumors
+
+#### References
+
+1. Akabani G, Reardon DA, Coleman RE, et al. Dosimetry and radiographic analysis of 131I-labeled anti-tenascin 81C6 murine monoclonal antibody in newly diagnosed patients with malignant gliomas: a phase II study. J Nucl Med . 2005;46(6):1042-1051.
+
+2. American College of Radiology. ACR-ACNM-ASTRO-SNMMI practice parameter for the performance of therapy with unsealed radiopharmaceutical sources. Revised 2019. https://www.acr.org/-/media/ACR/Files/PracticeParameters/unsealedsources.pdf
+
+3. Brady LW, Markoe AM, Woo DV, et al. Iodine-125-labeled anti-epidermal growth factor receptor-425 in the treatment of glioblastoma multiforme: A pilot study. Front Radiat Ther Oncol . 1990;24:151-165. doi:10.1159/000417780
+
+4. Buchegger F, Antonescu C, Delaloye AB, et al. Long-term complete responses after 131I-tositumomab therapy for relapsed or refractory indolent non-Hodgkin's lymphoma. Br J Cancer . 2006;94(12):1770-1776. doi:10.1038/ sj.bjc.6603166
+
+5. Burdick M, Macklis RM. Radioimmunotherapy for non-hodgkin lymphoma: a clinical update. In: Speer TW, ed. Targeted Radionuclide Therapy . Wolters Kluwer Health/Lippincott William &amp; Wilkins; 2011:426-440.
+
+6. Chatal JF, Campion L, Kraeber-Bodéré F, et al. Survival improvement in patients with medullary thyroid carcinoma who undergo pretargeted anti-carcinoembryonic-antigen radioimmunotherapy: a collaborative study with the French Endocrine Tumor Group. J Clin Oncol . 2006;24(11):1705-1711. doi:10.1200/JCO.2005.04.4917
+
+7. Chen S, Yu L, Jiang C, et al. Pivotal study of iodine-131-labeled chimeric tumor necrosis treatment radioimmunotherapy in patients with advanced lung cancer. J Clin Oncol . 2005;23(7):1538-1547. doi:10.1200/ JCO.2005.06.108
+
+8. Cheson BD. Radioimmunotherapy of non-Hodgkin lymphomas. Blood . 2003;101(2):391-398. doi:10.1182/ blood-2002-06-1793
+
+9. Clift RA, Buckner CD, Appelbaum FR, et al. Allogeneic marrow transplantation in patients with chronic myeloid leukemia in the chronic phase: a randomized trial of two irradiation regimens. Blood . 1991;77(8):1660-1665.
+
+10. Cokgor I, Akabani G, Kuan CT, et al. Phase I trial results of iodine-131-labeled antitenascin monoclonal antibody 81C6 treatment of patients with newly diagnosed malignant gliomas. J Clin Oncol . 2000;18(22):3862-3872. doi:10.1200/JCO.2000.18.22.3862
+
+11. Czuczman MS, Emmanouilides C, Darif M, et al. Treatment-related myelodysplastic syndrome and acute myelogenous leukemia in patients treated with ibritumomab tiuxetan radioimmunotherapy. J Clin Oncol . 2007;25(27):4285-4292. doi:10.1200/JCO.2006.09.2882
+
+12. Davies AJ, Rohatiner AZ, Howell S, et al. Tositumomab and iodine I 131 tositumomab for recurrent indolent and transformed B-cell non-Hodgkin's lymphoma. J Clin Oncol . 2004;22(8):1469-1479. doi:10.1200/ JCO.2004.06.055
+
+13. Davis TA, Kaminski MS, Leonard JP, et al. The radioisotope contributes significantly to the activity of radioimmunotherapy. Clin Cancer Res . 2004;10(23):7792-7798. doi:10.1158/1078-0432.CCR-04-0756
+
+14. Devizzi L, Guidetti A, Seregni E, et al. Long-Term Results of Autologous Hematopoietic Stem-Cell Transplantation After High-Dose 90Y-Ibritumomab Tiuxetan for Patients With Poor-Risk Non-Hodgkin Lymphoma Not Eligible for High-Dose BEAM. J Clin Oncol . 2013;31(23):2974-2976. doi:10.1200/ JCO.2013.50.2922
+
+15. Dillman RO. Radiolabeled anti-CD20 monoclonal antibodies for the treatment of B-cell lymphoma. J Clin Oncol . 2002;20(16):3545-3557. doi:10.1200/JCO.2002.02.126
+
+16. Emrich JG, Brady LW, Quang TS, et al. Radioiodinated (I-125) monoclonal antibody 425 in the treatment of high grade glioma patients: ten-year synopsis of a novel treatment. Am J Clin Oncol . 2002;25(6):541-546. doi:10.1097/00000421-200212000-00001
+
+17. Epenetos AA, Hird V, Lambert H, Mason P, Coulter C. Long term survival of patients with advanced ovarian cancer treated with intraperitoneal radioimmunotherapy. Int J Gynecol Cancer . 2000;10(S1):44-46. doi:10.1046/ j.1525-1438.2000.99510.x
+
+18. FDA Drug Shortages: Current and Resolved Drug Shortages and Discontinuations Reported to FDA. U.S. Food &amp; Drug Administration. https://www.accessdata.fda.gov/scripts/drugshortages/dsp\_ActiveIngredientDetails.cfm? AI=Tositumomab%20and%20Iodine%20I%20131%20Tositumomab%20(Bexxar)&amp;st=d
+
+19. Fisher RI, Kaminski MS, Wahl RL, et al. Tositumomab and iodine-131 tositumomab produces durable complete remissions in a subset of heavily pretreated patients with low-grade and transformed non-Hodgkin's lymphomas. J Clin Oncol . 2005;23(30):7565-7573. doi:10.1200/JCO.2004.00.9217
+
+20. Forero A, Weiden PL, Vose JM, et al. Phase 1 trial of a novel anti-CD20 fusion protein in pretargeted radioimmunotherapy for B-cell non-Hodgkin lymphoma. Blood . 2004;104(1):227-236. doi:10.1182/ blood-2003-09-3284
+
+21. Gopal AK, Guthrie KA, Rajendran J, et al. 90 Y-Ibritumomab tiuxetan, fludarabine, and TBI-based nonmyeloablative allogeneic transplantation conditioning for patients with persistent high-risk B-cell lymphoma. Blood . 2011;118(4):1132-1139. doi:10.1182/blood-2010-12-324392
+
+22. Gopal AK, Rajendran JG, Gooley TA, et al. High-dose [131I]tositumomab (anti-CD20) radioimmunotherapy and autologous hematopoietic stem-cell transplantation for adults ≥ 60 years old with relapsed or refractory B-cell lymphoma. J Clin Oncol . 2007;25(11):1396-1402.
+
+23. Gordon LI, Molina A, Witzig T, et al. Durable responses after ibritumomab tiuxetan radioimmunotherapy for CD20+ B-cell lymphoma: long-term follow-up of a phase 1/2 study. Blood . 2004;103(12):4429-4431. doi:10.1182/blood-2003-11-3883
+
+24. Hainsworth JD, Spigel DR, Markus TM, et al. Rituximab plus short-duration chemotherapy followed by Yttrium-90 Ibritumomab tiuxetan as first-line treatment for patients with follicular non-Hodgkin lymphoma: a phase II trial of the Sarah Cannon Oncology Research Consortium. Clin Lymphoma Myeloma . 2009;9(3):223-228. doi:10.3816/CLM.2009.n.044
+
+25. Hernandez MC, Knox SJ. Radiobiology of radioimmunotherapy: targeting CD20 B-cell antigen in non-Hodgkin's lymphoma. Int J Radiat Oncol Biol Phys . 2004;59(5):1274-1287. doi:10.1016/j.ijrobp.2004.02.065
+
+26. Hopkins K, Chandler C, Bullimore J, Sandeman D, Coakham H, Kemshead JT. A pilot study of the treatment of patients with recurrent malignant gliomas with intratumoral yttrium-90 radioimmunoconjugates. Radiother Oncol . 1995;34(2):121-131. doi:10.1016/0167-8140(95)01514-h
+
+27. Hopkins K, Chandler C, Eatough J, Moss T, Kemshead JT. Direct injection of 90Y MoAbs into glioma tumor resection cavities leads to limited diffusion of the radioimmunoconjugates into normal brain parenchyma: a model to estimate absorbed radiation dose. Int J Radiat Oncol Biol Phys . 1998;40(4):835-844. doi:10.1016/ s0360-3016(97)00915-2
+
+28. Horning SJ, Younes A, Jain V, et al. Efficacy and safety of tositumomab and iodine-131 tositumomab (Bexxar) in B-cell lymphoma, progressive after rituximab. J Clin Oncol . 2005;23(4):712-719. doi:10.1200/JCO.2005.07.040
+
+29. Illidge TM, Mayes S, Pettengell R, et al. Fractionated 90 Y-ibritumomab tiuxetan radioimmunotherapy as an initial therapy of follicular lymphoma: an international phase II study in patients requiring treatment according to GELF/BNLI criteria. J Clin Oncol . 2014;32(3):212-218. doi:10.1200/JCO.2013.50.3110
+
+30. Jacobs SA, Swerdlow SH, Kant J, et al. Phase II trial of short-course CHOP-R followed by 90Yibritumomab tiuxetan and extended rituximab in previously untreated follicular lymphoma. Clin Cancer Res . 2008;14(21):7088-7094. doi:10.1158/1078-0432.CCR-08-0529
+
+31. Kalofonos HP, Pawlikowska TR, Hemingway A, et al. Antibody guided diagnosis and therapy of brain gliomas using radiolabeled monoclonal antibodies against epidermal growth factor receptor and placental alkaline phosphatase. J Nucl Med . 1989;30(10):1636-1645.
+
+32. Kaminski MS, Tuck M, Estes J, et al. 131I-tositumomab therapy as initial treatment for follicular lymphoma. N Engl J Med . 2005;352(5):441-449. doi:10.1056/NEJMoa041511
+
+33. Kaminski MS, Zelenetz AD, Press OW, et al. Pivotal study of iodine I 131 tositumomab for chemotherapyrefractory low-grade or transformed low-grade B-cell non-Hodgkin's lymphomas. J Clin Oncol . 2001;19(19):3918-3928. doi:10.1200/JCO.2001.19.19.3918
+
+34. Keegan P. Zevalin (ibritumomab tiuxetan) Supplement Approval. Food and Drug Administration. September 3, 2009. https://www.accessdata.fda.gov/drugsatfda\_docs/appletter/2009/125019s0156ltr.pdf
+
+35. Kraeber-Bodéré F, Rousseau C, Bodet-Milin C, et al. Targeting, toxicity, and efficacy of 2-step, pretargeted radioimmunotherapy using a chimeric bispecific antibody and 131I-labeled bivalent hapten in a phase I optimization clinical trial. J Nucl Med . 2006;47(2):247-255.
+
+36. Krishnan A, Nademanee A, Fung HC, et al. Phase II trial of a transplantation regimen of yttrium-90 ibritumomab tiuxetan and high-dose chemotherapy in patients with non-Hodgkin's lymphoma. J Clin Oncol . 2008;26(1):90-95. doi:10.1200/JCO.2007.11.9248
+
+37. Leahy MF, Seymour JF, Hicks RJ, Turner JH. Multicenter phase II clinical study of iodine-131-rituximab radioimmunotherapy in relapsed or refractory indolent non-Hodgkin's lymphoma. J Clin Oncol . 2006;24(27):4418-4425. doi:10.1200/JCO.2005.05.3470
+
+38. Leahy MF, Turner JH. Radioimmunotherapy of relapsed indolent non-Hodgkin lymphoma with 131Irituximab in routine clinical practice: 10-year single-institution experience of 142 consecutive patients. Blood . 2011;117(1):45-52. doi:10.1182/blood-2010-02-269753
+
+39. Leonard JP, Siegel JA, Goldsmith SJ. Comparative physical and pharmacologic characteristics of iodine-131 and yttrium-90: implications for radioimmunotherapy for patients with non-Hodgkin's lymphoma. Cancer Invest . 2003;21(2):241-252. doi:10.1081/cnv-120016421
+
+40. Mamelak AN, Rosenfeld S, Bucholz R, et al. Phase I single-dose study of intracavitary-administered iodine-131TM-601 in adults with recurrent high-grade glioma. J Clin Oncol . 2006;24(22):3644-3650. doi:10.1200/ JCO.2005.05.4569
+
+41. McLendon RE, Akabani G, Friedman HS, et al. Tumor resection cavity administered iodine-131-labeled antitenascin 81C6 radioimmunotherapy in patients with malignant glioma: neuropathology aspects. Nucl Med Biol . 2007;34(4):405-413. doi:10.1016/j.nucmedbio.2007.01.009
+
+42. Morschhauser F, Radford J, Van Hoof A, et al. 90Yttrium-ibritumomab tiuxetan consolidation of first remission in advanced-stage follicular non-Hodgkin lymphoma: updated results after a median follow-up of 7.3 years from the International, Randomized, Phase III First-Line Indolent trial. J Clin Oncol . 2013;31(16):1977-1983. doi:10.1200/JCO.2012.45.6400
+
+43. Morschhauser F, Radford J, Van Hoof A, et al. Phase III trial of consolidation therapy with yttrium-90ibritumomab tiuxetan compared with no additional therapy after first remission in advanced follicular lymphoma. J Clin Oncol . 2008;26(32):5156-5164. doi:10.1200/JCO.2008.17.2015
+
+44. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - March 26, 2024. Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma. https://www.nccn.org/professionals/physician\_gls/ pdf/cll.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+45. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - April 30, 2024. B-cell Lymphomas. https://www.nccn.org/professionals/physician\_gls/pdf/b-cell.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for B-Cell Lymphomas Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+46. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 2.2024 - May 6, 2024. Primary Cutaneous Lymphomas. https://www.nccn.org/professionals/physician\_gls/pdf/primary\_cutaneous.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for Primary Cutaneous Lymphomas Version 2.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+47. National Comprehensive Cancer Network ® (NCCN ® ) Guidelines ® Version 3.2024 - April 11, 2024. T-cell Lymphomas. https://www.nccn.org/professionals/physician\_gls/pdf/t-cell.pdf. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines ® ) for T-Cell Lymphomas Version 3.2024. © 2024 National Comprehensive Cancer Network ® (NCCN ® ). All rights reserved. NCCN Guidelines ® and illustrations herein may not be reproduced in any form for any purpose without the express written permission of the NCCN. To view the most recent and complete version of the NCCN Guidelines ® , go online to NCCN.org.
+
+48. Oei AL, Verheijen RH, Seiden MV, et al. Decreased intraperitoneal disease recurrence in epithelial ovarian cancer patients receiving intraperitoneal consolidation treatment with yttrium-90-labeled murine HMFG1 without improvement in overall survival. Int J Cancer . 2007;120(12):2710-2714. doi:10.1002/ijc.22663
+
+49. Order S, Pajak T, Leibel S, et al. A randomized prospective trial comparing full dose chemotherapy to 131I antiferritin: an RTOG study. Int J Radiat Oncol Biol Phys . 1991;20(5):953-963. doi:10.1016/0360-3016(91)90191-6
+
+50. Pandit-Taskar N, O'Donoghue JA, Morris MJ, et al. Antibody mass escalation study in patients with castration-resistant prostate cancer using 111In-J591: lesion detectability and dosimetric projections for 90Y radioimmunotherapy. J Nucl Med . 2008;49(7):1066-1074. doi:10.2967/jnumed.107.049502
+
+51. Papanastassiou V, Pizer BL, Coakham HB, Bullimore J, Zananiri T, Kemshead JT. Treatment of recurrent and cystic malignant gliomas by a single intracavity injection of 131I monoclonal antibody: feasibility, pharmacokinetics and dosimetry. Br J Cancer . 1993;67(1):144-151. doi:10.1038/bjc.1993.25
+
+52. Press OW, Unger JM, Rimsza LM, et al. Phase III randomized intergroup trial of CHOP plus rituximab compared with CHOP chemotherapy plus (131)iodine-tositumomab for previously untreated follicular non-Hodgkin lymphoma: SWOG S0016. J Clin Oncol . 2013;31(3):314-320. doi:10.1200/JCO.2012.42.4101
+
+53. Reardon DA, Akabani G, Coleman RE, et al. Salvage radioimmunotherapy with murine iodine-131-labeled antitenascin monoclonal antibody 81C6 for patients with recurrent primary and metastatic malignant brain tumors: phase II study results [published correction appears in J Clin Oncol. 2006 Mar 20;24(9):1484. Guruangan, Sri [corrected to Gururangan, Sridharan]]. J Clin Oncol . 2006;24(1):115-122. doi:10.1200/ JCO.2005.03.4082
+
+54. Reardon DA, Akabani G, Coleman RE, et al. Phase II trial of murine (131)I-labeled antitenascin monoclonal antibody 81C6 administered into surgically created resection cavities of patients with newly diagnosed malignant gliomas. J Clin Oncol . 2002;20(5):1389-1397. doi:10.1200/JCO.2002.20.5.1389
+
+55. Reardon DA, Zalutsky MR, Akabani G, et al. A pilot study: 131I-antitenascin monoclonal antibody 81c6 to deliver a 44-Gy resection cavity boost. Neuro Oncol . 2008;10(2):182-189. doi:10.1215/15228517-2007-053
+
+56. Riva P, Franceschi G, Arista A, et al. Local application of radiolabeled monoclonal antibodies in the treatment of high grade malignant gliomas: a six-year clinical experience. Cancer . 1997;80(12 Suppl):2733-2742. doi:10.1002/(sici)1097-0142(19971215)80:12+&lt;2733::aid-cncr53&gt;3.3.co;2-8
+
+57. Scholz CW, Pinto A, Linkesch W, et al. (90)Yttrium-ibritumomab-tiuxetan as first-line treatment for follicular lymphoma: 30 months of follow-up data from an international multicenter phase II clinical trial. J Clin Oncol . 2013;31(3):308-313. doi:10.1200/JCO.2011.41.1553
+
+58. Sharkey RM, Karacay H, Goldenberg DM. Improving the treatment of non-Hodgkin lymphoma with antibodytargeted radionuclides. Cancer . 2010;116(4 Suppl):1134-1145. doi:10.1002/cncr.24802
+
+59. Speer TW. Physics and biology of brachytherapy. In: Halperin EC, Wazer DE, Perez CA, Brady LW, eds. Perez and Brady's Principles and Practice of Radiation Oncology . 6th ed. Lippincott Williams &amp; Wilkins; 2013:530-532.
+
+60. Speer TW. Radioimmunotherapy and unsealed radionuclide therapy. In: Halperin EC, Wazer DE, Perez CA, Brady LW, eds. Perez and Brady's Principles and Practice of Radiation Oncology . 6th ed. Lippincott Williams &amp; Wilkins; 2013:650-662.
+
+61. Speer TW, Limmer JP, Henrich D, et al. Evolution of radiotherapy toward a more targeted approach for CNS malignancies. In: Speer TW, ed. Targeted Radionuclide Therapy . Lippincott Williams &amp; Wilkins; 2011:356-376.
+
+62. Tennvall J, Fischer M, Bischof Delaloye A, et al. EANM procedure guideline for radio-immunotherapy for B-cell lymphoma with 90Y-radiolabelled ibritumomab tiuxetan (Zevalin). Eur J Nucl Med Mol Imaging . 2007;34(4):616-622. doi:10.1007/s00259-007-0372-y
+
+63. Thurber GM. Kinetics of antibody penetration into tumors. In: Speer TW, ed. Targeted Radionuclide Therapy . Lippincott Williams &amp; Wilkins; 2011:168-181.
+
+64. Verheijen RH, Massuger LF, Benigno BB, et al. Phase III trial of intraperitoneal therapy with yttrium-90-labeled HMFG1 murine monoclonal antibody in patients with epithelial ovarian cancer after a surgically defined complete remission. J Clin Oncol . 2006;24(4):571-578. doi:10.1200/JCO.2005.02.5973
+
+65. Vose JM, Wahl RL, Saleh M, et al. Multicenter phase II study of iodine-131 tositumomab for chemotherapyrelapsed/refractory low-grade and transformed low-grade B-cell non-Hodgkin's lymphomas. J Clin Oncol . 2000;18(6):1316-1323. doi:10.1200/JCO.2000.18.6.1316
+
+66. Wang H, Cao C, Li B, et al. Immunogenicity of Iodine 131 chimeric tumor necrosis therapy monoclonal antibody in advanced lung cancer patients. Cancer Immunol Immunother . 2008;57(5):677-684. doi:10.1007/ s00262-007-0406-0
+
+67. Weigert O, Illidge T, Hiddemann W, Dreyling M. Recommendations for the use of yttrium-90 ibritumomab tiuxetan in malignant lymphoma. Cancer . 2006;107(4):686-695. doi:10.1002/cncr.22066
+
+68. Wiseman GA, Gordon LI, Multani PS, et al. Ibritumomab tiuxetan radioimmunotherapy for patients with relapsed or refractory non-Hodgkin lymphoma and mild thrombocytopenia: a phase II multicenter trial. Blood . 2002;99(12):4336-4342. doi:10.1182/blood.v99.12.4336
+
+69. Witzig TE, Gordon LI, Cabanillas F, et al. Randomized controlled trial of yttrium-90-labeled ibritumomab tiuxetan radioimmunotherapy versus rituximab immunotherapy for patients with relapsed or refractory low-grade, follicular, or transformed B-cell non-Hodgkin's lymphoma. J Clin Oncol . 2002;20(10):2453-2463. doi:10.1200/ JCO.2002.11.076
+
+70. Witzig TE, Molina A, Gordon LI, et al. Long-term responses in patients with recurring or refractory B-cell nonHodgkin lymphoma treated with yttrium 90 ibritumomab tiuxetan. Cancer . 2007;109(9):1804-1810. doi:10.1002/ cncr.22617
+
+71. Witzig TE, White CA, Gordon LI, et al. Safety of yttrium-90 ibritumomab tiuxetan radioimmunotherapy for relapsed low-grade, follicular, or transformed non-hodgkin's lymphoma. J Clin Oncol . 2003;21(7):1263-1270. doi:10.1200/JCO.2003.08.043
+
+72. Wygoda Z, Kula D, Bierzyńska-Macyszyn G, et al. Use of monoclonal anti-EGFR antibody in the radioimmunotherapy of malignant gliomas in the context of EGFR expression in grade III and IV tumors. Hybridoma (Larchmt) . 2006;25(3):125-132. doi:10.1089/hyb.2006.25.125
+
+73. Xu J, Shen ZY, Chen XG, et al. A randomized controlled trial of Licartin for preventing hepatoma recurrence after liver transplantation. Hepatology . 2007;45(2):269-276. doi:10.1002/hep.21465
+
+74. Yu L, Ju DW, Chen W, et al. 131I-chTNT radioimmunotherapy of 43 patients with advanced lung cancer. Cancer Biother Radiopharm . 2006;21(1):5-14. doi:10.1089/cbr.2006.21.5
+
+75. Zalutsky MR, Reardon DA, Akabani G, et al. Clinical experience with alpha-particle emitting 211At: treatment of recurrent brain tumor patients with 211At-labeled chimeric antitenascin monoclonal antibody 81C6. J Nucl Med . 2008;49(1):30-38. doi:10.2967/jnumed.107.046938
+
+76. Zelenetz A, Saleh M, Vose J, Younes A, Kaminski MS. Patients with transformed low grade lymphoma attain durable responses following outpatient radioimmunotherapy with tositumomab and iodine I 131 tositumomab (Bexxar). Blood . 2002;100(11):357A, abstract 1384.
+
+77. Zevalin. Prescribing information. Spectrum Pharmaceuticals Inc; 2009. http://www.accessdata.fda.gov/ drugsatfda\_docs/label/2009/125019s0156.pdf
+
+78. Zinzani PL, Tani M, Pulsoni A, et al. Fludarabine and mitoxantrone followed by yttrium-90 ibritumomab tiuxetan in previously untreated patients with follicular non-Hodgkin lymphoma trial: a phase II non-randomised trial (FLUMIZ). Lancet Oncol . 2008;9(4):352-358. doi:10.1016/S1470-2045(08)70039-1
+
+®
+
+Zevalin
+
+## Key Updates
+
+Key Updates
+
+### Cigna V1.0.2025 Key Updates: Radiation Oncology Guidelines
+
+v1.0.2025
+
+Please note that this is not a comprehensive list of updates, but rather are some of the more clinically impactful updates. For complete guideline updates, please refer to the diagnosis specific guideline.
+
+- I. Non-Malignant Disorders A. Moved the indication of keloids from II. to I. and removed qualifying criteria.
+
+- II. Primary Craniospinal Tumors and Neurologic Conditions
+
+- A. Added epilepsy as an indication for SRS/FSRT.

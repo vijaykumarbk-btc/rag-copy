@@ -1,0 +1,69 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Radiation Oncology,25-Radiopharm,A9606,"Radium ra-223 dichloride, therapeutic, per microcurie",Yes,CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"
+Radiation Oncology,25-Radiopharm,A9607,"Lutetium lu 177 vipivotide tetraxetan, therapeutic, 1 millicurie",Yes,CareCore National,
+Radiation Oncology,25-Radiopharm,A9699,"Radiopharmaceutical, therapeutic, not otherwise classified",Yes,CareCore National,
+Radiation Oncology,25-Radiopharm,C2616,"Brachytherapy source, non-stranded, yttrium-90, per source",Yes,CareCore National,
+Radiation Oncology,25-Radiopharm,S2095,"Transcatheter occlusion or embolization for tumor destruction, percutaneous, any method, using yttrium-90 microspheres",Yes,CareCore National,
+Radiation Oncology,27-Associated,19296,"Placement of radiotherapy afterloading expandable catheter (single or multichannel) into the breast for interstitial
+radioelement application following partial mastectomy, includes imaging guidance; on date separate from partial mastectomy","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,19297,"Placement of radiotherapy afterloading expandable catheter (single or multichannel) into the breast for interstitial
+radioelement application following partial mastectomy, includes imaging guidance; concurrent with partial mastectomy (List
+separately in addition to code for primary procedure)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,19298,"Placement of radiotherapy after loading brachytherapy catheters (multiple tube and button type) into the breast for interstitial
+radioelement application following (at the time of or subsequent to) partial mastectomy, includes imaging guidance","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,32553,"Placement of interstitial device(s) for radiation therapy guidance (eg, fiducial markers, dosimeter), percutaneous, intra-
+thoracic, single or multiple","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,41019,"Placement of needles, catheters, or other device(s) into the head and/or neck region (percutaneous, transoral, or transnasal)
+for subsequent interstitial radioelement application","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,49411,"Placement of interstitial device(s) for radiation therapy guidance (eg, fiducial markers, dosimeter), percutaneous, intra-
+abdominal, intra-pelvic (except prostate), and/or retroperitoneum, single or multiple","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,49412,"Placement of interstitial device(s) for radiation therapy guidance (eg, fiducial markers, dosimeter), open, intra-abdominal,
+intrapelvic, and/or retroperitoneum, including image guidance, if performed, single or multiple (List separately in addition to
+code for primary procedure)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,55875,"Transperineal placement of needles or catheters into prostate for interstitial radioelement application, with or without
+cystoscopy","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,55876,"Placement of interstitial device(s) for radiation therapy guidance (eg, fiducial markers, dosimeter), prostate (via needle, any
+approach), single or multiple","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,55920,"Placement of needles or catheters into pelvic organs and/or genitalia (except prostate) for subsequent interstitial
+radioelement application","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,57155,Insertion of uterine tandem and/or vaginal ovoids for clinical brachytherapy,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,57156,Insertion of a vaginal radiation afterloading apparatus for clinical brachytherapy,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,58346,Insertion of Heyman capsules for clinical brachytherapy,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,76873,"Ultrasound, transrectal; prostate volume study for brachytherapy treatment planning (separate procedure)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,27-Associated,76965,Ultrasonic guidance for interstitial radioelement application,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,29-Neuro,61796,"Stereotactic radiosurgery (particle beam, gamma ray, or linear accelerator); 1 simple cranial lesion","No - Claim Policies
+Apply",CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"
+Radiation Oncology,29-Neuro,61797,"Stereotactic radiosurgery (particle beam, gamma ray, or linear accelerator); each additional cranial lesion, simple (List
+separately in addition to code for primary procedure)","No - Claim Policies
+Apply",CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"
+Radiation Oncology,29-Neuro,61798,"Stereotactic radiosurgery (particle beam, gamma ray, or linear accelerator); 1 complex cranial lesion","No - Claim Policies
+Apply",CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"
+Radiation Oncology,29-Neuro,61799,"Stereotactic radiosurgery (particle beam, gamma ray, or linear accelerator); each additional cranial lesion, complex (List
+separately in addition to code for primary procedure)","No - Claim Policies
+Apply",CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"
+Radiation Oncology,29-Neuro,61800,Application of stereotactic headframe for stereotactic radiosurgery (List separately in addition to code for primary procedure),"No - Claim Policies
+Apply",CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"

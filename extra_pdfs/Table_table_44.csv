@@ -1,0 +1,67 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Laboratory Management,Molecular Lab,81313,"PCA3/KLK3 (prostate cancer antigen 3 [non-protein coding]/kallikrein-related peptidase 3 [prostate specific antigen]) ratio (eg,
+prostate cancer)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81317,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome)
+gene analysis; full sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81318,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome)
+gene analysis; known familial variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81319,"PMS2 (postmeiotic segregation increased 2 [S. cerevisiae]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome)
+gene analysis; duplication/deletion variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81321,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamartoma tumor syndrome) gene analysis; full
+sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81322,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamartoma tumor syndrome) gene analysis; known
+familial variant",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81323,"PTEN (phosphatase and tensin homolog) (eg, Cowden syndrome, PTEN hamartoma tumor syndrome) gene analysis;
+duplication/deletion variant",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81349,"Cytogenomic (genome-wide) analysis for constitutional chromosomal abnormalities; interrogation of genomic regions for copy
+number and loss-of-heterozygosity variants, low-pass sequencing analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81354,"Cytogenomic (genome-wide) analysis for constitutional chromosomal abnormalities; interrogation of structural and copy
+number variants, optical genome mapping (OGM)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81400,"Molecular pathology procedure, Level 1 (eg, identification of single germline variant [eg, SNP] by techniques such as
+restriction enzyme digestion or melt curve analysis) ACADM (acyl-CoA dehydrogenase, C-4 to C-12 straight chain, MCAD)
+(eg, medium chain acyl dehydrogenase deficiency), K304E variant ACE (angiotensin converting enzyme) (eg, hereditary
+blood pressure regulation), insertion/deletion variant AGTR1 (angiotensin II receptor, type 1) (eg, essential hypertension),
+1166A>C variant BCKDHA (branched chain keto acid dehydrogenase E1, alpha polypeptide) (eg, maple syrup urine disease,
+type 1A), Y438N variant CCR5 (chemokine C-C motif receptor 5) (eg, HIV resistance), 32-bp deletion mutation/794 825del32
+deletion CLRN1 (clarin 1) (eg, Usher syndrome, type 3), N48K variant F2 (coagulation factor 2) (eg, hereditary
+hypercoagulability), 1199G>A variant F5 (coagulation factor V) (eg, hereditary hypercoagulability), HR2 variant F7
+(coagulation factor VII [serum prothrombin conversion acc",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81401,"Molecular pathology procedure, Level 2 (eg, 2-10 SNPs, 1 methylated variant, or 1 somatic variant [typically using
+nonsequencing target variant analysis], or detection of a dynamic mutation disorder/triplet repeat) ABCC8 (ATP-binding
+cassette, sub-family C [CFTR/MRP], member 8) (eg, familial hyperinsulinism), common variants (eg, c.3898-9G>A [c.3992-
+9G>A], F1388del) ABL1 (ABL proto-oncogene 1, non-receptor tyrosine kinase) (eg, acquired imatinib resistance), T315I
+variant ACADM (acyl-CoA dehydrogenase, C-4 to C-12 straight chain, MCAD) (eg, medium chain acyl dehydrogenase
+deficiency), commons variants (eg, K304E, Y42H) ADRB2 (adrenergic beta-2 receptor surface) (eg, drug metabolism),
+common variants (eg, G16R, Q27E) APOB (apolipoprotein B) (eg, familial hypercholesterolemia type B), common variants
+(eg, R3500Q, R3500W) APOE (apolipoprotein E) (eg, hyperlipoproteinemia type III, cardiovascular disease, Alzheimer
+disease), common variants (eg, *2, *3, *4) CBFB/MYH11 (inv(16)) (eg, acute",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81402,"Molecular pathology procedure, Level 3 (eg, >10 SNPs, 2-10 methylated variants, or 2-10 somatic variants [typically using
+non-sequencing target variant analysis], immunoglobulin and T-cell receptor gene rearrangements, duplication/deletion
+variants of 1 exon, loss of heterozygosity [LOH], uniparental disomy [UPD]) Chromosome 1p-/19q- (eg, glial tumors), deletion
+analysis Chromosome 18q- (eg, D18S55, D18S58, D18S61, D18S64, and D18S69) (eg, colon cancer), allelic imbalance
+assessment (ie, loss of heterozygosity) COL1A1/PDGFB (t(17;22)) (eg, dermatofibrosarcoma protuberans), translocation
+analysis, multiple breakpoints, qualitative, and quantitative, if performed CYP21A2 (cytochrome P450, family 21, subfamily A,
+polypeptide 2) (eg, congenital adrenal hyperplasia, 21-hydroxylase deficiency), common variants (eg, IVS2-13G, P30L,
+I172N, exon 6 mutation cluster [I235N, V236E, M238K], V281L, L307FfsX6, Q318X, R356W, P453S, G110VfsX21, 30-kb
+deletion variant) ESR1/PGR (receptor 1/progesterone",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81403,"Molecular pathology procedure, Level 4 (eg, analysis of single exon by DNA sequence analysis, analysis of >10 amplicons
+using multiplex PCR in 2 or more independent reactions, mutation scanning or duplication/deletion variants of 2-5 exons)
+ANG (angiogenin, ribonuclease, RNase A family, 5) (eg, amyotrophic lateral sclerosis), full gene sequence ARX (aristaless-
+related homeobox) (eg, X-linked lissencephaly with ambiguous genitalia, X-linked intellectual disability), duplication/deletion
+analysis CEL (carboxyl ester lipase [bile salt-stimulated lipase]) (eg, maturity-onset diabetes of the young [MODY]), targeted
+sequence analysis of exon 11 (eg, c.1785delC, c.1686delT) CTNNB1 (catenin [cadherin-associated protein], beta 1, 88kDa)
+(eg, desmoid tumors), targeted sequence analysis (eg, exon 3) DAZ/SRY (deleted in azoospermia and sex determining
+region Y) (eg, male infertility), common deletions (eg, AZFa, AZFb, AZFc, AZFd) DNMT3A (DNA [cytosine-5-]-
+methyltransferase 3 alpha)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81404,"Molecular pathology procedure, Level 5 (eg, analysis of 2-5 exons by DNA sequence analysis, mutation scanning or
+duplication/deletion variants of 6-10 exons, or characterization of a dynamic mutation disorder/triplet repeat by Southern blot
+analysis) ACADS (acyl-CoA dehydrogenase, C-2 to C-3 short chain) (eg, short chain acyl-CoA dehydrogenase deficiency),
+targeted sequence analysis (eg, exons 5 and 6) AQP2 (aquaporin 2 [collecting duct]) (eg, nephrogenic diabetes insipidus),
+full gene sequence ARX (aristaless related homeobox) (eg, X-linked lissencephaly with ambiguous genitalia, X-linked
+intellectual disability), full gene sequence AVPR2 (arginine vasopressin receptor 2) (eg, nephrogenic diabetes insipidus), full
+gene sequence BBS10 (Bardet-Biedl syndrome 10) (eg, Bardet-Biedl syndrome), full gene sequence BTD (biotinidase) (eg,
+biotinidase deficiency), full gene sequence C10orf2 (chromosome 10 open reading frame 2) (eg, mitochondrial DNA depletion
+syndrome)",Yes,CareCore National,

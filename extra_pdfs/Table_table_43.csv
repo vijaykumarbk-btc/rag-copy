@@ -1,0 +1,72 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Laboratory Management,Molecular Lab,0645U,"FusionMRD™ Monitoring, a lab test that looks for cancer cells in the blood to see if a person still has signs of cancer after
+treatment",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0646U,"Plasma Detect Genome MRD – Baseline, an initial lab test that looks for certain gene findings that can be linked to a cancer
+and can be used with other tests done later to see if a person still has signs of cancer after treatment",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0647U,"Plasma Detect Genome MRD – Monitoring, a lab test that looks for cancer cells in the blood to see if a person still has signs
+of cancer after treatment",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0648U,"Oncomine Dx Express Test, a lab test done to look for errors in genes that can predict how well a drug might work for treating
+certain lung cancers",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0649U,"MAP-AD, a lab test done to look for certain markers linked to Alzheimer's disease",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0650U,"CKM PGx™ Panel (Hypertension and Cardiovascular-kidney-metabolic pharmacogenetic panel), a lab tests done to look for
+gene errors that may impact how the body responds to certain drugs",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0651U,"OncoDx™ (Hereditary Germline Cancer Genetics Panel), a lab test done to look for gene errors that can cause high risks for
+certain cancers",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0652U,"RenaPGx™ (Renal Pharmacogenetic Test), a lab tests done to look for gene errors that may impact how the body responds
+to certain drugs",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0653U,"RenaXome™ (Renal Disease Whole Exome Sequencing), a lab test done to look for errors in the parts of all the genes that
+make proteins and can cause kidney disease",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0657U,"GenomeDx Rapid, Comparator, a lab test that compares genome results between family members and reports results faster
+than with standard testing",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0658U,"GenomeDx Rapid, Proband, a lab test that looks for errors in the genome and reports results faster than with standard testing",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0659U,"GenomeDx ultraRapid, Proband, a lab test that looks for errors in the genome and reports results much faster than with
+standard testing",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81162,"BRCA1 (BRCA1, DNA repair associated), BRCA2 (BRCA2, DNA repair associated) (eg, hereditary breast and ovarian
+cancer) gene analysis; full sequence analysis and full duplication/deletion analysis (ie, detection of large gene",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81163,"rearrangements)
+BRCA1 (BRCA1, DNA repair associated), BRCA2 (BRCA2, DNA repair associated) (eg, hereditary breast and ovarian
+cancer) gene analysis; full sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81164,"BRCA1 (BRCA1, DNA repair associated), BRCA2 (BRCA2, DNA repair associated) (eg, hereditary breast and ovarian
+cancer) gene analysis; full duplication/deletion analysis (ie, detection of large gene rearrangements)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81165,"BRCA1 (BRCA1, DNA repair associated) (eg, hereditary breast and ovarian cancer) gene analysis; full sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81166,"BRCA1 (BRCA1, DNA repair associated) (eg, hereditary breast and ovarian cancer) gene analysis; full duplication/deletion
+analysis (ie, detection of large gene rearrangements)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81167,"BRCA2 (BRCA2, DNA repair associated) (eg, hereditary breast and ovarian cancer) gene analysis; full duplication/deletion
+analysis (ie, detection of large gene rearrangements)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81195,"Cytogenomic (genome-wide) analysis, hematologic malignancy, structural variants and copy number variants, optical genome
+mapping (OGM)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81212,"BRCA1 (BRCA1, DNA repair associated), BRCA2 (BRCA2, DNA repair associated) (eg, hereditary breast and ovarian
+cancer) gene analysis; 185delAG, 5385insC, 6174delT variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81215,"BRCA1 (BRCA1, DNA repair associated) (eg, hereditary breast and ovarian cancer) gene analysis; known familial variant",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81216,"BRCA2 (BRCA2, DNA repair associated) (eg, hereditary breast and ovarian cancer) gene analysis; full sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81217,"BRCA2 (BRCA2, DNA repair associated) (eg, hereditary breast and ovarian cancer) gene analysis; known familial variant",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81223,"CFTR (cystic fibrosis transmembrane conductance regulator) (eg, cystic fibrosis) gene analysis; full gene sequence",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81226,"CYP2D6 (cytochrome P450, family 2, subfamily D, polypeptide 6) (eg, drug metabolism), gene analysis, common variants
+(eg, *2, *3, *4, *5, *6, *9, *10, *17, *19, *29, *35, *41, *1XN, *2XN, *4XN)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81228,"Cytogenomic (genome-wide) analysis for constitutional chromosomal abnormalities; interrogation of genomic regions for copy
+number variants, comparative genomic hybridization [CGH] microarray analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81277,"Cytogenomic neoplasia (genome-wide) microarray analysis, interrogation of genomic regions for copy number and loss-of-
+heterozygosity variants for chromosomal abnormalities",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81292,"MLH1 (mutL homolog 1, colon cancer, nonpolyposis type 2) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome)
+gene analysis; full sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81293,"MLH1 (mutL homolog 1, colon cancer, nonpolyposis type 2) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome)
+gene analysis; known familial variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81294,"MLH1 (mutL homolog 1, colon cancer, nonpolyposis type 2) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome)
+gene analysis; duplication/deletion variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81295,"MSH2 (mutS homolog 2, colon cancer, nonpolyposis type 1) (eg, hereditary non-polyposis colorectal cancer, Lynch
+syndrome) gene analysis; full sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81296,"MSH2 (mutS homolog 2, colon cancer, nonpolyposis type 1) (eg, hereditary non-polyposis colorectal cancer, Lynch
+syndrome) gene analysis; known familial variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81297,"MSH2 (mutS homolog 2, colon cancer, nonpolyposis type 1) (eg, hereditary non-polyposis colorectal cancer, Lynch
+syndrome) gene analysis; duplication/deletion variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81298,"MSH6 (mutS homolog 6 [E. coli]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis; full
+sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81299,"MSH6 (mutS homolog 6 [E. coli]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis; known
+familial variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81300,"MSH6 (mutS homolog 6 [E. coli]) (eg, hereditary non-polyposis colorectal cancer, Lynch syndrome) gene analysis;
+duplication/deletion variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81307,"PALB2 (partner and localizer of BRCA2) (eg, breast and pancreatic cancer) gene analysis; full gene sequence",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81308,"PALB2 (partner and localizer of BRCA2) (eg, breast and pancreatic cancer) gene analysis; known familial variant",Yes,CareCore National,

@@ -1,0 +1,49 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Musculoskeletal,Joint Surgery,29824,"Arthroscopy, shoulder, surgical; distal claviculectomy including distal articular surface (Mumford procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29821,"Arthroscopy, shoulder, surgical; synovectomy, complete",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29820,"Arthroscopy, shoulder, surgical; synovectomy, partial",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29825,"Arthroscopy, Shoulder, Surgical; With Lysis And Resection Of Adhesions, With Our Without Manipulation",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29819,"Arthroscopy, shoulder, surgical; with removal of loose body or foreign body",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29827,"Arthroscopy, shoulder, surgical; with rotator cuff repair",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27403,"Arthrotomy with meniscus repair, knee",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27333,"Arthrotomy, with excision of semilunar cartilage (meniscectomy) knee; medial AND lateral",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27332,"Arthrotomy, with excision of semilunar cartilage (meniscectomy) knee; medial OR lateral",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27334,"Arthrotomy, with synovectomy, knee; anterior OR posterior",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27335,"Arthrotomy, With Synovectomy, Knee;Anterior AND Posterior Including Popliteal Area",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,0717T,"Autologous adipose-derived regenerative cell (ADRC) therapy for partial thickness rotator cuff tear; adipose tissue
+harvesting, isolation and preparation of harvested cells, including incubation with cell dissociation enzymes, filtration,
+washing, and concentration of ADRCs",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,0718T,"Autologous adipose-derived regenerative cell (ADRC) therapy for partial thickness rotator cuff tear; injection into
+supraspinatus tendon including ultrasound guidance, unilateral",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27412,"Autologous chondrocyte implantation, knee",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23020,"Capsular contracture release (eg, Sever type procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23460,"Capsulorrhaphy, anterior, any type; with bone block",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23462,"Capsulorrhaphy, Anterior, Any Type;With Coracoid Process Transfer",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23450,"Capsulorrhaphy, anterior; Putti-Platt procedure or Magnuson type operation",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23455,"Capsulorrhaphy, Anterior;With Labral Repair (Eg, Bankart Procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23466,"Capsulorrhaphy, glenohumeral joint, any type multi-directional instability",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23465,"Capsulorrhaphy, glenohumeral joint, posterior, with or without bone block",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23120,Claviculectomy; partial,Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27198,"Closed treatment of posterior pelvic ring fracture(s), dislocation(s), diastasis or subluxation of the ilium, sacroiliac joint, and/or
+sacrum, with or without anterior pelvic ring fracture(s) and/or dislocation(s) of the pubic symphysis and/or superior/inferior
+rami, unilateral or bilateral; with manipulation, requiring more than local anesthesia (ie, general anesthesia, moderate
+sedation, spinal/epidural)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27132,"Conversion of previous hip surgery to total hip arthroplasty, with or without autograft or allograft",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23415,"Coracoacromial ligament release, with or without acromioplasty",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,23145,"Excision or curettage of bone cyst or benign tumor of clavicle or scapula; with autograft
+(includes obtaining graft)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27355,Excision or curettage of bone cyst or benign tumor of femur;,Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27356,Excision or curettage of bone cyst or benign tumor of femur; with allograft,Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27357,Excision or curettage of bone cyst or benign tumor of femur; with autograft (includes obtaining graft),Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27358,"Excision or curettage of bone cyst or benign tumor of femur; with internal fixation (List in addition to code for primary
+procedure)",Add On,MedSolutions,
+Musculoskeletal,Joint Surgery,23155,Excision or curettage of bone cyst or benign tumor of proximal humerus; with autograft (includes obtaining graft),Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,28890,"Extracorporeal shock wave, high energy, performed by a physician or other qualified health care professional, requiring
+anesthesia other than local, including ultrasound guidance, involving the plantar fascia",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,L8642,Hallux implant,Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,27125,"Hemiarthroplasty, Hip, Partial (E.G., Femoral Stem Prosthesis, Bipolar Arthroplasty)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,C8003,"Implantation of medial knee extraarticular implantable shock absorber spanning the knee joint from distal femur to proximal
+tibia, open, includes measurements, positioning and adjustments, with imaging guidance (eg, fluoroscopy)",Yes,MedSolutions,

@@ -1,0 +1,81 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Radiation Oncology,19-Delivery,77437,"Surface radiation therapy; superficial, delivery, </=150 kV, per fraction (eg, electronic brachytherapy)",Yes,CareCore National,CMS Addition Effective 01/01/26
+Radiation Oncology,19-Delivery,77438,"Surface radiation therapy; orthovoltage, delivery, >150-500 kV, per fraction",Yes,CareCore National,CMS Addition Effective 01/01/26
+Radiation Oncology,19-Delivery,77439,"Surface radiation therapy; superficial or orthovoltage, image guidance, ultrasound for placement of radiation therapy fields for
+treatment of cutaneous tumors, per course of treatment (List separately in addition to code for primary procedure)",Add On,CareCore National,CMS Addition Effective 01/01/26
+Radiation Oncology,01-Brachy,77761,Intracavitary radiation source application; simple,Yes,CareCore National,
+Radiation Oncology,01-Brachy,77762,Intracavitary radiation source application; intermediate,Yes,CareCore National,
+Radiation Oncology,01-Brachy,77763,Intracavitary radiation source application; complex,Yes,CareCore National,
+Radiation Oncology,01-Brachy,77767,"Remote afterloading high dose rate radionuclide skin surface brachytherapy, includes basic dosimetry, when performed;
+lesion diameter up to 2.0 cm or 1 channel",Yes,CareCore National,
+Radiation Oncology,01-Brachy,77768,"Remote afterloading high dose rate radionuclide skin surface brachytherapy, includes basic dosimetry, when performed;
+lesion diameter over 2.0 cm and 2 or more channels, or multiple lesions",Yes,CareCore National,
+Radiation Oncology,01-Brachy,77770,"Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when
+performed; 1 channel",Yes,CareCore National,
+Radiation Oncology,01-Brachy,77771,"Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when
+performed; 2-12 channels",Yes,CareCore National,
+Radiation Oncology,01-Brachy,77772,"Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when
+performed; over 12 channels",Yes,CareCore National,
+Radiation Oncology,01-Brachy,77778,"Interstitial radiation source application, complex, includes supervision, handling, loading of radiation source, when performed",Yes,CareCore National,
+Radiation Oncology,01-Brachy,77789,Surface application of low dose rate radionuclide source,Yes,CareCore National,
+Radiation Oncology,01-Brachy,77790,"Supervision, handling, loading of radiation source","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,01-Brachy,77799,"Unlisted procedure, clinical brachytherapy","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,01-Brachy,C9726,"Placement and removal (if performed) of applicator into breast for intraoperative radiation therapy, add-on to primary breast
+procedure","No - Claim Policies
+Apply",CareCore National,"EviCore Radiation Oncology Program Addition
+Effecitve 01/01/19"
+Radiation Oncology,01-Brachy,G0458,"Low dose rate (ldr) prostate brachytherapy services, composite rate",Yes,CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"
+Radiation Oncology,,0745T,"Cardiac focal ablation utilizing radiation therapy for arrhythmia; noninvasive arrhythmia localization and mapping of
+arrhythmia site (nidus), derived from anatomical image data (eg, CT, MRI, or myocardial perfusion scan) and electrical data
+(eg, 12-lead ECG data), and identification of areas of avoidance","No - Claim Policies
+Apply",CareCore National,AMA Addition Effective 01/01/2023
+Radiation Oncology,,0746T,"Cardiac focal ablation utilizing radiation therapy for arrhythmia; conversion of arrhythmia localization and mapping of
+arrhythmia site (nidus) into a multidimensional radiation treatment plan","No - Claim Policies
+Apply",CareCore National,AMA Addition Effective 01/01/2023
+Radiation Oncology,,0747T,"Cardiac focal ablation utilizing radiation therapy for arrhythmia; delivery of radiation therapy, arrhythmia",Yes,CareCore National,AMA Addition Effective 01/01/2023
+Radiation Oncology,,63620,"Stereotactic radiosurgery (particle beam, gamma ray, or linear accelerator); 1 spinal lesion","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,,63621,"Stereotactic radiosurgery (particle beam, gamma ray, or linear accelerator); each additional spinal lesion (List separately in
+addition to code for primary procedure)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,03-Stereo,77371,"Radiation treatment delivery, stereotactic radiosurgery (SRS), complete course of treatment of cranial lesion(s) consisting of
+1 session; multi-source Cobalt 60 based",Yes,CareCore National,
+Radiation Oncology,03-Stereo,77372,"Radiation treatment delivery, stereotactic radiosurgery (SRS), complete course of treatment of cranial lesion(s) consisting of
+1 session; linear accelerator based",Yes,CareCore National,
+Radiation Oncology,03-Stereo,77373,"Stereotactic body radiation therapy, treatment delivery, per fraction to 1 or more lesions, including image guidance, entire
+course not to exceed 5 fractions",Yes,CareCore National,
+Radiation Oncology,03-Stereo,77432,Stereotactic radiation treatment management of cranial lesion(s) (complete course of treatment consisting of 1 session),"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,03-Stereo,77435,"Stereotactic body radiation therapy, treatment management, per treatment course, to 1 or more lesions, including image
+guidance, entire course not to exceed 5 fractions","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,03-Stereo,G0339,"Image-guided robotic linear accelerator-based stereotactic radiosurgery, complete course of therapy in one session or first
+session of fractionated treatment",Yes,CareCore National,
+Radiation Oncology,03-Stereo,G0340,"Image-guided robotic linear accelerator-based stereotactic radiosurgery, delivery including collimator changes and custom
+plugging, fractionated treatment, all lesions, per session, second through fifth sessions, maximum five sessions per course of
+treatment",Yes,CareCore National,
+Radiation Oncology,05-IMRT,77301,"Intensity modulated radiotherapy plan, including dose-volume histograms for target and critical structure partial tolerance
+specifications","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,05-IMRT,77338,"Multi-leaf collimator (MLC) device(s) for intensity modulated radiation therapy (IMRT), design and construction per IMRT plan","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,07-Neutron,77423,"High energy neutron radiation treatment delivery, 1 or more isocenter(s) with coplanar or non-coplanar geometry with blocking
+and/or wedge, and/or compensator(s)",Yes,CareCore National,
+Radiation Oncology,09-IORT,19294,"Preparation of tumor cavity, with placement of a radiation therapy applicator for intraoperative radiation therapy (IORT)
+concurrent with partial mastectomy (List separately in addition to code for primary procedure)","No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,09-IORT,77424,"Intraoperative radiation treatment delivery, x-ray, single treatment session",Yes,CareCore National,"EviCore Radiation Oncology Program Addition
+Effective 01/01/19"
+Radiation Oncology,09-IORT,77425,"Intraoperative radiation treatment delivery, electrons, single treatment session",Yes,CareCore National,
+Radiation Oncology,09-IORT,77469,Intraoperative radiation treatment management,"No - Claim Policies
+Apply",CareCore National,
+Radiation Oncology,11-Proton,77520,"Proton treatment delivery; simple, without compensation",Yes,CareCore National,
+Radiation Oncology,11-Proton,77522,"Proton treatment delivery; simple, with compensation",Yes,CareCore National,
+Radiation Oncology,11-Proton,77523,Proton treatment delivery; intermediate,Yes,CareCore National,
+Radiation Oncology,11-Proton,77525,Proton treatment delivery; complex,Yes,CareCore National,

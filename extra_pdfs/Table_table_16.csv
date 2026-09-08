@@ -1,0 +1,75 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Radiology,CT,74174,"Computed tomographic angiography, abdomen and pelvis, with contrast material(s), including noncontrast images, if
+performed, and image postprocessing",Yes,MedSolutions,
+Radiology,CT,74175,"Computed tomographic angiography, abdomen, with contrast material(s), including noncontrast images, if performed, and
+image postprocessing",Yes,MedSolutions,
+Radiology,CT,74176,"Computed tomography, abdomen and pelvis; without contrast material",Yes,MedSolutions,
+Radiology,CT,74177,"Computed tomography, abdomen and pelvis; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,74178,"Computed Tomography, Abdomen And Pelvis; Without Contrast Material In One Or Both Body Regions, Followed By
+Contrast Material(S) And Further Sections In One Or Both Body Regions",Yes,MedSolutions,
+Radiology,MR,74181,"Magnetic resonance (eg, proton) imaging, abdomen; without contrast material(s)",Yes,MedSolutions,
+Radiology,MR,74182,"Magnetic resonance (eg, proton) imaging, abdomen; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,74183,"Magnetic resonance (eg, proton) imaging, abdomen; without contrast material(s), followed by with contrast material(s) and
+further sequences",Yes,MedSolutions,
+Radiology,MRA,74185,"Magnetic resonance angiography, abdomen, with or without contrast material(s)",Yes,MedSolutions,
+Radiology,CT,75635,"Computed tomographic angiography, abdominal aorta and bilateral iliofemoral lower extremity runoff, with contrast
+material(s), including noncontrast images, if performed, and image postprocessing",Yes,MedSolutions,
+Radiology,MR,76390,Magnetic resonance spectroscopy,Yes,MedSolutions,
+Radiology,MRI,76391,"Magnetic resonance (eg, vibration) elastography",Yes,MedSolutions,
+Radiology,CT,76497,"Unlisted computed tomography procedure (eg, diagnostic, interventional)",Yes,MedSolutions,
+Radiology,MR,76498,"Unlisted magnetic resonance procedure (eg, diagnostic, interventional)",Yes,MedSolutions,
+Radiology,BMRI,77046,"Magnetic resonance imaging, breast, without contrast material; unilateral",Yes,MedSolutions,
+Radiology,BMRI,77047,"Magnetic resonance imaging, breast, without contrast material; bilateral",Yes,MedSolutions,
+Radiology,BMRI,77048,"Magnetic resonance imaging, breast, without and with contrast material(s), including computer-aided detection (CAD real-time
+lesion detection, characterization and pharmacokinetic analysis), when performed; unilateral",Yes,MedSolutions,
+Radiology,BMRI,77049,"Magnetic resonance imaging, breast, without and with contrast material(s), including computer-aided detection (CAD real-time
+lesion detection, characterization and pharmacokinetic analysis), when performed; bilateral",Yes,MedSolutions,
+Radiology,MR,77084,"Magnetic resonance (eg, proton) imaging, bone marrow blood supply",Yes,MedSolutions,
+Radiology,CPET,78429,"Myocardial imaging, positron emission tomography (PET), metabolic evaluation study (including ventricular wall motion[s]
+and/or ejection fraction[s], when performed), single study; with concurrently acquired computed tomography transmission
+scan",Yes,MedSolutions,
+Radiology,CPET,78430,"Myocardial imaging, positron emission tomography (PET), perfusion study (including ventricular wall motion[s] and/or ejection
+fraction[s], when performed); single study, at rest or stress (exercise or pharmacologic), with concurrently acquired computed
+tomography transmission scan",Yes,MedSolutions,
+Radiology,CPET,78431,"Myocardial imaging, positron emission tomography (PET), perfusion study (including ventricular wall motion[s] and/or ejection
+fraction[s], when performed); multiple studies at rest and stress (exercise or pharmacologic), with concurrently acquired
+computed tomography transmission scan",Yes,MedSolutions,
+Radiology,CPET,78432,"Myocardial imaging, positron emission tomography (PET), combined perfusion with metabolic evaluation study (including
+ventricular wall motion[s] and/or ejection fraction[s], when performed), dual radiotracer (eg, myocardial viability);",Yes,MedSolutions,
+Radiology,CPET,78433,"Myocardial imaging, positron emission tomography (PET), combined perfusion with metabolic evaluation study (including
+ventricular wall motion[s] and/or ejection fraction[s], when performed), dual radiotracer (eg, myocardial viability); with
+concurrently acquired computed tomography transmission scan",Yes,MedSolutions,
+Radiology,PET,78459,"Myocardial imaging, positron emission tomography (PET), metabolic evaluation study (including ventricular wall motion[s]
+and/or ejection fraction[s], when performed), single study;",Yes,MedSolutions,
+Radiology,PET,78491,"Myocardial imaging, positron emission tomography (PET), perfusion study (including ventricular wall motion[s] and/or ejection
+fraction[s], when performed); single study, at rest or stress (exercise or pharmacologic)",Yes,MedSolutions,
+Radiology,PET,78492,"Myocardial imaging, positron emission tomography (PET), perfusion study (including ventricular wall motion[s] and/or ejection
+fraction[s], when performed); multiple studies at rest and stress (exercise or pharmacologic)",Yes,MedSolutions,
+Radiology,PET,78608,"Brain imaging, positron emission tomography (PET); metabolic evaluation",Yes,MedSolutions,
+Radiology,PET,78609,"Brain imaging, positron emission tomography (PET); perfusion evaluation",Yes,MedSolutions,
+Radiology,PET,78811,"Positron emission tomography (PET) imaging; limited area (eg, chest, head/neck)",Yes,MedSolutions,
+Radiology,PET,78812,Positron emission tomography (PET) imaging; skull base to mid-thigh,Yes,MedSolutions,
+Radiology,PET,78813,Positron emission tomography (PET) imaging; whole body,Yes,MedSolutions,
+Radiology,PET,78814,"Positron emission tomography (PET) with concurrently acquired computed tomography (CT) for attenuation correction and
+anatomical localization imaging; limited area (eg, chest, head/neck)",Yes,MedSolutions,
+Radiology,PET,78815,"Positron emission tomography (PET) with concurrently acquired computed tomography (CT) for attenuation correction and
+anatomical localization imaging; skull base to mid-thigh",Yes,MedSolutions,
+Radiology,PET,78816,"Positron emission tomography (PET) with concurrently acquired computed tomography (CT) for attenuation correction and
+anatomical localization imaging; whole body",Yes,MedSolutions,
+Radiology,MR,0609T,"Magnetic resonance spectroscopy, determination and localization of discogenic pain (cervical, thoracic, or lumbar);
+acquisition of single voxel data, per disc, on biomarkers (ie, lactic acid, carbohydrate, alanine, laal, propionic acid,
+proteoglycan, and collagen) in at least 3 discs",Yes,MedSolutions,
+Radiology,MR,0610T,"Magnetic resonance spectroscopy, determination and localization of discogenic pain (cervical, thoracic, or lumbar);
+transmission of biomarker data for software analysis",Yes,MedSolutions,
+Radiology,MR,0611T,"Magnetic resonance spectroscopy, determination and localization of discogenic pain (cervical, thoracic, or lumbar);
+postprocessing for algorithmic analysis of biomarker data for determination of relative chemical differences between discs",Yes,MedSolutions,
+Radiology,MR,0612T,"Magnetic resonance spectroscopy, determination and localization of discogenic pain (cervical, thoracic, or lumbar);
+interpretation and report",Yes,MedSolutions,
+Radiology,CT,0633T,"Computed tomography, breast, including 3D rendering, when performed, unilateral; without contrast material",Yes,MedSolutions,
+Radiology,CT,0634T,"Computed tomography, breast, including 3D rendering, when performed, unilateral; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,0635T,"Computed tomography, breast, including 3D rendering, when performed, unilateral; without contrast, followed by contrast
+material(s)",Yes,MedSolutions,
+Radiology,CT,0636T,"Computed tomography, breast, including 3D rendering, when performed, bilateral; without contrast material(s)",Yes,MedSolutions,

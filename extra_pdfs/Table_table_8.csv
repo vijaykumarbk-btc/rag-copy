@@ -1,0 +1,83 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Other Services,"Experimental /
+Investigational",Q4254,"Novafix dl, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4160,"Nushield, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4103,"Oasis burn matrix, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,Q4124,"Oasis ultra tri-layer wound matrix, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,Q4102,"Oasis wound matrix, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,Outpatient Surgery,0908T,"Open implantation of integrated neurostimulation system, vagus nerve, including analysis and programming, when performed",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4276,"Orion, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,Potentially Cosmetic,21208,"Osteoplasty, facial bones; augmentation (autograft, allograft, or prosthetic implant)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21209,"Osteoplasty, facial bones; reduction",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21198,"Osteotomy, mandible, segmental;",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21199,"Osteotomy, mandible, segmental; with genioglossus advancement",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21206,"Osteotomy, maxilla, segmental (eg, Wassmund or Schuchard)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,69300,"Otoplasty, protruding ear, with or without size reduction",Yes,CareCore National,
+Other Services,Outpatient Surgery,42145,"Palatopharyngoplasty (eg, uvulopalatopharyngoplasty, uvulopharyngoplasty)",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4173,"Palingen or palingen xplus, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4174,"Palingen or promatrx, 0.36 mg per 0.25 cc",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0956T,"Partial craniectomy, channel creation, and tunneling of electrode for sub-scalp implantation of an electrode array, receiver,
+and telemetry unit for continuous bilateral electroencephalography monitoring system, including imaging guidance",Yes,CareCore National,
+Other Services,Outpatient Surgery,64553,Percutaneous implantation of neurostimulator electrode array; cranial nerve,Yes,CareCore National,
+Other Services,Potentially Cosmetic,19371,"Peri-implant capsulectomy, breast, complete, including removal of all intracapsular contents",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",53451,"Periurethral transperineal adjustable balloon continence device; bilateral insertion, including cystourethroscopy and imaging
+guidance",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",53452,"Periurethral transperineal adjustable balloon continence device; unilateral insertion, including cystourethroscopy and imaging
+guidance",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",99183,"Physician or other qualified health care professional attendance and supervision of hyperbaric oxygen therapy, per session",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",C9364,"Porcine implant, permacol, per square centimeter",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",C8002,"Preparation of skin cell suspension autograft, automated, including all enzymatic processing and device components (do not
+report with manual suspension preparation)",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",15014,"Preparation of skin cell suspension autograft, requiring enzymatic processing, manual mechanical disaggregation of skin
+cells, and filtration; each additional 25 sq cm of harvested skin or part thereof (List separately in addition to code for primary
+procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",15013,"Preparation of skin cell suspension autograft, requiring enzymatic processing, manual mechanical disaggregation of skin
+cells, and filtration; first 25 sq cm or less of harvested skin",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4222,"Progenamatrix, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",G0555,"Provision of replacement patient electronics system (e.g., system pillow, handheld reader) for home pulmonary artery
+pressure monitoring",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0808T,"Pulmonary tissue ventilation analysis using software-based processing of data from separately captured cinefluorograph
+images; in combination with computed tomography (CT) images taken for the purpose of pulmonary tissue ventilation
+analysis, including data preparation and transmission, quantification of pulmonary tissue ventilation, data review,
+interpretation and report",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",0807T,"Pulmonary tissue ventilation analysis using software-based processing of data from separately captured cinefluorograph
+images; in combination with previously acquired computed tomography (CT) images, including data preparation and
+transmission, quantification of pulmonary tissue ventilation, data review, interpretation and report",Yes,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4196,"Puraply am, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,"Experimental /
+Investigational",Q4195,"Puraply, per square centimeter (add-on, list separately in addition to primary procedure)",Add On,CareCore National,
+Other Services,Potentially Cosmetic,21146,"Reconstruction midface, LeFort I; 2 pieces, segment movement in any direction, requiring bone grafts (includes obtaining
+autografts) (eg, ungrafted unilateral alveolar cleft)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21142,"Reconstruction midface, LeFort I; 2 pieces, segment movement in any direction, without bone graft",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21147,"Reconstruction midface, LeFort I; 3 or more pieces, segment movement in any direction, requiring bone grafts (includes
+obtaining autografts) (eg, ungrafted bilateral alveolar cleft or multiple osteotomies)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21143,"Reconstruction midface, LeFort I; 3 or more pieces, segment movement in any direction, without bone graft",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21141,"Reconstruction midface, LeFort I; single piece, segment movement in any direction (eg, for Long Face Syndrome), without
+bone graft",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21145,"Reconstruction midface, LeFort I; single piece, segment movement in any direction, requiring bone grafts (includes obtaining
+autografts)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21150,"Reconstruction midface, LeFort II; anterior intrusion (eg, Treacher-Collins Syndrome)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21151,"Reconstruction midface, LeFort II; any direction, requiring bone grafts (includes obtaining autografts)",Yes,CareCore National,
+Other Services,Potentially Cosmetic,21160,"Reconstruction midface, LeFort III (extra and intracranial) with forehead advancement (eg, mono bloc), requiring bone grafts
+(includes obtaining autografts); with LeFort I",Yes,CareCore National,

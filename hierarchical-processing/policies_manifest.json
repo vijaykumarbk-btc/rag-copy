@@ -1,0 +1,21 @@
+{
+  "policies": [
+    {
+      "doc_key": "Cigna_ACDF",
+      "display_name": "Cigna ACDF (CMM-601: Anterior Cervical Discectomy and Fusion)",
+      "toc_file": "ACDF_toc_output_new.json",
+      "metadata_file": "acdf_metadata.json",
+      "embeddings_file": "acdf_embeddings.npy",
+      "bm25_file": "acdf_bm25.pkl"
+    },
+    {
+      "doc_key": "Cigna_Lumbar_Fusion",
+      "display_name": "Cigna Lumbar Fusion (CMM-609: Lumbar Fusion with Decompression)",
+      "toc_file": "md/Lumbar_toc_output.json",
+      "metadata_file": "md/embeddings/lumbar_fusion_metadata.json",
+      "embeddings_file": "md/embeddings/lumbar_fusion_embeddings.npy",
+      "bm25_file": "md/bm25/lumbar_fusion_bm25.pkl"
+    }
+  ]
+}
+

@@ -1,0 +1,73 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Laboratory Management,Molecular Lab,81405,"Molecular pathology procedure, Level 6 (eg, analysis of 6-10 exons by DNA sequence analysis, mutation scanning or
+duplication/deletion variants of 11-25 exons, regionally targeted cytogenomic array analysis) ABCD1 (ATP-binding cassette,
+sub-family D [ALD], member 1) (eg, adrenoleukodystrophy), full gene sequence ACADS (acyl-CoA dehydrogenase, C-2 to C-
+3 short chain) (eg, short chain acyl-CoA dehydrogenase deficiency), full gene sequence ACTA2 (actin, alpha 2, smooth
+muscle, aorta) (eg, thoracic aortic aneurysms and aortic dissections), full gene sequence ACTC1 (actin, alpha, cardiac
+muscle 1)(eg, familial hypertrophic cardiomyopathy), full gene sequence ANKRD1 (ankyrin repeat domain 1) (eg, dilated
+cardiomyopathy), full gene sequence APTX (aprataxin) (eg, ataxia with oculomotor apraxia 1), full gene sequence ARSA
+(arylsulfatase A) (eg, arylsulfatase A deficiency), full gene sequence BCKDHA (branched chain keto acid dehydrogenase E1,
+alpha polypeptide) (eg, maple syrup urine disease,",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81406,"Molecular pathology procedure, Level 7 (eg, analysis of 11-25 exons by DNA sequence analysis, mutation scanning or
+duplication/deletion variants of 26-50 exons) ACADVL (acyl-CoA dehydrogenase, very long chain) (eg, very long chain acyl-
+coenzyme A dehydrogenase deficiency), full gene sequence ACTN4 (actinin, alpha 4) (eg, focal segmental
+glomerulosclerosis), full gene sequence AFG3L2 (AFG3 ATPase family gene 3-like 2 [S. cerevisiae]) (eg, spinocerebellar
+ataxia), full gene sequence AIRE (autoimmune regulator) (eg, autoimmune polyendocrinopathy syndrome type 1), full gene
+sequence ALDH7A1 (aldehyde dehydrogenase 7 family, member A1) (eg, pyridoxine-dependent epilepsy), full gene
+sequence ANO5 (anoctamin 5) (eg, limb-girdle muscular dystrophy), full gene sequence ANOS1 (anosmin-1) (eg, Kallmann
+syndrome 1), full gene sequence APP (amyloid beta [A4] precursor protein) (eg, Alzheimer disease), full gene sequence
+ASS1 (argininosuccinate synthase 1) (eg, citrullinemia type I), full gene sequ",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81407,"Molecular pathology procedure, Level 8 (eg, analysis of 26-50 exons by DNA sequence analysis, mutation scanning or
+duplication/deletion variants of >50 exons, sequence analysis of multiple genes on one platform) ABCC8 (ATP-binding
+cassette, sub-family C [CFTR/MRP], member 8) (eg, familial hyperinsulinism), full gene sequence AGL (amylo-alpha-1, 6-
+glucosidase, 4-alpha-glucanotransferase) (eg, glycogen storage disease type III), full gene sequence AHI1 (Abelson helper
+integration site 1) (eg, Joubert syndrome), full gene sequence APOB (apolipoprotein B) (eg, familial hypercholesterolemia
+type B) full gene sequence ASPM (asp [abnormal spindle] homolog, microcephaly associated [Drosophila]) (eg, primary
+microcephaly), full gene sequence CHD7 (chromodomain helicase DNA binding protein 7) (eg, CHARGE syndrome), full
+gene sequence COL4A4 (collagen, type IV, alpha 4) (eg, Alport syndrome), full gene sequence COL4A5 (collagen, type IV,
+alpha 5) (eg, Alport syndrome), duplication/deletion analy",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81408,"Molecular pathology procedure, Level 9 (eg, analysis of >50 exons in a single gene by DNA sequence analysis) ABCA4 (ATP-
+binding cassette, sub-family A [ABC1], member 4) (eg, Stargardt disease, age-related macular degeneration), full gene
+sequence ATM (ataxia telangiectasia mutated) (eg, ataxia telangiectasia), full gene sequence CDH23 (cadherin-related 23)
+(eg, Usher syndrome, type 1), full gene sequence CEP290 (centrosomal protein 290kDa) (eg, Joubert syndrome), full gene
+sequence COL1A1 (collagen, type I, alpha 1) (eg, osteogenesis imperfecta, type I), full gene sequence COL1A2 (collagen,
+type I, alpha 2) (eg, osteogenesis imperfecta, type I), full gene sequence COL4A1 (collagen, type IV, alpha 1) (eg, brain small-
+vessel disease with hemorrhage), full gene sequence COL4A3 (collagen, type IV, alpha 3 [Goodpasture antigen]) (eg, Alport
+syndrome), full gene sequence COL4A5 (collagen, type IV, alpha 5) (eg, Alport syndrome), full gene sequence DMD
+(dystrophin) (eg, Duchenne/Becker muscu",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81410,"Aortic dysfunction or dilation (eg, Marfan syndrome, Loeys Dietz syndrome, Ehler Danlos syndrome type IV, arterial tortuosity
+syndrome); genomic sequence analysis panel, must include sequencing of at least 9 genes, including FBN1, TGFBR1,
+TGFBR2, COL3A1, MYH11, ACTA2, SLC2A10, SMAD3, and MYLK",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81411,"Aortic dysfunction or dilation (eg, Marfan syndrome, Loeys Dietz syndrome, Ehler Danlos syndrome type IV, arterial tortuosity
+syndrome); duplication/deletion analysis panel, must include analyses for TGFBR1, TGFBR2, MYH11, and COL3A1",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81413,"Cardiac ion channelopathies (eg, Brugada syndrome, long QT syndrome, short QT syndrome, catecholaminergic polymorphic
+ventricular tachycardia); genomic sequence analysis panel, must include sequencing of at least 10 genes, including ANK2,
+CASQ2, CAV3, KCNE1, KCNE2, KCNH2, KCNJ2, KCNQ1, RYR2, and SCN5A",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81414,"Cardiac ion channelopathies (eg, Brugada syndrome, long QT syndrome, short QT syndrome, catecholaminergic polymorphic
+ventricular tachycardia); duplication/deletion gene analysis panel, must include analysis of at least 2 genes, including KCNH2
+and KCNQ1",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81415,"Exome (eg, unexplained constitutional or heritable disorder or syndrome); sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81416,"Exome (eg, unexplained constitutional or heritable disorder or syndrome); sequence analysis, each comparator exome (eg,
+parents, siblings) (List separately in addition to code for primary procedure)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81417,"Exome (eg, unexplained constitutional or heritable disorder or syndrome); re-evaluation of previously obtained exome
+sequence (eg, updated knowledge or unrelated condition/syndrome)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81425,"Genome (eg, unexplained constitutional or heritable disorder or syndrome); sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81426,"Genome (eg, unexplained constitutional or heritable disorder or syndrome); sequence analysis, each comparator genome
+(eg, parents, siblings) (List separately in addition to code for primary procedure)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81430,"Hearing loss (eg, nonsyndromic hearing loss, Usher syndrome, Pendred syndrome); genomic sequence analysis panel, must
+include sequencing of at least 60 genes, including CDH23, CLRN1, GJB2, GPR98, MTRNR1, MYO7A, MYO15A, PCDH15,
+OTOF, SLC26A4, TMC1, TMPRSS3, USH1C, USH1G, USH2A, and WFS1",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81431,"Hearing loss (eg, nonsyndromic hearing loss, Usher syndrome, Pendred syndrome); duplication/deletion analysis panel, must
+include copy number analyses for STRC and DFNB1 deletions in GJB2 and GJB6 genes",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81434,"Hereditary retinal disorders (eg, retinitis pigmentosa, Leber congenital amaurosis, cone-rod dystrophy), genomic sequence
+analysis panel, must include sequencing of at least 15 genes, including ABCA4, CNGA1, CRB1, EYS, PDE6A, PDE6B,
+PRPF31, PRPH2, RDH12, RHO, RP1, RP2, RPE65, RPGR, and USH2A",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81437,"Hereditary neuroendocrine tumor-related disorders (eg, medullary thyroid carcinoma, parathyroid carcinoma, malignant
+pheochromocytoma or paraganglioma), genomic sequence analysis panel, 5 or more genes, interrogation for sequence
+variants and copy number variants",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81439,"Hereditary cardiomyopathy (eg, hypertrophic cardiomyopathy, dilated cardiomyopathy, arrhythmogenic right ventricular
+cardiomyopathy), genomic sequence analysis panel, must include sequencing of at least 5 cardiomyopathy-related genes
+(eg, DSG2, MYBPC3, MYH7, PKP2, TTN)",Yes,CareCore National,

@@ -1,0 +1,48 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Musculoskeletal,Joint Surgery,29856,"Arthroscopically aided treatment of tibial fracture, proximal (plateau); bicondylar, includes internal fixation, when performed
+(includes arthroscopy)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29855,"Arthroscopically aided treatment of tibial fracture, proximal (plateau); unicondylar, includes internal fixation, when performed
+(includes arthroscopy)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29860,"Arthroscopy, hip, diagnostic with or without synovial biopsy (separate procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29915,"Arthroscopy, Hip, Surgical; With Acetabuloplasty (Ie, Treatment Of Pincer Lesion)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29862,"Arthroscopy, hip, surgical; with debridement/shaving of articular cartilage (chondroplasty), abrasion arthroplasty, and/or
+resection of labrum",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29914,"Arthroscopy, hip, surgical; with femoroplasty (ie, treatment of cam lesion)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29916,"Arthroscopy, hip, surgical; with labral repair",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29861,"Arthroscopy, hip, surgical; with removal of loose body or foreign body",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29863,"Arthroscopy, hip, surgical; with synovectomy",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29870,"Arthroscopy, knee, diagnostic, with or without synovial biopsy (separate procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29879,"Arthroscopy, knee, surgical; abrasion arthroplasty (includes chondroplasty where necessary) or multiple drilling or
+microfracture",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29877,"Arthroscopy, knee, surgical; debridement/shaving of articular cartilage (chondroplasty)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29886,"Arthroscopy, knee, surgical; drilling for intact osteochondritis dissecans lesion",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29887,"Arthroscopy, knee, surgical; drilling for intact osteochondritis dissecans lesion with internal fixation",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29885,"Arthroscopy, knee, surgical; drilling for osteochondritis dissecans with bone grafting, with or without internal fixation (including
+debridement of base of lesion)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29871,"Arthroscopy, knee, surgical; for infection, lavage and drainage",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29874,"Arthroscopy, Knee, Surgical; For Removal Of Loose Body Or Foreign Body ( Eg Osteochondritis Dissecans Fragmentation,
+Chondral Fragmentation)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29868,"Arthroscopy, knee, surgical; meniscal transplantation (includes arthrotomy for meniscal insertion), medial or lateral",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29867,"Arthroscopy, knee, surgical; osteochondral allograft (eg, mosaicplasty)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29866,"Arthroscopy, knee, surgical; osteochondral autograft(s) (eg, mosaicplasty) (includes harvesting of the autograft[s])",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29875,"Arthroscopy, knee, surgical; synovectomy, limited (eg, plica or shelf resection) (separate procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29876,"Arthroscopy, knee, surgical; synovectomy, major, 2 or more compartments (eg, medial or lateral)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29873,"Arthroscopy, knee, surgical; with lateral release",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29884,"Arthroscopy, knee, surgical; with lysis of adhesions, with or without manipulation (separate procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29883,"Arthroscopy, knee, surgical; with meniscus repair (medial AND lateral)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29882,"Arthroscopy, knee, surgical; with meniscus repair (medial OR lateral)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29880,"Arthroscopy, Knee, Surgical; With Meniscectomy (Medial And Lateral, Including Any Meniscal Shaving) Including
+Debridement/Shaving Of Articular Cartilage (Chondroplasty), Same Or Separate Compartment (S) When Performed",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29881,"Arthroscopy, Knee, Surgical; With Meniscectomy (Medial Or Lateral, Including Any Meniscal Shaving) Including
+Debridement/Shaving Of Articular Cartilage (Chondroplasty), Same Or Separate Compartment (S) When Performed",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29828,"Arthroscopy, shoulder, surgical; biceps tenodesis",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29805,"Arthroscopy, shoulder, diagnostic, with or without synovial biopsy (separate procedure)",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29807,"Arthroscopy, shoulder, surgical; repair of SLAP lesion",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29806,"Arthroscopy, shoulder, surgical; capsulorrhaphy",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29823,"Arthroscopy, shoulder, surgical; debridement, extensive, 3 or more discrete structures",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29822,"Arthroscopy, shoulder, surgical; debridement, limited, 1 or 2 discrete structures",Yes,MedSolutions,
+Musculoskeletal,Joint Surgery,29826,"Arthroscopy, shoulder, surgical; decompression of subacromial space with partial acromioplasty, with coracoacromial
+ligament (ie, arch) release, when performed (List separately in addition to code for primary procedure)",Add On,MedSolutions,

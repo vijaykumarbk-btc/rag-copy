@@ -1,0 +1,84 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Musculoskeletal,Spine Surgery,22860,"Total disc arthroplasty (artificial disc), anterior approach, including discectomy to prepare interspace (other than for
+decompression); second interspace, lumbar (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22856,"Total Disc Arthroplasty (Artificial Disc), Anterior Approach, Including Discectomy With End Plate Preparation (Includes
+Osteophytectomy For Nerve Root Or Spinal Cord Decompression And Microdissection), Single Interspace, Cervical",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22858,"Total disc arthroplasty (artificial disc), anterior approach, including discectomy with end plate preparation (includes
+osteophytectomy for nerve root or spinal cord decompression and microdissection); second level, cervical (List separately in
+addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63057,"Transpedicular approach with decompression of spinal cord, equina and/or nerve root(s) (eg, herniated intervertebral disc),
+single segment; each additional segment, thoracic or lumbar (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63056,"Transpedicular Approach With Decompression Of Spinal Cord, Equina And/Or Nerve Root(S) (Eg, Herniated Intervertebral
+Disc), Single Segment; Lumbar (Including Transfacet, Or Lateral Extraforaminal Approach) (Eg, Far Lateral Herniated
+Intervertebral Disc)",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63091,"Vertebral corpectomy (vertebral body resection), partial or complete, transperitoneal or retroperitoneal approach with
+decompression of spinal cord, cauda equina or nerve root(s), lower thoracic, lumbar, or sacral; each additional segment (List
+separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63090,"Vertebral corpectomy (vertebral body resection), partial or complete, transperitoneal or retroperitoneal approach with
+decompression of spinal cord, cauda equina or nerve root(s), lower thoracic, lumbar, or sacral; single segment",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63082,"Vertebral corpectomy (vertebral body resection), partial or complete, anterior approach with decompression of spinal cord
+and/or nerve root(s); cervical, each additional segment (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63081,"Vertebral Corpectomy (Vertebral Body Resection), Partial Or Complete, Anterior Approach With Decompression Of Spinal
+Cord And/Or Nerve Root(S); Cervical, Single Segment",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,63088,"Vertebral corpectomy (vertebral body resection), partial or complete, combined thoracolumbar approach with decompression
+of spinal cord, cauda equina or nerve root(s), lower thoracic or lumbar; each additional segment (List separately in addition to
+code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,63087,"Vertebral corpectomy (vertebral body resection), partial or complete, combined thoracolumbar approach with decompression
+of spinal cord, cauda equina or nerve root(s), lower thoracic or lumbar; single segment",Yes,CareCore National,
+"Crossover Code for:
+• Primary Program: Other Services
+• Companion Program:
+Musculoskeletal (MSK) - Spine
+Surgery
+(See External Notation column for
+more details.)",Spine Surgery,64714*,"Neuroplasty, major peripheral nerve, arm or leg, open; lumbar plexus",Yes,CareCore National,"This is a crossover code that can be requested
+under two programs: MSK Spine Surgery or
+Other Services.
+• If your request is intended to be used in
+conjunction with MSK Spine Surgery, please
+submit your request under the MSK Spine
+program through the CareCoreNational
+platform.
+• If your request is intended to be used for Other
+Services only, please submit your request under
+the Other Services program through the
+CareCoreNational platform."
+"Crossover Code for:
+• Primary Program: Musculoskeletal
+(MSK) - Spine Surgery
+• Companion Program: Sleep
+Management
+(See External Notation column for more
+details.)",Sleep Management,64568*,"Open implantation of cranial nerve (eg, vagus nerve) neurostimulator electrode array and pulse generator",Yes,CareCore National,"This is a crossover code that can be requested
+under two programs: MSK Spine Surgery or
+Sleep Management.
+• If your request is intended to be used in
+conjunction with MSK Spine Surgery, please
+submit your request under the MSK Spine
+program through the CareCoreNational
+platform.
+• If your request is intended to be used for Sleep
+Managment only, please submit your request
+under the Sleep Management program through
+the CareCoreNational platform."
+"Crossover Code for:
+• Primary Program: Musculoskeletal
+(MSK) - Spine Surgery
+• Companion Program: Sleep
+Management
+(See External Notation column for
+more details.)",Spine Surgery,64568*,"Open implantation of cranial nerve (eg, vagus nerve) neurostimulator electrode array and pulse generator",Yes,CareCore National,"This is a crossover code that can be requested
+under two programs: MSK Spine Surgery or
+Sleep Management.
+• If your request is intended to be used in
+conjunction with MSK Spine Surgery, please
+submit your request under the MSK Spine
+program through the CareCoreNational
+platform.
+• If your request is intended to be used for Sleep
+Managment only, please submit your request
+under the Sleep Management program through
+the CareCoreNational platform."

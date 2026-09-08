@@ -1,0 +1,97 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Musculoskeletal,"Interventional Pain
+Management",62322,"Injection(s), of diagnostic or therapeutic substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not
+including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid, lumbar or
+sacral (caudal); without imaging guidance",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62323,"Injection(s), of diagnostic or therapeutic substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not
+including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid, lumbar or
+sacral (caudal); with imaging guidance (ie, fluoroscopy or CT)",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62324,"Injection(s), including indwelling catheter placement, continuous infusion or intermittent bolus, of diagnostic or therapeutic
+substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, interlaminar
+epidural or subarachnoid, cervical or thoracic; without imaging guidance",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62325,"Injection(s), including indwelling catheter placement, continuous infusion or intermittent bolus, of diagnostic or therapeutic
+substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, interlaminar
+epidural or subarachnoid, cervical or thoracic; with imaging guidance (ie, fluoroscopy or CT)",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62327,"Injection(s), including indwelling catheter placement, continuous infusion or intermittent bolus, of diagnostic or therapeutic
+substance(s) (eg, anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, interlaminar
+epidural or subarachnoid, lumbar or sacral (caudal); with imaging guidance (ie, fluoroscopy or CT)",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",27096,"Injection procedure for sacroiliac joint, anesthetic/steroid, with image guidance (fluoroscopy or CT) including arthrography
+when performed",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62263,"Percutaneous Lysis Of Epidural Adhesions Using Solution Injection (E.G., Hypertonic Saline, Enzyme) Or Mechanical Means
+(E.G., Catheter) Including Radiologic Localization (Includes Contrast When Administered), Multiple Adhesiolysis Sessions; 2
+Or More Days",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62264,"Percutaneous Lysis Of Epidural Adhesions Using Solution Injection (E.G., Hypertonic Saline, Enzyme) Or Mechanical Means
+(E.G., Catheter) Including Radiologic Localization (Includes Contrast When Administered), Multiple Adhesiolysis Sessions; 1
+Day",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62280,"Injection/Infusion Of Neurolytic Substance (Eg, Alcohol, Phenol, Iced Saline Solutions), With Or Without Other Therapeutic
+Substance; Subarachnoid",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62281,"Injection/Infusion Of Neurolytic Substance (Eg, Alcohol, Phenol, Iced Saline Solutions), With Or Without Other Therapeutic
+Substance; Epidural, Cervical Or Thoracic",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62282,"Injection/infusion of neurolytic substance (eg, alcohol, phenol, iced saline solutions), with or without other therapeutic
+substance; epidural, lumbar, sacral (caudal)",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62350,"Implantation, revision or repositioning of tunneled intrathecal or epidural catheter, for long-term medication administration via
+an external pump or implantable reservoir/infusion pump; without laminectomy",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62351,"Implantation, revision or repositioning of tunneled intrathecal or epidural catheter, for long-term medication administration via
+an external pump or implantable reservoir/infusion pump; with laminectomy",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62360,Implantation or replacement of device for intrathecal or epidural drug infusion; subcutaneous reservoir,Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62361,Implantation or replacement of device for intrathecal or epidural drug infusion; nonprogrammable pump,Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",62362,"Implantation or replacement of device for intrathecal or epidural drug infusion; programmable pump, including preparation of
+pump, with or without programming",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",63650,"Percutaneous implantation of neurostimulator electrode array, epidural",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",63655,"Laminectomy for implantation of neurostimulator electrodes, plate/paddle, epidural",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",63685,"Insertion or replacement of spinal neurostimulator pulse generator or receiver, requiring pocket creation and connection
+between electrode array and pulse generator or receiver",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64451,"Injection(s), anesthetic agent(s) and/or steroid; nerves innervating the sacroiliac joint, with image guidance (ie, fluoroscopy or
+computed tomography)",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64479,"Injection, Anesthetic Agent And/Or Steroid; Transforaminal Epidural, With Imaging Guidance (Fluoroscopy Or CT), Cervical
+Or Thoracic, Single Level",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64480,"Injection(s), anesthetic agent(s) and/or steroid; transforaminal epidural, with imaging guidance (fluoroscopy or CT), cervical or
+thoracic, each additional level (List separately in addition to code for primary procedure)",Add On,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64483,"Injection, Anesthetic Agent And/Or Steroid; Transforaminal Epidural, With Imaging Guidance (Fluoroscopy Or CT), Lumbar Or
+Sacral, Single Level",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64484,"Injection, Anesthetic Agent And/Or Steroid; Transforaminal Epidural, With Imaging Guidance (Fluoroscopy Or CT), Lumbar Or
+Sacral, Each Additional Level (List Separately In Addition To Code For Primary Procedure)",Add On,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64490,"Injection(S), Diagnostic Or Therapeutic Agent, Paravertebral Facet (Zygapophyseal) Joint (Or Nerves Innervating That Joint)
+With Image Guidance (Fluoroscopy Or Ct), Cervical Or Thoracic; Single Level",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64491,"Injection(s), diagnostic or therapeutic agent, paravertebral facet (zygapophyseal) joint (or nerves innervating that joint) with
+image guidance (fluoroscopy or CT), cervical or thoracic; second level (List separately in addition to code for primary
+procedure)",Add On,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64492,"Injection(S), Diagnostic Or Therapeutic Agent, Paravertebral Facet (Zygapophyseal) Joint (Or Nerves Innervating That Joint)
+With Image Guidance (Fluoroscopy Or Ct), Cervical Or Thoracic; Third And Any Additional Level(S) (List Separately In
+Addition To Code For Primary Procedure)",Add On,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64493,"Injection(s), diagnostic or therapeutic agent, paravertebral facet (zygapophyseal) joint (or nerves innervating that joint) with
+image guidance (fluoroscopy or CT), lumbar or sacral; single level",Yes,MedSolutions,
+Musculoskeletal,"Interventional Pain
+Management",64494,"Injection(S), Diagnostic Or Therapeutic Agent, Paravertebral Facet (Zygapophyseal) Joint (Or Nerves Innervating That Joint)
+With Image Guidance (Fluoroscopy Or Ct), Lumbar Or Sacral; Second Level (List Separately In Addition To Code For Primary
+Procedure)",Add On,MedSolutions,

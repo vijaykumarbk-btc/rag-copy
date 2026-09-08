@@ -1,0 +1,73 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Laboratory Management,Molecular Lab,81440,"Nuclear encoded mitochondrial genes (eg, neurologic or myopathic phenotypes), genomic sequence panel, must include
+analysis of at least 100 genes, including BCS1L, C10orf2, COQ2, COX10, DGUOK, MPV17, OPA1, PDSS2, POLG, POLG2,
+RRM2B, SCO1, SCO2, SLC25A4, SUCLA2, SUCLG1, TAZ, TK2, and TYMP",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81442,"Noonan spectrum disorders (eg, Noonan syndrome, cardio-facio-cutaneous syndrome, Costello syndrome, LEOPARD
+syndrome, Noonan-like syndrome), genomic sequence analysis panel, must include sequencing of at least 12 genes,
+including BRAF, CBL, HRAS, KRAS, MAP2K1, MAP2K2, NRAS, PTPN11, RAF1, RIT1, SHOC2, and SOS1",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81448,"Hereditary peripheral neuropathies (eg, Charcot-Marie-Tooth, spastic paraplegia), genomic sequence analysis panel, must
+include sequencing of at least 5 peripheral neuropathy-related genes (eg, BSCL2, GJB1, MFN2, MPZ, REEP1, SPAST,
+SPG11, SPTLC1)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81449,"Solid organ neoplasm, genomic sequence analysis panel, 5-50 genes, interrogation for sequence variants and copy number
+variants or rearrangements, if performed; RNA analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81451,"Hematolymphoid neoplasm or disorder, genomic sequence analysis panel, 5-50 genes, interrogation for sequence variants,
+and copy number variants or rearrangements, or isoform expression or mRNA expression levels, if performed; RNA analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81455,"Solid organ or hematolymphoid neoplasm or disorder, 51 or greater genes, genomic sequence analysis panel, interrogation
+for sequence variants and copy number variants or rearrangements, or isoform expression or mRNA expression levels, if
+performed; DNA analysis or combined DNA and RNA analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81456,"Solid organ or hematolymphoid neoplasm or disorder, 51 or greater genes, genomic sequence analysis panel, interrogation
+for sequence variants and copy number variants or rearrangements, or isoform expression or mRNA expression levels, if
+performed; RNA analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81457,"Solid organ neoplasm, genomic sequence analysis panel, interrogation for sequence variants; DNA analysis, microsatellite
+instability",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81458,"Solid organ neoplasm, genomic sequence analysis panel, interrogation for sequence variants; DNA analysis, copy number
+variants and microsatellite instability",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81459,"Solid organ neoplasm, genomic sequence analysis panel, interrogation for sequence variants; DNA analysis or combined
+DNA and RNA analysis, copy number variants, microsatellite instability, tumor mutation burden, and rearrangements",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81460,"Whole mitochondrial genome (eg, Leigh syndrome, mitochondrial encephalomyopathy, lactic acidosis, and stroke-like
+episodes [MELAS], myoclonic epilepsy with ragged-red fibers [MERFF], neuropathy, ataxia, and retinitis pigmentosa [NARP],
+Leber hereditary optic neuropathy [LHON]), genomic sequence, must include sequence analysis of entire mitochondrial
+genome with heteroplasmy detection",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81462,"Solid organ neoplasm, genomic sequence analysis panel, cell-free nucleic acid (eg, plasma), interrogation for sequence
+variants; DNA analysis or combined DNA and RNA analysis, copy number variants and rearrangements",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81463,"Solid organ neoplasm, genomic sequence analysis panel, cell-free nucleic acid (eg, plasma), interrogation for sequence
+variants; DNA analysis, copy number variants, and microsatellite instability",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81464,"Solid organ neoplasm, genomic sequence analysis panel, cell-free nucleic acid (eg, plasma), interrogation for sequence
+variants; DNA analysis or combined DNA and RNA analysis, copy number variants, microsatellite instability, tumor mutation
+burden, and rearrangements",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81465,"Whole mitochondrial genome large deletion analysis panel (eg, Kearns-Sayre syndrome, chronic progressive external
+ophthalmoplegia), including heteroplasmy detection, if performed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81470,"X-linked intellectual disability (XLID) (eg, syndromic and non-syndromic XLID); genomic sequence analysis panel, must
+include sequencing of at least 60 genes, including ARX, ATRX, CDKL5, FGD1, FMR1, HUWE1, IL1RAPL, KDM5C, L1CAM,
+MECP2, MED12, MID1, OCRL, RPS6KA3, and SLC16A2",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81471,"X-linked intellectual disability (XLID) (eg, syndromic and non-syndromic XLID); duplication/deletion gene analysis, must
+include analysis of at least 60 genes, including ARX, ATRX, CDKL5, FGD1, FMR1, HUWE1, IL1RAPL, KDM5C, L1CAM,
+MECP2, MED12, MID1, OCRL, RPS6KA3, and SLC16A2",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81479,Unlisted molecular pathology procedure,Yes,CareCore National,
+Laboratory Management,Molecular Lab,81518,"Oncology (breast), mRNA, gene expression profiling by real-time RT-PCR of 11 genes (7 content and 4 housekeeping),
+utilizing formalin-fixed paraffin-embedded tissue, algorithms reported as percentage risk for metastatic recurrence and
+likelihood of benefit from extended endocrine therapy",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81524,"Oncology (central nervous system tumor), DNA methylation analysis of at least 10,000 methylation sites, utilizing DNA
+extracted from formalin-fixed tumor tissue, algorithm(s) reported as probability of matching a reference tumor family and
+class, and MGMT (O-6-methylguanine-DNA methyltransferase) promoter methylation status, if performed",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81529,"Oncology (cutaneous melanoma), mRNA, gene expression profiling by real-time RT-PCR of 31 genes (28 content and 3
+housekeeping), utilizing formalin-fixed paraffin-embedded tissue, algorithm reported as recurrence risk, including likelihood of
+sentinel lymph node metastasis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81538,"Oncology (lung), mass spectrometric 8-protein signature, including amyloid A, utilizing serum, prognostic and predictive
+algorithm reported as good versus poor overall survival",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81541,"Oncology (prostate), mRNA gene expression profiling by real-time RT-PCR of 46 genes (31 content and 15 housekeeping),
+utilizing formalin-fixed paraffin-embedded tissue, algorithm reported as a disease-specific mortality risk score",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81542,"Oncology (prostate), mRNA, microarray gene expression profiling of 22 content genes, utilizing formalin-fixed paraffin-
+embedded tissue, algorithm reported as metastasis risk score",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81552,"Oncology (uveal melanoma), mRNA, gene expression profiling by real-time RT-PCR of 15 genes (12 content and 3
+housekeeping), utilizing fine needle aspirate or formalin-fixed paraffin-embedded tissue, algorithm reported as risk of
+metastasis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81554,"Pulmonary disease (idiopathic pulmonary fibrosis [IPF]), mRNA, gene expression analysis of 190 genes, utilizing
+transbronchial biopsies, diagnostic algorithm reported as categorical result (eg, positive or negative for high probability of
+usual interstitial pneumonia [UIP])",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81599,Unlisted multianalyte assay with algorithmic analysis,Yes,CareCore National,
+Laboratory Management,Molecular Lab,0020M,"Oncology (central nervous system), analysis of 30,000 DNA methylation loci by methylation array, utilizing DNA extracted
+from tumor tissue, diagnostic algorithm reported as probability of matching a reference tumor subclass",Yes,CareCore National,

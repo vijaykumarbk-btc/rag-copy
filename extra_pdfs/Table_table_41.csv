@@ -1,0 +1,100 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Durable Medical Equipment,DME,E0682,"Non-pneumatic sequential compression garment, full arm","Experimental /
+Investigational - Yes",CareCore National,
+"Crossover Code for:
+• Primary Program: DME / O&P
+• Companion Program:
+Musculoskeletal (MSK) - Spine
+Surgery
+(See External Notation column for
+more details.)","Osteogenesis
+stimulators",E0748*,"Osteogenesis stimulator, electrical, non-invasive, spinal applications",Yes,CareCore National,"This is a crossover code that can be requested under
+two programs: MSK Spine Surgery and DME
+• If your request is intended to be used in conjuction
+with MSK Spine Surgery, please submit your request
+under the MSK Spine program through the
+CareCoreNational platform.
+• If your request is intended to be DME, please
+submit your request under the DME program through
+the CareCoreNational platform."
+"Crossover Code for:
+• Primary Program:
+Musculoskeletal - Joint Surgery
+• Companion Program:
+Durable Medical Equipment, Spine
+Surgery
+(See External Notation column for
+more details.)",Spine Surgery,E0760*,"Osteogenesis stimulator, low intensity ultrasound, non-invasive",Yes,CareCore National,"This is a crossover code that can be requested
+under three programs: Durable Medical
+Equipment, MSK Spine Surgery or MSK Joint
+Surgery.
+• If your request is intended to be used for
+Durable Medical Equipment, please submit
+your request under the Durable Medical
+Equipment program through the
+CareCoreNational platform.
+• If your request is intended to be used for MSK
+Spine Surgery, please submit your request
+under the MSK Spine program through the
+CareCoreNational platform.
+• If your request is intended to be used for MSK
+Joint Surgery, please submit your request under
+the MSK Joint through the Medsolutions
+platform."
+"Crossover Code for:
+• Primary Program:
+Musculoskeletal - Joint Surgery
+• Companion Program:
+Durable Medical Equipment, Spine
+Surgery
+(See External Notation column for
+more details.)","Osteogenesis
+stimulators",E0760*,"Osteogenesis stimulator, low intensity ultrasound, non-invasive",Yes,CareCore National,"This is a crossover code that can be requested
+under three programs: Durable Medical
+Equipment, MSK Spine Surgery or MSK Joint
+Surgery.
+• If your request is intended to be used for
+Durable Medical Equipment, please submit
+your request under the Durable Medical
+Equipment program through the
+CareCoreNational platform.
+• If your request is intended to be used for MSK
+Spine Surgery, please submit your request
+under the MSK Spine program through the
+CareCoreNational platform.
+• If your request is intended to be used for MSK
+Joint Surgery, please submit your request under
+the MSK Joint through the Medsolutions
+platform."
+"Crossover Code for:
+• Primary Program:
+Musculoskeletal - Joint Surgery
+• Companion Program:
+Durable Medical Equipment, Spine
+Surgery
+(See External Notation column for
+more details.)",Joint Surgery,E0760*,"Osteogenesis stimulator, low intensity ultrasound, non-invasive",Yes,CareCore National,"This is a crossover code that can be requested
+under three programs: Durable Medical
+Equipment, MSK Spine Surgery or MSK Joint
+Surgery.
+• If your request is intended to be used for
+Durable Medical Equipment, please submit
+your request under the Durable Medical
+Equipment program through the
+CareCoreNational platform.
+• If your request is intended to be used for MSK
+Spine Surgery, please submit your request
+under the MSK Spine program through the
+CareCoreNational platform.
+• If your request is intended to be used for MSK
+Joint Surgery, please submit your request under
+the MSK Joint through the Medsolutions
+platform."
+Durable Medical Equipment,VENTILATORS,E0481,Intrapulmonary percussive ventilation system and related accessories,"Experimental /
+Investigational - Yes",CareCore National,
+Durable Medical Equipment,"MISCELLANEOUS
+DME SUPPLY",E1399,"Durable medical equipment, miscellaneous","Experimental /
+Investigational - Yes",CareCore National,

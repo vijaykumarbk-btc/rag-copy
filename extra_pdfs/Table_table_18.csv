@@ -1,0 +1,78 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+"Crossover Code for:
+• Primary Program: Other Services
+• Companion Program:
+Musculoskeletal - Joint / Spine Surgery
+(See External Notation column for more
+details.)",Spine Surgery,64999*,"Unlisted procedure, nervous system",Yes,CareCore National,"This is a crossover code that can be requested under
+three programs: MSK Joint, MSK Spine Surgery or
+Other Services.
+• If your request is intended to be used for Other
+Services, please submit your request under the Other
+Services program through the CareCoreNational
+platform.
+• If your request is intended to be used for MSK
+Spine Surgery, please submit your request under the
+MSK Spine program through the CareCoreNational
+platform.
+• If your request is intended to be used for MSK Joint
+Surgery, please submit your request under the Other
+Services program through the Medsolutions
+platform."
+Musculoskeletal,Spine Surgery,22850,"Removal of posterior nonsegmental instrumentation (eg, Harrington rod)",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22855,Removal of anterior instrumentation,Yes,CareCore National,
+Musculoskeletal,Spine Surgery,0657T,Anterior lumbar or thoracolumbar vertebral body tethering; 8 or more vertebral segments,Yes,CareCore National,
+Musculoskeletal,Spine Surgery,C2614,"Probe, percutaneous lumbar discectomy",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,20930,"Allograft, morselized, or placement of osteopromotive material, for spine surgery only (List separately in addition to code for
+primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,20931,"Allograft, structural, for spine surgery only (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22845,Anterior instrumentation; 2 to 3 vertebral segments (List separately in addition to code for primary procedure),Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22846,Anterior instrumentation; 4 to 7 vertebral segments (List separately in addition to code for primary procedure),Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22847,Anterior instrumentation; 8 or more vertebral segments (List separately in addition to code for primary procedure),Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22554,"Arthrodesis, Anterior Interbody Technique, Including Minimal Discectomy To Prepare Interspace (Other Than For
+Decompression); Cervical Below C2",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22585,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression);
+each additional interspace (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22558,"Arthrodesis, Anterior Interbody Technique, Including Minimal Discectomy To Prepare Interspace (Other Than For
+Decompression); Lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22556,"Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression);
+thoracic",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22551,"Arthrodesis, Anterior Interbody, Including Disc Space Preparation, Discectomy, Osteophytectomy And Decompression Of
+Spinal Cord And/Or Nerve Roots; Cervical Below C2",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22552,"Arthrodesis, anterior interbody, including disc space preparation, discectomy, osteophytectomy and decompression of spinal
+cord and/or nerve roots; cervical below C2, each additional interspace (List separately in addition to code for primary
+procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22808,"Arthrodesis, anterior, for spinal deformity, with or without cast; 2 to 3 vertebral segments",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22810,"Arthrodesis, anterior, for spinal deformity, with or without cast; 4 to 7 vertebral segments",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22812,"Arthrodesis, anterior, for spinal deformity, with or without cast; 8 or more vertebral segments",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22634,"Arthrodesis, combined posterior or posterolateral technique with posterior interbody technique including laminectomy and/or
+discectomy sufficient to prepare interspace (other than for decompression), single interspace, lumbar; each additional
+interspace (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22633,"Arthrodesis, combined posterior or posterolateral technique with posterior interbody technique including laminectomy and/or
+discectomy sufficient to prepare interspace (other than for decompression), single interspace, lumbar;",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22533,"Arthrodesis, Lateral Extracavitary Technique, Including Minimal Discectomy To Prepare Interspace (Other Than For
+Decompression); Lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22534,"Arthrodesis, lateral extracavitary technique, including minimal discectomy to prepare interspace (other than for
+decompression); thoracic or lumbar, each additional vertebral segment (List separately in addition to code for primary
+procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22632,"Arthrodesis, posterior interbody technique, including laminectomy and/or discectomy to prepare interspace (other than for
+decompression), single interspace, lumbar; each additional interspace (List separately in addition to code for primary
+procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22630,"Arthrodesis, posterior interbody technique, including laminectomy and/or discectomy to prepare interspace (other than for
+decompression), single interspace, lumbar;",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22600,"Arthrodesis, Posterior Or Posterolateral Technique, Single interspace, Cervical Below C2 Segment",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22614,"Arthrodesis, posterior or posterolateral technique, single interspace; each additional interspace (List separately in addition to
+code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22612,"Arthrodesis, Posterior Or Posterolateral Technique, Single Interspace; Lumbar (With Lateral Transverse Technique, When
+Performed)",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22610,"Arthrodesis, posterior or posterolateral technique, single interspace; thoracic (with lateral transverse technique, when
+performed)",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22595,"Arthrodesis, posterior technique, atlas-axis (C1-C2)",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22804,"Arthrodesis, posterior, for spinal deformity, with or without cast; 13 or more vertebral segments",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22802,"Arthrodesis, posterior, for spinal deformity, with or without cast; 7 to 12 vertebral segments",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22800,"Arthrodesis, posterior, for spinal deformity, with or without cast; up to 6 vertebral segments",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22586,"Arthrodesis, pre-sacral interbody technique, including disc space preparation, discectomy, with posterior instrumentation, with
+image guidance, includes bone graft when performed, L5-S1 interspace",Yes,CareCore National,

@@ -1,0 +1,67 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Laboratory Management,Molecular Lab,0481U,"IDH1 (isocitrate dehydrogenase 1 [NADP+]), IDH2 (isocitrate dehydrogenase 2 [NADP+]), and TERT (telomerase reverse
+transcriptase) promoter (eg, central nervous system [CNS] tumors), next-generation sequencing (single-nucleotide variants
+[SNV], deletions, and insertions)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0485U,"Oncology (solid tumor), cell-free DNA and RNA by next-generation sequencing, interpretative report for germline mutations,
+clonal hematopoiesis of indeterminate potential, and tumor-derived single-nucleotide variants, small insertions/deletions,
+copy number alterations, fusions, microsatellite instability, and tumor mutational burden",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0487U,"Oncology (solid tumor), cell-free circulating DNA, targeted genomic sequence analysis panel of 84 genes, interrogation for
+sequence variants, aneuploidy-corrected gene copy number amplifications and losses, gene rearrangements, and
+microsatellite instability",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0488U,"Obstetrics (fetal antigen noninvasive prenatal test), cell-free DNA sequence analysis for detection of fetal presence or
+absence of 1 or more of the Rh, C, c, D, E, Duffy (Fya), or Kell (K) antigen in alloimmunized pregnancies, reported as
+selected antigen(s) detected or not detected",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0496U,"Oncology (colorectal), cell-free DNA, 8 genes for mutations, 7 genes for methylation by real-time RT-PCR, and 4 proteins by
+enzyme-linked immunosorbent assay, blood, reported positive or negative for colorectal cancer or advanced adenoma risk",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0499U,"Oncology (colorectal and lung), DNA from formalin-fixed paraffin-embedded (FFPE) tissue, next-generation sequencing of 8
+genes (NRAS, EGFR, CTNNB1, PIK3CA, APC, BRAF, KRAS, and TP53), mutation detection",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0500U,"Autoinflammatory disease (VEXAS syndrome), DNA, UBA1 gene mutations, targeted variant analysis (M41T, M41V, M41L,
+c.118-2A>C, c.118-1G>C, c.118-9_118-2del, S56F, S621C)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0501U,"Oncology (colorectal), blood, quantitative measurement of cell-free DNA (cfDNA)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0506U,"Gastroenterology (Barrett's esophagus), esophageal cells, DNA methylation analysis by next-generation sequencing of at
+least 89 differentially methylated genomic regions, algorithm reported as likelihood for Barrett's esophagus",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0507U,"Oncology (ovarian), DNA, whole-genome sequencing with 5-hydroxymethylcytosine (5hmC) enrichment, using whole blood or
+plasma, algorithm reported as cancer detected or not detected",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0523U,"Oncology (solid tumor), DNA, qualitative, next-generation sequencing (NGS) of single-nucleotide variants (SNV) and
+insertion/deletions in 22 genes utilizing formalin-fixed paraffin-embedded tissue, reported as presence or absence of
+mutation(s), location of mutation(s), nucleotide change, and amino acid change",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0529U,"Hematology (venous thromboembolism [VTE]), genome-wide single-nucleotide polymorphism variants, including F2 and F5
+gene analysis, and Leiden variant, by microarray analysis, saliva, report as risk score for VTE",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0530U,"Oncology (pan-solid tumor), ctDNA, utilizing plasma, next-generation sequencing (NGS) of 77 genes, 8 fusions, microsatellite
+instability, and tumor mutation burden, interpretative report for single-nucleotide variants, copy-number alterations, with
+therapy association",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0532U,"Rare diseases (constitutional disease/hereditary disorders), rapid whole genome and mitochondrial DNA sequencing for
+single-nucleotide variants, insertions/deletions, copy number variations, peripheral blood, buffy coat, saliva, buccal or tissue
+sample, results reported as positive or negative",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0533U,"Drug metabolism (adverse drug reactions and drug response), genotyping of 16 genes (ie, ABCG2, CYP2B6, CYP2C9,
+CYP2C19, CYP2C, CYP2D6, CYP3A5, CYP4F2, DPYD, G6PD, GGCX, NUDT15, SLCO1B1, TPMT, UGT1A1, VKORC1),
+reported as metabolizer status and transporter function",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0534U,"Oncology (prostate), microRNA, single-nucleotide polymorphisms (SNPs) analysis by RT-PCR of 32 variants, using buccal
+swab, algorithm reported as a risk score",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0537U,"Oncology (colorectal cancer), analysis of cell-free DNA for epigenomic patterns, next-generation sequencing, >2,500
+differentially methylated regions (DMRs), plasma, algorithm reported as positive or negative",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0538U,"Oncology (solid tumor), next-generation targeted sequencing analysis, formalin-fixed paraffin-embedded (FFPE) tumor tissue,
+DNA analysis of 600 genes, interrogation for single-nucleotide variants, insertions/deletions, gene rearrangements, and copy
+number alterations, microsatellite instability, tumor mutation burden, reported as actionable variant",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0539U,"Oncology (solid tumor), cell-free circulating tumor DNA (ctDNA), 152 genes, next-generation sequencing, interrogation for
+single-nucleotide variants, insertions/deletions, gene rearrangements, copy number alterations, and microsatellite instability,
+using whole-blood samples, mutations with clinical actionability reported as actionable variant",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0543U,"Oncology (solid tumor), next-generation sequencing of DNA from formalin-fixed paraffin-embedded (FFPE) tissue of 517
+genes, interrogation for single- nucleotide variants, multi-nucleotide variants, insertions and deletions from DNA, fusions in 24
+genes and splice variants in 1 gene from RNA, and tumor mutation burden",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0549U,"Oncology (urothelial), DNA, quantitative methylated real-time PCR of TRNA-Cys, SIM2, and NKX1-1, using urine, diagnostic
+algorithm reported as a probability index for bladder cancer and/or upper tract urothelial carcinoma (UTUC)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0552U,"Reproductive medicine (preimplantation genetic assessment), analysis for known genetic disorders from trophectoderm
+biopsy, linkage analysis of disease-causing locus, and when possible, targeted mutation analysis for known familial variant,
+reported as low-risk or high-risk for familial genetic disorder",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0553U,"Reproductive medicine (preimplantation genetic assessment), analysis of 24 chromosomes using DNA genomic sequence
+analysis from embryonic trophectoderm for structural rearrangements, aneuploidy, and a mitochondrial DNA score, results
+reported as normal/balanced (euploidy/balanced), unbalanced structural rearrangement, monosomy, trisomy, segmental
+aneuploidy, or mosaic, per embryo tested",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0554U,"Reproductive medicine (preimplantation genetic assessment), analysis of 24 chromosomes using DNA genomic sequence
+analysis from trophectoderm biopsy for aneuploidy, ploidy, a mitochondrial DNA score, and embryo quality control, results
+reported as normal (euploidy), monosomy, trisomy, segmental aneuploidy, triploid, haploid, or mosaic, with quality control
+results reported as contamination detected or inconsistent cohort when applicable, per embryo tested",Yes,CareCore National,

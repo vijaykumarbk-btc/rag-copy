@@ -1,0 +1,70 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Radiology,MR,71552,"Magnetic resonance (eg, proton) imaging, chest (eg, for evaluation of hilar and mediastinal lymphadenopathy); without
+contrast material(s), followed by contrast material(s) and further sequences",Yes,MedSolutions,
+Radiology,MRA,71555,"Magnetic resonance angiography, chest (excluding myocardium), with or without contrast material(s)",Yes,MedSolutions,
+Radiology,CT,72125,"Computed tomography, cervical spine; without contrast material",Yes,MedSolutions,
+Radiology,CT,72126,"Computed tomography, cervical spine; with contrast material",Yes,MedSolutions,
+Radiology,CT,72127,"Computed tomography, cervical spine; without contrast material, followed by contrast material(s) and further sections",Yes,MedSolutions,
+Radiology,CT,72128,"Computed tomography, thoracic spine; without contrast material",Yes,MedSolutions,
+Radiology,CT,72129,"Computed tomography, thoracic spine; with contrast material",Yes,MedSolutions,
+Radiology,CT,72130,"Computed tomography, thoracic spine; without contrast material, followed by contrast material(s) and further sections",Yes,MedSolutions,
+Radiology,CT,72131,"Computed tomography, lumbar spine; without contrast material",Yes,MedSolutions,
+Radiology,CT,72132,"Computed tomography, lumbar spine; with contrast material",Yes,MedSolutions,
+Radiology,CT,72133,"Computed tomography, lumbar spine; without contrast material, followed by contrast material(s) and further sections",Yes,MedSolutions,
+Radiology,MR,72141,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, cervical; without contrast material",Yes,MedSolutions,
+Radiology,MR,72142,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, cervical; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,72146,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, thoracic; without contrast material",Yes,MedSolutions,
+Radiology,MR,72147,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, thoracic; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,72148,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, lumbar; without contrast material",Yes,MedSolutions,
+Radiology,MR,72149,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, lumbar; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,72156,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, without contrast material, followed by contrast
+material(s) and further sequences; cervical",Yes,MedSolutions,
+Radiology,MR,72157,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, without contrast material, followed by contrast
+material(s) and further sequences; thoracic",Yes,MedSolutions,
+Radiology,MR,72158,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, without contrast material, followed by contrast
+material(s) and further sequences; lumbar",Yes,MedSolutions,
+Radiology,MRA,72159,"Magnetic resonance angiography, spinal canal and contents, with or without contrast material(s)",Yes,MedSolutions,
+Radiology,CT,72191,"Computed tomographic angiography, pelvis, with contrast material(s), including noncontrast images, if performed, and image
+postprocessing",Yes,MedSolutions,
+Radiology,CT,72192,"Computed tomography, pelvis; without contrast material",Yes,MedSolutions,
+Radiology,CT,72193,"Computed tomography, pelvis; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,72194,"Computed tomography, pelvis; without contrast material, followed by contrast material(s) and further sections",Yes,MedSolutions,
+Radiology,MR,72195,"Magnetic resonance (eg, proton) imaging, pelvis; without contrast material(s)",Yes,MedSolutions,
+Radiology,MR,72196,"Magnetic resonance (eg, proton) imaging, pelvis; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,72197,"Magnetic resonance (eg, proton) imaging, pelvis; without contrast material(s), followed by contrast material(s) and further
+sequences",Yes,MedSolutions,
+Radiology,MRA,72198,"Magnetic resonance angiography, pelvis, with or without contrast material(s)",Yes,MedSolutions,
+Radiology,CT,73200,"Computed tomography, upper extremity; without contrast material",Yes,MedSolutions,
+Radiology,CT,73201,"Computed tomography, upper extremity; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,73202,"Computed tomography, upper extremity; without contrast material, followed by contrast material(s) and further sections",Yes,MedSolutions,
+Radiology,CT,73206,"Computed tomographic angiography, upper extremity, with contrast material(s), including noncontrast images, if performed,
+and image postprocessing",Yes,MedSolutions,
+Radiology,MR,73218,"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; without contrast material(s)",Yes,MedSolutions,
+Radiology,MR,73219,"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,73220,"Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; without contrast material(s), followed by contrast
+material(s) and further sequences",Yes,MedSolutions,
+Radiology,MR,73221,"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; without contrast material(s)",Yes,MedSolutions,
+Radiology,MR,73222,"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,73223,"Magnetic resonance (eg, proton) imaging, any joint of upper extremity; without contrast material(s), followed by contrast
+material(s) and further sequences",Yes,MedSolutions,
+Radiology,MRA,73225,"Magnetic resonance angiography, upper extremity, with or without contrast material(s)",Yes,MedSolutions,
+Radiology,CT,73700,"Computed tomography, lower extremity; without contrast material",Yes,MedSolutions,
+Radiology,CT,73701,"Computed tomography, lower extremity; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,73702,"Computed tomography, lower extremity; without contrast material, followed by contrast material(s) and further sections",Yes,MedSolutions,
+Radiology,CT,73706,"Computed tomographic angiography, lower extremity, with contrast material(s), including noncontrast images, if performed,
+and image postprocessing",Yes,MedSolutions,
+Radiology,MR,73718,"Magnetic resonance (eg, proton) imaging, lower extremity other than joint; without contrast material(s)",Yes,MedSolutions,
+Radiology,MR,73719,"Magnetic resonance (eg, proton) imaging, lower extremity other than joint; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,73720,"Magnetic resonance (eg, proton) imaging, lower extremity other than joint; without contrast material(s), followed by contrast
+material(s) and further sequences",Yes,MedSolutions,
+Radiology,MR,73721,"Magnetic resonance (eg, proton) imaging, any joint of lower extremity; without contrast material",Yes,MedSolutions,
+Radiology,MR,73722,"Magnetic resonance (eg, proton) imaging, any joint of lower extremity; with contrast material(s)",Yes,MedSolutions,
+Radiology,MR,73723,"Magnetic resonance (eg, proton) imaging, any joint of lower extremity; without contrast material(s), followed by contrast
+material(s) and further sequences",Yes,MedSolutions,
+Radiology,MRA,73725,"Magnetic resonance angiography, lower extremity, with or without contrast material(s)",Yes,MedSolutions,
+Radiology,CT,74150,"Computed tomography, abdomen; without contrast material",Yes,MedSolutions,
+Radiology,CT,74160,"Computed tomography, abdomen; with contrast material(s)",Yes,MedSolutions,
+Radiology,CT,74170,"Computed tomography, abdomen; without contrast material, followed by contrast material(s) and further sections",Yes,MedSolutions,

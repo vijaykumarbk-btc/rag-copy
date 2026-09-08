@@ -1,0 +1,71 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Laboratory Management,Molecular Lab,0047U,"Oncology (prostate), mRNA, gene expression profiling by real-time RT-PCR of 17 genes (12 content and 5 housekeeping),
+utilizing formalin-fixed paraffin-embedded tissue, algorithm reported as a risk score",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0048U,"Oncology (solid organ neoplasia), DNA, targeted sequencing of protein-coding exons of 468 cancer-associated genes,
+including interrogation for somatic mutations and microsatellite instability, matched with normal specimens, utilizing formalin-
+fixed paraffin-embedded tumor tissue, report of clinically significant mutation(s)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0089U,"Oncology (melanoma), gene expression profiling by RTqPCR, PRAME and LINC00518, superficial collection using adhesive
+patch(es)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0102U,"Hereditary breast cancer-related disorders (eg, hereditary breast cancer, hereditary ovarian cancer, hereditary endometrial
+cancer), genomic sequence analysis panel utilizing a combination of NGS, Sanger, MLPA, and array CGH, with mRNA
+analytics to resolve variants of unknown significance when indicated (17 genes [sequencing and deletion/duplication])",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0129U,"Hereditary breast cancer-related disorders (eg, hereditary breast cancer, hereditary ovarian cancer, hereditary endometrial
+cancer), genomic sequence analysis and deletion/duplication analysis panel (ATM, BRCA1, BRCA2, CDH1, CHEK2, PALB2,
+PTEN, and TP53)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0172U,"Oncology (solid tumor as indicated by the label), somatic mutation analysis of BRCA1 (BRCA1, DNA repair associated),
+BRCA2 (BRCA2, DNA repair associated) and analysis of homologous recombination deficiency pathways, DNA, formalin-
+fixed paraffin-embedded tissue, algorithm quantifying tumor genomic instability score",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0211U,"Oncology (pan-tumor), DNA and RNA by next-generation sequencing, utilizing formalin-fixed paraffin-embedded tissue,
+interpretative report for single nucleotide variants, copy number alterations, tumor mutational burden, and microsatellite
+instability, with therapy association",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0239U,"Targeted genomic sequence analysis panel, solid organ neoplasm, cell-free DNA, analysis of 311 or more genes,
+interrogation for sequence variants, including substitutions, insertions, deletions, select rearrangements, and copy number
+variations",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0242U,"Targeted genomic sequence analysis panel, solid organ neoplasm, cell-free circulating DNA analysis of 55-74 genes,
+interrogation for sequence variants, gene copy number amplifications, and gene rearrangements",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0318U,"Pediatrics (congenital epigenetic disorders), whole genome methylation analysis by microarray for 50 or more genes, blood",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0326U,"Targeted genomic sequence analysis panel, solid organ neoplasm, cell-free circulating DNA analysis of 83 or more genes,
+interrogation for sequence variants, gene copy number amplifications, gene rearrangements, microsatellite instability and
+tumor mutational burden",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0329U,"Oncology (neoplasia), exome and transcriptome sequence analysis for sequence variants, gene copy number amplifications
+and deletions, gene rearrangements, microsatellite instability and tumor mutational burden utilizing DNA and RNA from tumor
+with DNA from normal blood or saliva for subtraction, report of clinically significant mutation(s) with therapy associations",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0340U,"Oncology (pan-cancer), analysis of minimal residual disease (MRD) from plasma, with assays personalized to each patient
+based on prior next-generation sequencing of the patient's tumor and germline DNA, reported as absence or presence of
+MRD, with disease-burden correlation, if appropriate",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0364U,"Oncology (hematolymphoid neoplasm), genomic sequence analysis using multiplex (PCR) and next-generation sequencing
+with algorithm, quantification of dominant clonal sequence(s), reported as presence or absence of minimal residual disease
+(MRD) with quantitation of disease burden, when appropriate",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0388U,"Oncology (non-small cell lung cancer), next-generation sequencing with identification of single nucleotide variants, copy
+number variants, insertions and deletions, and structural variants in 37 cancer-related genes, plasma, with report for
+alteration detection",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0425U,"Genome (eg, unexplained constitutional or heritable disorder or syndrome), rapid sequence analysis, each comparator
+genome (eg, parents, siblings)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0426U,"Genome (eg, unexplained constitutional or heritable disorder or syndrome), ultra-rapid sequence analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0452U,"Oncology (bladder), methylated PENK DNA detection by linear target enrichment-quantitative methylation-specific real-time
+PCR (LTE-qMSP), urine, reported as likelihood of bladder cancer",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0453U,"Oncology (colorectal cancer), cell-free DNA (cfDNA), methylation-based quantitative PCR assay (SEPTIN9, IKZF1, BCAT1,
+Septin9-2, VAV3, BCAN), plasma, reported as presence or absence of circulating tumor DNA (ctDNA)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0454U,"Rare diseases (constitutional/heritable disorders), identification of copy number variations, inversions, insertions,
+translocations, and other structural variants by optical genome mapping",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0465U,"Oncology (urothelial carcinoma), DNA, quantitative methylation-specific PCR of 2 genes (ONECUT2, VIM), algorithmic
+analysis reported as positive or negative",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0466U,"Cardiology (coronary artery disease [CAD]), DNA, genome-wide association studies (564856 single-nucleotide
+polymorphisms [SNPs], targeted variant genotyping), patient lifestyle and clinical data, buccal swab, algorithm reported as
+polygenic risk to acquired heart disease",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0467U,"Oncology (bladder), DNA, next-generation sequencing (NGS) of 60 genes and whole genome aneuploidy, urine, algorithms
+reported as minimal residual disease (MRD) status positive or negative and quantitative disease burden",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0469U,"Rare diseases (constitutional/heritable disorders), whole genome sequence analysis for chromosomal abnormalities, copy
+number variants, duplications/deletions, inversions, unbalanced translocations, regions of homozygosity (ROH), inheritance
+pattern that indicate uniparental disomy (UPD), and aneuploidy, fetal sample (amniotic fluid, chorionic villus sample, or
+products of conception), identification and categorization of genetic variants, diagnostic report of fetal results based on
+phenotype with maternal sample and paternal sample, if performed, as comparators and/or maternal cell contamination",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0471U,"Oncology (colorectal cancer), qualitative real-time PCR of 35 variants of KRAS and NRAS genes (exons 2, 3, 4), formalin-
+fixed paraffin-embedded (FFPE), predictive, identification of detected mutations",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0473U,"Oncology (solid tumor), next-generation sequencing (NGS) of DNA from formalin-fixed paraffin-embedded (FFPE) tissue with
+comparative sequence analysis from a matched normal specimen (blood or saliva), 648 genes, interrogation for sequence
+variants, insertion and deletion alterations, copy number variants, rearrangements, microsatellite instability, and tumor-
+mutation burden",Yes,CareCore National,

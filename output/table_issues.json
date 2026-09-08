@@ -1,0 +1,1153 @@
+{
+  "source": "Table.pdf",
+  "issues": [
+    {
+      "table_id": "table_002",
+      "row_index": 17,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic Potentially Cosmetic",
+        "CPT® Code": "15787 15786",
+        "CPT® Code Description": "Abrasion; each additional 4 lesions or less (List separately in addition to code for primary procedure) Abrasion; single lesion (eg, keratosis, scar)",
+        "Commercial Prior Authorization Required?": "Add On Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_004",
+      "row_index": 15,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic Outpatient Surgery",
+        "CPT® Code": "56805 69930",
+        "CPT® Code Description": "Clitoroplasty for intersex state",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_004",
+      "row_index": 16,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Outpatient Surgery",
+        "CPT® Code": null,
+        "CPT® Code Description": "Cochlear device implantation, with or without mastoidectomy",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_004",
+      "row_index": 32,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": "prostate",
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_004",
+      "row_index": 33,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Investigational Outpatient Surgery",
+        "CPT® Code": null,
+        "CPT® Code Description": "dermacell awm or dermacell awm porous, per square centimeter (add-on, list separately in addition to",
+        "Commercial Prior Authorization Required?": "Add On",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_004",
+      "row_index": 36,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Experimental /",
+        "CPT® Code": null,
+        "CPT® Code Description": "centimeters",
+        "Commercial Prior Authorization Required?": "Add On",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_004",
+      "row_index": 39,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic",
+        "CPT® Code": "17106 17108",
+        "CPT® Code Description": "Destruction of cutaneous vascular proliferative lesions (eg, laser technique); less than 10 sq cm Destruction of cutaneous vascular proliferative lesions (eg, laser technique); over 50.0 sq cm",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_004",
+      "row_index": 46,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": "Surgery",
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_005",
+      "row_index": 18,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic Potentially Cosmetic",
+        "CPT® Code": "15833 15839",
+        "CPT® Code Description": "Excision, excessive skin and subcutaneous tissue (includes lipectomy); leg Excision, excessive skin and subcutaneous tissue (includes lipectomy); other area",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_005",
+      "row_index": 32,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Outpatient Surgery Outpatient Surgery",
+        "CPT® Code": "Q4132 Q4392",
+        "CPT® Code Description": "Grafix core and grafixpl core, per square centimeter (add-on, list separately in addition to primary procedure) Grafix duo, per square centimeter (add-on, list separately in addition to primary procedure)",
+        "Commercial Prior Authorization Required?": "Add On Add On",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_005",
+      "row_index": 38,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": "Grafting hands,",
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_006",
+      "row_index": 12,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Outpatient Surgery Outpatient Surgery",
+        "CPT® Code": "21088 21085",
+        "CPT® Code Description": "Impression and custom preparation; facial prosthesis Impression and custom preparation; oral surgical splint",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_006",
+      "row_index": 13,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Experimental /",
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_006",
+      "row_index": 22,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Outpatient Surgery Outpatient Surgery",
+        "CPT® Code": "54401 54400",
+        "CPT® Code Description": "Insertion of penile prosthesis; inflatable (self-contained) Insertion of penile prosthesis; non-inflatable (semi-rigid)",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_006",
+      "row_index": 28,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": "Experimental /",
+        "CPT® Code": null,
+        "CPT® Code Description": "to electrode array Insertion or replacement of implantable cardioverter-defibrillator system with substernal electrode(s), including all imaging guidance and electrophysiological evaluation (includes defibrillation threshold evaluation, induction of arrhythmia,",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_006",
+      "row_index": 34,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Outpatient Surgery Outpatient Surgery",
+        "CPT® Code": "21497 55980",
+        "CPT® Code Description": "Interdental wiring, for condition other than fracture Intersex surgery; female to male",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_006",
+      "row_index": 39,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Outpatient Surgery Outpatient Surgery",
+        "CPT® Code": "A2019 Q4158",
+        "CPT® Code Description": "Kerecis omega3 marigen shield, per square centimeter (add-on, list separately in addition to primary procedure) Kerecis omega3, per square centimeter (add-on, list separately in addition to primary procedure)",
+        "Commercial Prior Authorization Required?": "Add On Add On",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_007",
+      "row_index": 23,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Outpatient Surgery Outpatient Surgery",
+        "CPT® Code": "31298 31296",
+        "CPT® Code Description": "Nasal/sinus endoscopy, surgical, with dilation (eg, balloon dilation); frontal and sphenoid sinus ostia Nasal/sinus endoscopy, surgical, with dilation (eg, balloon dilation); frontal sinus ostium",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_007",
+      "row_index": 24,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": "Nasal/sinus endoscopy, surgical, with dilation (eg, balloon dilation); maxillary sinus ostium, transnasal or via canine fossa",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_007",
+      "row_index": 26,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Outpatient Surgery Outpatient Surgery",
+        "CPT® Code": "31297 69706",
+        "CPT® Code Description": "Nasopharyngoscopy, surgical, with dilation of eustachian tube (ie, balloon dilation); bilateral",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_007",
+      "row_index": 28,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Experimental /",
+        "CPT® Code": null,
+        "CPT® Code Description": "Neomatrix, per square centimeter (add-on, list separately in addition to primary procedure)",
+        "Commercial Prior Authorization Required?": "Add On",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_007",
+      "row_index": 30,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Investigational Experimental /",
+        "CPT® Code": "A2021 Q4267",
+        "CPT® Code Description": "Neostim dl, per square centimeter (add-on, list separately in addition to primary procedure)",
+        "Commercial Prior Authorization Required?": "Add On",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_009",
+      "row_index": 20,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic Potentially Cosmetic",
+        "CPT® Code": "21139 21137",
+        "CPT® Code Description": "Reduction forehead; contouring and setback of anterior frontal sinus wall Reduction forehead; contouring only",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_009",
+      "row_index": 26,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Potentially Cosmetic",
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_009",
+      "row_index": 31,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Potentially Cosmetic",
+        "CPT® Code": "67906 67900",
+        "CPT® Code Description": "Repair of brow ptosis (supraciliary, mid-forehead or coronal approach)",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_009",
+      "row_index": 39,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Experimental /",
+        "CPT® Code": null,
+        "CPT® Code Description": "Revision imaging",
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_009",
+      "row_index": 46,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic Potentially Cosmetic",
+        "CPT® Code": "30420 30400",
+        "CPT® Code Description": "Rhinoplasty, primary; including major septal repair Rhinoplasty, primary; lateral and alar cartilages and/or elevation of nasal tip",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_009",
+      "row_index": 50,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic Potentially Cosmetic",
+        "CPT® Code": "15828 15824",
+        "CPT® Code Description": "Rhytidectomy; cheek, chin, and neck Rhytidectomy; forehead",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_010",
+      "row_index": 7,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic Potentially Cosmetic",
+        "CPT® Code": "11952 11954",
+        "CPT® Code Description": "Subcutaneous injection of filling material (eg, collagen); 5.1 to 10.0 cc Subcutaneous injection of filling material (eg, collagen); over 10.0 cc",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_010",
+      "row_index": 12,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Potentially Cosmetic Potentially Cosmetic",
+        "CPT® Code": "15879 15877",
+        "CPT® Code Description": "Suction assisted lipectomy; lower extremity Suction assisted lipectomy; trunk",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_010",
+      "row_index": 27,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Outpatient Surgery",
+        "CPT® Code": "15150 19357",
+        "CPT® Code Description": "Tissue cultured skin autograft, trunk, arms, legs; first 25 sq cm or less",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_010",
+      "row_index": 28,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Potentially Cosmetic",
+        "CPT® Code": null,
+        "CPT® Code Description": "Tissue expander placement in breast reconstruction, including subsequent expansion(s)",
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_010",
+      "row_index": 38,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Other Services",
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_011",
+      "row_index": 1,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Unlisted Procedure",
+        "CPT® Code": "44979 47579",
+        "CPT® Code Description": "Unlisted laparoscopy procedure, appendix Unlisted laparoscopy procedure, biliary tract",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_011",
+      "row_index": 31,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services Other Services",
+        "Category": "Unlisted Procedure Unlisted Procedure",
+        "CPT® Code": "47399 32999",
+        "CPT® Code Description": "Unlisted procedure, liver Unlisted procedure, lungs and pleura",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_011",
+      "row_index": 33,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": "Investigational",
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_011",
+      "row_index": 42,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Potentially Cosmetic",
+        "CPT® Code": "42699 17999",
+        "CPT® Code Description": "Unlisted procedure, salivary glands or ducts Unlisted procedure, skin, mucous membrane and subcutaneous tissue",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_011",
+      "row_index": 45,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Other Services",
+        "Category": "Experimental / Investigational",
+        "CPT® Code": "41599 31899",
+        "CPT® Code Description": "Unlisted procedure, tongue, floor of mouth",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 14,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology Radiology",
+        "Category": "MR MR",
+        "CPT® Code": "72147 72148",
+        "CPT® Code Description": "Magnetic resonance (eg, proton) imaging, spinal canal and contents, thoracic; with contrast material(s) Magnetic resonance (eg, proton) imaging, spinal canal and contents, lumbar; without contrast material",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 19,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology Radiology",
+        "Category": "MRA",
+        "CPT® Code": "72159 72191",
+        "CPT® Code Description": "Magnetic resonance angiography, spinal canal and contents, with or without contrast material(s) Computed tomographic angiography, pelvis, with contrast material(s), including noncontrast images, if performed, and image",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "MedSolutions MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 20,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Radiology",
+        "Category": "CT",
+        "CPT® Code": null,
+        "CPT® Code Description": "postprocessing",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 21,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology",
+        "Category": "CT CT",
+        "CPT® Code": "72192 72193",
+        "CPT® Code Description": "Computed tomography, pelvis; without contrast material",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 25,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Radiology",
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": "Magnetic resonance (eg, proton) imaging, pelvis; without contrast material(s), followed by contrast material(s) and further",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 27,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology",
+        "Category": "MRA CT",
+        "CPT® Code": "72198 73200",
+        "CPT® Code Description": "Computed tomography, upper extremity; without contrast material",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 29,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology Radiology",
+        "Category": "CT",
+        "CPT® Code": "73202 73206",
+        "CPT® Code Description": "Computed tomography, upper extremity; without contrast material, followed by contrast material(s) and further sections Computed tomographic angiography, upper extremity, with contrast material(s), including noncontrast images, if performed,",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "MedSolutions MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 30,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Radiology",
+        "Category": "MR",
+        "CPT® Code": null,
+        "CPT® Code Description": "and image postprocessing",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 31,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology",
+        "Category": "MR",
+        "CPT® Code": "73218 73219",
+        "CPT® Code Description": "Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; without contrast material(s) Magnetic resonance (eg, proton) imaging, upper extremity, other than joint; with contrast material(s)",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 37,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Radiology",
+        "Category": "CT",
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 40,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology",
+        "Category": "CT",
+        "CPT® Code": "73702 73706",
+        "CPT® Code Description": "Computed tomography, lower extremity; without contrast material, followed by contrast material(s) and further sections Computed tomographic angiography, lower extremity, with contrast material(s), including noncontrast images, if performed,",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 41,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Radiology",
+        "Category": "CT",
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_015",
+      "row_index": 49,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology",
+        "Category": "CT",
+        "CPT® Code": "74150 74160",
+        "CPT® Code Description": "Computed tomography, abdomen; without contrast material Computed tomography, abdomen; with contrast material(s)",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_016",
+      "row_index": 13,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology Radiology",
+        "Category": "MR BMRI",
+        "CPT® Code": "76498 77046",
+        "CPT® Code Description": "Unlisted magnetic resonance procedure (eg, diagnostic, interventional) Magnetic resonance imaging, breast, without contrast material; unilateral",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "MedSolutions MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_016",
+      "row_index": 14,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Radiology",
+        "Category": "BMRI",
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_016",
+      "row_index": 25,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology",
+        "Category": "PET",
+        "CPT® Code": "78491 78492",
+        "CPT® Code Description": "Myocardial imaging, positron emission tomography (PET), perfusion study (including ventricular wall motion[s] and/or ejection fraction[s], when performed); single study, at rest or stress (exercise or pharmacologic) Myocardial imaging, positron emission tomography (PET), perfusion study (including ventricular wall motion[s] and/or ejection",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_016",
+      "row_index": 29,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology Radiology",
+        "Category": "PET PET",
+        "CPT® Code": "78812 78813",
+        "CPT® Code Description": "Positron emission tomography (PET) imaging; whole body",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "MedSolutions MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_016",
+      "row_index": 31,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Radiology",
+        "Category": "PET",
+        "CPT® Code": null,
+        "CPT® Code Description": "Positron emission tomography (PET) with concurrently acquired computed tomography (CT) for attenuation correction and anatomical localization imaging; skull base to mid-thigh",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_016",
+      "row_index": 39,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology Radiology",
+        "Category": "CT",
+        "CPT® Code": "0634T 0635T",
+        "CPT® Code Description": "Computed tomography, breast, including 3D rendering, when performed, unilateral; with contrast material(s) Computed tomography, breast, including 3D rendering, when performed, unilateral; without contrast, followed by contrast",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_017",
+      "row_index": 22,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiology Radiology",
+        "Category": "MRA MRA",
+        "CPT® Code": "C8919 C8920",
+        "CPT® Code Description": "Magnetic resonance angiography without contrast, pelvis Magnetic resonance angiography without contrast followed by with contrast, pelvis",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "MedSolutions MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_017",
+      "row_index": 32,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Radiology",
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": "MedSolutions",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_018",
+      "row_index": 3,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Musculoskeletal Musculoskeletal",
+        "Category": "Spine Surgery Spine Surgery",
+        "CPT® Code": "0657T C2614",
+        "CPT® Code Description": "Anterior lumbar or thoracolumbar vertebral body tethering; 8 or more vertebral segments Probe, percutaneous lumbar discectomy",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_018",
+      "row_index": 7,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Musculoskeletal Musculoskeletal",
+        "Category": "Spine Surgery Spine Surgery",
+        "CPT® Code": "22846 22847",
+        "CPT® Code Description": "Anterior instrumentation; 4 to 7 vertebral segments (List separately in addition to code for primary procedure) Anterior instrumentation; 8 or more vertebral segments (List separately in addition to code for primary procedure)",
+        "Commercial Prior Authorization Required?": "Add On Add On",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_018",
+      "row_index": 15,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Musculoskeletal Musculoskeletal",
+        "Category": "Spine Surgery Spine Surgery",
+        "CPT® Code": "22810 22812",
+        "CPT® Code Description": "Arthrodesis, anterior, for spinal deformity, with or without cast; 8 or more vertebral segments",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_018",
+      "row_index": 20,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": "Spine Surgery",
+        "CPT® Code": null,
+        "CPT® Code Description": "procedure)",
+        "Commercial Prior Authorization Required?": "Add On",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_018",
+      "row_index": 29,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Musculoskeletal Musculoskeletal",
+        "Category": "Spine Surgery Spine Surgery",
+        "CPT® Code": "22802 22800",
+        "CPT® Code Description": "Arthrodesis, posterior, for spinal deformity, with or without cast; 7 to 12 vertebral segments Arthrodesis, posterior, for spinal deformity, with or without cast; up to 6 vertebral segments",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_030",
+      "row_index": 24,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "GI GI",
+        "Category": "EGD EGD",
+        "CPT® Code": "43241 43243",
+        "CPT® Code Description": "Esophagogastroduodenoscopy, flexible, transoral; with insertion of intraluminal tube or catheter Esophagogastroduodenoscopy, flexible, transoral; with injection sclerosis of esophageal/gastric varices",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_030",
+      "row_index": 33,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "GI GI",
+        "Category": "EGD EGD",
+        "CPT® Code": "43255 43266",
+        "CPT® Code Description": "Esophagogastroduodenoscopy, flexible, transoral; with control of bleeding, any method Esophagogastroduodenoscopy, flexible, transoral; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed)",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_030",
+      "row_index": 34,
+      "issue": "blank_code",
+      "row": {
+        "Program": "GI",
+        "Category": "EGD",
+        "CPT® Code": null,
+        "CPT® Code Description": "Esophagogastroduodenoscopy, flexible, transoral; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_030",
+      "row_index": 35,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "GI",
+        "Category": "AVEGD",
+        "CPT® Code": "43270 43497",
+        "CPT® Code Description": "post-dilation and guide wire passage, when performed) Lower esophageal myotomy, transoral (ie, peroral endoscopic myotomy [POEM])",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_035",
+      "row_index": 14,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Vascular Interventions Vascular Interventions",
+        "Category": "Venous Interventions Venous Interventions",
+        "CPT® Code": "37238 37239",
+        "CPT® Code Description": "Transcatheter placement of an intravascular stent(s), open or percutaneous, including radiological supervision and interpretation and including angioplasty within the same vessel, when performed; initial vein Transcatheter placement of an intravascular stent(s), open or percutaneous, including radiological supervision and interpretation and including angioplasty within the same vessel, when performed; each additional vein (List separately in",
+        "Commercial Prior Authorization Required?": "Yes Add On",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_035",
+      "row_index": 23,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Vascular Interventions",
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_035",
+      "row_index": 26,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiation Oncology Radiation Oncology",
+        "Category": "01-Brachy 01-Brachy",
+        "CPT® Code": "0395T 77316",
+        "CPT® Code Description": "performed Brachytherapy isodose plan; simple (calculation[s] made from 1 to 4 sources, or remote afterloading brachytherapy, 1 channel), includes basic dosimetry calculation(s)",
+        "Commercial Prior Authorization Required?": "Yes No - Claim Policies Apply",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_036",
+      "row_index": 4,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiation Oncology Radiation Oncology",
+        "Category": "01-Brachy 01-Brachy",
+        "CPT® Code": "77762 77763",
+        "CPT® Code Description": "Intracavitary radiation source application; intermediate Intracavitary radiation source application; complex",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_036",
+      "row_index": 14,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": "Apply",
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_036",
+      "row_index": 38,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Radiation Oncology Radiation Oncology",
+        "Category": "11-Proton 11-Proton",
+        "CPT® Code": "77523 77525",
+        "CPT® Code Description": "Proton treatment delivery; intermediate Proton treatment delivery; complex",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_039",
+      "row_index": 26,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": "Prosthetics",
+        "CPT® Code": null,
+        "CPT® Code Description": null,
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_042",
+      "row_index": 31,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": "Molecular Lab",
+        "CPT® Code": null,
+        "CPT® Code Description": "for the presence of TB",
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_042",
+      "row_index": 35,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Laboratory Management Laboratory Management",
+        "Category": "Molecular Lab Molecular Lab",
+        "CPT® Code": "0632U 0633U",
+        "CPT® Code Description": "pregnancy to look for differences between the blood types of the mother and the baby Fetal Focus, a lab test done on a sample of the mother's blood during pregnancy to look for certain concerns with the baby's genes",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_042",
+      "row_index": 37,
+      "issue": "blank_code",
+      "row": {
+        "Program": null,
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": "with",
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": "CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_042",
+      "row_index": 40,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Laboratory Management",
+        "Category": null,
+        "CPT® Code": null,
+        "CPT® Code Description": "of cancer after treatment",
+        "Commercial Prior Authorization Required?": null,
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_043",
+      "row_index": 36,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Laboratory Management Laboratory Management",
+        "Category": "Molecular Lab Molecular Lab",
+        "CPT® Code": "81307 81308",
+        "CPT® Code Description": "PALB2 (partner and localizer of BRCA2) (eg, breast and pancreatic cancer) gene analysis; full gene sequence PALB2 (partner and localizer of BRCA2) (eg, breast and pancreatic cancer) gene analysis; known familial variant",
+        "Commercial Prior Authorization Required?": "Yes Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_049",
+      "row_index": 20,
+      "issue": "merged_row_unsplit_ambiguous",
+      "row": {
+        "Program": "Laboratory Management",
+        "Category": "Molecular Lab",
+        "CPT® Code": "0613U 0036U",
+        "CPT® Code Description": "Oncology (urothelial carcinoma), DNA methylation and mutation analysis of 6 biomarkers (TWIST1, OTX1, ONECUT2, FGFR3, HRAS, TERT promoter region), methylation-specific PCR and targeted next-generation sequencing, urine, algorithm reported as a probability index for bladder cancer and upper tract urothelial carcinoma",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": "CareCore National CareCore National",
+        "External Notation": null
+      }
+    },
+    {
+      "table_id": "table_049",
+      "row_index": 21,
+      "issue": "blank_code",
+      "row": {
+        "Program": "Laboratory Management",
+        "Category": "Molecular Lab",
+        "CPT® Code": null,
+        "CPT® Code Description": "Exome (ie, somatic mutations), paired formalin-fixed paraffin-embedded tumor tissue and normal specimen, sequence analyses",
+        "Commercial Prior Authorization Required?": "Yes",
+        "Commercial Case Build Platform": null,
+        "External Notation": null
+      }
+    }
+  ]
+}

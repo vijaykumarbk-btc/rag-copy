@@ -1,0 +1,18 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+Laboratory Management,Molecular Lab,0334U,"Oncology (solid organ), targeted genomic sequence analysis, formalin-fixed paraffin-embedded (FFPE) tumor tissue, DNA
+analysis, 84 or more genes, interrogation for sequence variants, gene copy number amplifications, gene rearrangements,
+microsatellite instability and tumor mutational burden",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0379U,"Targeted genomic sequence analysis panel, solid organ neoplasm, DNA (523 genes) and RNA (55 genes) by next-generation
+sequencing, interrogation for sequence variants, gene copy number amplifications, gene rearrangements, microsatellite
+instability, and tumor mutational burden",Yes,CareCore National,
+Laboratory Management,Molecular Lab,0444U,"Oncology (solid organ neoplasia), targeted genomic sequence analysis panel of 361 genes, interrogation for gene fusions,
+translocations, or other rearrangements, using DNA from formalin-fixed paraffin-embedded (FFPE) tumor tissue, report of
+clinically significant variant(s)",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81445,"Solid organ neoplasm, genomic sequence analysis panel, 5-50 genes, interrogation for sequence variants and copy number
+variants or rearrangements, if performed; DNA analysis or combined DNA and RNA analysis",Yes,CareCore National,
+Laboratory Management,Molecular Lab,81450,"Hematolymphoid neoplasm or disorder, genomic sequence analysis panel, 5-50 genes, interrogation for sequence variants,
+and copy number variants or rearrangements, or isoform expression or mRNA expression levels, if performed; DNA analysis
+or combined DNA and RNA analysis",Yes,CareCore National,

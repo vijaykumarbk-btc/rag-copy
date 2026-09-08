@@ -1,0 +1,77 @@
+﻿Program,Category,CPT® Code,CPT® Code Description,"Commercial Prior
+Authorization
+Required?","Commercial Case Build
+Platform",External Notation
+"Crossover Code for:
+• Primary Program: DME / O&P
+• Companion Program:
+Musculoskeletal (MSK) - Spine
+Surgery
+(See External Notation column for
+more details.)",Spine Surgery,E0748*,"Osteogenesis stimulator, electrical, non-invasive, spinal applications",Yes,CareCore National,"This is a crossover code that can be requested
+under two programs: MSK Spine Surgery and DME
+• If your request is intended to be used in conjuction
+with MSK Spine Surgery, please submit your request
+under the MSK Spine program through the
+CareCoreNational platform.
+• If your request is intended to be DME, please
+submit your request under the DME program through
+the CareCoreNational platform."
+Musculoskeletal,Spine Surgery,22220,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment, cervical",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22226,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; each additional vertebral segment
+(List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22224,"Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22210,"Osteotomy of spine, posterior or posterolateral approach, 1 vertebral segment; cervical",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22216,"Osteotomy of spine, posterior or posterolateral approach, 1 vertebral segment; each additional vertebral segment (List
+separately in addition to primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22214,"Osteotomy of spine, posterior or posterolateral approach, 1 vertebral segment; lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22208,"Osteotomy of spine, posterior or posterolateral approach, 3 columns, 1 vertebral segment (eg, pedicle/vertebral body
+subtraction); each additional vertebral segment (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22207,"Osteotomy of spine, posterior or posterolateral approach, 3 columns, 1 vertebral segment (eg. Pedicle/vertebral body
+subtraction); lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22848,"Pelvic fixation (attachment of caudal end of instrumentation to pelvic bony structures) other than sacrum (List separately in
+addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,0629T,"Percutaneous injection of allogeneic cellular and/or tissue-based product, intervertebral disc, unilateral or bilateral injection,
+with CT guidance, lumbar; first level",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,0628T,"Percutaneous injection of allogeneic cellular and/or tissue-based product, intervertebral disc, unilateral or bilateral injection,
+with fluoroscopic guidance, lumbar; each additional level (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,0627T,"Percutaneous injection of allogeneic cellular and/or tissue-based product, intervertebral disc, unilateral or bilateral injection,
+with fluoroscopic guidance, lumbar; first level",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22526,"Percutaneous intradiscal electrothermal annuloplasty, unilateral or bilateral including fluoroscopic guidance; single level",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22513,"Percutaneous Vertebral Augmenation, Including Cavity Creation(Fracture Reduction And Bone Biopsy Included When
+Performed) Using Mechanical Device (Eg, Kyphoplasty), 1 Vertebral Body, Unilateral Or Bilateral Cannulation, Inclusive Of All
+Imgaing Guidance; Thoracic",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22515,"Percutaneous vertebral augmentation, including cavity creation (fracture reduction and bone biopsy included when
+performed) using mechanical device (eg, kyphoplasty), 1 vertebral body, unilateral or bilateral cannulation, inclusive of all
+imaging guidance; each additional thoracic or lumbar vertebral body (List separately in addition to code for primary
+procedure)",Add‑On,CareCore National,
+Musculoskeletal,Spine Surgery,22514,"Percutaneous Vertebral Augmentation, Including Cavity Creation (Fracture Reduction And Bone Biopsy Included When
+Performed) Using Mechanical Device (Eg, Kyphoplasty), 1 Vertebral Body, Unilateral, Or Bilateral Cannulation, Inclusive Of
+All Imaging Guidance; Lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22510,"Percutaneous Vertebroplasty(Bone Biopsy Included When Performed), 1 Vertebral Body, Unilateral Or Bilateral Injection,
+Inclusive Of All Imaging Guidance; Cervicothoracic",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22512,"Percutaneous vertebroplasty (bone biopsy included when performed), 1 vertebral body, unilateral or bilateral injection,
+inclusive of all imaging guidance; each additional cervicothoracic or lumbosacral vertebral body (List separately in addition to
+code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22511,"Percutaneous Vertebroplasty(Bone Biopsy Included When Performed), 1 Vertebral Body, Unilateral Or Bilateral Injection,
+Inclusive Of All Imaging Guidance; Lumbosacral",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22840,"Posterior non-segmental instrumentation (eg, Harrington rod technique, pedicle fixation across 1 interspace, atlantoaxial
+transarticular screw fixation, sublaminar wiring at C1, facet screw fixation) (List separately in addition to code for primary
+procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22844,"Posterior segmental instrumentation (eg, pedicle fixation, dual rods with multiple hooks and sublaminar wires); 13 or more
+vertebral segments (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22842,"Posterior segmental instrumentation (eg, pedicle fixation, dual rods with multiple hooks and sublaminar wires); 3 to 6 vertebral
+segments (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22843,"Posterior segmental instrumentation (eg, pedicle fixation, dual rods with multiple hooks and sublaminar wires); 7 to 12
+vertebral segments (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22852,Removal of posterior segmental instrumentation,Yes,CareCore National,
+Musculoskeletal,Spine Surgery,0098T,"Revision including replacement of total disc arthroplasty (artificial disc), anterior approach, each additional interspace,
+cervical (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,22861,"Revision Including Replacement Of Total Disc Arthroplasty (Artificial Disc), Anterior Approach, Single Interspace; Cervical",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22862,"Revision Including Replacement Of Total Disc Arthroplasty (Artificial Disc), Anterior Approach, Single Interspace; Lumbar",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,64629,"Thermal destruction of intraosseous basivertebral nerve, including all imaging guidance; each additional vertebral body,
+lumbar or sacral (List separately in addition to code for primary procedure)",Add On,CareCore National,
+Musculoskeletal,Spine Surgery,64628,"Thermal destruction of intraosseous basivertebral nerve, including all imaging guidance; first 2 vertebral bodies, lumbar or
+sacral",Yes,CareCore National,
+Musculoskeletal,Spine Surgery,22857,"Total Disc Arthroplasty (Artificial Disc), Anterior Approach, Including Discectomy To Prepare Interspace (Other Than For
+Decompression), Single Interspace, Lumbar",Yes,CareCore National,
