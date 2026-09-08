@@ -38,6 +38,10 @@ client = OpenAI(
     api_key="ollama"
 )
 
+DEFAULT_TOC_FILE = "/home/vijaykumar/Desktop/project2/hierarchical-processing/ACDF_toc_output_new.json"
+DEFAULT_METADATA_FILE = "/home/vijaykumar/Desktop/project2/hierarchical-processing/acdf_metadata.json"
+DEFAULT_EMBEDDINGS_FILE = "/home/vijaykumar/Desktop/project2/hierarchical-processing/acdf_embeddings.npy"
+DEFAULT_BM25_FILE = "/home/vijaykumar/Desktop/project2/hierarchical-processing/acdf_bm25.pkl"
 
 
 def clean_llm_response(text: str) -> str:
@@ -88,7 +92,7 @@ def route_query_to_multi_doc_toc(query: str, registry, chat_model: str = CHAT_MO
     doc_keys_str = ", ".join(f'"{k}"' for k in registry.documents.keys())
 
     prompt = f"""You are an expert clinical search assistant. Given the following Table of Contents of medical coverage policy documents and a clinical question, identify:
-1. The most relevant document key (one of: {doc_keys_str}). If NONE of the policies cover or are relevant to the question, set "document_key": null and "toc_ids": [].
+1. The most relevant document key (one of: {doc_keys_str})
 2. The specific section ID(s) (e.g. ["S9", "S9.1", "S9.1.1"] or ["S11", "S11.1"])
 
 ### Documents & Table of Contents:
@@ -112,22 +116,9 @@ Output strictly a JSON object with keys "document_key" and "toc_ids":
             temperature=0.0
         )
         content = clean_llm_response(response.choices[0].message.content)
-        data = None
-        try:
-            import json_repair
-            data = json_repair.loads(content)
-        except Exception:
-            pass
-
-        if not isinstance(data, dict):
-            json_match = re.search(r"\{.*?\}", content, re.DOTALL)
-            if json_match:
-                try:
-                    data = json.loads(json_match.group(0))
-                except Exception:
-                    pass
-
-        if isinstance(data, dict):
+        json_match = re.search(r"\{.*\}", content, re.DOTALL)
+        if json_match:
+            data = json.loads(json_match.group(0))
             doc_key = data.get("document_key")
             toc_ids = data.get("toc_ids", [])
             if doc_key in registry.documents:
@@ -136,7 +127,8 @@ Output strictly a JSON object with keys "document_key" and "toc_ids":
     except Exception as e:
         print(f"[Warning] Multi-doc TOC routing LLM call encountered error: {e}")
 
-    return None, []
+    default_key = list(registry.documents.keys())[0] if registry.documents else ""
+    return default_key, []
 
 
 def route_query_to_toc(query: str, flat_toc: list[dict], chat_model: str = CHAT_MODEL) -> list[str]:
@@ -295,7 +287,7 @@ def answer_query(
 
     context_str = "\n\n".join(formatted_context)
 
-    prompt = f"""You are a clinical decision support assistant analyzing medical coverage policies.
+    prompt = f"""You are a clinical decision support assistant analyzing Cigna medical coverage policies.
 Answer the question accurately based ONLY on the provided policy context.
 Cite the relevant section IDs (e.g. [S9.1], [S11]) when citing criteria or requirements.
 
@@ -339,23 +331,9 @@ def run_retrieval_pipeline(query: str, doc_key: str = None):
         chosen_toc_ids = route_query_to_toc(query, toc_data.get("flat_toc", []))
     else:
         selected_doc_key, chosen_toc_ids = route_query_to_multi_doc_toc(query, registry)
-
-    if not selected_doc_key or selected_doc_key not in registry.documents:
-        print(f"[Notice] No matching policy document identified for query: '{query}'")
-        msg = f"No registered medical coverage policy was identified that covers the clinical question: '{query}'."
-        print(msg)
-        return {
-            "query": query,
-            "policy": None,
-            "chosen_toc_ids": [],
-            "top_hits": [],
-            "expanded_context_count": 0,
-            "answer": msg
-        }
-
-    doc_info = registry.get_document(selected_doc_key)
-    with open(doc_info["toc_file"], "r", encoding="utf-8") as f:
-        toc_data = json.load(f)
+        doc_info = registry.get_document(selected_doc_key)
+        with open(doc_info["toc_file"], "r", encoding="utf-8") as f:
+            toc_data = json.load(f)
 
     print(f"Selected Policy : {selected_doc_key} ({doc_info['display_name']})")
     print(f"Selected TOC IDs: {chosen_toc_ids}")
@@ -423,7 +401,7 @@ if __name__ == "__main__":
     if query_parts:
         test_query = " ".join(query_parts)
     else:
-        test_query = input("Enter your clinical query: ")
+        test_query = "What are the indications for lumbar fusion with decompression?"
 
     run_retrieval_pipeline(test_query, doc_key=doc_arg)
 

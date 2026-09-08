@@ -40,6 +40,7 @@ def map_chunks_to_toc(chunks_path: str, toc_path: str, output_path: str = None):
 
     flat_toc = toc_data.get("flat_toc", [])
     heading_to_toc = toc_data.get("heading_path_to_toc_id", {})
+    block_to_toc = toc_data.get("block_id_to_toc_id", {})
 
     # Build TOC node lookup by toc_id for full metadata attachment
     toc_node_by_id = {}
@@ -60,6 +61,7 @@ def map_chunks_to_toc(chunks_path: str, toc_path: str, output_path: str = None):
 
     enriched_chunks = []
     stats = {
+        "block_id_exact": 0,
         "exact_path": 0,
         "normalized_path": 0,
         "ancestor_fallback": 0,
@@ -73,16 +75,23 @@ def map_chunks_to_toc(chunks_path: str, toc_path: str, output_path: str = None):
 
     for idx, chunk in enumerate(chunks):
         sec = chunk.get("section", "").strip()
+        block_id = chunk.get("block_id") or chunk.get("source_block_id")
         match_method = None
         chosen_toc_id = None
 
-        # Strategy 0: Preamble / Header before first section
-        if not sec:
+        # Strategy 0: Direct block_id join (authoritative when available)
+        if block_id and block_id in block_to_toc and block_to_toc[block_id]:
+            chosen_toc_id = block_to_toc[block_id]
+            match_method = "block_id_exact"
+            stats["block_id_exact"] += 1
+
+        # Strategy 1: Preamble / Header before first section
+        elif not sec:
             chosen_toc_id = first_toc_id
             match_method = "preamble_fallback"
             stats["preamble_fallback"] += 1
 
-        # Strategy 1: Exact heading breadcrumb match
+        # Strategy 2: Exact heading breadcrumb match
         elif sec in heading_to_toc and heading_to_toc[sec]:
             chosen_toc_id = heading_to_toc[sec]
             match_method = "exact_path"
