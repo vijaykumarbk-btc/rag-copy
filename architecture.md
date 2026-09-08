@@ -4,7 +4,7 @@
 
 This project implements an end-to-end, multi-document, Table of Contents (TOC)-guided, section-aware Retrieval-Augmented Generation (RAG) system designed for clinical coverage policy analysis and prior authorization verification.
 
-The pipeline accepts natural language clinical queries, cross-references master CPT procedure tables, dynamically routes queries to the relevant medical coverage policy document (e.g., Cigna ACDF, Cigna Lumbar Fusion, and future policies), retrieves exact policy criteria using scoped hybrid search (BM25 + Dense Embeddings with Sibling Condition Completion), and synthesizes a high-precision, validated JSON clinical determination.
+The pipeline accepts natural language clinical queries, cross-references master CPT procedure tables, dynamically routes queries to the relevant medical coverage policy document (e.g., Cigna ACDF, Cigna Lumbar Fusion, and arbitrary future policies), retrieves exact policy criteria using scoped hybrid search (BM25 + Dense Embeddings with Sibling Condition Completion), and synthesizes a high-precision, validated JSON clinical determination.
 
 ---
 
@@ -12,7 +12,7 @@ The pipeline accepts natural language clinical queries, cross-references master 
 
 ```mermaid
 flowchart TD
-    UserQuery["User Natural Language Query\n(e.g., 'Is prior auth required for adjacent segment disease?')"] --> S1
+    UserQuery["User Natural Language Query\n(e.g., 'What are the criteria for lumbar fusion with decompression?')"] --> S1
 
     subgraph Stage1["Stage 1: Master Table Check"]
         S1["CPT Table Lookup\n(cpt_table_lookup.py)"]
@@ -21,16 +21,18 @@ flowchart TD
     end
 
     subgraph Stage2["Stage 2: Multi-Document TOC Routing"]
-        DocRegistry[("DocumentRegistry\nDiscovers available policies")] --> S2
-        S2["TOC-Level Policy & Section Router\n(route_query_to_toc)"]
-        S2 -->|"Outputs target policy key (e.g., Cigna_ACDF)\nand specific section IDs (e.g., ['S12', 'S12.1'])"| S3
+        Manifest[("policies_manifest.json\nAuthoritative Document Registry")] --> DocRegistry
+        DocRegistry["DocumentRegistry\n(document_registry.py)"] --> S2
+        S2["TOC-Level Policy & Section Router\n(route_query_to_tocs)"]
+        S2 -->|"Outputs target policy key (e.g., Cigna_Lumbar_Fusion)\nand specific section IDs (e.g., ['S7', 'S7.1'])"| S3
     end
 
     subgraph Stage3["Stage 3: Scoped Hybrid Retrieval"]
         S3["Scoped Hybrid Search\n(hybrid_search_hierarchical.py)"]
         DenseEmbeddings[("Dense Embeddings (.npy)\nEmbeddingGemma / BGE")] --> S3
         BM25Index[("BM25 Index (.pkl)\nRank-BM25")] --> S3
-        MetadataChunks[("Enriched Chunks Metadata (.json)\nSection paths & TOC mappings")] --> S3
+        MetadataChunks[("Enriched Chunks Metadata (.json)\nClean Block ID + Heading TOC mappings")] --> S3
+        DescendantTree[("Authoritative TOC Tree\n(get_descendant_toc_ids)")] --> S3
         S3 -->|"BM25 + Cosine Scoring strictly within TOC scope\n+ Automatic Sibling Condition Completion"| S4
     end
 
@@ -52,58 +54,84 @@ flowchart TD
 - **Data Source**: `output/table.json`
 - **Mechanism**:
   1. Filters conversational tokens (`prior`, `auth`, `required`, `please`, `give`, `documents`).
-  2. Expands medical abbreviations and surgical concepts (`acdf` $\rightarrow$ `22551`, `adjacent segment` $\rightarrow$ `22551, 22612`, `lumbar fusion` $\rightarrow$ `22612`).
+  2. Expands medical abbreviations and surgical concepts (`acdf` $\rightarrow$ `22551`, `adjacent segment` $\rightarrow$ `22551, 22612`, `lumbar fusion` $\rightarrow$ `22612`, etc.).
   3. Scans master table for matching CPT codes and procedure descriptions.
   4. Returns:
      - `"Prior auth required"`: `"Yes"`, `"No"`, or `"Add On"`
      - `"matched_cpts"`: List of associated CPT codes
      - `"primary_description"`: Matched procedure category
 
-### Stage 2: Multi-Document TOC Policy & Section Routing
+### Stage 2: Dynamic Multi-Document TOC Policy & Section Routing
 - **Files**:
   - `hierarchical-processing/document_registry.py`
-  - `retrieval-hierarchical.py` (`route_query_to_toc`)
+  - `hierarchical-processing/policies_manifest.json`
+  - `retrieval-hierarchical.py` (`route_query_to_tocs`)
 - **Mechanism**:
-  1. `DocumentRegistry` scans and discovers available registered policies:
-     - `Cigna_ACDF` (CMM-601: Anterior Cervical Discectomy and Fusion)
-     - `Cigna_Lumbar_Fusion` (CMM-609: Lumbar Fusion with Decompression)
-     - Future registered policies dynamically
-  2. Generates unified compact TOC trees representing each policy's structure.
+  1. `DocumentRegistry` loads registered documents from `policies_manifest.json` and supports dynamic auto-discovery of newly embedded policies.
+  2. Generates unified compact TOC trees representing each registered policy's structure (e.g., `Cigna_ACDF`, `Cigna_Lumbar_Fusion`).
   3. Uses fast routing LLM to select:
-     - Target document key
-     - Scoped section IDs (`toc_ids`, e.g., `["S9", "S9.1"]` or `["S12", "S12.1"]`)
+     - **Target document key** (`policy`)
+     - **Scoped section IDs** (`toc_ids`, e.g., `["S7"]` for Lumbar Fusion with Decompression or `["S9.1"]` for ACDF Radiculopathy)
+  4. Supports manual CLI override via `--doc <doc_key>` to bypass routing for policy-specific testing.
 
-### Stage 3: Scoped Hybrid Retrieval with Condition Completion
-- **File**: `hybrid_search_hierarchical.py` (`scoped_search`)
+### Stage 3: Scoped Hybrid Retrieval with Strict TOC Filtering
+- **Files**:
+  - `hybrid_search_hierarchical.py` (`scoped_search`)
+  - `hierarchical-processing/retrieve.py`
 - **Mechanism**:
-  1. **Candidate Scope Filter**: Filters search candidates strictly to chunks belonging to the selected `toc_ids` or their subsections.
-  2. **Hybrid Scoring**:
-     $$\text{Hybrid Score} = \alpha \cdot \text{Normalized Dense Score} + (1 - \alpha) \cdot \text{Normalized BM25 Score}$$
-  3. **Sibling Condition Completion**:
-     - When a parent indication section is retrieved (e.g., `S9.1` or `S12.1`), the retriever automatically gathers all sibling condition children (e.g., `S9.1.1 Radiculopathy` and `S9.1.2 Myelopathy`).
-     - Prevents incomplete clinical criteria where only one sub-condition would otherwise be retrieved.
+  1. **Authoritative Descendant Resolution**: Uses `get_descendant_toc_ids()` over the policy's `toc_tree` structure. Routing to a parent node (e.g., `S7`) automatically scopes retrieval to include all nested child conditions (`S7.1`, `S7.1.1` ... `S7.1.6`).
+  2. **Scoped Candidate Filtering**: BM25 and dense vector cosine similarity are calculated strictly within the scoped subset of chunks, eliminating false-positive matches from unrelated policy chapters.
+  3. **Reciprocal Rank Fusion (RRF)**:
+     $$RRF(d) = \frac{1}{60 + \text{rank}_{\text{dense}}(d)} + \frac{1}{60 + \text{rank}_{\text{bm25}}(d)}$$
+  4. **Sibling Condition Completion**: Automatically incorporates sibling clinical sub-conditions to guarantee criteria completeness.
 
 ### Stage 4: Structured Clinical JSON Synthesis & Resilience
 - **File**: `retrieval-hierarchical.py`
 - **Mechanism**:
-  1. Constructs a structured synthesis prompt containing the retrieved context, prior auth status, and explicit derivation instructions.
+  1. Constructs a structured synthesis prompt containing the retrieved context, prior authorization status, and explicit derivation instructions.
   2. **Resilient LLM Execution**:
-     - Groq API with automatic retry on server-side `json_validate_failed` and rate-limit fallbacks.
-     - Fallback to local Ollama server (`http://192.168.0.33:11434/v1` running `medgemma-1.5-4b-it`).
-     - Generation limit set to 6,144 tokens (~6k) to prevent reasoning truncation.
+     - Primary: Groq API (`groq/compound-mini`, `llama-3.1-8b-instant`, `openai/gpt-oss-120b`).
+     - Automatic fallback: Local Ollama endpoint (`medgemma-1.5-4b-it-GGUF:Q8_0`).
+     - Max token budget set to 5,000 tokens to ensure complete generation without truncation.
   3. **Multi-Tier JSON Extraction & Repair**:
      - Strips reasoning/thinking tags (`<think>...</think>`).
      - Slices from the first opening brace `{`.
-     - Cleans trailing commas.
-     - Repairs unclosed braces and quotes via `json_repair`.
+     - Cleans trailing commas and unclosed quotes using `json_repair`.
   4. **Post-Processing & Validation**:
      - Deduplicates hierarchical breadcrumbs in `Source` fields.
-     - Derives concrete clinical documents and non-indications (zero generic placeholders).
+     - Derives concrete clinical documents and non-indications without generic placeholders.
      - Standardizes keys and persists output to `data/results_new/`.
 
 ---
 
-## 4. Repository & File Structure
+## 4. Chunk-to-TOC Mapping Architecture
+
+To ensure the pipeline works across any arbitrary Cigna document, chunk-to-TOC mapping (`chunk_toc_mapper.py`) uses a reliable multi-tier join:
+
+```
+Docling Document JSON
+       │
+       ├── block_id ───────► Block ID Exact Match (Primary Join)
+       │                      └── High confidence, directly from Docling parsing
+       │
+       ├── heading_path ───► Heading Path Hierarchical Match
+       │                      └── Aligns full breadcrumb trail to TOC node
+       │
+       ├── section_title ──► Normalized Title Match
+       │                      └── Matches direct section heading to TOC node
+       │
+       └── (No Match) ─────► Clean Unmapped Fallback
+                              └── Marked with toc_id: null (no arbitrary S1 fallback)
+```
+
+### Key Architectural Fixes:
+1. **Removed Fragile Regex**: Eliminated `re.match(r"^\d+\.\s+", sec)`, which previously misclassified numbered instructions (e.g., `"1. The terms of..."`) as References (`S17`).
+2. **Eliminated `preamble_fallback`**: Chunks without headings (e.g., cover images) are set to `toc_id: null` with `toc_match_method: "unmapped"` rather than arbitrarily polluting `S1`.
+3. **Decoupled Reference Handling**: Reference pruning is handled centrally by TOC generation, avoiding dual-maintenance heuristics.
+
+---
+
+## 5. Repository & Directory Structure
 
 ```
 project2/
@@ -111,121 +139,132 @@ project2/
 ├── retrieval-hierarchical.py              # Main orchestrator for end-to-end multi-doc RAG pipeline
 ├── hybrid_search_hierarchical.py          # Scoped hybrid search engine (BM25 + Dense + Sibling completion)
 ├── evaluate_benchmark.py                  # 10-Question accuracy benchmark suite
-├── requirements.txt                       # Project Python dependencies
+├── requirements.txt                       # Python dependencies
 ├── .env                                   # Environment configuration (LLM keys, Ollama host, models)
-├── .gitignore                             # Git ignore rules for cache, venv, and generated artifacts
+├── .gitignore                             # Git ignore rules
 │
-├── hierarchical-processing/               # Policy preprocessing & retrieval modules
-│   ├── document_registry.py               # Multi-policy registry & compact TOC generator
+├── hierarchical-processing/               # Policy processing, indexing & retrieval modules
+│   ├── policies_manifest.json             # Authoritative registry of policy index files
+│   ├── document_registry.py               # Dynamic document discovery & multi-TOC prompt builder
 │   ├── cpt_table_lookup.py                # Prior Auth master table matcher with stop-word filter
-│   ├── chunk_toc_mapper.py                # Maps raw text chunks to structured TOC hierarchy
-│   ├── build_bm25.py                      # Builds Rank-BM25 indices over policy chunks
-│   ├── embedding_with_section.py          # Generates dense 768-dim embeddings with section metadata
-│   ├── chunking_heirarchical.py           # Hierarchical chunking parser
-│   ├── toc_v2.py                          # TOC parser and hierarchy extractor
+│   ├── chunk_toc_mapper.py                # Clean block-ID and heading-path TOC mapper
+│   ├── build_bm25.py                      # BM25 index builder
+│   ├── embedding_with_section.py          # Dense vector embedding generator
+│   ├── chunking_heirarchical.py           # Hierarchical chunker
+│   ├── toc_v2.py                          # Hierarchical TOC tree extractor
+│   ├── retrieve.py                        # Standalone scoped hybrid retrieval CLI
+│   │
 │   ├── ACDF_toc_output_new.json           # Canonical TOC JSON for Cigna ACDF (CMM-601)
-│   ├── Cigna_ACDF_enriched_chunks.json    # TOC-enriched chunks for ACDF
-│   ├── acdf_metadata.json                 # Chunk metadata (id, section, text, toc_id)
+│   ├── acdf_metadata.json                 # Enriched chunk metadata for ACDF
 │   ├── acdf_embeddings.npy                # Dense vector embeddings matrix (177 x 768)
 │   ├── acdf_bm25.pkl                      # Serialized BM25 index for ACDF
-│   └── md/
-│       ├── Lumbar_toc_output.json         # Canonical TOC JSON for Cigna Lumbar Fusion (CMM-609)
+│   ├── toc_tree.txt                       # Readable TOC outline for ACDF
+│   │
+│   └── md/                                # Lumbar Fusion & future policy artifacts
+│       ├── Lumbar_toc_output.json         # Canonical TOC JSON for Lumbar Fusion (CMM-609)
+│       ├── toc_tree.txt                   # Readable TOC outline for Lumbar Fusion
 │       ├── embeddings/
-│       │   ├── lumbar_fusion_metadata.json# Chunk metadata for Lumbar Fusion
-│       │   └── lumbar_fusion_embeddings.npy# Dense vector embeddings for Lumbar Fusion
+│       │   ├── lumbar_fusion_metadata.json# Enriched chunk metadata for Lumbar Fusion
+│       │   └── lumbar_fusion_embeddings.npy# Dense vector embeddings (302 x 768)
 │       └── bm25/
 │           └── lumbar_fusion_bm25.pkl     # Serialized BM25 index for Lumbar Fusion
 │
 ├── output/
-│   ├── table.json                         # Master Prior Authorization & CPT code lookup table
-│   └── policy_summary_ACDF.json           # Extracted policy metadata
+│   └── table.json                         # Master Prior Authorization & CPT code lookup table
 │
 └── data/
     ├── benchmark_results.json             # Aggregate benchmark scorecard & test logs
     └── results_new/                       # Timestamped structured JSON outputs per query
-        ├── 20260907_..._What_are_the_criteria_for_initial_primary_ACDF.json
-        ├── 20260907_..._is_prior_auth_required_for_adjacent_segment_diseas.json
-        └── ...
 ```
 
 ---
 
-## 5. Standard Output JSON Schema
+## 6. Standard Output JSON Schema
 
-Every pipeline execution generates a strictly structured clinical report matching this schema:
+Every pipeline execution produces a validated clinical determination report matching this schema:
 
 ```json
 {
   "Prior auth required": "Yes",
-  "Policy Name": "Cigna ACDF (CMM-601: Anterior Cervical Discectomy and Fusion)",
+  "Policy Name": "Cigna Lumbar Fusion (CMM-609: Lumbar Fusion with Decompression)",
   "Referred Sections": [
-    "CMM-601.4: Initial Primary Anterior Cervical Discectomy and Fusion (ACDF)",
-    "Radiculopathy",
-    "Myelopathy"
+    "CMM-609.4: Lumbar Fusion (Arthrodesis) with Decompression",
+    "Actual Instability",
+    "Anticipated Iatrogenic Instability"
   ],
   "Medical necessity indications": [
     {
-      "Guideline Category": "Radiculopathy",
+      "Guideline Category": "Actual Instability",
       "Required findings": [
-        "Clinically significant daily pain causing functional impairment",
-        "Unremitting radicular pain to shoulder girdle / upper extremity",
-        "Objective exam findings (dermatomal sensory deficit, motor weakness, reflex changes, Spurling maneuver)",
-        "Failure of >= 2 conservative measures for >= 6 weeks (prescription analgesics/NSAIDs, PT/OT exercise, epidural steroid injections)",
-        "Plain cervical X-rays with flexion/extension views and MRI/CT confirming concordant neural compression",
-        "Nicotine-free status verified by objective cotinine testing (or never-smoker) and absence of unmanaged behavioral disorders"
+        "Candidate for lumbar decompression or lumbar corpectomy per CMM-608.",
+        "Imaging demonstrates degenerative spondylolisthesis with dynamic instability >3 mm or Grade II+ spondylolisthesis.",
+        "Documented nicotine-free status (abstinent >= 6 weeks with normal cotinine test)."
       ],
-      "Source": "CMM-601.4: Initial Primary ACDF > Radiculopathy (TOC: S9.1.1)"
+      "Source": "CMM-609.4: Lumbar Fusion (Arthrodesis) with Decompression > Actual Instability"
     }
   ],
   "Non-Indications": [
-    "Procedure performed for chronic non-specific neck or arm pain without concordant radiculopathy/myelopathy",
-    "Surgery prior to completing the required conservative therapy duration (>= 6 weeks)",
+    "Procedure performed for chronic non-specific back pain without objective instability",
     "Active tobacco/nicotine use without objective cotinine-verified cessation"
   ],
   "Important criteria & exceptions": [
-    "Objective cotinine test must be performed within 6 weeks prior to planned surgery",
-    "Multi-level ACDF requires each level to independently satisfy indication criteria"
+    "If instability is identified intra-operatively, pre-operative imaging criteria are not required."
   ],
   "Documentation required": [
-    "Operative reports from prior cervical decompression or fusion surgery",
-    "Plain cervical spine X-rays with flexion and extension lateral views",
-    "Cervical MRI or CT radiology reports confirming neural structure compression",
-    "Physical therapy notes and prescription records documenting >= 6 weeks of conservative therapy",
-    "Objective laboratory cotinine test results (serum, urine, or saliva)",
-    "Behavioral health evaluation note confirming absence of unmanaged psychiatric disorders"
+    "Flexion-extension lumbar radiographs showing dynamic translational difference > 3mm",
+    "Pre-operative laboratory cotinine test results confirming nicotine-free status"
   ]
 }
 ```
 
 ---
 
-## 6. System Quality & Benchmark Metrics
+## 7. How to Add a New Cigna Policy Document
 
-The system was evaluated using the automated 10-query benchmark suite ([`evaluate_benchmark.py`](file:///home/vijaykumar/Desktop/project2/evaluate_benchmark.py)):
+The pipeline is completely generic. To onboard any new Cigna coverage policy PDF:
 
-| Evaluation Dimension | Accuracy Score | Verification Result |
-| :--- | :---: | :--- |
-| **JSON Schema Conformance** | **100.0%** | All 7 required top-level keys validated |
-| **Prior Auth Matching** | **100.0%** | 10/10 matched to `output/table.json` |
-| **Policy Document Routing** | **100.0%** | 10/10 routed to correct policy (ACDF vs. Lumbar) |
-| **Non-Indications Quality** | **100.0%** | Concrete clinical contraindications derived (0 placeholders) |
-| **Documentation Quality** | **100.0%** | Specific required clinical records extracted (0 placeholders) |
-| **Breadcrumb Cleanliness** | **100.0%** | 0 repeated hierarchy paths |
-| **Indications Completeness** | **90.0%** | Complete findings per condition (Q10 was an exclusion query) |
-| **Overall Accuracy** | **98.6%** | ⭐ **Production Grade** |
+1. **Parse with Docling**: Convert the PDF to hierarchical markdown and JSON format:
+   ```bash
+   python3 docling/docling_pdf.py --input extra_pdfs/New_Policy.pdf --output output/New_Policy_hierarchical.json
+   ```
+2. **Generate TOC Tree**:
+   ```bash
+   python3 hierarchical-processing/toc_v2.py output/New_Policy_hierarchical.json
+   ```
+3. **Chunk and Map TOC**:
+   ```bash
+   python3 hierarchical-processing/chunking_heirarchical.py
+   python3 hierarchical-processing/chunk_toc_mapper.py
+   ```
+4. **Build Embeddings & BM25**:
+   ```bash
+   python3 hierarchical-processing/embedding_with_section.py
+   python3 hierarchical-processing/build_bm25.py
+   ```
+5. **Register in Manifest**: Add an entry to [`hierarchical-processing/policies_manifest.json`](file:///home/vijaykumar/Desktop/project2/hierarchical-processing/policies_manifest.json):
+   ```json
+   {
+     "doc_key": "Cigna_New_Policy",
+     "display_name": "Cigna New Policy (CMM-XXX)",
+     "toc_file": "new_policy_toc_output.json",
+     "metadata_file": "new_policy_metadata.json",
+     "embeddings_file": "new_policy_embeddings.npy",
+     "bm25_file": "new_policy_bm25.pkl"
+   }
+   ```
+   *The router will immediately begin routing relevant queries to the new policy without any code modifications.*
 
 ---
 
-## 7. Execution Commands Quick Reference
+## 8. Execution Commands Quick Reference
 
 ```bash
-# 1. Single Query (CLI Argument)
-venv/bin/python retrieval-hierarchical.py "is prior auth required for adjacent segment disease if yes give the documents"
+# 1. Multi-Document End-to-End Pipeline (Automatic Routing)
+./venv/bin/python retrieval-hierarchical.py "What are the clinical coverage criteria for Lumbar Fusion with Decompression?"
 
-# 2. Interactive Prompt Mode
-venv/bin/python retrieval-hierarchical.py
+# 2. Scoped Retrieval CLI Targeting a Specific Policy
+./venv/bin/python hierarchical-processing/retrieve.py --doc Cigna_Lumbar_Fusion "What are the indications for decompression?"
 
 # 3. Accuracy Benchmark Evaluation Suite
-venv/bin/python evaluate_benchmark.py
+./venv/bin/python evaluate_benchmark.py
 ```
-
