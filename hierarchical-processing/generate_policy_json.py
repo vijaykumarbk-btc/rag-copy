@@ -2,7 +2,7 @@
 generate_policy_json.py
 -----------------------
 Generates a structured clinical prior-authorization policy summary JSON
-matching the exact schema:
+matching the exact requested schema:
 {
   "Prior auth required": "Yes",
   "Policy Name": "...",
@@ -22,165 +22,229 @@ matching the exact schema:
 Integrates:
   - output/table.json (CPT Prior Auth lookup via cpt_table_lookup.py)
   - hierarchical-processing policy chunks & metadata
+  - LLM synthesis with strict JSON formatting
 """
 
 import os
 import sys
 import json
 import re
-from pathlib import Path
+from openai import OpenAI
+from dotenv import load_dotenv
+
 from cpt_table_lookup import CPTTableLookup
 
+load_dotenv()
 
+OLLAMA_HOST = os.getenv("OLLAMA_HOST")
+CHAT_MODEL = os.getenv("CHAT_MODEL", "hf.co/unsloth/medgemma-1.5-4b-it-GGUF:Q8_0")
+
+if not OLLAMA_HOST:
+    raise ValueError("OLLAMA_HOST is not set in .env")
+
+client = OpenAI(
+    base_url=OLLAMA_HOST,
+    api_key="ollama"
+)
+
+DEFAULT_METADATA_FILE = "/home/vijaykumar/Desktop/project2/hierarchical-processing/acdf_metadata.json"
 DEFAULT_TABLE_JSON = "/home/vijaykumar/Desktop/project2/output/table.json"
+DEFAULT_OUTPUT_JSON = "/home/vijaykumar/Desktop/project2/output/policy_summary_ACDF.json"
 
 
-def extract_radiculopathy_findings(chunk_text: str) -> list[str]:
-    """Extract clean, structured findings for Radiculopathy from policy text."""
-    findings = [
-        "Daily significant pain with clinically significant functional impairment (e.g., inability to perform household chores, prolonged standing, etc.)",
-        "Unremitting radicular pain to shoulder girdle and/or upper extremity resulting in disability",
-        "One or more objective physical exam findings (dermatomal sensory deficit, motor deficit such as biceps or triceps weakness, reflex changes, shoulder abduction relief sign, or nerve root tension sign like Spurling's maneuver) OR unremitting radicular pain without concordant objective exam findings",
-        "Failure of at least TWO conservative measures for ≥6 weeks (unless contraindicated): prescription-strength analgesics/steroids/gabapentinoids/NSAIDs, provider-directed exercise program, or epidural steroid injection / selective nerve root block at the same level",
-        "Plain cervical spine radiographs (x-rays) including flexion and extension lateral views",
-        "MRI and/or CT demonstrating neural structure compression at the requested operative level concordant with symptoms and physical exam, caused by herniated disc(s), synovial/arachnoid cyst, central/lateral/foraminal stenosis, or osteophytes",
-        "Absence of unmanaged significant mental and/or behavioral health disorders (e.g., major depressive disorder, chronic pain syndrome, secondary gain, opioid and alcohol use disorders)",
-        "Documented nicotine-free status (individual is a never-smoker or has abstained from smoking, smokeless tobacco, and nicotine replacement therapy for ≥6 weeks verified by objective cotinine testing)"
-    ]
-    return findings
+def clean_llm_json(raw_text: str) -> dict:
+    """Extract and parse clean JSON from model output, handling thought tags and fences."""
+    # Strip <thought> or <think> tags
+    text = re.sub(r"<(?:thought|think)>.*?</(?:thought|think)>", "", raw_text, flags=re.DOTALL)
+    # Strip leading thought text
+    text = re.sub(r"^thought\s+.*?(?=(?:```|\{))", "", text, flags=re.DOTALL | re.IGNORECASE)
+
+    # Search for JSON object {...}
+    match = re.search(r"\{.*\}", text, flags=re.DOTALL)
+    if not match:
+        raise ValueError(f"Could not find JSON object in LLM output: {raw_text[:300]}")
+
+    json_str = match.group(0)
+    return json.loads(json_str)
 
 
-def extract_myelopathy_findings(chunk_text: str) -> list[str]:
-    """Extract clean, structured findings for Myelopathy from policy text."""
-    findings = [
-        "One or more myelopathic symptoms: upper or lower extremity weakness, numbness, or pain; fine motor dysfunction (buttoning, handwriting, clumsiness of hands); gait disturbance; new-onset bowel or bladder dysfunction; or frequent falls",
-        "One or more objective physical exam findings: grip and release test, ataxic gait, hyperreflexia, Hoffmann sign, Babinski sign, tandem walking test demonstrating ataxia, inverted brachial radial reflex, increased muscle tone or spasticity, clonus, or myelopathic hand",
-        "MRI and/or CT demonstrating findings concordant with symptoms and physical exam, caused by cervical spinal cord compression or cervical spinal stenosis",
-        "Absence of unmanaged significant mental and/or behavioral health disorders (e.g., major depressive disorder, chronic pain syndrome, secondary gain, opioid and alcohol use disorders)",
-        "Documented nicotine-free status (individual is a never-smoker or has refrained from smoking, smokeless tobacco, and nicotine replacement therapy for ≥6 weeks verified by objective cotinine testing)"
-    ]
-    return findings
+def collect_policy_context(metadata: list[dict], section_keywords: list[str]) -> str:
+    """Collect text from chunks whose heading path or section matches keywords."""
+    matching_chunks = []
+    seen = set()
 
+    for item in metadata:
+        sec = item.get("section", "")
+        heading_path = " ".join(item.get("heading_path", []))
+        combined = f"{sec} {heading_path}".lower()
 
-def extract_non_indications(chunk_texts: list[str]) -> list[str]:
-    """Extract non-indications and not-medically-necessary criteria."""
-    return [
-        "Anterior cervical discectomy/corpectomy and fusion performed without meeting criteria in the General Guidelines and the applicable procedure-specific criteria",
-        "Performed for chronic non-specific neck or arm pain of unknown etiology",
-        "Performed for cervical degenerative disc disease without radiculopathy or myelopathy",
-        "Anterior cervical discectomy/corpectomy performed alone without cervical fusion",
-        "Anterior endoscopic cervical disc/nerve root decompression (e.g., anterior endoscopic decompression with microforaminotomy / Jho procedure, or Cervical Deuk Laser Disc Repair) - considered experimental, investigational, or unproven (EIU)"
-    ]
+        if any(kw.lower() in combined for kw in section_keywords):
+            cid = item.get("chunk_id")
+            if cid not in seen:
+                seen.add(cid)
+                matching_chunks.append(item)
 
+    # Sort in reading order
+    matching_chunks.sort(key=lambda x: x.get("chunk_index", 0))
 
-def extract_criteria_and_exceptions(chunk_texts: list[str]) -> list[str]:
-    """Extract important qualifying criteria, durations, and exceptions."""
-    return [
-        "Nicotine-free status must be verified by objective cotinine testing methods (serum, urinary, or saliva) within normal laboratory range for patients with prior tobacco history",
-        "Presence of unmanaged significant mental and/or behavioral health disorders (major depression, chronic pain syndrome, secondary gain, substance use disorders) excludes medical necessity",
-        "For radiculopathy, trial of at least two conservative measures must each span a minimum of six (6) weeks duration unless medically contraindicated",
-        "Plain radiographs of the cervical spine must include flexion/extension lateral views to assess dynamic instability"
-    ]
+    formatted = []
+    for c in matching_chunks:
+        toc_id = c.get("toc_id", "")
+        sec_title = c.get("section", "")
+        text = c.get("text", "")
+        formatted.append(f"### Section [{toc_id}] {sec_title}\n{text}")
 
-
-def extract_documentation_required(cpt_code: str, policy_id: str = "CMM-601.4") -> list[str]:
-    """Extract required clinical documentation checklist."""
-    return [
-        "Detailed clinical notes documenting symptoms, duration, daily pain intensity, and specific functional impairment",
-        "Comprehensive physical examination record documenting specific neurological and physical exam findings (e.g., reflex changes, motor/sensory deficits, Spurling maneuver, or myelopathic signs)",
-        "Diagnostic imaging reports (MRI and/or CT) confirming neural structure or spinal cord compression at the requested surgical level",
-        "Plain cervical spine radiograph reports, explicitly including flexion and extension views",
-        "Documentation of prior conservative management spanning at least 6 weeks (physical therapy, prescription medications, or spinal injections)",
-        "Objective laboratory cotinine test verification (serum, urine, or saliva) documenting nicotine-free status for at least 6 weeks prior to surgery",
-        "Clinical mental and behavioral health clearance confirming absence of unmanaged disorders",
-        f"Prior authorization request form specifying CPT code {cpt_code} and referencing the {policy_id} medical coverage guideline"
-    ]
+    return "\n\n".join(formatted)
 
 
 def generate_policy_summary(
-    cpt_code: str,
-    policy_name: str,
-    metadata_path: str,
-    output_path: str,
-    table_json_path: str = DEFAULT_TABLE_JSON
+    cpt_code: str = "22551",
+    policy_name: str = "Cigna_ACDF_hierarchical",
+    metadata_path: str = DEFAULT_METADATA_FILE,
+    table_json_path: str = DEFAULT_TABLE_JSON,
+    output_path: str = DEFAULT_OUTPUT_JSON
 ) -> dict:
     print("=" * 70)
     print(f"Generating Policy Summary for CPT: {cpt_code} | Policy: {policy_name}")
     print("=" * 70)
 
-    # Step 1: Look up Prior Auth status from Master table.json
+    # Step 1: Query Master Table for Prior Auth Status
     print(f"\n[Step 1] Querying master table ({table_json_path}) for CPT {cpt_code}...")
     cpt_lookup = CPTTableLookup(table_json_path)
     prior_auth_status = cpt_lookup.is_prior_auth_required([cpt_code])
     cpt_records = cpt_lookup.lookup_cpt(cpt_code)
-    cpt_desc = cpt_records[0].get("CPT® Code Description") if cpt_records else "Procedure"
 
+    cpt_desc = cpt_records[0].get("CPT® Code Description") if cpt_records else "Spinal procedure"
     print(f"Prior Authorization Required: {prior_auth_status}")
     print(f"CPT Description: {cpt_desc}")
 
-    # Step 2: Load chunks from metadata
+    # Step 2: Load Metadata Chunks
     print(f"\n[Step 2] Loading policy chunks from {metadata_path}...")
     with open(metadata_path, "r", encoding="utf-8") as f:
         metadata = json.load(f)
 
-    # Extract sections from metadata
-    sections = []
-    indications = []
-    for item in metadata:
-        sec = item.get("section", "")
-        if sec and sec not in sections:
-            sections.append(sec)
-        if "criteria" in sec.lower() or "indication" in sec.lower():
-            txt = item.get("text", "").strip()
-            if txt:
-                indications.append({
-                    "Guideline Category": sec,
-                    "Required findings": [line.strip() for line in txt.split("\n") if line.strip().startswith(("*", "-", "•"))] or [txt[:200]],
-                    "Source": f"{sec} (TOC: {item.get('toc_id', '')})"
-                })
+    # Extract relevant policy sections: Initial Primary ACDF (CMM-601.4), Non-Indications (CMM-601.9), General Guidelines (CMM-601.1)
+    relevant_keywords = [
+        "CMM-601.4",
+        "Radiculopathy",
+        "Myelopathy",
+        "CMM-601.9",
+        "Non-Indications",
+        "CMM-601.1",
+        "General Guidelines",
+        "Health Equity",
+        "Instructions for use"
+    ]
+    context_text = collect_policy_context(metadata, relevant_keywords)
+    print(f"Collected context length: {len(context_text)} characters.")
 
-    # Step 3: Assemble structured JSON
-    print("\n[Step 3] Assembling structured policy JSON...")
-    policy_summary = {
-        "Prior auth required": prior_auth_status,
-        "Policy Name": policy_name,
-        "Referred Sections": sections[:5],
-        "Medical necessity indications": indications[:5],
-        "Non-Indications": [],
-        "Important criteria & exceptions": [],
-        "Documentation required": [
-            f"Prior authorization request for CPT {cpt_code}",
-            "Comprehensive clinical examination notes and diagnostic imaging reports",
-            "Documentation of prior treatment or conservative management"
-        ]
-    }
+    # Step 3: Prompt LLM for Exact JSON Schema Synthesis
+    print(f"\n[Step 3] Synthesizing policy criteria using {CHAT_MODEL}...")
 
-    # Step 4: Write to file
+    prompt = f"""You are an expert clinical medical policy analyst.
+Based ONLY on the provided Medical Coverage Policy Context below, extract and generate a structured JSON document for procedure "{cpt_desc}" (CPT {cpt_code}).
+
+### Medical Coverage Policy Context:
+{context_text}
+
+### Target Output JSON Schema:
+Generate a JSON object with PRECISELY these top-level keys:
+{{
+  "Prior auth required": "{prior_auth_status}",
+  "Policy Name": "{policy_name}",
+  "Referred Sections": [
+    "CMM-601.4: Initial Primary Anterior Cervical Discectomy and Fusion (ACDF)",
+    "Radiculopathy",
+    "Myelopathy"
+  ],
+  "Medical necessity indications": [
+    {{
+      "Guideline Category": "Radiculopathy",
+      "Required findings": [
+        "<Detailed bullet of symptom requirements, pain level, and functional impairment>",
+        "<Unremitting radicular pain requirements>",
+        "<Objective exam findings (dermatomal, motor, reflex, Spurling sign, etc.)>",
+        "<Conservative therapy failure requirements (e.g. >=2 measures: medications >=6 weeks, PT/exercise >=6 weeks, injections)>",
+        "<Plain cervical x-rays requirements with flexion/extension views>",
+        "<MRI/CT imaging requirements showing neural compression>",
+        "<Absence of unmanaged mental/behavioral health disorders>",
+        "<Documented nicotine-free status requirements>"
+      ],
+      "Source": "CMM-601.4 Radiculopathy criteria (see policy text under 'Radiculopathy')."
+    }},
+    {{
+      "Guideline Category": "Myelopathy",
+      "Required findings": [
+        "<Myelopathic symptoms requirements (weakness, numbness, fine motor, gait, bowel/bladder)>",
+        "<Objective exam findings (grip-release, ataxic gait, hyperreflexia, Hoffmann, Babinski, clonus)>",
+        "<MRI/CT imaging findings showing cord compression>",
+        "<Absence of unmanaged mental/behavioral health disorders>",
+        "<Documented nicotine-free status requirements>"
+      ],
+      "Source": "CMM-601.4 Myelopathy criteria (see policy text under 'Myelopathy')."
+    }}
+  ],
+  "Non-Indications": [
+    "<Bullet 1 from CMM-601.9: Not medically necessary / absence of required findings>",
+    "<Bullet 2: Lack of objective imaging correlating with clinical findings>",
+    "<Bullet 3: Failure to document adequate trial of conservative therapy>",
+    "<Bullet 4: Presence of unmanaged major mental/behavioral health disorder>",
+    "<Bullet 5: Current tobacco use without documented cessation >=6 weeks>"
+  ],
+  "Important criteria & exceptions": [
+    "<Nicotine-free objective cotinine verification requirements and exceptions>",
+    "<Mental/behavioral health disorder exclusions>",
+    "<Conservative management trial duration and requirements>",
+    "<Radiograph views specifications>"
+  ],
+  "Documentation required": [
+    "<Clinical notes describing symptoms, functional limitations, duration>",
+    "<Physical examination documentation with objective findings>",
+    "<MRI/CT report confirming neural/cord compression>",
+    "<Plain cervical spine x-ray reports with flexion/extension views>",
+    "<Records of conservative management trial (meds, PT, injections)>",
+    "<Cotinine test verification>",
+    "<Mental health assessment verification>",
+    "<Prior authorization request referencing CPT {cpt_code}>"
+  ]
+}}
+
+### Instructions:
+- Output ONLY valid, parseable JSON matching the exact structure above.
+- Populate each array with comprehensive, factual details from the policy context.
+- Do not output any preamble or extra text outside the JSON object.
+"""
+
+    response = client.chat.completions.create(
+        model=CHAT_MODEL,
+        messages=[
+            {"role": "system", "content": "You are a clinical decision support system that outputs strictly valid JSON documents."},
+            {"role": "user", "content": prompt}
+        ],
+        temperature=0.0
+    )
+
+    raw_output = response.choices[0].message.content
+    policy_json = clean_llm_json(raw_output)
+
+    # Ensure Prior auth required and Policy Name match verified values
+    policy_json["Prior auth required"] = prior_auth_status
+    policy_json["Policy Name"] = policy_name
+
+    # Step 4: Save & Validate Output
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(policy_summary, f, indent=2, ensure_ascii=False)
+        json.dump(policy_json, f, indent=2, ensure_ascii=False)
 
-    print(f"\n[Step 4] Saved structured summary to: {output_path}")
-    print("\nJSON Content Preview:")
-    print(json.dumps(policy_summary, indent=2))
+    print(f"\n[Step 4] Successfully generated and saved policy summary to: {output_path}")
+    print("\nGenerated JSON Preview:")
+    print(json.dumps(policy_json, indent=2)[:1000] + "\n...")
 
-    return policy_summary
+    return policy_json
 
 
 if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser(description="Generate structured policy summary JSON.")
-    parser.add_argument("--cpt", required=True, help="CPT code (e.g. 22551)")
-    parser.add_argument("--policy", required=True, help="Policy name / key")
-    parser.add_argument("--metadata", required=True, help="Path to metadata JSON")
-    parser.add_argument("--output", required=True, help="Path to output JSON")
-    parser.add_argument("--table", default=DEFAULT_TABLE_JSON, help="Path to master table.json")
-    args = parser.parse_args()
+    cpt = sys.argv[1] if len(sys.argv) > 1 else "22551"
+    pol = sys.argv[2] if len(sys.argv) > 2 else "Cigna_ACDF_hierarchical"
+    generate_policy_summary(cpt_code=cpt, policy_name=pol)
 
-    generate_policy_summary(
-        cpt_code=args.cpt,
-        policy_name=args.policy,
-        metadata_path=args.metadata,
-        output_path=args.output,
-        table_json_path=args.table
-    )
