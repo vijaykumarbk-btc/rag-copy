@@ -33,6 +33,12 @@ client = OpenAI(
 print(f"Ollama server: {OLLAMA_HOST}")
 print(f"Embedding model: {MODEL}")
 
+# ---------------------------------------------------------------------------
+# DEFAULT CONFIGURATION
+# ---------------------------------------------------------------------------
+DEFAULT_ENRICHED_CHUNKS_FILE = "/home/vijaykumar/Desktop/project2/Lumbar/toc-mapped-chunks/Cigna_Lumbar_Fusion_enriched_chunks.json"
+DEFAULT_EMBEDDINGS_FILE = "/home/vijaykumar/Desktop/project2/Lumbar/embeddings/lumbar_fusion_embeddings.npy"
+DEFAULT_METADATA_FILE = "/home/vijaykumar/Desktop/project2/Lumbar/embeddings/lumbar_fusion_metadata.json"
 
 
 def build_embedding_text(chunk: dict) -> str:
@@ -125,9 +131,9 @@ if __name__ == "__main__":
     parser.add_argument("--metadata", dest="meta_flag", help="Path to output metadata JSON")
     args = parser.parse_args()
 
-    c_in = args.chunks_flag or args.chunks
-    e_out = args.emb_flag or args.embeddings
-    m_out = args.meta_flag or args.metadata
+    c_in = args.chunks_flag or args.chunks or DEFAULT_ENRICHED_CHUNKS_FILE
+    e_out = args.emb_flag or args.embeddings or DEFAULT_EMBEDDINGS_FILE
+    m_out = args.meta_flag or args.metadata or DEFAULT_METADATA_FILE
 
     if not c_in or not e_out or not m_out:
         print("Usage: python embedding_with_section.py <enriched_chunks.json> <output_embeddings.npy> <output_metadata.json>")

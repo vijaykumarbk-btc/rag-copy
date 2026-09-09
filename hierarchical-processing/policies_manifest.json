@@ -11,10 +11,10 @@
     {
       "doc_key": "Cigna_Lumbar_Fusion",
       "display_name": "Cigna Lumbar Fusion (CMM-609: Lumbar Fusion with Decompression)",
-      "toc_file": "md/Lumbar_toc_output.json",
-      "metadata_file": "md/embeddings/lumbar_fusion_metadata.json",
-      "embeddings_file": "md/embeddings/lumbar_fusion_embeddings.npy",
-      "bm25_file": "md/bm25/lumbar_fusion_bm25.pkl"
+      "toc_file": "../Lumbar/TOC/Lumbar_toc_output.json",
+      "metadata_file": "../Lumbar/embeddings/lumbar_fusion_metadata.json",
+      "embeddings_file": "../Lumbar/embeddings/lumbar_fusion_embeddings.npy",
+      "bm25_file": "../Lumbar/bm25/lumbar_fusion_bm25.pkl"
     }
   ]
 }

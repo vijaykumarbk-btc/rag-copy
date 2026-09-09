@@ -13,10 +13,22 @@ import pickle
 import re
 from rank_bm25 import BM25Okapi
 
+# ---------------------------------------------------------------------------
+# DEFAULT CONFIGURATION
+# ---------------------------------------------------------------------------
+DEFAULT_METADATA_PATH = "/home/vijaykumar/Desktop/project2/Lumbar/embeddings/lumbar_fusion_metadata.json"
+DEFAULT_BM25_OUTPUT_PATH = "/home/vijaykumar/Desktop/project2/Lumbar/bm25/lumbar_fusion_bm25.pkl"
+
+
+def tokenize(text: str) -> list[str]:
+    """Tokenize query and documents for BM25 indexing."""
+    text = text.lower()
+    return re.findall(r"[a-z0-9]+(?:[-.][a-z0-9]+)*", text)
+
 
 def build_bm25_index(
-    metadata_path: str,
-    bm25_output_path: str
+    metadata_path: str = DEFAULT_METADATA_PATH,
+    bm25_output_path: str = DEFAULT_BM25_OUTPUT_PATH
 ):
     with open(metadata_path, "r", encoding="utf-8") as f:
         metadata = json.load(f)
@@ -50,8 +62,8 @@ if __name__ == "__main__":
     parser.add_argument("--output", dest="out_flag", help="Path to output *_bm25.pkl")
     args = parser.parse_args()
 
-    m_in = args.meta_flag or args.metadata
-    b_out = args.out_flag or args.output
+    m_in = args.meta_flag or args.metadata or DEFAULT_METADATA_PATH
+    b_out = args.out_flag or args.output or DEFAULT_BM25_OUTPUT_PATH
 
     if not m_in or not b_out:
         print("Usage: python build_bm25.py <metadata_file> <output_bm25_file>")

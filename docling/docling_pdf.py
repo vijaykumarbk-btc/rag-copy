@@ -35,9 +35,9 @@ from hierarchical.postprocessor import ResultPostprocessor
 # ============================================================
 
 # Change this for each PDF you want to test.
-PDF_PATH = Path("extra_pdfs/Cigna_Radiation_Oncology.cleaned.pdf").resolve()
+PDF_PATH = Path("/home/vijaykumar/Desktop/project2/Lumbar/Cigna_Lumbar_Fusion.pdf").resolve()
 
-OUTPUT_DIR = Path("output")
+OUTPUT_DIR = Path("/home/vijaykumar/Desktop/project2/Lumbar/output-lumbar")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 MD_PATH = OUTPUT_DIR / f"{PDF_PATH.stem}_hierarchical.md"

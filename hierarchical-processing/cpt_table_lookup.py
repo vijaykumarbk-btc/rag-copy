@@ -64,7 +64,7 @@ class CPTTableLookup:
                     seen.add(code)
                     matches.append(r)
 
-        if matches:
+        if explicit_codes:
             return matches[:max_results]
 
         # 2. Extract meaningful search terms from query without conversational filler words
@@ -73,13 +73,18 @@ class CPTTableLookup:
             "due", "when", "criteria", "indications", "medical", "necessity", "considered",
             "with", "does", "require", "required", "prior", "auth", "authorization", "how",
             "all", "each", "by", "from", "at", "if", "yes", "give", "documents", "document",
-            "please", "tell", "about", "show", "can", "you", "would", "like", "know"
+            "please", "tell", "about", "show", "can", "you", "would", "like", "know",
+            "under", "status", "policy"
         }
         raw_words = re.findall(r"[a-z0-9]+", query.lower())
-        meaningful_keywords = [w for w in raw_words if w not in STOP_WORDS and len(w) >= 3]
+        # Filter stop words, short words, and 1-4 digit numbers (e.g. policy/chapter IDs) while preserving 5-digit CPT codes
+        meaningful_keywords = [
+            w for w in raw_words 
+            if w not in STOP_WORDS and len(w) >= 3 and not (w.isdigit() and len(w) < 5)
+        ]
 
         if not meaningful_keywords:
-            meaningful_keywords = [w for w in raw_words if len(w) >= 3]
+            meaningful_keywords = [w for w in raw_words if len(w) >= 3 and not (w.isdigit() and len(w) < 5)]
 
         scored_rows = []
         for r in self._rows:
@@ -88,9 +93,9 @@ class CPTTableLookup:
 
             score = 0
             for kw in meaningful_keywords:
-                if kw in code:
+                if len(kw) == 5 and kw in code:
                     score += 5  # Strong match on CPT code
-                elif kw in desc:
+                elif len(kw) >= 3 and kw in desc:
                     score += 2  # Match on description
 
             if score > 0:
@@ -121,7 +126,7 @@ class CPTTableLookup:
         matches = self.search_by_query(query)
         if not matches:
             return {
-                "prior_auth_required": "Yes",
+                "prior_auth_required": "No",
                 "matched_cpts": [],
                 "primary_description": ""
             }
@@ -132,11 +137,20 @@ class CPTTableLookup:
             raw_code = str(m.get("CPT® Code", "")).strip()
             codes = re.findall(r"[0-9A-Za-z]+", raw_code)
             cpts.extend(codes)
-            st = m.get("Commercial Prior Authorization Required?", "")
-            if st:
-                statuses.append(st.strip())
+            st = m.get("Commercial Prior Authorization Required?")
+            if st is not None and str(st).strip():
+                statuses.append(str(st).strip())
+            else:
+                statuses.append("No")
 
-        pa = "Yes" if any("yes" in s.lower() for s in statuses) else (statuses[0] if statuses else "Yes")
+        if any("yes" in s.lower() for s in statuses):
+            pa = "Yes"
+        elif any("add on" in s.lower() for s in statuses):
+            pa = "Add On"
+        elif any("no" in s.lower() or "none" in s.lower() for s in statuses):
+            pa = "No"
+        else:
+            pa = statuses[0] if statuses else "No"
         first_desc = matches[0].get("CPT® Code Description", "")
 
         return {

@@ -4,8 +4,8 @@ import json
 
 
 
-INPUT_DIR = "/home/vijaykumar/Desktop/project2/hierarchical-processing/md/"
-OUTPUT_DIR = "/home/vijaykumar/Desktop/project2/hierarchical-processing/md/chunks/"
+INPUT_DIR = "/home/vijaykumar/Desktop/project2/Lumbar/output-lumbar/"
+OUTPUT_DIR = "/home/vijaykumar/Desktop/project2/Lumbar/chunks/"
 
 MAX_CHARS = 6000
 

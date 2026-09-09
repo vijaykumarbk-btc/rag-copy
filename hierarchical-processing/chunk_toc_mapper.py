@@ -20,7 +20,12 @@ import json
 import re
 from pathlib import Path
 
-
+# ---------------------------------------------------------------------------
+# DEFAULT CONFIGURATION
+# ---------------------------------------------------------------------------
+DEFAULT_CHUNKS_PATH = "/home/vijaykumar/Desktop/project2/Lumbar/chunks/Cigna_Lumbar_Fusion_hierarchical_chunks.json"
+DEFAULT_TOC_PATH = "/home/vijaykumar/Desktop/project2/Lumbar/TOC/Lumbar_toc_output.json"
+DEFAULT_OUTPUT_PATH = "/home/vijaykumar/Desktop/project2/Lumbar/toc-mapped-chunks/Cigna_Lumbar_Fusion_enriched_chunks.json"
 
 
 def normalize_string(s: str) -> str:
@@ -204,9 +209,9 @@ if __name__ == "__main__":
     parser.add_argument("--output", dest="out_flag", help="Path to output enriched chunks JSON")
     args = parser.parse_args()
 
-    chunks_in = args.chunks_flag or args.chunks
-    toc_in = args.toc_flag or args.toc
-    out_file = args.out_flag or args.output
+    chunks_in = args.chunks_flag or args.chunks or DEFAULT_CHUNKS_PATH
+    toc_in = args.toc_flag or args.toc or DEFAULT_TOC_PATH
+    out_file = args.out_flag or args.output or DEFAULT_OUTPUT_PATH
 
     if not chunks_in or not toc_in or not out_file:
         print("Usage: python chunk_toc_mapper.py <chunks.json> <toc.json> <output_enriched_chunks.json>")

@@ -47,9 +47,9 @@ from copy import deepcopy
 # ---------------------------------------------------------------------------
 # DEFAULT CONFIGURATION
 # ---------------------------------------------------------------------------
-DEFAULT_INPUT_JSON_PATH = None
-DEFAULT_OUTPUT_JSON_PATH = None
-DEFAULT_OUTPUT_TREE_TXT_PATH = None
+DEFAULT_INPUT_JSON_PATH = "/home/vijaykumar/Desktop/project2/Lumbar/output-lumbar/Cigna_Lumbar_Fusion_hierarchical.json"
+DEFAULT_OUTPUT_JSON_PATH = "/home/vijaykumar/Desktop/project2/Lumbar/TOC/Lumbar_toc_output.json"
+DEFAULT_OUTPUT_TREE_TXT_PATH = "/home/vijaykumar/Desktop/project2/Lumbar/TOC/TOC_tree.txt"
 
 # The text-tree RENDER only (the JSON always keeps the full, untouched
 # hierarchy) -- tune these to cut down on noise:
@@ -341,9 +341,9 @@ def main():
     parser.add_argument("--tree", dest="tree_flag", help="Path to output text tree (optional)")
     args = parser.parse_args()
 
-    input_path = args.in_flag or args.input
-    output_path = args.out_flag or args.output
-    tree_txt_path = args.tree_flag or args.tree
+    input_path = args.in_flag or args.input or DEFAULT_INPUT_JSON_PATH
+    output_path = args.out_flag or args.output or DEFAULT_OUTPUT_JSON_PATH
+    tree_txt_path = args.tree_flag or args.tree or DEFAULT_OUTPUT_TREE_TXT_PATH
 
     if not input_path or not output_path:
         print("Usage: python toc_v2.py <input_hierarchical.json> <output_toc.json> [output_tree.txt]")
