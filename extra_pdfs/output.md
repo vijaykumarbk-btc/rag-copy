@@ -1,4 +1,4 @@
-Instructions for use
+## Instructions for use
 
 The following coverage policy applies to health benefit plans administered by Cigna. Coverage policies are intended to provide guidance in interpreting certain standard Cigna benefit plans and are used by medical directors and other health care professionals in making medical necessity and other coverage determinations. Please note the terms of a customer's particular benefit plan document may differ significantly from the standard benefit plans upon which these coverage policies are based. For example, a customer's benefit plan document may contain a specific exclusion related to a topic addressed in a coverage policy.
 
